@@ -1,0 +1,16 @@
+[
+  {
+    "run_id": "run_20260905T175504Z",
+    "file": "/home/user/34g/research/inbox/kolana/discovery.json",
+    "input": 7,
+    "invalid": 0,
+    "new": 7,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 9,
+    "agent_notes": "Session-wide WebSearch budget was exhausted after only 9 of the planned ~25 queries could run (a shared cap across this environment, not this unit's own budget) — Tier 1 fully completed, Tier 2/3 mostly blocked, so coverage of social/video/image channels is thin and should be re-run separately. Best find: a Hindi Wikipedia user page (सदस्य:धतरवाल जाट) giving an origin story naming Kolana's founder (Kolaram, son of Kaluram) and dating its vacating to 1981-1986, alongside 11 sibling villages founded by the same lineage (Nathudada) — several of those sibling names (Kheenyera, Soolera, Bheekhnera,",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-05T17:55:05.066838+00:00"
+  }
+]

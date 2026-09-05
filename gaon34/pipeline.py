@@ -66,7 +66,11 @@ def ingest(slug: str, inbox_file: Path, run_id: str | None = None) -> dict:
     payload = json.loads(Path(inbox_file).read_text(encoding="utf-8"))
     raws = payload["sources"] if isinstance(payload, dict) else payload
     existing = load_sources(slug)
-    stats = {"run_id": run_id, "file": str(inbox_file), "input": len(raws), "invalid": 0, "new": 0, "updated": 0, "errors": []}
+    stats = {"run_id": run_id, "file": str(inbox_file), "input": len(raws), "invalid": 0, "new": 0, "updated": 0, "errors": [],
+             "searches_used": payload.get("searches_used") if isinstance(payload, dict) else None,
+             "agent_notes": (payload.get("agent_notes") or "")[:600] if isinstance(payload, dict) else ""}
+    if isinstance(stats["searches_used"], int) and stats["searches_used"] < 12:
+        stats["flag"] = "budget_starved: rerun recommended"
     for raw in raws:
         errs = validate_agent_record(raw)
         if errs:

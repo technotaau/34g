@@ -1,0 +1,206 @@
+{
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_clan_156818c6": {
+    "id": "clm_founding_clan_156818c6",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal Jat (धतरवाल जाट)",
+    "statement_hi": "कोलाणा गांव धतरवाल जाट वंश द्वारा बसाया गया था।",
+    "statement_en": "Kolana village was founded by the Dhatarwal Jat lineage.",
+    "sources": [
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "नाथुजी के... कोलाराम ने बड़े होकर कोलाणा गांव बसाया।"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founder_name_86ca4b9d": {
+    "id": "clm_founder_name_86ca4b9d",
+    "claim_key": "founder_name",
+    "value": "Kolaram, son of Kaluram (कोलाराम, कालूराम के पुत्र)",
+    "statement_hi": "कोलाराम ने कोलाणा गांव बसाया, संभवतः गांव का नाम भी उन्हीं के नाम पर पड़ा।",
+    "statement_en": "Kolaram, son of Kaluram, founded Kolana village; the village's name likely derives from his.",
+    "sources": [
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "कालूराम जी के पुत्र कोलाराम ने बड़े होकर कोलाणा गांव बसाया।"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_b223afcb": {
+    "id": "clm_acquisition_year_b223afcb",
+    "claim_key": "acquisition_year",
+    "value": "1981-1986",
+    "statement_hi": "कोलाणा सहित शेष गांव 1981 से 1986 के बीच महाजन फायरिंग रेंज के लिए खाली करवाए गए।",
+    "statement_en": "Kolana, among other villages, was vacated between 1981 and 1986 for the Mahajan Firing Range.",
+    "sources": [
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए"
+      }
+    ],
+    "competing": [
+      "1984-85 (land acquisition for all 34 villages, cited generally)"
+    ]
+  },
+  "clm_acquisition_year_388960d8": {
+    "id": "clm_acquisition_year_388960d8",
+    "claim_key": "acquisition_year",
+    "value": "1984-85 (land acquisition for all 34 villages, cited generally)",
+    "statement_hi": "महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिग्रहित की गई।",
+    "statement_en": "Land for all 34 villages, including this cluster, was acquired around 1984-85 for the Mahajan Firing Range.",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_c37d5179aabc",
+        "text": "34 गांवों के किसानों को... सिंचित क्षेत्र में जमीनों का आवंटन किया"
+      }
+    ],
+    "competing": [
+      "1981-1986"
+    ]
+  },
+  "clm_resettlement_compensation_fd2706e5": {
+    "id": "clm_resettlement_compensation_fd2706e5",
+    "claim_key": "resettlement_compensation",
+    "value": "irrigated land allotment + cash compensation",
+    "statement_hi": "विस्थापित किसानों को केंद्र सरकार ने मुआवजा और सिंचित क्षेत्र में जमीन आवंटित की।",
+    "statement_en": "Displaced farmers were given compensation and irrigated land allotments by the central government.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "अच्छा-खासा मुआवजा व सिंचित क्षेत्र में जमीनों का आवंटन किया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_abandoned_structures_survive_bff99084": {
+    "id": "clm_abandoned_structures_survive_bff99084",
+    "claim_key": "abandoned_structures_survive",
+    "value": "houses, ponds, temples remain as ruins",
+    "statement_hi": "विस्थापित गांवों के मकान, तालाब और मंदिर आज भी खंडहर रूप में मौजूद हैं।",
+    "statement_en": "Houses, ponds and temples of the displaced villages still stand today, now in ruins.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं।"
+      }
+    ],
+    "competing": []
+  },
+  "clm_administrative_location_0126b6cc": {
+    "id": "clm_administrative_location_0126b6cc",
+    "claim_key": "administrative_location",
+    "value": "Lunkaransar tehsil, Bikaner district, Rajasthan",
+    "statement_hi": "कोलाणा गांव लूणकरणसर तहसील, बीकानेर जिले, राजस्थान में स्थित है।",
+    "statement_en": "Kolana village is located in Lunkaransar tehsil, Bikaner district, Rajasthan.",
+    "sources": [
+      "src_e6b1f74cf8ca"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_e6b1f74cf8ca",
+        "text": "kolana village under lunkaransar, , bikaner, of rajasthan state"
+      }
+    ],
+    "competing": []
+  },
+  "clm_not_in_2011_census_cd893451": {
+    "id": "clm_not_in_2011_census_cd893451",
+    "claim_key": "not_in_2011_census",
+    "value": "Kolana absent from current Lunkaransar tehsil village list",
+    "statement_hi": "2011 की जनगणना सूची में लूणकरणसर तहसील के अंतर्गत कोलाणा नाम का कोई गांव नहीं मिलता, जो इसके विस्थापन/निर्जनीकरण के अनुरूप है।",
+    "statement_en": "Kolana does not appear in the 2011 Census list of Lunkaransar tehsil villages, consistent with its having been vacated for the firing range.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "Kolana does not appear in this comprehensive census data"
+      }
+    ],
+    "competing": []
+  }
+}
