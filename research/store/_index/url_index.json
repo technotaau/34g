@@ -78,7 +78,8 @@
   "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट": {
     "villages": [
       "34-gaon",
-      "ajeetwana"
+      "ajeetwana",
+      "nathor"
     ],
     "first_seen": "2026-09-05"
   },
@@ -190,7 +191,8 @@
     "villages": [
       "thoiya",
       "manera",
-      "ajeetwana"
+      "ajeetwana",
+      "nathor"
     ],
     "first_seen": "2026-09-05"
   },
@@ -244,7 +246,8 @@
   "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan": {
     "villages": [
       "meusar",
-      "khanisar"
+      "khanisar",
+      "nathor"
     ],
     "first_seen": "2026-09-05"
   },
@@ -377,6 +380,24 @@
   "https://connectrajasthan.com/bikaner-tehsil-towns-villages": {
     "villages": [
       "bhanabasti"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html": {
+    "villages": [
+      "nathor"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar": {
+    "villages": [
+      "nathor"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://census2011.co.in/data/village/69628-nathoosar-rajasthan.html": {
+    "villages": [
+      "nathor"
     ],
     "first_seen": "2026-09-05"
   }

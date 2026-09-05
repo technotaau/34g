@@ -1,0 +1,772 @@
+{
+  "village": {
+    "slug": "nathor",
+    "name_en": "Nathor",
+    "name_hi": "नाथौर",
+    "status": "acquired",
+    "notes": "Principal Dhatarwal village named after Nathu Dhatarwal.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-05",
+  "counts": {
+    "sources_total": 6,
+    "accepted": 3,
+    "context": 2,
+    "review": 1,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 9
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_253a66da3f7f",
+        "src_dc27e87bee50",
+        "src_c0a313e97116",
+        "src_cf1e6f8e9b09",
+        "src_e9f089cdc38c"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_253a66da3f7f",
+        "src_c0a313e97116",
+        "src_cf1e6f8e9b09",
+        "src_e9f089cdc38c"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_dc27e87bee50",
+        "src_c0a313e97116",
+        "src_e9f089cdc38c"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_dc27e87bee50"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_dc27e87bee50"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_dc27e87bee50"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_dc27e87bee50"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": []
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_cf1e6f8e9b09"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": []
+    }
+  },
+  "entities": {
+    "people": [
+      "Nathu Dhatarwal",
+      "Nathu Dhatarwal / नाथु धतरवाल"
+    ],
+    "places": [
+      "Ajeetwana",
+      "Bhanabasti",
+      "Bhikhnera",
+      "Bikaner",
+      "Karnisar",
+      "Khinyana",
+      "Kolana",
+      "Krishnanagar",
+      "Kumbhana",
+      "Ladera",
+      "Lunkaransar",
+      "Mahajan",
+      "Manera",
+      "Meghana",
+      "Nathoosar",
+      "Nathor",
+      "Nathusar",
+      "Nokha",
+      "Samartha",
+      "Sansardesar",
+      "Sulera",
+      "Takhatpura",
+      "Thoiya",
+      "Varani"
+    ],
+    "events": [
+      "Mahajan Field Firing Range acquisition 1981-1986"
+    ],
+    "organizations": [
+      "Dhatarwal clan",
+      "Dhatarwal clan / धतरवाल गोत्र"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_founding_clan_5ea204d4",
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal / धतरवाल",
+        "statement_hi": "नाथौर (नाथुवास) की स्थापना धतरवाल गोत्र के नाथु धतरवाल ने की थी।",
+        "statement_en": "Nathor (Nathuwas) was founded by Nathu Dhatarwal of the Dhatarwal clan.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "सबसे प्रमुख नाथुवास था जो नाथुजी के नाम पर बसाया गया"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_founding_person_950793a2",
+        "claim_key": "founding_person",
+        "value": "Nathu Dhatarwal / नाथु धतरवाल",
+        "statement_hi": "गांव का नाम नाथुजी धतरवाल के नाम पर पड़ा।",
+        "statement_en": "The village is named after Nathu Ji Dhatarwal.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "नाथुवास ... जो नाथुजी के नाम पर बसाया गया"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_sister_villages_founded_93384580",
+        "claim_key": "sister_villages_founded",
+        "value": "Khinyana, Sulera, Bhikhnera, Kumbhana, Kolana, Ajeetwana, Ladera, Bhanabasti, Meghana, Manera, Thoiya, Nathor",
+        "statement_hi": "नाथु धतरवाल द्वारा बसाए गए बारह गांवों में नाथौर (नाथुवास) एक था।",
+        "statement_en": "Nathor (Nathuwas) was one of twelve villages founded by Nathu Dhatarwal.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "12. नाथौर (नाथुवास)"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_acquisition_period_b223afcb",
+        "claim_key": "acquisition_period",
+        "value": "1981-1986",
+        "statement_hi": "नौ गांव 1981 से 1986 के बीच महाजन फील्ड फायरिंग रेंज हेतु खाली करवाए गए, जिनमें नाथौर भी था।",
+        "statement_en": "Nine of the twelve villages, including Nathor, were vacated between 1981 and 1986 for the Mahajan Field Firing Range.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_6738d7a5",
+        "claim_key": "resettlement_sites",
+        "value": "Sansardesar, Karnisar, Krishnanagar, Takhatpura, Samartha, Varani, Nathusar Vas (canal-irrigated areas)",
+        "statement_hi": "विस्थापितों को संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी तथा नाथुसर वास सहित नहर क्षेत्रों में बसाया गया।",
+        "statement_en": "Displaced families were resettled in Sansardesar, Karnisar, Krishnanagar, Takhatpura, Samartha, Varani and Nathusar Vas, among other canal-irrigated areas.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी तथा नाथुसर वास"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_villages_retained_outside_range_5546d90b",
+        "claim_key": "villages_retained_outside_range",
+        "value": "Sulera, Bhikhnera, Meghana",
+        "statement_hi": "सुलेरा, भिखनेरा और मेघाणा तीन गांव फायरिंग रेंज से बाहर रह गए और खाली नहीं करवाए गए।",
+        "statement_en": "Three of the twelve villages -- Sulera, Bhikhnera and Meghana -- remained outside the firing range and were not vacated.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "तीन गांव (सुलेरा, भिखनेरा, मेघाणा) रेंज से बाहर रह गए"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_temple_name_c43e3ae9",
+        "claim_key": "temple_name",
+        "value": "Nathu Dada (नाथूदादा) shrine at Khinyana",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के भीतर खीयाणा गांव के निकट नाथूदादा का एक भव्य मंदिर धतरवाल समुदाय द्वारा बनवाया गया है।",
+        "statement_en": "A grand temple to Nathu Dada was built by the Dhatarwal community near Khinyana village inside the Mahajan Field Firing Range.",
+        "sources": [
+          "src_7da0e757971f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_7da0e757971f",
+            "text": "There is a shrine dedicated to नाथूदादा in the महाजन फील्ड फायरिंग रेंज near the village खीयाणा ... with a grand temple constructed by the धतरवाल community"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_administrative_location_0126b6cc",
+        "claim_key": "administrative_location",
+        "value": "Lunkaransar tehsil, Bikaner district, Rajasthan",
+        "statement_hi": "नाथौर गांव प्रशासनिक रूप से लूणकरणसर तहसील, बीकानेर जिले में स्थित है।",
+        "statement_en": "Nathor village is administratively located in Lunkaransar tehsil, Bikaner district.",
+        "sources": [
+          "src_253a66da3f7f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_253a66da3f7f",
+            "text": "nathor Google map shows the location of nathor village under lunkaransar"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_current_administrative_status_60c9dee3",
+        "claim_key": "current_administrative_status",
+        "value": "absent from active village list",
+        "statement_hi": "वर्तमान लूणकरणसर तहसील की सक्रिय गांव-सूची में नाथौर का नाम नहीं है, जो इसके अधिग्रहण/निर्जन होने के अनुरूप है।",
+        "statement_en": "Nathor does not appear in the current active village list for Lunkaransar tehsil, consistent with it having been acquired/depopulated.",
+        "sources": [
+          "src_c0a313e97116"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_c0a313e97116",
+            "text": "Nathor does not appear among them"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_c0a313e97116",
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/",
+      "title": "Villages in Lunkaransar Tehsil, Bikaner",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Nathor",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Nathusar']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_e9f089cdc38c",
+      "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
+      "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in",
+      "flags": [
+        "low_relevance"
+      ],
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ]
+    }
+  ],
+  "sources": {
+    "src_7da0e757971f": {
+      "url": "https://www.jatland.com/home/Dhatarwal",
+      "title": "Dhatarwal - धतरवाल (Jatland Wiki)",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 85,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Nathor",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Kheenyera', 'Dhatarwal']"
+        ],
+        "matched_names": [
+          "Nathor",
+          "नाथौर",
+          "Nathuwas",
+          "नाथुवास"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "Kheenyera",
+          "Dhatarwal",
+          "धतरवाल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki, Dhatarwal page",
+      "is_primary": true
+    },
+    "src_253a66da3f7f": {
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html",
+      "title": "Nathor Village | Map of Nathor Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
+      "platform": "mapsofindia.com",
+      "source_type": "website",
+      "media_type": "map",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Nathor",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+        ],
+        "matched_names": [
+          "Nathor",
+          "नाथौर"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "MapsofIndia.com",
+      "is_primary": false
+    },
+    "src_dc27e87bee50": {
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "सदस्य:धतरवाल जाट",
+      "platform": "wikipedia",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 73,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 6,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.65,
+        "reasons": [
+          "primary name match: Nathor",
+          "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Bheekhnera']",
+          "negative/other-place signals: ['Nathusar']"
+        ],
+        "matched_names": [
+          "Nathor",
+          "नाथौर",
+          "Nathuwas",
+          "नाथुवास"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "महाजन फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "बीकानेर",
+          "Bheekhnera",
+          "भिखनेरा",
+          "Soolera",
+          "सुलेरा",
+          "Meghana",
+          "मेघाणा",
+          "Kheenyera",
+          "खींयेरा",
+          "Dhatarwal",
+          "धतरवाल",
+          "जाट"
+        ],
+        "negative_hits": [
+          "Nathusar"
+        ]
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "land_agriculture",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Hindi Wikipedia userspace draft, सदस्य:धतरवाल जाट",
+      "is_primary": false
+    },
+    "src_c0a313e97116": {
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/",
+      "title": "Villages in Lunkaransar Tehsil, Bikaner",
+      "platform": "mapsofindia.com",
+      "source_type": "website",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 65,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Nathor",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Nathusar']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Nathor"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Nathusar"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "MapsofIndia.com",
+      "is_primary": false
+    },
+    "src_cf1e6f8e9b09": {
+      "url": "https://www.census2011.co.in/data/village/69628-nathoosar-rajasthan.html",
+      "title": "Nathoosar Village Population - Nokha - Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 43,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in",
+      "is_primary": false
+    },
+    "src_e9f089cdc38c": {
+      "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
+      "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in",
+      "platform": "census_mirror",
+      "source_type": "website",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 38,
+        "band": "low",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "VillageInfo.in",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_dc27e87bee50",
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "जाट धतरवाल इतिहास (Hindi Wikipedia user page)"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260905T175726Z",
+      "file": "/home/user/34g/research/inbox/nathor/discovery.json",
+      "input": 6,
+      "invalid": 0,
+      "new": 6,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 7,
+      "agent_notes": "Session-wide WebSearch budget (200 calls, shared across parallel research units) was exhausted after only 5 of my searches succeeded, so Tier 2/3 queries (news, video, social, image, book, gov) could not be run and this unit's coverage is web/wiki-only. The single richest source is a Hindi Wikipedia userspace draft (सदस्य:धतरवाल_जाट) that reproduces Dhatarwal clan history verbatim from jatland.com/home/Dhatarwal, which itself returned HTTP 403 to every fetch attempt (direct, translate-proxy, Bing/DuckDuckGo proxy, Google cache) -- treat the two as one underlying source. No Wikipedia mainspace ",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 6,
+      "at": "2026-09-05T17:57:26.828628+00:00"
+    }
+  ]
+}

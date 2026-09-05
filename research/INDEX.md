@@ -17,4 +17,4 @@
 | अजीतवाणा (Ajeetwana) | 9 | 5 | 0 | 10 | 9 | [report](store/ajeetwana/report.md) |
 | लाडेरा (Ladera) | 7 | 0 | 7 | 8 | 8 | [report](store/ladera/report.md) |
 | भानाबस्ती (Bhanabasti) | 7 | 1 | 2 | 10 | 10 | [report](store/bhanabasti/report.md) |
-| नाथौर (Nathor) | – | – | – | – | – | _अभी शोध नहीं_ |
+| नाथौर (Nathor) | 6 | 3 | 1 | 9 | 9 | [report](store/nathor/report.md) |

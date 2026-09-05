@@ -1,0 +1,16 @@
+[
+  {
+    "run_id": "run_20260905T175726Z",
+    "file": "/home/user/34g/research/inbox/nathor/discovery.json",
+    "input": 6,
+    "invalid": 0,
+    "new": 6,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 7,
+    "agent_notes": "Session-wide WebSearch budget (200 calls, shared across parallel research units) was exhausted after only 5 of my searches succeeded, so Tier 2/3 queries (news, video, social, image, book, gov) could not be run and this unit's coverage is web/wiki-only. The single richest source is a Hindi Wikipedia userspace draft (सदस्य:धतरवाल_जाट) that reproduces Dhatarwal clan history verbatim from jatland.com/home/Dhatarwal, which itself returned HTTP 403 to every fetch attempt (direct, translate-proxy, Bing/DuckDuckGo proxy, Google cache) -- treat the two as one underlying source. No Wikipedia mainspace ",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 6,
+    "at": "2026-09-05T17:57:26.828628+00:00"
+  }
+]
