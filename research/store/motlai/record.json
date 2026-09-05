@@ -1,0 +1,590 @@
+{
+  "village": {
+    "slug": "motlai",
+    "name_en": "Motlai",
+    "name_hi": "मोटलाई",
+    "status": "acquired",
+    "notes": "Named in Patrika 2022.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-05",
+  "counts": {
+    "sources_total": 6,
+    "accepted": 1,
+    "context": 4,
+    "review": 0,
+    "rejected": 1,
+    "duplicates": 0,
+    "claims": 5
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_4fb2da84d5a4",
+        "src_a6f66da51d72",
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_4fb2da84d5a4",
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_4fb2da84d5a4",
+        "src_a6f66da51d72",
+        "src_c37d5179aabc",
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": []
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": []
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc",
+        "src_a6f66da51d72"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": [
+        "src_4fb2da84d5a4"
+      ]
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_4fb2da84d5a4",
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc",
+        "src_a6f66da51d72"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Bajranglal Lakhotiya",
+      "Rajuram Sharma"
+    ],
+    "places": [
+      "Bhojasar",
+      "Dantor",
+      "Duder",
+      "Khajuwala",
+      "Khaniser",
+      "Kumbhana",
+      "Lunkaransar",
+      "Mahajan",
+      "Manera",
+      "Mohangarh",
+      "Nachna",
+      "Pugal",
+      "Thoiya"
+    ],
+    "events": [
+      "1984-85 Ministry of Defence land acquisition",
+      "1984-85 land acquisition by Ministry of Defence for Mahajan Field Firing Range",
+      "Ajeya Warrior (India-UK)",
+      "India-Russia and India-Oman joint exercises",
+      "Shakti (India-France)",
+      "Yudh Abhyas (India-US)"
+    ],
+    "organizations": [
+      "Census of India",
+      "Indian Army",
+      "Ministry of Defence",
+      "Parliament of India"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "मोटलाई सहित महाजन क्षेत्र के 34 गांवों की भूमि रक्षा मंत्रालय द्वारा 1984-85 में अधिग्रहित की गई।",
+        "statement_en": "Motlai, along with 34 villages of the Mahajan area, had its land acquired by the Ministry of Defence in 1984-85.",
+        "sources": [
+          "src_a5150b8b1d53",
+          "src_c37d5179aabc"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "34 गांवों को...1984-85 में...अधिग्रहण"
+          },
+          {
+            "source": "src_c37d5179aabc",
+            "text": "34 गांवों को...1984-85 में...अधिग्रहित"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_displacement_count_79e91c50",
+        "claim_key": "displacement_count",
+        "value": "34 villages including Motlai",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए कुल 34 गांव विस्थापित हुए जिनमें मोटलाई भी शामिल है।",
+        "statement_en": "A total of 34 villages, including Motlai, were displaced for the Mahajan Field Firing Range.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_e3face96",
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित परिवारों को खाजूवाला, डांटोर, पूगल, मोहनगढ़ और नाचना में कृषि भूमि देकर बसाया गया।",
+        "statement_en": "Displaced families were resettled with agricultural land in Khajuwala, Dantor, Pugal, Mohangarh and Nachna.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना में कृषि भूमि"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_total_area_acquired_792fcc92",
+        "claim_key": "total_area_acquired",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज लगभग 3.37 लाख एकड़ भूमि में फैली है।",
+        "statement_en": "The Mahajan Field Firing Range spans approximately 3.37 lakh acres.",
+        "sources": [
+          "src_a6f66da51d72"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a6f66da51d72",
+            "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_census_2011_listed_7cb6efb9",
+        "claim_key": "census_2011_listed",
+        "value": "false",
+        "statement_hi": "मोटलाई गांव 2011 की जनगणना में लूणकरणसर तहसील की सूची में सूचीबद्ध नहीं है।",
+        "statement_en": "Motlai village is not listed among Lunkaransar tehsil's villages in the 2011 census mirror.",
+        "sources": [
+          "src_b27fa43b7bd0"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_b27fa43b7bd0",
+            "text": "no village matching Motlai, Motlayi, or Motla appears in the provided document"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [],
+  "sources": {
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 92,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 11,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 6,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Motlai",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']"
+        ],
+        "matched_names": [
+          "Motlai",
+          "मोटलाई"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "बीकानेर",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "land_agriculture",
+        "military_range",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+      "is_primary": true
+    },
+    "src_4fb2da84d5a4": {
+      "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+      "title": "Mahajan Field Firing Range in Rajasthan",
+      "platform": "sansad",
+      "source_type": "government",
+      "media_type": "document",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 55,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 14,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 0,
+          "recency": 0,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "legal",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Parliament of India e-Library (sansad.in)",
+      "is_primary": true
+    },
+    "src_c37d5179aabc": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2018-11-05",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+      "is_primary": false
+    },
+    "src_a6f66da51d72": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+      "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-08-02",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+      "is_primary": false
+    },
+    "src_b27fa43b7bd0": {
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 43,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Mahajan Field Firing Range",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in (mirrors Census of India 2011 data)",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_a5150b8b1d53",
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260905T175408Z",
+      "file": "/home/user/34g/research/inbox/motlai/discovery.json",
+      "input": 6,
+      "invalid": 0,
+      "new": 6,
+      "updated": 0,
+      "errors": [],
+      "total_after": 6,
+      "at": "2026-09-05T17:54:08.332472+00:00"
+    }
+  ]
+}

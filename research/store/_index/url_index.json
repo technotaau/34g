@@ -2,7 +2,8 @@
   "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4": {
     "villages": [
       "34-gaon",
-      "bhojrasar"
+      "bhojrasar",
+      "motlai"
     ],
     "first_seen": "2026-09-05"
   },
@@ -12,7 +13,8 @@
       "bhojrasar",
       "kumbhana",
       "duder",
-      "thoiya"
+      "thoiya",
+      "motlai"
     ],
     "first_seen": "2026-09-05"
   },
@@ -21,7 +23,8 @@
       "34-gaon",
       "bhojrasar",
       "duder",
-      "thoiya"
+      "thoiya",
+      "motlai"
     ],
     "first_seen": "2026-09-05"
   },
@@ -84,7 +87,8 @@
       "bhojrasar",
       "kumbhana",
       "duder",
-      "thoiya"
+      "thoiya",
+      "motlai"
     ],
     "first_seen": "2026-09-05"
   },
@@ -164,6 +168,18 @@
   "https://wikimapia.org/10793488/Thoiya": {
     "villages": [
       "thoiya"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html": {
+    "villages": [
+      "motlai"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt": {
+    "villages": [
+      "motlai"
     ],
     "first_seen": "2026-09-05"
   }
