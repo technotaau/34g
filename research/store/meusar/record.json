@@ -1,0 +1,1100 @@
+{
+  "village": {
+    "slug": "meusar",
+    "name_en": "Meusar",
+    "name_hi": "मेऊसर",
+    "status": "acquired",
+    "notes": "Lok Sabha 1987: 192 persons paid for residential plots. Hindi spelling unverified.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-05",
+  "counts": {
+    "sources_total": 10,
+    "accepted": 0,
+    "context": 7,
+    "review": 3,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 10
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_3f9653572870",
+        "src_87a784fff1e4",
+        "src_582d75746257",
+        "src_a6f66da51d72",
+        "src_e9f089cdc38c",
+        "src_f07a8c256ae6",
+        "src_8110c7f8b13f"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_3f9653572870",
+        "src_87a784fff1e4",
+        "src_582d75746257",
+        "src_e9f089cdc38c",
+        "src_8110c7f8b13f"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_87a784fff1e4",
+        "src_582d75746257",
+        "src_a5150b8b1d53",
+        "src_a6f66da51d72",
+        "src_c37d5179aabc",
+        "src_f07a8c256ae6",
+        "src_08fca1d62fe1"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_3f9653572870",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_a6f66da51d72",
+        "src_8110c7f8b13f"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_a6f66da51d72",
+        "src_8110c7f8b13f"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": [
+        "src_f07a8c256ae6"
+      ]
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": [
+        "src_87a784fff1e4"
+      ]
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": [
+        "src_08fca1d62fe1"
+      ]
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_3f9653572870",
+        "src_582d75746257",
+        "src_e9f089cdc38c"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_a6f66da51d72",
+        "src_c37d5179aabc",
+        "src_8110c7f8b13f"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "बजरंगलाल लखोटिया",
+      "राजूराम शर्मा"
+    ],
+    "places": [
+      "Bikaner",
+      "Jasrasar",
+      "Lunkaransar",
+      "Mahajan",
+      "Mahajan Field Firing Range",
+      "Nokha",
+      "कुम्भाणा",
+      "खाजूवाला",
+      "खानीसर",
+      "ठोईयां",
+      "दंतौर",
+      "दुदेर",
+      "नाचना",
+      "पूगल",
+      "भोजरासर",
+      "मणेरां",
+      "मोटलाई",
+      "मोहनगढ़"
+    ],
+    "events": [
+      "1984-85 भूमि अधिग्रहण",
+      "Kasturba Gandhi Mahila Vidyapeeth established 1953",
+      "कार्यकारिणी घोषणा",
+      "महाजन फील्ड फायरिंग रेंज हेतु भूमि अधिग्रहण 1984-85",
+      "मेजर का निधन",
+      "संयुक्त सैन्य अभ्यास"
+    ],
+    "organizations": [
+      "Kasturba Gandhi Mahila Vidyapeeth",
+      "अमेरिकी सेना",
+      "फ्रांसीसी सेना",
+      "ब्रिटिश सेना",
+      "भारतीय सेना",
+      "महाजन मण्डल",
+      "रक्षा मंत्रालय",
+      "रूसी सेना"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_villages_acquired_count_b6692ea5",
+        "claim_key": "villages_acquired_count",
+        "value": "33",
+        "statement_hi": "रक्षा मंत्रालय के अनुसार 33 गांव हटाए गए",
+        "statement_en": "",
+        "sources": [
+          "src_4fb2da84d5a4"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_4fb2da84d5a4",
+            "text": "(b) 33."
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_private_land_acquired_bighas_f3259299",
+        "claim_key": "private_land_acquired_bighas",
+        "value": "312649",
+        "statement_hi": "3,12,649 बीघा 05 बिस्वा निजी भूमि अधिग्रहित",
+        "statement_en": "",
+        "sources": [
+          "src_4fb2da84d5a4"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_compensation_total_crore_70f30172",
+        "claim_key": "compensation_total_crore",
+        "value": "64.11",
+        "statement_hi": "निजी भूमि/संपत्ति के लिए 64.11 करोड़ रुपये मुआवजा",
+        "statement_en": "",
+        "sources": [
+          "src_4fb2da84d5a4"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_current_tehsil_namesake_e5760e25",
+        "claim_key": "current_tehsil_namesake",
+        "value": "Jasrasar tehsil, Bikaner",
+        "statement_hi": "इस नाम का एक बसा हुआ गांव जसरासर तहसील, बीकानेर में स्थित है, न कि लूणकरणसर में।",
+        "statement_en": "A currently-inhabited village of this name sits in Jasrasar tehsil, Bikaner -- not Lunkaransar.",
+        "sources": [
+          "src_87a784fff1e4"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_87a784fff1e4",
+            "text": "Meusar is a village in Jasrasar Tehsil of Bikaner District"
+          }
+        ],
+        "competing": [
+          "Nokha tehsil, Bikaner (per this mirror)"
+        ]
+      },
+      {
+        "id": "clm_current_tehsil_namesake_8f3256e5",
+        "claim_key": "current_tehsil_namesake",
+        "value": "Nokha tehsil, Bikaner (per this mirror)",
+        "statement_hi": "इस स्रोत के अनुसार मेऊसर नोखा तहसील में है, जसरासर/लूणकरणसर में नहीं।",
+        "statement_en": "Per this source Meusar sits in Nokha tehsil, not Jasrasar or Lunkaransar.",
+        "sources": [
+          "src_3f9653572870"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_3f9653572870",
+            "text": "Meusar Village Population - Nokha - Bikaner"
+          }
+        ],
+        "competing": [
+          "Jasrasar tehsil, Bikaner"
+        ]
+      },
+      {
+        "id": "clm_population_2011_23b36ea4",
+        "claim_key": "population_2011",
+        "value": "1313",
+        "statement_hi": "2011 की जनगणना में इस मेऊसर (जसरासर तहसील) की जनसंख्या 1,313 थी।",
+        "statement_en": "This Meusar (Jasrasar tehsil) had a 2011 census population of 1,313.",
+        "sources": [
+          "src_87a784fff1e4"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_87a784fff1e4",
+            "text": "Total population: 1,313"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_households_2011_3a2dc677",
+        "claim_key": "households_2011",
+        "value": "190",
+        "statement_hi": "2011 में इस गांव में 190 परिवार थे।",
+        "statement_en": "The village had 190 households in 2011.",
+        "sources": [
+          "src_3f9653572870"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_3f9653572870",
+            "text": "190 households"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई।",
+        "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+        "sources": [
+          "src_a5150b8b1d53",
+          "src_c37d5179aabc"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "1984-85 में रक्षा मंत्रालय ने महाजन क्षेत्र के 34 गांवों की जमीन अधिग्रहित की"
+          },
+          {
+            "source": "src_c37d5179aabc",
+            "text": "1984-85 में भूमि अधिग्रहण"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_e3face96",
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित किसानों को खाजूवाला, दंतौर, पूगल, मोहनगढ़ और नाचना क्षेत्रों में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced farmers were allotted irrigated land in Khajuwala, Dantor, Pugal, Mohangarh and Nachna.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "सिंचित क्षेत्रों में कृषि भूमि आवंटित की गई"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_abandoned_structures_reused_c1064679",
+        "claim_key": "abandoned_structures_reused",
+        "value": "homes, tanks, temples used as military targets",
+        "statement_hi": "विस्थापित गांवों के मकान, तालाब और मंदिर आज भी सैन्य अभ्यास में लक्ष्य के रूप में प्रयुक्त होते हैं।",
+        "statement_en": "Homes, water tanks and temples of the displaced villages are still used as targets in military exercises.",
+        "sources": [
+          "src_a6f66da51d72"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a6f66da51d72",
+            "text": "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_87a784fff1e4",
+      "url": "https://en.wikipedia.org/wiki/Meusar",
+      "title": "Meusar",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Jasrasar', 'जसरासर']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_3f9653572870",
+      "url": "https://www.census2011.co.in/data/village/69596-meusar-rajasthan.html",
+      "title": "Meusar Village Population - Nokha - Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_582d75746257",
+      "url": "https://villageinfo.org/village/69596",
+      "title": "Meusar Village (Pincode: 334803), Nokha, Bikaner | Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Nokha', 'नोखा']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_f07a8c256ae6",
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - महाजन",
+      "flags": [
+        "low_relevance"
+      ],
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_08fca1d62fe1",
+      "url": "https://www.facebook.com/Arjansarsationofficial/photos/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%9C%E0%A4%A8-%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%8D%E0%A4%A1-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9C-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80-%E0%A4%96%E0%A4%AC%E0%A4%B0-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%8F-%E0%A4%97%E0%A4%8F-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95-/1405035785015658/",
+      "title": "महाजन फील्ड फायरिंग रेंज में मेजर का निधन: पूरी खबर पढ़ने के लिए नीचे दिए गए लिंक",
+      "flags": [
+        "low_relevance"
+      ],
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Arjunsar', 'अर्जुनसर']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_8110c7f8b13f",
+      "url": "https://www.lionexpress.in/executive-committee-of-mahajan-mandal-declared/",
+      "title": "विधानसभा क्षेत्र लूणकरणसर के महाजन मण्डल की कार्यकारिणी घोषित",
+      "flags": [
+        "low_relevance"
+      ],
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "agent: village not directly named"
+      ]
+    }
+  ],
+  "sources": {
+    "src_3f9653572870": {
+      "url": "https://www.census2011.co.in/data/village/69596-meusar-rajasthan.html",
+      "title": "Meusar Village Population - Nokha - Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 69,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Meusar",
+          "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Meusar"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Nokha",
+          "नोखा",
+          "Jasrasar",
+          "जसरासर"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "census2011.co.in, Census of India 2011 mirror",
+      "is_primary": false
+    },
+    "src_87a784fff1e4": {
+      "url": "https://en.wikipedia.org/wiki/Meusar",
+      "title": "Meusar",
+      "platform": "wikipedia",
+      "source_type": "encyclopedia",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 67,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 9,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Meusar",
+          "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "negative/other-place signals: ['Jasrasar', 'जसरासर']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Meusar"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "34 गांव",
+          "34 गाँव",
+          "महाजन फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Jasrasar",
+          "जसरासर"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "CC BY-SA (Wikipedia)",
+      "attribution": "Wikipedia, 'Meusar' article",
+      "is_primary": false
+    },
+    "src_582d75746257": {
+      "url": "https://villageinfo.org/village/69596",
+      "title": "Meusar Village (Pincode: 334803), Nokha, Bikaner | Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 65,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Meusar",
+          "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "negative/other-place signals: ['Nokha', 'नोखा']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Meusar"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "लूणकरणसर",
+          "महाजन फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Nokha",
+          "नोखा"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "villageinfo.org",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 50,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 November 2022",
+      "is_primary": false
+    },
+    "src_a6f66da51d72": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+      "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-08-02",
+      "language": "hi",
+      "relevance": {
+        "score": 48,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 August 2022",
+      "is_primary": false
+    },
+    "src_c37d5179aabc": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2018-11-05",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 November 2018",
+      "is_primary": false
+    },
+    "src_e9f089cdc38c": {
+      "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
+      "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 43,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "34 गांव",
+          "34 गाँव",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "villageinfo.in",
+      "is_primary": false
+    },
+    "src_f07a8c256ae6": {
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - महाजन",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 39,
+        "band": "low",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "34 गांव",
+          "34 गाँव",
+          "Bikaner",
+          "बीकानेर",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "education",
+        "history",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki, 'Mahajan' article",
+      "is_primary": false
+    },
+    "src_8110c7f8b13f": {
+      "url": "https://www.lionexpress.in/executive-committee-of-mahajan-mandal-declared/",
+      "title": "विधानसभा क्षेत्र लूणकरणसर के महाजन मण्डल की कार्यकारिणी घोषित",
+      "platform": "lionexpress.in",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 39,
+        "band": "low",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Lion Express",
+      "is_primary": false
+    },
+    "src_08fca1d62fe1": {
+      "url": "https://www.facebook.com/Arjansarsationofficial/photos/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%9C%E0%A4%A8-%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%8D%E0%A4%A1-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9C-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80-%E0%A4%96%E0%A4%AC%E0%A4%B0-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%8F-%E0%A4%97%E0%A4%8F-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95-/1405035785015658/",
+      "title": "महाजन फील्ड फायरिंग रेंज में मेजर का निधन: पूरी खबर पढ़ने के लिए नीचे दिए गए लिंक",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 37,
+        "band": "low",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Arjunsar', 'अर्जुनसर']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Arjunsar",
+          "अर्जुनसर"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Facebook page 'Arjansar Station Official'",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_4fb2da84d5a4",
+      "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+      "title": "Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260905T175437Z",
+      "file": "/home/user/34g/research/inbox/meusar/discovery.json",
+      "input": 10,
+      "invalid": 0,
+      "new": 10,
+      "updated": 0,
+      "errors": [],
+      "total_after": 10,
+      "at": "2026-09-05T17:54:37.765380+00:00"
+    }
+  ]
+}

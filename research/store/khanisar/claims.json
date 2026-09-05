@@ -1,0 +1,137 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "खानीसर गांव को 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित किया गया।",
+    "statement_en": "Khanisar village was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित अन्य गांवों को"
+      }
+    ],
+    "competing": [
+      "1982"
+    ]
+  },
+  "clm_acquisition_year_e182c217": {
+    "id": "clm_acquisition_year_e182c217",
+    "claim_key": "acquisition_year",
+    "value": "1982",
+    "statement_hi": "संसदीय रिकॉर्ड के अनुसार महाजन फील्ड फायरिंग रेंज 1982 में अधिग्रहित की गई थी (पत्रिका के 1984-85 के दावे से भिन्न)।",
+    "statement_en": "Per this parliamentary record, the Mahajan Field Firing Range was acquired in 1982, differing from Patrika's 1984-85 claim.",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_4fb2da84d5a4",
+        "text": "The ranges were acquired in 1982"
+      }
+    ],
+    "competing": [
+      "1984-85"
+    ]
+  },
+  "clm_resettlement_sites_aa826f40": {
+    "id": "clm_resettlement_sites_aa826f40",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantaur, Pugal, Mohangadh, Nachna",
+    "statement_hi": "खानीसर सहित विस्थापित ग्रामीणों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटित की गई।",
+    "statement_en": "Displaced villagers including from Khanisar were allotted agricultural land in Khajuwala, Dantaur, Pugal, Mohangadh and Nachna.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "ग्रामीणों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना आदि की तरफ कृषि भूमि का आवंटन भी किया गया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_mffr_total_villages_f1f836cb": {
+    "id": "clm_mffr_total_villages_f1f836cb",
+    "claim_key": "mffr_total_villages",
+    "value": "34",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए कुल 34 गांव विस्थापित हुए, जिनमें खानीसर शामिल है।",
+    "statement_en": "A total of 34 villages, including Khanisar, were displaced for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 गांवों को विस्थापित कर"
+      }
+    ],
+    "competing": []
+  },
+  "clm_mffr_area_792fcc92": {
+    "id": "clm_mffr_area_792fcc92",
+    "claim_key": "mffr_area",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है, जिसमें खानीसर की भूमि भी शामिल मानी जाती है।",
+    "statement_en": "The Mahajan Field Firing Range spans 3.37 lakh acres, land that is understood to include Khanisar's former land.",
+    "sources": [
+      "src_4fb2da84d5a4",
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 2,
+    "has_strong_source": true,
+    "status": "verified",
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़"
+      },
+      {
+        "source": "src_4fb2da84d5a4",
+        "text": "3.37 lakh acres of land"
+      }
+    ],
+    "competing": []
+  },
+  "clm_coordinates_a6cf190a": {
+    "id": "clm_coordinates_a6cf190a",
+    "claim_key": "coordinates",
+    "value": "28°56'40\"N 73°43'48\"E",
+    "statement_hi": "खानीसर के निर्देशांक लगभग 28°56'40\"N 73°43'48\"E हैं।",
+    "statement_en": "Khanisar's coordinates are approximately 28°56'40\"N 73°43'48\"E.",
+    "sources": [
+      "src_dae2abcced95"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_dae2abcced95",
+        "text": "coordinates at 28°56'40\"N 73°43'48\"E"
+      }
+    ],
+    "competing": []
+  }
+}

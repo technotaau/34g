@@ -1,0 +1,211 @@
+{
+  "clm_villages_acquired_count_b6692ea5": {
+    "id": "clm_villages_acquired_count_b6692ea5",
+    "claim_key": "villages_acquired_count",
+    "value": "33",
+    "statement_hi": "रक्षा मंत्रालय के अनुसार 33 गांव हटाए गए",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_4fb2da84d5a4",
+        "text": "(b) 33."
+      }
+    ],
+    "competing": []
+  },
+  "clm_private_land_acquired_bighas_f3259299": {
+    "id": "clm_private_land_acquired_bighas_f3259299",
+    "claim_key": "private_land_acquired_bighas",
+    "value": "312649",
+    "statement_hi": "3,12,649 बीघा 05 बिस्वा निजी भूमि अधिग्रहित",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_compensation_total_crore_70f30172": {
+    "id": "clm_compensation_total_crore_70f30172",
+    "claim_key": "compensation_total_crore",
+    "value": "64.11",
+    "statement_hi": "निजी भूमि/संपत्ति के लिए 64.11 करोड़ रुपये मुआवजा",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_current_tehsil_namesake_e5760e25": {
+    "id": "clm_current_tehsil_namesake_e5760e25",
+    "claim_key": "current_tehsil_namesake",
+    "value": "Jasrasar tehsil, Bikaner",
+    "statement_hi": "इस नाम का एक बसा हुआ गांव जसरासर तहसील, बीकानेर में स्थित है, न कि लूणकरणसर में।",
+    "statement_en": "A currently-inhabited village of this name sits in Jasrasar tehsil, Bikaner -- not Lunkaransar.",
+    "sources": [
+      "src_87a784fff1e4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_87a784fff1e4",
+        "text": "Meusar is a village in Jasrasar Tehsil of Bikaner District"
+      }
+    ],
+    "competing": [
+      "Nokha tehsil, Bikaner (per this mirror)"
+    ]
+  },
+  "clm_current_tehsil_namesake_8f3256e5": {
+    "id": "clm_current_tehsil_namesake_8f3256e5",
+    "claim_key": "current_tehsil_namesake",
+    "value": "Nokha tehsil, Bikaner (per this mirror)",
+    "statement_hi": "इस स्रोत के अनुसार मेऊसर नोखा तहसील में है, जसरासर/लूणकरणसर में नहीं।",
+    "statement_en": "Per this source Meusar sits in Nokha tehsil, not Jasrasar or Lunkaransar.",
+    "sources": [
+      "src_3f9653572870"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_3f9653572870",
+        "text": "Meusar Village Population - Nokha - Bikaner"
+      }
+    ],
+    "competing": [
+      "Jasrasar tehsil, Bikaner"
+    ]
+  },
+  "clm_population_2011_23b36ea4": {
+    "id": "clm_population_2011_23b36ea4",
+    "claim_key": "population_2011",
+    "value": "1313",
+    "statement_hi": "2011 की जनगणना में इस मेऊसर (जसरासर तहसील) की जनसंख्या 1,313 थी।",
+    "statement_en": "This Meusar (Jasrasar tehsil) had a 2011 census population of 1,313.",
+    "sources": [
+      "src_87a784fff1e4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_87a784fff1e4",
+        "text": "Total population: 1,313"
+      }
+    ],
+    "competing": []
+  },
+  "clm_households_2011_3a2dc677": {
+    "id": "clm_households_2011_3a2dc677",
+    "claim_key": "households_2011",
+    "value": "190",
+    "statement_hi": "2011 में इस गांव में 190 परिवार थे।",
+    "statement_en": "The village had 190 households in 2011.",
+    "sources": [
+      "src_3f9653572870"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_3f9653572870",
+        "text": "190 households"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई।",
+    "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+    "sources": [
+      "src_a5150b8b1d53",
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "1984-85 में रक्षा मंत्रालय ने महाजन क्षेत्र के 34 गांवों की जमीन अधिग्रहित की"
+      },
+      {
+        "source": "src_c37d5179aabc",
+        "text": "1984-85 में भूमि अधिग्रहण"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_e3face96": {
+    "id": "clm_resettlement_sites_e3face96",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+    "statement_hi": "विस्थापित किसानों को खाजूवाला, दंतौर, पूगल, मोहनगढ़ और नाचना क्षेत्रों में सिंचित भूमि दी गई।",
+    "statement_en": "Displaced farmers were allotted irrigated land in Khajuwala, Dantor, Pugal, Mohangarh and Nachna.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "सिंचित क्षेत्रों में कृषि भूमि आवंटित की गई"
+      }
+    ],
+    "competing": []
+  },
+  "clm_abandoned_structures_reused_c1064679": {
+    "id": "clm_abandoned_structures_reused_c1064679",
+    "claim_key": "abandoned_structures_reused",
+    "value": "homes, tanks, temples used as military targets",
+    "statement_hi": "विस्थापित गांवों के मकान, तालाब और मंदिर आज भी सैन्य अभ्यास में लक्ष्य के रूप में प्रयुक्त होते हैं।",
+    "statement_en": "Homes, water tanks and temples of the displaced villages are still used as targets in military exercises.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं"
+      }
+    ],
+    "competing": []
+  }
+}

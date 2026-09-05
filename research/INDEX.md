@@ -6,12 +6,12 @@
 | भोजरासर (Bhojrasar) | 10 | 1 | 0 | 5 | 5 | [report](store/bhojrasar/report.md) |
 | कुम्भाणा (Kumbhana) | 5 | 3 | 1 | 10 | 10 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 6 | 1 | 0 | 5 | 5 | [report](store/motlai/report.md) |
-| खानीसर (Khanisar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| खानीसर (Khanisar) | 7 | 1 | 2 | 6 | 5 | [report](store/khanisar/report.md) |
 | ठोईयां (Thoiya) | 6 | 4 | 0 | 7 | 7 | [report](store/thoiya/report.md) |
 | मणेरां (Manera) | 7 | 2 | 1 | 8 | 8 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 6 | 6 | [report](store/duder/report.md) |
 | चिड़ासर (Chidasar) | – | – | – | – | – | _अभी शोध नहीं_ |
-| मेऊसर (Meusar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| मेऊसर (Meusar) | 10 | 0 | 3 | 10 | 10 | [report](store/meusar/report.md) |
 | खिंयाणा (Khiyana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कोलाणा (Kolana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | अजीतवाणा (Ajeetwana) | – | – | – | – | – | _अभी शोध नहीं_ |

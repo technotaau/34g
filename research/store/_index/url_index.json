@@ -4,7 +4,8 @@
       "34-gaon",
       "bhojrasar",
       "motlai",
-      "manera"
+      "manera",
+      "khanisar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -16,7 +17,9 @@
       "duder",
       "thoiya",
       "motlai",
-      "manera"
+      "manera",
+      "meusar",
+      "khanisar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -27,7 +30,9 @@
       "duder",
       "thoiya",
       "motlai",
-      "manera"
+      "manera",
+      "meusar",
+      "khanisar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -91,13 +96,16 @@
       "kumbhana",
       "duder",
       "thoiya",
-      "motlai"
+      "motlai",
+      "meusar",
+      "khanisar"
     ],
     "first_seen": "2026-09-05"
   },
   "https://jatland.com/home/Mahajan": {
     "villages": [
-      "bhojrasar"
+      "bhojrasar",
+      "meusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -192,6 +200,55 @@
   "https://patrika.com/bikaner-news/mahajan-field-firing-range-in-rajasthan-hundreds-of-bombs-fired-every-day-20541582": {
     "villages": [
       "manera"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://en.wikipedia.org/wiki/Meusar": {
+    "villages": [
+      "meusar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://census2011.co.in/data/village/69596-meusar-rajasthan.html": {
+    "villages": [
+      "meusar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.org/village/69596": {
+    "villages": [
+      "meusar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan": {
+    "villages": [
+      "meusar",
+      "khanisar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://www.facebook.com/Arjansarsationofficial/photos/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%9C%E0%A4%A8-%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%8D%E0%A4%A1-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9C-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80-%E0%A4%96%E0%A4%AC%E0%A4%B0-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%8F-%E0%A4%97%E0%A4%8F-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95-/1405035785015658": {
+    "villages": [
+      "meusar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://lionexpress.in/executive-committee-of-mahajan-mandal-declared": {
+    "villages": [
+      "meusar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://wikimapia.org/10938506/Khanisar": {
+    "villages": [
+      "khanisar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://mapcarta.com/W412765540": {
+    "villages": [
+      "khanisar"
     ],
     "first_seen": "2026-09-05"
   }
