@@ -1,0 +1,13 @@
+[
+  {
+    "run_id": "run_20260905T175339Z",
+    "file": "/home/user/34g/research/inbox/duder/discovery.json",
+    "input": 5,
+    "invalid": 0,
+    "new": 5,
+    "updated": 0,
+    "errors": [],
+    "total_after": 5,
+    "at": "2026-09-05T17:53:40.221157+00:00"
+  }
+]

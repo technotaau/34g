@@ -1,0 +1,635 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "duder",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव दुदेर महाजन"
+    ],
+    "summary": "यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में रक्षा मंत्रालय द्वारा अधिग्रहित 34 गांवों पर केंद्रित है, जिसमें भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां और दुदेर सहित अन्य गांवों का नाम लिया गया है। लेख में दुदेर के बारे में कोई अलग विवरण नहीं है, केवल सूची में नाम है। विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल और मोहनगढ़ में भूमि आवंटित की गई, और पुराने लोक देवता मंदिरों में विशेष अवसरों पर मेले आज भी लगते हैं।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "महाजन",
+      "बीकानेर",
+      "भोजरासर",
+      "कुम्भाणा",
+      "मोटलाई",
+      "खानीसर",
+      "ठोईयां",
+      "मणेरां",
+      "खाजूवाला",
+      "दंतौर",
+      "पूगल",
+      "मोहनगढ़"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "दुदेर",
+    "evidence_snippets": [
+      "भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित अन्य गांवों को उजड़े"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohangadh"
+      ],
+      "events": [
+        "1984-85 land acquisition for MFFR"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": true,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khaniser",
+      "thoiya",
+      "manera"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "दुदेर सहित 34 गांवों की भूमि 1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+        "statement_en": "Duder's land, along with 33 other villages, was acquired by the Ministry of Defence in 1984-85 for Mahajan Field Firing Range.",
+        "snippet": "1984-85 में रक्षा मंत्रालय ने इस क्षेत्र को अधिग्रहित किया"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantur, Pugal, Mohangadh",
+        "statement_hi": "विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल और मोहनगढ़ में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced families were allotted irrigated agricultural land in Khajuwala, Dantur, Pugal and Mohangadh.",
+        "snippet": "खाजूवाला, दंतौर, पूगल, मोहनगढ़"
+      },
+      {
+        "claim_key": "village_status_present",
+        "value": "abandoned, temples still visited on fair days",
+        "statement_hi": "गांव खाली है परंतु पुराने लोक देवता मंदिरों में विशेष अवसरों पर पूर्व निवासी मेले के दिन आते हैं।",
+        "statement_en": "The village stands abandoned; former residents still visit its old folk-deity temples on annual fair days.",
+        "snippet": "पुराने मंदिरों में मेले के अवसर पर पूर्व निवासी आते हैं"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Duder",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']"
+      ],
+      "matched_names": [
+        "Duder",
+        "दुदेर"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 92,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 11,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 6,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175339Z"
+    ],
+    "notes": "Duder named only in a list; no village-specific detail given. Strongest direct-mention evidence found this session."
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "duder",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "दुदेर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "2018 का यह पुराना पत्रिका लेख 34 गांवों के 1984-85 अधिग्रहण और विस्थापित किसानों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में दी गई भूमि पर केंद्रित है। इसमें दुदेर का नाम स्पष्ट रूप से नहीं लिया गया है, लेकिन यह उसी 34-गांव प्रकरण का हिस्सा है जिसमें दुदेर भी शामिल है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "खाजूवाला",
+      "दंतौर",
+      "पूगल",
+      "मोहनगढ़",
+      "नाचना",
+      "बीकानेर"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों को 1984-85 में अधिग्रहित कर विस्थापित किसानों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में भूमि आवंटित की गई"
+    ],
+    "entities": {
+      "people": [
+        "Jay Kumar Bhati"
+      ],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', '34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "खाजूवाला",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175339Z"
+    ],
+    "notes": "Same headline/topic republished across years by Patrika Bikaner; Duder not individually named here, but village falls within the same 34-village group this article covers. Kept for corroborating resettlement-site claim and as an earlier-dated version of the recurring story."
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "duder",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "दुदेर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह लेख मुख्यतः महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) पर होने वाले अंतरराष्ट्रीय सैन्य अभ्यासों (अमेरिका, ब्रिटेन, रूस, फ्रांस, ओमान) पर केंद्रित है। यह उल्लेख करता है कि करीब चार दशक पहले विस्थापित 34 गांवों के परित्यक्त मकान, तालाब और मंदिर आज सैन्य अभ्यास में लक्ष्य (सिम्युलेटेड टारगेट) के रूप में उपयोग होते हैं, लेकिन दुदेर का नाम अलग से नहीं है।",
+    "topics": [
+      "culture",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "बीकानेर"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [],
+      "events": [
+        "Yudh Abhyas joint military exercise"
+      ],
+      "organizations": [
+        "Indian Army",
+        "US Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "range_area_ha",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है, जिसमें दुदेर सहित 34 विस्थापित गांव शामिल हैं।",
+        "statement_en": "Mahajan Field Firing Range spans 3.37 lakh acres, incorporating the land of Duder and 33 other displaced villages.",
+        "snippet": "3.37 लाख एकड़"
+      },
+      {
+        "claim_key": "abandoned_structures_use",
+        "value": "used as simulated military targets",
+        "statement_hi": "विस्थापित गांवों के परित्यक्त घर, तालाब और मंदिर आज सैन्य अभ्यास में लक्ष्य के रूप में उपयोग होते हैं।",
+        "statement_en": "Abandoned houses, ponds and temples of the displaced villages are now used as simulated targets during military exercises.",
+        "snippet": "परित्यक्त मकान...लक्ष्य के रूप में"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175339Z"
+    ],
+    "notes": "No direct Duder mention, but establishes an important and disturbing claim (ex-village structures used as live-fire targets) applicable to all 34 villages including Duder - flag for human verification whether Duder's own structures are named anywhere else."
+  },
+  "src_7f2edd77a900": {
+    "id": "src_7f2edd77a900",
+    "village": "duder",
+    "url": "https://www.jatland.com/home/Duderia",
+    "url_key": "https://jatland.com/home/Duderia",
+    "title": "Duderia - Jatland Wiki",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Duder village Bikaner Rajasthan"
+    ],
+    "summary": "Jatland wiki entry (accessed only via search-engine snippet; direct WebFetch returned HTTP 403) states Duderia (given as an alternate name 'Duder') is a village in Lunkaransar tehsil, Bikaner district, founded by Dudo Ji Tarad, a descendant of Tarwar, progenitor of the Tarad/Tard Jat gotra whose main village is Jasrasar (Nokha tehsil, Bikaner). No mention of Mahajan Field Firing Range or displacement found in the snippet.",
+    "topics": [
+      "displacement",
+      "history",
+      "military_range",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Jasrasar",
+      "Nokha"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Duderia / Duder",
+    "evidence_snippets": [
+      "Duderia (also known as Duder) is a village in Lunkaransar tehsil of Bikaner district in Rajasthan. Dudo Ji Tarad founded the village."
+    ],
+    "entities": {
+      "people": [
+        "Dudo Ji Tarad",
+        "Tarwar"
+      ],
+      "places": [
+        "Jasrasar"
+      ],
+      "events": [
+        "founding of Duderia"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Duderia page",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Tarad (Tard) Jat gotra",
+        "statement_hi": "दुदेर/दुदेरिया गांव की स्थापना तारड़ जाट गोत्र के दूदोजी तारड़ ने की थी।",
+        "statement_en": "Duder/Duderia village was founded by Dudo Ji Tarad of the Tarad (Tard) Jat gotra.",
+        "snippet": "Dudoji founded village Duderia... descendant of Tarwar, the epi-person of the Tarad gotra"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Duder",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner', 'Jat', 'जाट']"
+      ],
+      "matched_names": [
+        "Duder",
+        "दुदेर"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Mahajan Field Firing Range",
+        "Bikaner",
+        "Jat",
+        "जाट",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175339Z"
+    ],
+    "notes": "UNVERIFIED - could not load page directly (403 Forbidden), relying on search-engine-generated summary of page content. Also possible that 'Duderia' is a distinct village from 'Duder' (research-unit slug); 'Tarad' clan is not in the unit's known clan list (Dhatarwal, Godara, Rathore, Bishnoi, Jat, Meghwal, Rath, Jakhar, Beniwal, Saharan) though 'Jat' generically covers it. A human should visit this URL directly (browser, not automated fetch) to confirm identity and extract full content."
+  },
+  "src_8c5b127adbe8": {
+    "id": "src_8c5b127adbe8",
+    "village": "duder",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "title": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Duder \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Census-data mirror site listing 'Mahajan Fieldfiring Range' as a census village entity within Lunkaransar tehsil, Bikaner. Content could not be retrieved (HTTP 403 on WebFetch); only the title/URL is confirmed. Potentially useful for cross-checking whether Duder's census code/population is registered separately or absorbed into this firing-range census unit.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in (census data mirror)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Mahajan Field Firing Range",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 40,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175339Z"
+    ],
+    "notes": "Fetch blocked (403); flagged only as a lead. A human researcher with browser access should check whether this census entity lists Duder's 2011/1981 population or merges all 34 villages under one code."
+  }
+}

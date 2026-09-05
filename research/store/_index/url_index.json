@@ -10,14 +10,16 @@
     "villages": [
       "34-gaon",
       "bhojrasar",
-      "kumbhana"
+      "kumbhana",
+      "duder"
     ],
     "first_seen": "2026-09-05"
   },
   "https://patrika.com/bikaner-news/mahajan-firing-range-3673091": {
     "villages": [
       "34-gaon",
-      "bhojrasar"
+      "bhojrasar",
+      "duder"
     ],
     "first_seen": "2026-09-05"
   },
@@ -78,7 +80,8 @@
   "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974": {
     "villages": [
       "bhojrasar",
-      "kumbhana"
+      "kumbhana",
+      "duder"
     ],
     "first_seen": "2026-09-05"
   },
@@ -114,7 +117,8 @@
   },
   "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html": {
     "villages": [
-      "bhojrasar"
+      "bhojrasar",
+      "duder"
     ],
     "first_seen": "2026-09-05"
   },
@@ -133,6 +137,12 @@
   "https://linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5": {
     "villages": [
       "kumbhana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Duderia": {
+    "villages": [
+      "duder"
     ],
     "first_seen": "2026-09-05"
   }

@@ -1,0 +1,128 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "दुदेर सहित 34 गांवों की भूमि 1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+    "statement_en": "Duder's land, along with 33 other villages, was acquired by the Ministry of Defence in 1984-85 for Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "1984-85 में रक्षा मंत्रालय ने इस क्षेत्र को अधिग्रहित किया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_76f63f81": {
+    "id": "clm_resettlement_sites_76f63f81",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantur, Pugal, Mohangadh",
+    "statement_hi": "विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल और मोहनगढ़ में सिंचित भूमि दी गई।",
+    "statement_en": "Displaced families were allotted irrigated agricultural land in Khajuwala, Dantur, Pugal and Mohangadh.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "खाजूवाला, दंतौर, पूगल, मोहनगढ़"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_status_present_27fa9b87": {
+    "id": "clm_village_status_present_27fa9b87",
+    "claim_key": "village_status_present",
+    "value": "abandoned, temples still visited on fair days",
+    "statement_hi": "गांव खाली है परंतु पुराने लोक देवता मंदिरों में विशेष अवसरों पर पूर्व निवासी मेले के दिन आते हैं।",
+    "statement_en": "The village stands abandoned; former residents still visit its old folk-deity temples on annual fair days.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "पुराने मंदिरों में मेले के अवसर पर पूर्व निवासी आते हैं"
+      }
+    ],
+    "competing": []
+  },
+  "clm_range_area_ha_792fcc92": {
+    "id": "clm_range_area_ha_792fcc92",
+    "claim_key": "range_area_ha",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है, जिसमें दुदेर सहित 34 विस्थापित गांव शामिल हैं।",
+    "statement_en": "Mahajan Field Firing Range spans 3.37 lakh acres, incorporating the land of Duder and 33 other displaced villages.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़"
+      }
+    ],
+    "competing": []
+  },
+  "clm_abandoned_structures_use_ec336be0": {
+    "id": "clm_abandoned_structures_use_ec336be0",
+    "claim_key": "abandoned_structures_use",
+    "value": "used as simulated military targets",
+    "statement_hi": "विस्थापित गांवों के परित्यक्त घर, तालाब और मंदिर आज सैन्य अभ्यास में लक्ष्य के रूप में उपयोग होते हैं।",
+    "statement_en": "Abandoned houses, ponds and temples of the displaced villages are now used as simulated targets during military exercises.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "परित्यक्त मकान...लक्ष्य के रूप में"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founding_clan_3eeeea4d": {
+    "id": "clm_founding_clan_3eeeea4d",
+    "claim_key": "founding_clan",
+    "value": "Tarad (Tard) Jat gotra",
+    "statement_hi": "दुदेर/दुदेरिया गांव की स्थापना तारड़ जाट गोत्र के दूदोजी तारड़ ने की थी।",
+    "statement_en": "Duder/Duderia village was founded by Dudo Ji Tarad of the Tarad (Tard) Jat gotra.",
+    "sources": [
+      "src_7f2edd77a900"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7f2edd77a900",
+        "text": "Dudoji founded village Duderia... descendant of Tarwar, the epi-person of the Tarad gotra"
+      }
+    ],
+    "competing": []
+  }
+}
