@@ -22,7 +22,8 @@
       "meusar",
       "khanisar",
       "kolana",
-      "chidasar"
+      "chidasar",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -37,7 +38,8 @@
       "meusar",
       "khanisar",
       "kolana",
-      "chidasar"
+      "chidasar",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -73,7 +75,8 @@
   },
   "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट": {
     "villages": [
-      "34-gaon"
+      "34-gaon",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -105,7 +108,8 @@
       "meusar",
       "khanisar",
       "kolana",
-      "chidasar"
+      "chidasar",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -113,7 +117,8 @@
     "villages": [
       "bhojrasar",
       "meusar",
-      "chidasar"
+      "chidasar",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -182,7 +187,8 @@
   "https://jatland.com/home/Dhatarwal": {
     "villages": [
       "thoiya",
-      "manera"
+      "manera",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -196,13 +202,15 @@
     "villages": [
       "motlai",
       "manera",
-      "kolana"
+      "kolana",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
   "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt": {
     "villages": [
-      "motlai"
+      "motlai",
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -294,6 +302,12 @@
   "https://www.youtube.com/watch?v=zleWptMmcYM": {
     "villages": [
       "chidasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://vlist.in/sub-district/00475.html": {
+    "villages": [
+      "ajeetwana"
     ],
     "first_seen": "2026-09-05"
   }

@@ -1,0 +1,951 @@
+{
+  "village": {
+    "slug": "ajeetwana",
+    "name_en": "Ajeetwana",
+    "name_hi": "अजीतवाणा",
+    "status": "acquired_partial",
+    "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-05",
+  "counts": {
+    "sources_total": 9,
+    "accepted": 5,
+    "context": 4,
+    "review": 0,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 10
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_dc27e87bee50",
+        "src_7da0e757971f",
+        "src_b27fa43b7bd0",
+        "src_a23e81bd50f3",
+        "src_f07a8c256ae6",
+        "src_c818a97c39d5"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_b27fa43b7bd0",
+        "src_a23e81bd50f3",
+        "src_f07a8c256ae6",
+        "src_c818a97c39d5"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_dc27e87bee50",
+        "src_7da0e757971f",
+        "src_f07a8c256ae6",
+        "src_c818a97c39d5",
+        "src_a6f66da51d72",
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_dc27e87bee50",
+        "src_7da0e757971f",
+        "src_f07a8c256ae6",
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_a6f66da51d72"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_a6f66da51d72"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a6f66da51d72",
+        "src_c37d5179aabc",
+        "src_a5150b8b1d53"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": [
+        "src_c818a97c39d5"
+      ]
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_b27fa43b7bd0",
+        "src_a23e81bd50f3"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a6f66da51d72",
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Ajeeta",
+      "Ajeetaram",
+      "Bhana",
+      "Bhinya Ram Roj",
+      "Dinesh Kumar Swami",
+      "Hari Singh",
+      "Jay Kumar Bhati",
+      "K. K. Sehgal",
+      "Kalu Dhatarwal",
+      "Nathu Dhatarwal",
+      "Nathuji Dhatarwal"
+    ],
+    "places": [
+      "Baderan",
+      "Bheekhnera",
+      "Dantor",
+      "Dhatri",
+      "Khajuwala",
+      "Kheenyera",
+      "Kolana",
+      "Kumbhana",
+      "Lunkaransar",
+      "Mahajan",
+      "Mahajan Field Firing Range",
+      "Mohangadh",
+      "Nachna",
+      "Pugal",
+      "Soolera"
+    ],
+    "events": [
+      "1387 AD battle with Sindh invaders",
+      "1984-85 land acquisition",
+      "founding of 12 Dhatarwal villages, VS 1406",
+      "joint military exercises with USA, UK, Russia, France, Oman"
+    ],
+    "organizations": [
+      "Census of India",
+      "Census of India 2011",
+      "Dhatarwal gotra",
+      "Indian Army",
+      "Ministry of Defence",
+      "Rajasthan Patrika",
+      "Rajasthan State Archives / Directorate of District Gazetteers"
+    ]
+  },
+  "claims": {
+    "well_supported": [
+      {
+        "id": "clm_founding_clan_851d8466",
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal",
+        "statement_hi": "अजीतवाणा गांव धतरवाल गोत्र द्वारा बसाया गया।",
+        "statement_en": "Ajeetwana village was founded by the Dhatarwal clan.",
+        "sources": [
+          "src_7da0e757971f",
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 2,
+        "has_strong_source": false,
+        "status": "corroborated",
+        "confidence": 0.7,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "अजीताराम ने अजीतराणा गांव बसाया"
+          },
+          {
+            "source": "src_7da0e757971f",
+            "text": "Ajeetmana is one of 12 villages founded by Dhatarwals"
+          }
+        ],
+        "competing": []
+      }
+    ],
+    "needs_verification": [
+      {
+        "id": "clm_founder_name_c0c429f6",
+        "claim_key": "founder_name",
+        "value": "Ajeetaram",
+        "statement_hi": "गांव का नाम इसके संस्थापक अजीताराम के नाम पर पड़ा।",
+        "statement_en": "The village is named after its founder, Ajeetaram.",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "अजीताराम ने अजीतराणा गांव बसाया"
+          }
+        ],
+        "competing": [
+          "Ajeeta (brother of Bhana)"
+        ]
+      },
+      {
+        "id": "clm_founder_name_dcfae555",
+        "claim_key": "founder_name",
+        "value": "Ajeeta (brother of Bhana)",
+        "statement_hi": "अजीतमाना की स्थापना भाणा के छोटे भाई अजीता ने की थी।",
+        "statement_en": "Ajeetmana was founded by Ajeeta, younger brother of Bhana.",
+        "sources": [
+          "src_7da0e757971f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_7da0e757971f",
+            "text": "founded by Ajeeta, who was the second younger brother of Bhana"
+          }
+        ],
+        "competing": [
+          "Ajeetaram"
+        ]
+      },
+      {
+        "id": "clm_founding_period_cffbe028",
+        "claim_key": "founding_period",
+        "value": "Vikram Samvat 1406 (~1349 CE)",
+        "statement_hi": "गांव विक्रम संवत 1406 के आसपास बसाया गया माना जाता है।",
+        "statement_en": "The village is said to have been founded around Vikram Samvat 1406 (c. 1349 CE).",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_dc27e87bee50",
+            "text": "12 villages founded around VS 1406"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_census_village_code_95314be9",
+        "claim_key": "census_village_code",
+        "value": "069245",
+        "statement_hi": "अजीतमाना का जनगणना गांव कोड 069245 है।",
+        "statement_en": "Ajeetmana's Census of India village code is 069245.",
+        "sources": [
+          "src_a23e81bd50f3"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a23e81bd50f3",
+            "text": "Village Code: 069245"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_population_2011_c60d81f3",
+        "claim_key": "population_2011",
+        "value": "1239",
+        "statement_hi": "2011 की जनगणना के अनुसार अजीतमाना की जनसंख्या 1,239 थी।",
+        "statement_en": "According to the 2011 Census, Ajeetmana had a population of 1,239.",
+        "sources": [
+          "src_b27fa43b7bd0"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_b27fa43b7bd0",
+            "text": "Population: 1,239"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई।",
+        "statement_en": "Land for the 34 villages of the Mahajan Field Firing Range was acquired in 1984-85.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "1984-85 में रक्षा मंत्रालय ने अधिग्रहीत की"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_total_acquisition_area_792fcc92",
+        "claim_key": "total_acquisition_area",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फायरिंग रेंज कुल 3.37 लाख एकड़ भूमि पर बनी है।",
+        "statement_en": "The Mahajan Field Firing Range covers a total of 3.37 lakh acres.",
+        "sources": [
+          "src_a6f66da51d72"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a6f66da51d72",
+            "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_displaced_villages_count_f1f836cb",
+        "claim_key": "displaced_villages_count",
+        "value": "34",
+        "statement_hi": "34 गांवों को विस्थापित किया गया।",
+        "statement_en": "34 villages were displaced.",
+        "sources": [
+          "src_a6f66da51d72"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a6f66da51d72",
+            "text": "34 गांवों को विस्थापित कर"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_1822b55a",
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna (irrigated areas)",
+        "statement_hi": "विस्थापित किसानों को खाजूवाला, डाटोर, पूगल, मोहनगढ़ और नाचना के सिंचित क्षेत्रों में भूमि दी गई।",
+        "statement_en": "Displaced farmers were allotted land in the irrigated areas of Khajuwala, Dantor, Pugal, Mohangadh and Nachna.",
+        "sources": [
+          "src_c37d5179aabc"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_c37d5179aabc",
+            "text": "सिंचित क्षेत्रों में भूमि आवंटित"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [],
+  "sources": {
+    "src_dc27e87bee50": {
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "सदस्य:धतरवाल जाट",
+      "platform": "wikipedia",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "2024-12-14",
+      "language": "hi",
+      "relevance": {
+        "score": 85,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 6,
+          "recency": 3,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Ajeetwana",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Bheekhnera', 'Soolera']"
+        ],
+        "matched_names": [
+          "Ajeetwana",
+          "अजीतवाणा"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Bheekhnera",
+          "Soolera",
+          "सुलेरा",
+          "Kheenyera",
+          "खींयेरा",
+          "Dhatarwal",
+          "धतरवाल",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "founding_clan",
+        "history",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Hindi Wikipedia, सदस्य:धतरवाल जाट, accessed 2026-09-05",
+      "is_primary": false
+    },
+    "src_7da0e757971f": {
+      "url": "https://www.jatland.com/home/Dhatarwal",
+      "title": "Dhatarwal - जाटलैंड विकि",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 78,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: Ajeetmana",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Kalu', 'Baderan']"
+        ],
+        "matched_names": [
+          "Ajeetmana",
+          "अजीतमाना"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Kalu",
+          "Baderan",
+          "Ajeetmana",
+          "अजीतमाना",
+          "Dhatarwal",
+          "धतरवाल",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "founding_clan",
+        "history",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki, 'Dhatarwal' article",
+      "is_primary": false
+    },
+    "src_b27fa43b7bd0": {
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 77,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: Ajeetmana",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Ajeetmana', 'अजीतमाना']"
+        ],
+        "matched_names": [
+          "Ajeetmana",
+          "अजीतमाना"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Ajeetmana",
+          "अजीतमाना",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "census2011.co.in, 2011 Census of India mirror",
+      "is_primary": false
+    },
+    "src_a23e81bd50f3": {
+      "url": "https://vlist.in/sub-district/00475.html",
+      "title": "Lunkaransar Tahsil Villages, Bikaner, Rajasthan @VList.in",
+      "platform": "vlist.in",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 73,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: Ajeetmana",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Ajeetmana', 'अजीतमाना']"
+        ],
+        "matched_names": [
+          "Ajeetmana",
+          "अजीतमाना"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Ajeetmana",
+          "अजीतमाना",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "VList.in, Census of India village directory",
+      "is_primary": false
+    },
+    "src_f07a8c256ae6": {
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - जाटलैंड विकि",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 71,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: Ajeetmana",
+          "strong geo context: ['Mahajan', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Ajeetmana', 'जाट']"
+        ],
+        "matched_names": [
+          "Ajeetmana"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "Bikaner",
+          "Ajeetmana",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "founding_clan",
+        "history",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki, 'Mahajan' article",
+      "is_primary": false
+    },
+    "src_c818a97c39d5": {
+      "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+      "title": "Rajasthan District Gazetteers: Bikaner (full text)",
+      "platform": "archive_org",
+      "source_type": "archive",
+      "media_type": "book",
+      "published_date": "1972",
+      "language": "en",
+      "relevance": {
+        "score": 56,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 12,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Ajeetmana']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Ajeetmana",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "history"
+      ],
+      "license": "Public domain / Digital Library of India scan, archive.org hosted",
+      "attribution": "Rajasthan District Gazetteers: Bikaner, ed. K.K. Sehgal, Government of Rajasthan, 1972 (archive.org / Digital Library of India)",
+      "is_primary": true
+    },
+    "src_a6f66da51d72": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+      "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-08-02",
+      "language": "hi",
+      "relevance": {
+        "score": 48,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "महाजन फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2022",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "Pugal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+      "is_primary": false
+    },
+    "src_c37d5179aabc": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2018-11-05",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 2018",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_dc27e87bee50",
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "जाट धतरवाल इतिहास (Hindi Wikipedia user page)"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260905T175534Z",
+      "file": "/home/user/34g/research/inbox/ajeetwana/discovery.json",
+      "input": 9,
+      "invalid": 0,
+      "new": 9,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 16,
+      "agent_notes": "The English spelling 'Ajeetwana' returns almost nothing directly; the census/administrative spelling 'Ajeetmana' is far better attested (village code 069245, population 1,239 in Lunkaransar tehsil per two independent census mirrors). One Hindi Wikipedia user page gives a detailed founding legend under the spelling 'अजीतराणा' (likely a typo for अजीतवाणा/अजीतमाना) naming founder Ajeetaram of the Dhatarwal clan and listing sister villages (Kheenyera, Soolera, Bheekhnera, Kumbhana, Kolana) that match this unit's own 'nearby' list almost exactly - strong corroboration despite being user-generated c",
+      "total_after": 9,
+      "at": "2026-09-05T17:55:35.002543+00:00"
+    }
+  ]
+}

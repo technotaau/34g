@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260905T175534Z",
+    "file": "/home/user/34g/research/inbox/ajeetwana/discovery.json",
+    "input": 9,
+    "invalid": 0,
+    "new": 9,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 16,
+    "agent_notes": "The English spelling 'Ajeetwana' returns almost nothing directly; the census/administrative spelling 'Ajeetmana' is far better attested (village code 069245, population 1,239 in Lunkaransar tehsil per two independent census mirrors). One Hindi Wikipedia user page gives a detailed founding legend under the spelling 'अजीतराणा' (likely a typo for अजीतवाणा/अजीतमाना) naming founder Ajeetaram of the Dhatarwal clan and listing sister villages (Kheenyera, Soolera, Bheekhnera, Kumbhana, Kolana) that match this unit's own 'nearby' list almost exactly - strong corroboration despite being user-generated c",
+    "total_after": 9,
+    "at": "2026-09-05T17:55:35.002543+00:00"
+  }
+]

@@ -14,7 +14,7 @@
 | मेऊसर (Meusar) | 10 | 0 | 3 | 10 | 10 | [report](store/meusar/report.md) |
 | खिंयाणा (Khiyana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कोलाणा (Kolana) | 7 | 2 | 2 | 10 | 10 | [report](store/kolana/report.md) |
-| अजीतवाणा (Ajeetwana) | – | – | – | – | – | _अभी शोध नहीं_ |
+| अजीतवाणा (Ajeetwana) | 9 | 5 | 0 | 10 | 9 | [report](store/ajeetwana/report.md) |
 | लाडेरा (Ladera) | – | – | – | – | – | _अभी शोध नहीं_ |
 | भानाबस्ती (Bhanabasti) | – | – | – | – | – | _अभी शोध नहीं_ |
 | नाथौर (Nathor) | – | – | – | – | – | _अभी शोध नहीं_ |

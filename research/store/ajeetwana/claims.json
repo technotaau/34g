@@ -1,0 +1,221 @@
+{
+  "clm_founding_clan_851d8466": {
+    "id": "clm_founding_clan_851d8466",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal",
+    "statement_hi": "अजीतवाणा गांव धतरवाल गोत्र द्वारा बसाया गया।",
+    "statement_en": "Ajeetwana village was founded by the Dhatarwal clan.",
+    "sources": [
+      "src_7da0e757971f",
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 2,
+    "has_strong_source": false,
+    "status": "corroborated",
+    "confidence": 0.7,
+    "evidence": [
+      {
+        "source": "src_dc27e87bee50",
+        "text": "अजीताराम ने अजीतराणा गांव बसाया"
+      },
+      {
+        "source": "src_7da0e757971f",
+        "text": "Ajeetmana is one of 12 villages founded by Dhatarwals"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founder_name_c0c429f6": {
+    "id": "clm_founder_name_c0c429f6",
+    "claim_key": "founder_name",
+    "value": "Ajeetaram",
+    "statement_hi": "गांव का नाम इसके संस्थापक अजीताराम के नाम पर पड़ा।",
+    "statement_en": "The village is named after its founder, Ajeetaram.",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_dc27e87bee50",
+        "text": "अजीताराम ने अजीतराणा गांव बसाया"
+      }
+    ],
+    "competing": [
+      "Ajeeta (brother of Bhana)"
+    ]
+  },
+  "clm_founder_name_dcfae555": {
+    "id": "clm_founder_name_dcfae555",
+    "claim_key": "founder_name",
+    "value": "Ajeeta (brother of Bhana)",
+    "statement_hi": "अजीतमाना की स्थापना भाणा के छोटे भाई अजीता ने की थी।",
+    "statement_en": "Ajeetmana was founded by Ajeeta, younger brother of Bhana.",
+    "sources": [
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_7da0e757971f",
+        "text": "founded by Ajeeta, who was the second younger brother of Bhana"
+      }
+    ],
+    "competing": [
+      "Ajeetaram"
+    ]
+  },
+  "clm_founding_period_cffbe028": {
+    "id": "clm_founding_period_cffbe028",
+    "claim_key": "founding_period",
+    "value": "Vikram Samvat 1406 (~1349 CE)",
+    "statement_hi": "गांव विक्रम संवत 1406 के आसपास बसाया गया माना जाता है।",
+    "statement_en": "The village is said to have been founded around Vikram Samvat 1406 (c. 1349 CE).",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_dc27e87bee50",
+        "text": "12 villages founded around VS 1406"
+      }
+    ],
+    "competing": []
+  },
+  "clm_census_village_code_95314be9": {
+    "id": "clm_census_village_code_95314be9",
+    "claim_key": "census_village_code",
+    "value": "069245",
+    "statement_hi": "अजीतमाना का जनगणना गांव कोड 069245 है।",
+    "statement_en": "Ajeetmana's Census of India village code is 069245.",
+    "sources": [
+      "src_a23e81bd50f3"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a23e81bd50f3",
+        "text": "Village Code: 069245"
+      }
+    ],
+    "competing": []
+  },
+  "clm_population_2011_c60d81f3": {
+    "id": "clm_population_2011_c60d81f3",
+    "claim_key": "population_2011",
+    "value": "1239",
+    "statement_hi": "2011 की जनगणना के अनुसार अजीतमाना की जनसंख्या 1,239 थी।",
+    "statement_en": "According to the 2011 Census, Ajeetmana had a population of 1,239.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "Population: 1,239"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई।",
+    "statement_en": "Land for the 34 villages of the Mahajan Field Firing Range was acquired in 1984-85.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "1984-85 में रक्षा मंत्रालय ने अधिग्रहीत की"
+      }
+    ],
+    "competing": []
+  },
+  "clm_total_acquisition_area_792fcc92": {
+    "id": "clm_total_acquisition_area_792fcc92",
+    "claim_key": "total_acquisition_area",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फायरिंग रेंज कुल 3.37 लाख एकड़ भूमि पर बनी है।",
+    "statement_en": "The Mahajan Field Firing Range covers a total of 3.37 lakh acres.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_displaced_villages_count_f1f836cb": {
+    "id": "clm_displaced_villages_count_f1f836cb",
+    "claim_key": "displaced_villages_count",
+    "value": "34",
+    "statement_hi": "34 गांवों को विस्थापित किया गया।",
+    "statement_en": "34 villages were displaced.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "34 गांवों को विस्थापित कर"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_1822b55a": {
+    "id": "clm_resettlement_sites_1822b55a",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna (irrigated areas)",
+    "statement_hi": "विस्थापित किसानों को खाजूवाला, डाटोर, पूगल, मोहनगढ़ और नाचना के सिंचित क्षेत्रों में भूमि दी गई।",
+    "statement_en": "Displaced farmers were allotted land in the irrigated areas of Khajuwala, Dantor, Pugal, Mohangadh and Nachna.",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_c37d5179aabc",
+        "text": "सिंचित क्षेत्रों में भूमि आवंटित"
+      }
+    ],
+    "competing": []
+  }
+}
