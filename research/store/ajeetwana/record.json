@@ -51,8 +51,8 @@
         "src_f07a8c256ae6",
         "src_c818a97c39d5",
         "src_a6f66da51d72",
-        "src_a5150b8b1d53",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a5150b8b1d53"
       ]
     },
     "people": {
@@ -61,8 +61,8 @@
         "src_dc27e87bee50",
         "src_7da0e757971f",
         "src_f07a8c256ae6",
-        "src_a5150b8b1d53",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a5150b8b1d53"
       ]
     },
     "culture": {
@@ -85,8 +85,8 @@
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
         "src_a6f66da51d72",
-        "src_c37d5179aabc",
-        "src_a5150b8b1d53"
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
       ]
     },
     "education": {
@@ -234,7 +234,7 @@
         ]
       },
       {
-        "id": "clm_founder_name_dcfae555",
+        "id": "clm_founder_name_687cfa87",
         "claim_key": "founder_name",
         "value": "Ajeeta (brother of Bhana)",
         "statement_hi": "अजीतमाना की स्थापना भाणा के छोटे भाई अजीता ने की थी।",
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "id": "clm_founding_period_cffbe028",
+        "id": "clm_founding_period_91c8f8b7",
         "claim_key": "founding_period",
         "value": "Vikram Samvat 1406 (~1349 CE)",
         "statement_hi": "गांव विक्रम संवत 1406 के आसपास बसाया गया माना जाता है।",
@@ -383,7 +383,7 @@
         "competing": []
       },
       {
-        "id": "clm_resettlement_sites_1822b55a",
+        "id": "clm_resettlement_sites_26037ff7",
         "claim_key": "resettlement_sites",
         "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna (irrigated areas)",
         "statement_hi": "विस्थापित किसानों को खाजूवाला, डाटोर, पूगल, मोहनगढ़ और नाचना के सिंचित क्षेत्रों में भूमि दी गई।",

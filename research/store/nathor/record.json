@@ -163,7 +163,7 @@
     "well_supported": [],
     "needs_verification": [
       {
-        "id": "clm_founding_clan_5ea204d4",
+        "id": "clm_founding_clan_851d8466",
         "claim_key": "founding_clan",
         "value": "Dhatarwal / धतरवाल",
         "statement_hi": "नाथौर (नाथुवास) की स्थापना धतरवाल गोत्र के नाथु धतरवाल ने की थी।",
@@ -184,7 +184,7 @@
         "competing": []
       },
       {
-        "id": "clm_founding_person_950793a2",
+        "id": "clm_founding_person_40eeeeea",
         "claim_key": "founding_person",
         "value": "Nathu Dhatarwal / नाथु धतरवाल",
         "statement_hi": "गांव का नाम नाथुजी धतरवाल के नाम पर पड़ा।",
@@ -247,7 +247,7 @@
         "competing": []
       },
       {
-        "id": "clm_resettlement_sites_6738d7a5",
+        "id": "clm_resettlement_sites_5453f673",
         "claim_key": "resettlement_sites",
         "value": "Sansardesar, Karnisar, Krishnanagar, Takhatpura, Samartha, Varani, Nathusar Vas (canal-irrigated areas)",
         "statement_hi": "विस्थापितों को संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी तथा नाथुसर वास सहित नहर क्षेत्रों में बसाया गया।",
@@ -289,7 +289,7 @@
         "competing": []
       },
       {
-        "id": "clm_temple_name_c43e3ae9",
+        "id": "clm_temple_name_5562c7e3",
         "claim_key": "temple_name",
         "value": "Nathu Dada (नाथूदादा) shrine at Khinyana",
         "statement_hi": "महाजन फील्ड फायरिंग रेंज के भीतर खीयाणा गांव के निकट नाथूदादा का एक भव्य मंदिर धतरवाल समुदाय द्वारा बनवाया गया है।",

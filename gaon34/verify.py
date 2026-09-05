@@ -3,7 +3,18 @@ import hashlib
 from collections import defaultdict
 from .normalize import norm_text, host_of
 
+import re
+
 STRONG_TYPES = {"government", "legal", "archive", "academic", "book"}
+
+
+def norm_value(v) -> str:
+    """Compare claim values on their core: drop parentheticals, slash/comma-separated glosses, unit words."""
+    s = str(v)
+    s = re.sub(r"\(.*?\)", " ", s)
+    s = s.split(" / ")[0]
+    s = re.sub(r"\b(per|as per|cited|generally|approx\.?|about)\b.*$", " ", s, flags=re.I)
+    return norm_text(s)
 REPOSITORY_HOSTS = ("indiankanoon.org", "sansad.in", "archive.org", "books.google", "wikipedia.org", "youtube.com", "facebook.com")
 
 
@@ -29,7 +40,7 @@ def build_claims(sources: dict[str, dict], existing: dict | None = None, verdict
     for key, items in groups.items():
         by_value: dict[str, dict] = {}
         for s, c in items:
-            vk = norm_text(str(c["value"]))
+            vk = norm_value(c["value"])
             e = by_value.setdefault(vk, {"value": c["value"], "statement_hi": c.get("statement_hi", ""), "statement_en": c.get("statement_en", ""),
                                          "sources": [], "hosts": set(), "strong": False, "snippets": []})
             e["sources"].append(s["id"])

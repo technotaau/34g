@@ -27,15 +27,15 @@
       "label": "यह गांव क्या है?",
       "source_ids": [
         "src_f525760f12bd",
-        "src_e6b1f74cf8ca",
-        "src_b27fa43b7bd0"
+        "src_b27fa43b7bd0",
+        "src_e6b1f74cf8ca"
       ]
     },
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_e6b1f74cf8ca",
-        "src_b27fa43b7bd0"
+        "src_b27fa43b7bd0",
+        "src_e6b1f74cf8ca"
       ]
     },
     "history": {
@@ -205,7 +205,7 @@
         "competing": []
       },
       {
-        "id": "clm_founding_clan_156818c6",
+        "id": "clm_founding_clan_66a7e7f6",
         "claim_key": "founding_clan",
         "value": "Dhatarwal Jat (धतरवाल जाट)",
         "statement_hi": "कोलाणा गांव धतरवाल जाट वंश द्वारा बसाया गया था।",
@@ -226,7 +226,7 @@
         "competing": []
       },
       {
-        "id": "clm_founder_name_86ca4b9d",
+        "id": "clm_founder_name_4c806958",
         "claim_key": "founder_name",
         "value": "Kolaram, son of Kaluram (कोलाराम, कालूराम के पुत्र)",
         "statement_hi": "कोलाराम ने कोलाणा गांव बसाया, संभवतः गांव का नाम भी उन्हीं के नाम पर पड़ा।",
@@ -270,7 +270,7 @@
         ]
       },
       {
-        "id": "clm_acquisition_year_388960d8",
+        "id": "clm_acquisition_year_e389dc21",
         "claim_key": "acquisition_year",
         "value": "1984-85 (land acquisition for all 34 villages, cited generally)",
         "statement_hi": "महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिग्रहित की गई।",

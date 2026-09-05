@@ -1,0 +1,254 @@
+{
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_clan_66a7e7f6": {
+    "id": "clm_founding_clan_66a7e7f6",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal Jat / धतरवाल जाट",
+    "statement_hi": "खिंयाणा गांव धतरवाल जाट समुदाय द्वारा नाथूदादा के देहावसान स्थल पर बसाया गया एक एेतिहासिक गांव है।",
+    "statement_en": "Khiyana is a historic village of the Dhatarwal Jat community, built at the death-site (samadhi) of folk deity Nathu Dada.",
+    "sources": [
+      "src_7da0e757971f",
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 2,
+    "has_strong_source": false,
+    "status": "corroborated",
+    "confidence": 0.7,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "नाथूदादा के देहावसान स्थल खिंयाणा (बीकानेर) में एक भव्य मंदिर बनवाया"
+      },
+      {
+        "source": "src_7da0e757971f",
+        "text": "Khiyana village...is the place of origin of Dhatarwal Jats in Rajasthan."
+      }
+    ],
+    "competing": []
+  },
+  "clm_temple_name_5c8d4367": {
+    "id": "clm_temple_name_5c8d4367",
+    "claim_key": "temple_name",
+    "value": "नाथूदादा मंदिर / Nathu Dada Temple",
+    "statement_hi": "खिंयाणा में नाथूदादा का मंदिर है जहाँ राजस्थान, पंजाब, हरियाणा से श्रद्धालु आते हैं।",
+    "statement_en": "Khiyana has a temple to folk deity Nathu Dada, drawing devotees from Rajasthan, Punjab and Haryana.",
+    "sources": [
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "यहां राजस्थान, पंजाब, हरियाणा के किसान वर्ग श्रद्धापूर्वक दादा की स्तुति करके मन्नतें मांगते हैं"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founder_name_b5a53236": {
+    "id": "clm_founder_name_b5a53236",
+    "claim_key": "founder_name",
+    "value": "खिंयाजी (Khiyaji, 2nd son of Nathu Dada)",
+    "statement_hi": "खिंयाणा गांव की स्थापना धतरवाल जाट समुदाय के खिंयाजी द्वारा की गई, जो नाथुदादा के दूसरे पुत्र थे।",
+    "statement_en": "Per this source, Khiyana was founded by Khiyaji of the Dhatarwal Jat community, Nathu Dada's second son (conflicts with Jatland's framing of Khiyana as Nathu's own origin village).",
+    "sources": [
+      "src_f525760f12bd"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f525760f12bd",
+        "text": "खिंयाणा गांव की स्थापना धतरवाल जाट समुदाय के खिंयाजी द्वारा की गई थी, जो नाथुदादा के दूसरे बेटे थे"
+      }
+    ],
+    "competing": []
+  },
+  "clm_fair_name_ed30ef88": {
+    "id": "clm_fair_name_ed30ef88",
+    "claim_key": "fair_name",
+    "value": "नाथू दादा मेला (annual Nathu Dada fair)",
+    "statement_hi": "खिंयाणा में हर वर्ष नाथू दादा की स्मृति में मेला आयोजित होता है।",
+    "statement_en": "An annual fair is held at Khiyana in memory of Nathu Dada.",
+    "sources": [
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7da0e757971f",
+        "text": "A festival is organized every year in memory of their ancestral person Nathu Dada."
+      }
+    ],
+    "competing": []
+  },
+  "clm_population_2011_a99ba72e": {
+    "id": "clm_population_2011_a99ba72e",
+    "claim_key": "population_2011",
+    "value": "2939",
+    "statement_hi": "2011 की जनगणना अनुसार खींयेरा गांव की जनसंख्या 2939 है (1544 पुरुष, 1395 महिला)।",
+    "statement_en": "As per the 2011 census, Kheenyera village has a population of 2,939 (1,544 male, 1,395 female).",
+    "sources": [
+      "src_587f45f5d5d9"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_587f45f5d5d9",
+        "text": "Kheenyera has a total population of 2,939, including 1,544 males and 1,395 females."
+      }
+    ],
+    "competing": []
+  },
+  "clm_households_2011_9ee0df7c": {
+    "id": "clm_households_2011_9ee0df7c",
+    "claim_key": "households_2011",
+    "value": "483",
+    "statement_hi": "खींयेरा गांव में 483 परिवार हैं।",
+    "statement_en": "Kheenyera has 483 households.",
+    "sources": [
+      "src_587f45f5d5d9"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_587f45f5d5d9",
+        "text": "There are 483 households in Kheenyera."
+      }
+    ],
+    "competing": []
+  },
+  "clm_area_hectares_b365ea35": {
+    "id": "clm_area_hectares_b365ea35",
+    "claim_key": "area_hectares",
+    "value": "1920",
+    "statement_hi": "खींयेरा गांव का क्षेत्रफल 1920 हेक्टेयर है।",
+    "statement_en": "Kheenyera village covers 1,920 hectares.",
+    "sources": [
+      "src_587f45f5d5d9"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_587f45f5d5d9",
+        "text": "The village covers a geographical area of 1920 hectares"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि रक्षा मंत्रालय द्वारा अधिग्रहित की गई।",
+    "statement_en": "Land from 34 villages was acquired by the Ministry of Defence in 1984-85 to create the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53",
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 गांवों को विस्थापित कर...महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      },
+      {
+        "source": "src_c37d5179aabc",
+        "text": "रक्षा मंत्रालय ने 34 गांवों से भूमि अधिग्रहित की — 1984-85"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_c314b98e": {
+    "id": "clm_resettlement_sites_c314b98e",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantaur, Pugal, Mohangarh, Nachna",
+    "statement_hi": "विस्थापित परिवारों को खाजूवाला, डांटौर, पूगल, मोहनगड़़ और नाचना क्षेत्रों में सिंचित भूमि आवंटित की गई।",
+    "statement_en": "Displaced families were allotted irrigated land in Khajuwala, Dantaur, Pugal, Mohangarh and Nachna.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "government provided housing compensation, agricultural land allocation in areas like Khajuwala, Dantaur, Pugal, Mohangarh, and Nachna"
+      }
+    ],
+    "competing": []
+  },
+  "clm_foreign_military_exercises_b8a43303": {
+    "id": "clm_foreign_military_exercises_b8a43303",
+    "claim_key": "foreign_military_exercises",
+    "value": "USA(2021), France(2015-16,2019), Russia(2013,2015), UK(2017), Oman",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज में अमेरिका, फ्रांस, रूस, ब्रिटेन और ओमान की सेनाओं के साथ संयुक्त सैन्याभ्यास हो चुके हैं।",
+    "statement_en": "Joint military exercises have been held at Mahajan Field Firing Range with USA, France, Russia, UK and Oman.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "joint training operations with United States (February 2021), France, Russia, Britain/UK (2017), Oman"
+      }
+    ],
+    "competing": []
+  }
+}

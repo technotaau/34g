@@ -7,7 +7,8 @@
       "manera",
       "khanisar",
       "chidasar",
-      "bhanabasti"
+      "bhanabasti",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -25,7 +26,8 @@
       "kolana",
       "chidasar",
       "ajeetwana",
-      "bhanabasti"
+      "bhanabasti",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -41,7 +43,8 @@
       "khanisar",
       "kolana",
       "chidasar",
-      "ajeetwana"
+      "ajeetwana",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -112,7 +115,8 @@
       "khanisar",
       "kolana",
       "chidasar",
-      "ajeetwana"
+      "ajeetwana",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -192,7 +196,8 @@
       "thoiya",
       "manera",
       "ajeetwana",
-      "nathor"
+      "nathor",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -277,7 +282,8 @@
   },
   "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F": {
     "villages": [
-      "kolana"
+      "kolana",
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -398,6 +404,30 @@
   "https://census2011.co.in/data/village/69628-nathoosar-rajasthan.html": {
     "villages": [
       "nathor"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/lunkaransar/kheenyera.html": {
+    "villages": [
+      "khiyana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://onefivenine.com/india/villages/Bikaner/Lunkaransar/Khinyera": {
+    "villages": [
+      "khiyana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://www.facebook.com/Khiyana-157523320969688": {
+    "villages": [
+      "khiyana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://census2011.co.in/data/village/69228-mahajan-rajasthan.html": {
+    "villages": [
+      "khiyana"
     ],
     "first_seen": "2026-09-05"
   }

@@ -11,16 +11,16 @@
 ### यह गांव क्या है?
 - [सदस्य:धतरवाल जाट (User page: Who are the Dhatarwal?)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · 2024-01-03 · स्कोर 84)
   - एक विकिपीडिया सदस्य पृष्ठ धतरवाल जाट वंश का इतिहास बताते हुए कहता है कि नाथूजी के परपोते कोलाराम (कालूराम के पुत्र) ने कोलाणा गांव बसाया था। इसी वंश ने कोलाणा सहित 12 गांव बसाए, जिनमें से 9 गांव 1981 से 1986 के बीच महाजन फील्ड फायरिंग रेंज के लिए खाली करवाए गए।
-- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
-  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 75 · समीक्षा हेतु)
   - यह जनगणना 2011 आधारित सूची लूणकरणसर तहसील (बीकानेर) के 125 गांवों को सूचीबद्ध करती है, लेकिन इसमें 'कोलाणा' नाम का कोई गांव सूचीबद्ध नहीं है — यह इस बात से मेल खाता है कि गांव 1981-1986 में खाली करवा दिया गया था और अब एक बसा हुआ राजस्व गांव नहीं है।
+- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
+  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 
 ### यह कहां स्थित है?
-- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
-  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 75 · समीक्षा हेतु)
   - यह जनगणना 2011 आधारित सूची लूणकरणसर तहसील (बीकानेर) के 125 गांवों को सूचीबद्ध करती है, लेकिन इसमें 'कोलाणा' नाम का कोई गांव सूचीबद्ध नहीं है — यह इस बात से मेल खाता है कि गांव 1981-1986 में खाली करवा दिया गया था और अब एक बसा हुआ राजस्व गांव नहीं है।
+- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
+  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [सदस्य:धतरवाल जाट (User page: Who are the Dhatarwal?)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · 2024-01-03 · स्कोर 84)

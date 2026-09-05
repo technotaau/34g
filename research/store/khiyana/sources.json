@@ -1,0 +1,1236 @@
+{
+  "src_f525760f12bd": {
+    "id": "src_f525760f12bd",
+    "village": "khiyana",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
+    "url_key": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
+    "title": "सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)",
+    "platform": "wikipedia",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "Hindi Wikipedia user \"धतरवाल जाट\"",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "खिंयाणा गांव का इतिहास दतरवाल"
+    ],
+    "summary": "यह विकिपीडिया सदस्य पृष्ठ (लेख नहीं) धतरवाल जाट समुदाय के लोक देवता नाथूदादा (देहावसान: वि.सं. 1444 / 1387 ई.) से जुडा इतिहास बताता है। नाथूदादा के देहावसान स्थल खिंयाणा (बीकानेर) में एक भव्य मंदिर बनवाया गया जहां राजस्थान, पंजाब और हरियाणा के किसान श्रद्धापूर्वक पूजा करते हैं। एक अन्य स्निप्पेट में यह भी मिला कि गांव की स्थापना पख्खो खिंयाजी (नाथूदादा के दूसरे पुत्र) ने की थी।",
+    "topics": [
+      "culture",
+      "history",
+      "land_agriculture",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner",
+      "बीकानेर",
+      "Lunkaransar",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाणा",
+    "evidence_snippets": [
+      "नाथूदादा के देहावसान के बाद क्षेत्र के लोगों ने उनके देहावसान स्थल खिंयाणा (बीकानेर) में एक भव्य मंदिर बनवाया",
+      "यहां राजस्थान, पंजाब, हरियाणा के किसान वर्ग श्रद्धापूर्वक दादा की स्तुति करके मन्नतें मांगते हैं"
+    ],
+    "entities": {
+      "people": [
+        "नाथू दादा (Nathu Dada)",
+        "खिंया जी (Khiyaji)"
+      ],
+      "places": [
+        "Khiyana",
+        "Bikaner",
+        "Lunkaransar"
+      ],
+      "events": [
+        "नाथूदादा का देहावसान (VS 1444 / 1387 CE)"
+      ],
+      "organizations": [
+        "धतरवाल जाट समाज"
+      ]
+    },
+    "license": "",
+    "attribution": "Hindi Wikipedia user page, धतरवाल जाट (uploader), undated",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [
+      "baderan"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal Jat / धतरवाल जाट",
+        "statement_hi": "खिंयाणा गांव धतरवाल जाट समुदाय द्वारा नाथूदादा के देहावसान स्थल पर बसाया गया एक एेतिहासिक गांव है।",
+        "statement_en": "Khiyana is a historic village of the Dhatarwal Jat community, built at the death-site (samadhi) of folk deity Nathu Dada.",
+        "snippet": "नाथूदादा के देहावसान स्थल खिंयाणा (बीकानेर) में एक भव्य मंदिर बनवाया"
+      },
+      {
+        "claim_key": "temple_name",
+        "value": "नाथूदादा मंदिर / Nathu Dada Temple",
+        "statement_hi": "खिंयाणा में नाथूदादा का मंदिर है जहाँ राजस्थान, पंजाब, हरियाणा से श्रद्धालु आते हैं।",
+        "statement_en": "Khiyana has a temple to folk deity Nathu Dada, drawing devotees from Rajasthan, Punjab and Haryana.",
+        "snippet": "यहां राजस्थान, पंजाब, हरियाणा के किसान वर्ग श्रद्धापूर्वक दादा की स्तुति करके मन्नतें मांगते हैं"
+      },
+      {
+        "claim_key": "founder_name",
+        "value": "खिंयाजी (Khiyaji, 2nd son of Nathu Dada)",
+        "statement_hi": "खिंयाणा गांव की स्थापना धतरवाल जाट समुदाय के खिंयाजी द्वारा की गई, जो नाथुदादा के दूसरे पुत्र थे।",
+        "statement_en": "Per this source, Khiyana was founded by Khiyaji of the Dhatarwal Jat community, Nathu Dada's second son (conflicts with Jatland's framing of Khiyana as Nathu's own origin village).",
+        "snippet": "खिंयाणा गांव की स्थापना धतरवाल जाट समुदाय के खिंयाजी द्वारा की गई थी, जो नाथुदादा के दूसरे बेटे थे"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.65,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Dhatarwal']",
+        "negative/other-place signals: ['Haryana', 'हरियाणा', 'Punjab']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "खिंयाणा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "बीकानेर",
+        "Dhatarwal",
+        "धतरवाल",
+        "Jat",
+        "जाट",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": [
+        "Haryana",
+        "हरियाणा",
+        "Punjab",
+        "पंजाब"
+      ]
+    },
+    "relevance": {
+      "score": 74,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 3,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "यह विकिपीडिया 'सदस्य' (उपयोगकर्ता) पृष्ठ है, संपादित लेख नहीं — सामग्री जाति-गौरव कथा शैली में है, स्वतंत्र सत्यापन आवश्यक। खिंयाजी-वाला दावा Jatland के दावे (नीचे देखें) से थोड़ा डिगता है — दोनों स्रोतों को संरक्षित किया गया है।"
+  },
+  "src_7da0e757971f": {
+    "id": "src_7da0e757971f",
+    "village": "khiyana",
+    "url": "https://www.jatland.com/home/Dhatarwal",
+    "url_key": "https://jatland.com/home/Dhatarwal",
+    "title": "Dhatarwal - धतरवाल (Jatland Wiki gotra page)",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "Jatland Wiki contributors",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en+hi",
+    "found_by_query": [
+      "Khiyana jatland Dhatarwal Bikaner"
+    ],
+    "summary": "जाटलैंड विकि के अनुसार लूणकरणसर तहसील का खिंयाणा गांव धतरवाल जाटों का मूल स्थान (place of origin) है और हर वर्ष उनके पूर्वज नाथू दादा की स्मृति में मेला आयोजित होता है। नाथू धतरवाल अपने चाचा कालू धतरवाल और मौसेरे भाई भिन्या राम रोज के साथ धात्री छोड़कर लूणकरणसर क्षेत्र के बादेरान में बसे थे।",
+    "topics": [
+      "culture",
+      "history",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Baderan",
+      "Dhatri (Sujangarh, Churu)"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Khiyana village in Lunkaransar tahsil of Bikaner is the place of origin of Dhatarwal Jats in Rajasthan. A festival is organized every year in memory of their ancestral person Nathu Dada."
+    ],
+    "entities": {
+      "people": [
+        "Nathu Dhatarwal",
+        "Kalu Dhatarwal",
+        "Bhinya Ram Roj",
+        "Malu",
+        "Kola"
+      ],
+      "places": [
+        "Khiyana",
+        "Baderan",
+        "Dhatri",
+        "Lunkaransar",
+        "Kolana"
+      ],
+      "events": [
+        "annual Nathu Dada memorial festival"
+      ],
+      "organizations": [
+        "Dhatarwal gotra"
+      ]
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Dhatarwal page (community-edited, unsigned)",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [
+      "baderan"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal Jat (place of origin)",
+        "statement_hi": "जाटलैंड के अनुसार खिंयाणा धतरवाल जाटों का मूल गांव है।",
+        "statement_en": "Jatland identifies Khiyana as the ancestral/origin village of the Dhatarwal Jat gotra.",
+        "snippet": "Khiyana village...is the place of origin of Dhatarwal Jats in Rajasthan."
+      },
+      {
+        "claim_key": "fair_name",
+        "value": "नाथू दादा मेला (annual Nathu Dada fair)",
+        "statement_hi": "खिंयाणा में हर वर्ष नाथू दादा की स्मृति में मेला आयोजित होता है।",
+        "statement_en": "An annual fair is held at Khiyana in memory of Nathu Dada.",
+        "snippet": "A festival is organized every year in memory of their ancestral person Nathu Dada."
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.65,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'कालू', 'Baderan']",
+        "negative/other-place signals: ['Churu']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "खिंयाणा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "कालू",
+        "Baderan",
+        "बादेरा",
+        "Dhatarwal",
+        "धतरवाल",
+        "Jat",
+        "जाट",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Churu"
+      ]
+    },
+    "relevance": {
+      "score": 70,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 3,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "पृष्ठ WebFetch से अवरुद्ध (HTTP 403) — केवल खोज-स्निपेट से जानकारी; पूर्ण पृष्ठ की पुष्टि आवश्यक। बादेरान भी 34-गांव सूची में पड़ोसी गांव है।"
+  },
+  "src_587f45f5d5d9": {
+    "id": "src_587f45f5d5d9",
+    "village": "khiyana",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/kheenyera.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/kheenyera.html",
+    "title": "Kheenyera Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Kheenyera census village Lunkaransar Bikaner"
+    ],
+    "summary": "यह पोर्टल कीनयेरा (Kheenyera) गांव का जनगणना 2011 डेटा दिखाता है — जनसंख्या 2939 (पुरुष 1544, महिला 1395), 483 परिवार, क्षेत्रफल 1920 हेक्टेयर, पिनकोड 334603, साक्षरता 44.50%। यह लूणकरणसर तहसील मुख्यालय से लगभग 20 किमी और बीकानेर जिला मुख्यालय से लगभग 60 किमी दूर स्थित है।",
+    "topics": [
+      "census_admin",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Kheenyera",
+    "evidence_snippets": [
+      "Kheenyera has a total population of 2,939, including 1,544 males and 1,395 females. There are 483 households in Kheenyera."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Kheenyera",
+        "Khinyera Gram Panchayat",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [
+        "Census 2011"
+      ],
+      "organizations": [
+        "Khinyera Gram Panchayat"
+      ]
+    },
+    "license": "",
+    "attribution": "villageinfo.in, Census 2011 data mirror",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "population_2011",
+        "value": "2939",
+        "statement_hi": "2011 की जनगणना अनुसार खींयेरा गांव की जनसंख्या 2939 है (1544 पुरुष, 1395 महिला)।",
+        "statement_en": "As per the 2011 census, Kheenyera village has a population of 2,939 (1,544 male, 1,395 female).",
+        "snippet": "Kheenyera has a total population of 2,939, including 1,544 males and 1,395 females."
+      },
+      {
+        "claim_key": "households_2011",
+        "value": "483",
+        "statement_hi": "खींयेरा गांव में 483 परिवार हैं।",
+        "statement_en": "Kheenyera has 483 households.",
+        "snippet": "There are 483 households in Kheenyera."
+      },
+      {
+        "claim_key": "area_hectares",
+        "value": "1920",
+        "statement_hi": "खींयेरा गांव का क्षेत्रफल 1920 हेक्टेयर है।",
+        "statement_en": "Kheenyera village covers 1,920 hectares.",
+        "snippet": "The village covers a geographical area of 1920 hectares"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: Kheenyera",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Kheenyera']"
+      ],
+      "matched_names": [
+        "Kheenyera",
+        "खींयेरा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Kheenyera",
+        "खींयेरा",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 81,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 6,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "शोध इकाई के नोट्स के अनुसार यह वही खींयेरा/Khinyera गांव माना जाता है जो रेंज सीमा के बाहर बचा हुआ पुराना खिंयाणा राजस्व गांव है (जनगणना कोड 069262) — लेकिन स्रोत में स्वयं यह संबंध स्पष्ट नहीं किया गया, पाइपलाइन सत्यापन करे। WebFetch पर 403 के कारण मूल पृष्ठ नहीं खुल सका, केवल खोज-स्निपेट प्रयुक्त।"
+  },
+  "src_d9fbc336ba0e": {
+    "id": "src_d9fbc336ba0e",
+    "village": "khiyana",
+    "url": "http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Khinyera",
+    "url_key": "https://onefivenine.com/india/villages/Bikaner/Lunkaransar/Khinyera",
+    "title": "Khinyera Village - Bikaner",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Kheenyera census village Lunkaransar Bikaner"
+    ],
+    "summary": "यह एक अन्य गांव-निर्देशिका पोर्टल है जो खिंयेरा (Khinyera), लूणकरणसर, बीकानेर की एक प्रविष्टि दिखाता है; पृष्ठ WebFetch से अवरुद्ध हो गया इसलिए विस्तृत डेटा नहीं मिल सका, केवल शीर्षक/लिस्टिंग की पुष्टि हुई।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khinyera",
+    "evidence_snippets": [
+      "Khinyera Village - Bikaner"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khinyera",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "onefivenine.com village directory",
+    "is_primary": false,
+    "reliability": 0.6,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: Khinyera",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+      ],
+      "matched_names": [
+        "Khinyera",
+        "खिंयेरा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 73,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 9,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "पृष्ठ WebFetch से 403 अवरुद्ध; केवल खोज परिणाम शीर्षक से पुष्टि। सामग्री villageinfo.in स्रोत से दोहरा सकती है।"
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "khiyana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "खिंयाणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह पत्रिका समाचार महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में विस्थापित 34 गांवों पर केंद्रित है। इसमें भोजरासर, कुम्भाणा, मोतलाई, खानीसर, थोइयां, म्नेरां और डूडर गांवों के नाम व विस्थापित निवासियों (राजू राम शर्मा, बजरंग लाल लखोटिया) के अनुभव दर्ज हैं, परंतु खिंयाणा गांव का नाम इस लेख में सीधे नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Pugal",
+      "Mohangarh",
+      "Nachna",
+      "Bhojrasar",
+      "Kumbhana"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों को विस्थापित कर...महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [
+        "Raju Ram Sharma",
+        "Bajrang Lal Lakhotia"
+      ],
+      "places": [
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiyan",
+        "Mneran",
+        "Duder",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition",
+        "Mahajan Field Firing Range creation"
+      ],
+      "organizations": [
+        "Ministry of Defence / रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि रक्षा मंत्रालय द्वारा अधिग्रहित की गई।",
+        "statement_en": "Land from 34 villages was acquired by the Ministry of Defence in 1984-85 to create the Mahajan Field Firing Range.",
+        "snippet": "34 गांवों को विस्थापित कर...महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantaur, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित परिवारों को खाजूवाला, डांटौर, पूगल, मोहनगड़़ और नाचना क्षेत्रों में सिंचित भूमि आवंटित की गई।",
+        "statement_en": "Displaced families were allotted irrigated land in Khajuwala, Dantaur, Pugal, Mohangarh and Nachna.",
+        "snippet": "government provided housing compensation, agricultural land allocation in areas like Khajuwala, Dantaur, Pugal, Mohangarh, and Nachna"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "खिंयाणा गांव का नाम इस लेख में उल्लेखित सूची में नहीं है (भोजरासर, कुम्भाणा, मोतलाई, खानीसर, थोइयां, म्नेरां, डूडर उल्लेखित हैं) — केवल भौगोलिक/विषयगत संदर्भ (महाजन फायरिंग रेंज, 34 गांव विस्थापन) के आधार पर दर्ज। सीधा उल्लेख नहीं।"
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "khiyana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "खिंयाणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज (3.37 लाख एकढ़) को 'एशिया का सबसे बड़ा युद्ध क्षेत्र' बताया गया है। लगभग चार दशक पहले 34 गांवों को विस्थापित किया गया था; खाली मकानों-घरों, चबूतरों और मंदिरों के खंडहर अभभी भी सेना अभ्यासों के बीच में खड़े हैं। खिंयाणा का सीधा उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Lunkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर...महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Bikaner",
+        "Lunkaransar"
+      ],
+      "events": [
+        "joint exercises with USA, France, Russia, UK, Oman"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "foreign_military_exercises",
+        "value": "USA(2021), France(2015-16,2019), Russia(2013,2015), UK(2017), Oman",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज में अमेरिका, फ्रांस, रूस, ब्रिटेन और ओमान की सेनाओं के साथ संयुक्त सैन्याभ्यास हो चुके हैं।",
+        "statement_en": "Joint military exercises have been held at Mahajan Field Firing Range with USA, France, Russia, UK and Oman.",
+        "snippet": "joint training operations with United States (February 2021), France, Russia, Britain/UK (2017), Oman"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "खिंयाणा का सीधा उल्लेख नहीं — केवल भौगोलिक/विषयगत संदर्भ के आधार पर दर्ज।"
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "khiyana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजड़णे का दर्द | Mahajan firing range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "खिंयाणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों की भूमि अधिग्रहित कर सभी निवासियों को एकसाथ विस्थापित किया गया; मकान, पेड़ और कृषि भूमि का मुआवज़ा दिया गया और खाजूवाला/डांतौर/पूगल/मोहनगड़़/नाचना में सिंचित भूमि आवंटित हुई। 34 साल बाद भी ग्रामीण अपने उजड़े आशियानों को नहीं भूल पाए।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Pugal",
+      "Mohangarh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "तमाम सुविधाओं के बाद भी बीते करीब २४ सालों में ग्रामीण अपने उजड़े आशियानों को नहीं भुल पाये है"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "रक्षा मंत्रालय ने 1984-85 में महाजन क्षेत्र में 34 गांवों से भूमि अधिग्रहित की।",
+        "statement_en": "The Defence Ministry acquired land from 34 villages in the Mahajan area during 1984-85.",
+        "snippet": "रक्षा मंत्रालय ने 34 गांवों से भूमि अधिग्रहित की — 1984-85"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "खिंयाणा का सीधा उल्लेख नहीं, न ही व्यक्तिगत उद्धरण। acquisition_year (1984-85) दो अन्य पत्रिका लेखों से मेल खाता है, परंतु शोध इकाई के नोट्स में '1982-84' दर्ज है — स्रोत स्पष्टीकरण जरूरी।"
+  },
+  "src_e725e5c87313": {
+    "id": "src_e725e5c87313",
+    "village": "khiyana",
+    "url": "https://www.facebook.com/Khiyana-157523320969688/",
+    "url_key": "https://www.facebook.com/Khiyana-157523320969688",
+    "title": "Khiyana | Facebook (community page, ~859 likes)",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Khiyana village Bikaner facebook"
+    ],
+    "summary": "खोज परिणामों में 'Khiyana' नामक एक फेसबुक कम्युनिटी पेज (लगभग 859 लाइक्स) मिला, परंतु पेज लॉगिन-दीवार के पीछे है इसलिए सामग्री, स्थान या भाषा की पुष्टि नहीं हो सकी।",
+    "topics": [
+      "religion_temple"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Khiyana Community page with 859 likes"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: Khiyana",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Khiyana"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 5,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "WebFetch लॉगिन-दीवार के कारण पेज सामग्री नहीं पड़ी (केवल Facebook लॉगिन पृष्ठ लौटा)। नाम मेल खाता है परंतु भौगोलिक पुष्टि अनुपस्थित — संभवतः असंबंधित ('Khiyana' अरबी/उर्दू में 'विश्वासघात' शब्द भी है)। मानव शोधकर्ता को लॉगिन करके सत्यापन करना चाहिए।"
+  },
+  "src_a6ab48f6e2a3": {
+    "id": "src_a6ab48f6e2a3",
+    "village": "khiyana",
+    "url": "https://www.census2011.co.in/data/village/69228-mahajan-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/village/69228-mahajan-rajasthan.html",
+    "title": "Mahajan Village Population - Lunkaransar - Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Khiyana Lunkaransar Mahajan"
+    ],
+    "summary": "महाजन गांव (लूणकरणसर तहसील, बीकानेर) की जनगणना 2011 जनसंख्या लगभग 7397 दिखाता है। यह खिंयाणा से संबंधित उप-तहसील मुख्यालय है परंतु खिंयाणा गांव का सीधा उल्लेख नहीं है।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan village has a population of around 7,397 people according to census data"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "census2011.co.in mirror of Census of India 2011",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 43,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "यह महाजन (उप-तहसील मुख्यालय) का पृष्ठ है, खिंयाणा का नहीं — केवल भौगोलिक संदर्भ हेतु दर्ज।"
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "khiyana",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Khiyana \"Mahajan Field Firing Range\""
+    ],
+    "summary": "भारतीय संसद पुस्तकालय (Sansad e-Library) में महाजन फील्ड फायरिंग रेंज पर एक दस्तावेज़/प्रश्नोत्तर सूचीबद्ध है, परंतु WebFetch से केवल शीर्षक ही मिला — तिथि, प्रकार या खिंयाणा का उल्लेख नहीं देखा जा सका (पृष्ठ जावास्क्रिप्ट-आधारित/लॉक हो सकता है)।",
+    "topics": [
+      "displacement",
+      "legal",
+      "military_range"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Rajasthan",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan Field Firing Range in Rajasthan"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "events": [],
+      "organizations": [
+        "Sansad e-Library / Parliament of India"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad e-Library (Parliament of India)",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 57,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175946Z"
+    ],
+    "notes": "सामग्री पूर्णतः लोड नहीं हुई; मानव शोधकर्ता को elibrary.sansad.in पर सीधे जाकर खोजकर पूर्ण दस्तावेज़ (शायद संसद प्रश्न/उत्तर) देखना चाहिए — 34 गांवों के अधिग्रहण पर आधिकारिक संसदीय उत्तर हो सकता है।"
+  }
+}

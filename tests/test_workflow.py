@@ -224,3 +224,9 @@ def test_claim_keys_are_canonicalised():
     assert pipeline.canonical_claim_key("Land Acquisition Year") == "acquisition_year"
     assert pipeline.canonical_claim_key("villages_displaced") == "villages_acquired_count"
     assert pipeline.canonical_claim_key("some_new_key") == "some_new_key"
+
+
+def test_claim_values_compared_on_core():
+    assert verify.norm_value("Dhatarwal Jat (place of origin)") == verify.norm_value("Dhatarwal Jat / धतरवाल जाट")
+    assert verify.norm_value("1984-85 (land acquisition, cited generally)") == verify.norm_value("1984-85")
+    assert verify.norm_value("1982") != verify.norm_value("1984-85")
