@@ -1,0 +1,874 @@
+{
+  "src_7da0e757971f": {
+    "id": "src_7da0e757971f",
+    "village": "manera",
+    "url": "https://www.jatland.com/home/Dhatarwal",
+    "url_key": "https://jatland.com/home/Dhatarwal",
+    "title": "Dhatarwal - धतरवाल (Jatland Wiki)",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "Jatland Wiki contributors",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en+hi",
+    "found_by_query": [
+      "Manera Bikaner jatland Dhatarwal"
+    ],
+    "summary": "जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के बादेरा में बसकर तालाब व कुएं बनवाए। नाथू 1387 ई. में सिंध के आक्रमणकारियों से लड़ते हुए मारे गए।",
+    "topics": [
+      "history",
+      "land_agriculture",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Baderan",
+      "बादेरा",
+      "Lunkaransar",
+      "लूणकरणसर",
+      "Bikaner",
+      "बीकानेर",
+      "Dhatarwal",
+      "Godara"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Manera",
+    "evidence_snippets": [
+      "Asu's eldest son was Mena after whom founded village Manera. Asu was Nathu Dhatarwal's younger brother.",
+      "12 villages founded by Dhatarwals include Manera, among others like Kumbhana, Kolana, Ajeetmana, Ladera, Bhanabasti, and Chudana."
+    ],
+    "entities": {
+      "people": [
+        "Nathu Dhatarwal",
+        "Asu",
+        "Mena",
+        "Rupa Godara",
+        "Narsi Godara"
+      ],
+      "places": [
+        "Baderan",
+        "Lunkaransar",
+        "Manera",
+        "Kumbhana",
+        "Kolana",
+        "Ajeetmana",
+        "Ladera",
+        "Bhanabasti",
+        "Chudana"
+      ],
+      "events": [
+        "settlement of Baderan (VS 1406 / 1349 AD)",
+        "death fighting Sindh invaders (1387 AD)"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, 'Dhatarwal' article",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [
+      "kumbhana",
+      "chudana",
+      "ajeetmana"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal Jat",
+        "statement_hi": "मणेरां गांव की स्थापना धतरवाल जाटों द्वारा हुई थी।",
+        "statement_en": "Manera village was founded by Dhatarwal Jats.",
+        "snippet": "12 villages founded by Dhatarwals include Manera"
+      },
+      {
+        "claim_key": "founder_name",
+        "value": "Mena (son of Asu)",
+        "statement_hi": "गांव का नाम असू के पुत्र मेना के नाम पर पड़ा।",
+        "statement_en": "The village is named after Mena, son of Asu, who founded it.",
+        "snippet": "Asu's eldest son was Mena after whom founded village Manera."
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Manera",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Baderan']"
+      ],
+      "matched_names": [
+        "Manera",
+        "मणेरां",
+        "मणेरा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Baderan",
+        "बादेरा",
+        "Ajeetmana",
+        "Dhatarwal",
+        "धतरवाल",
+        "Godara",
+        "गोदारा",
+        "जाट"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 79,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "WebFetch on this URL returned HTTP 403 (site blocks automated fetch); content above is drawn from WebSearch result snippets quoting the page, not a full read. A human researcher should open jatland.com/home/Dhatarwal directly in a browser to verify full context and check for a possibly separate 'Manera' or 'Maneran' Jatland page."
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "manera",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "मणेरां महाजन लूणकरणसर"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों की भूमि अधिग्रहित की गई थी, जिनमें भोजासर, कुम्हाना, मोतलाई, खानीसर, थोइया, मणेरां (Manera), डूडेर आदि शामिल हैं। विस्थापित परिवारों को खाजूवाला व पूगल क्षेत्र में सिंचित भूमि देकर मुआवजा दिया गया, लेकिन लगभग 37 साल बाद भी पुराने घरों और मंदिरों से भावनात्मक लगाव बना हुआ है और लोग त्योहारों पर वहां लौटते हैं।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Pugal",
+      "Bhojrasar",
+      "Kumhana",
+      "Motlai",
+      "Khanisar",
+      "Thoiya",
+      "Duder"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Manera",
+    "evidence_snippets": [
+      "34 villages including Bhojrasar, Kumhana, Motlai, Khanisar, Thoiya, Manera, Duder, and 28 others were acquired in 1984-85 for the Mahajan Field Firing Range.",
+      "These villages had Ram's blessings. The land was fertile and people shared brotherhood. Those were good times."
+    ],
+    "entities": {
+      "people": [
+        "Rajuram Sharma"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Khajuwala",
+        "Pugal"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "thoiya",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "मणेरां सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित की गई।",
+        "statement_en": "Land from 34 villages including Manera was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "The Ministry of Defence acquired land from 34 villages in the Mahajan area in 1984-85"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala / Pugal (canal-irrigated land)",
+        "statement_hi": "विस्थापितों को खाजूवाला और पूगल क्षेत्र में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced families were given irrigated land in the Khajuwala and Pugal areas.",
+        "snippet": "displaced residents from 34 villages who received compensation and agricultural land in areas like Khajuwala and Poogl"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Manera",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']"
+      ],
+      "matched_names": [
+        "Manera",
+        "मणेरां",
+        "मणेरा"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "Strong direct source explicitly naming Manera in the 34-village list. Full article text not fully retrieved (WebFetch summarized only); a human should re-fetch for the complete village list and full quotes."
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "manera",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "मणेरां महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह 2018 का पुराना संस्करण उसी विषय पर है: 1984-85 में रक्षा मंत्रालय द्वारा महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहित कर महाजन फील्ड फायरिंग रेंज बनाई गई। विस्थापित किसानों को खाजूवाला, डाँटोर, पूगल, मोहनगढ़ व नाचना क्षेत्र में मुआवजे के रूप में कृषि भूमि आवंटित हुई। 34 साल बाद भी पुराने घरों के प्रति भावनात्मक लगाव बना हुआ है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "The Ministry of Defence acquired land from 34 villages in the Mahajan region in 1984-85 to establish the Mahajan Field Firing Range."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna",
+        "statement_hi": "विस्थापितों को खाजूवाला, डाँटोर, पूगल, मोहनगढ़ और नाचना क्षेत्र में भूमि दी गई।",
+        "statement_en": "Displaced families were allotted land in Khajuwala, Dantor, Pugal, Mohangadh and Nachna areas.",
+        "snippet": "resettlement locations including Khajuwala, Dantor, Pugal, Mohangadh, and Nachna"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "WebFetch summary of this earlier (2018) version of the same Patrika story did not explicitly re-confirm the word 'Manera' in the extracted text (unlike the 2022 version), though it covers the same 34-village acquisition event. Likely names Manera too since it is the same recurring feature - flagged direct_mention false out of caution; a human should re-check the full article text."
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "manera",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Manera \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Parliament e-library (Sansad) catalog entry titled 'Mahajan Field Firing Range in Rajasthan', almost certainly a Lok Sabha/Rajya Sabha starred/unstarred question-and-answer on the range's history, land acquisition, or compensation. Automated fetch only returned the title; the underlying PDF/answer text was not retrievable by WebFetch.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [],
+      "organizations": [
+        "Parliament of India"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad (Parliament of India) e-library",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 55,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "High-value unexplored lead: likely contains an official list of the 34 acquired villages, acquisition dates, area, and compensation figures straight from a government answer. Needs a human to open the item page/PDF directly (automated text extraction failed)."
+  },
+  "src_4ab64be9f75d": {
+    "id": "src_4ab64be9f75d",
+    "village": "manera",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-in-rajasthan-hundreds-of-bombs-fired-every-day-20541582",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-in-rajasthan-hundreds-of-bombs-fired-every-day-20541582",
+    "title": "राजस्थान: यहां रोज दागे जाते हैं सैकड़ों बम, 25-30 KM दूर तक गूंजते हैं धमाके",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Santosh Trivedi",
+    "published_date": "2026-04-30",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "मणेरां महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज पर प्रतिदिन सैन्य अभ्यास होता है जिसकी आवाज़ 25-30 किमी दूर तक सुनाई देती है। लेख में आसपास के गांवों बालादासर, गूसाईंणा, मनोहरिया, रामसरा, फुलेजी, चक जोड़, आसरासर व जसवंतसर का उल्लेख है, लेकिन मणेरां का सीधा उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Baladasar",
+      "Gusaina",
+      "Manoharia",
+      "Ramsara",
+      "Phuleji",
+      "Chak Jod",
+      "Asrasar",
+      "Jaswantsar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Baladasar",
+        "Gusaina",
+        "Manoharia",
+        "Ramsara"
+      ],
+      "events": [],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Santosh Trivedi",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "Included for regional/military-range context only; Manera is not named in this article. Recorded per rule to keep weak/geo-context sources with direct_mention:false."
+  },
+  "src_b27fa43b7bd0": {
+    "id": "src_b27fa43b7bd0",
+    "village": "manera",
+    "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Manera Lunkaransar census village code panchayat"
+    ],
+    "summary": "Census2011 mirror lists all 125 villages of Lunkaransar tehsil with population figures; Manera/Maneran does not appear as an independent entry. Closest name matches are unrelated villages 'Manafarsar' and 'Manohariya'. This absence is consistent with Manera having been vacated for military use and folded into the separate 'Mahajan Fieldfiring Range' census unit rather than retaining its own population count.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Mahajan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "The complete alphabetical listing spans from '1 LKD' through 'Udeshiyan' - no entry for Manera or Maneran."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar tehsil"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "post_acquisition_census_status",
+        "value": "no independent census entry",
+        "statement_hi": "2011 की जनगणना में लूणकरणसर तहसील की सूची में मणेरां का कोई स्वतंत्र गांव कोड नहीं मिलता।",
+        "statement_en": "Manera has no independent village entry in the 2011 Census list for Lunkaransar tehsil.",
+        "snippet": "No entry for Manera or Maneran among 125 listed villages"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Manera",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Manera",
+        "Maneran"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "Negative/absence finding recorded per rules. Should be cross-checked against a pre-1981 census handbook (1971/1961) via Google Books/Shodhganga/Rajasthan State Archives to find Manera's last independent population figure before acquisition."
+  },
+  "src_8c5b127adbe8": {
+    "id": "src_8c5b127adbe8",
+    "village": "manera",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "title": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Maneran\" village Bikaner displaced firing range"
+    ],
+    "summary": "Village-info listing for the census unit 'Mahajan Fieldfiring Range' (village code 69202) in Lunkaransar tehsil, the administrative successor unit that appears to have absorbed the vacated 34 villages including Manera after 1984-85 land acquisition. Page was found via search snippet only; direct WebFetch was not attempted for this record.",
+    "topics": [
+      "census_admin",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Fieldfiring Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan Fieldfiring Range is a village located in Lunkaransar tehsil of Bikaner district in Rajasthan, India."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Fieldfiring Range"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "VillageInfo.in",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 42,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175424Z"
+    ],
+    "notes": "Geo-context only, no direct mention of Manera by name; useful for confirming the census-unit-merger hypothesis above."
+  }
+}

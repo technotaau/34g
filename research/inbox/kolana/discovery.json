@@ -1,0 +1,284 @@
+{
+ "village": "kolana",
+ "agent_notes": "Session-wide WebSearch budget was exhausted after only 9 of the planned ~25 queries could run (a shared cap across this environment, not this unit's own budget) — Tier 1 fully completed, Tier 2/3 mostly blocked, so coverage of social/video/image channels is thin and should be re-run separately. Best find: a Hindi Wikipedia user page (सदस्य:धतरवाल जाट) giving an origin story naming Kolana's founder (Kolaram, son of Kaluram) and dating its vacating to 1981-1986, alongside 11 sibling villages founded by the same lineage (Nathudada) — several of those sibling names (Kheenyera, Soolera, Bheekhnera, Meghana, Thoiya, Manera) match this unit's own 'nearby' list and a Patrika article's list of displaced villages, which cross-corroborates the cluster. Kolana does NOT appear in the current Census2011 Lunkaransar tehsil village list, consistent with it having been vacated/depopulated for the firing range and no longer existing as an inhabited revenue village. Spelling caution: 'Kolayat' (a Bikaner tehsil/town with a sacred lake, unrelated) and 'Kolana, Pipalda tehsil, Kota district' / 'Chetan Patel Kolana' (a different person/place in Kota) are false-positive traps that surface heavily on plain 'Kolana Bikaner' searches — both ruled out and logged below as excluded. jatland.com pages for both 'Kolana' and 'Mahajan' returned HTTP 403 to automated fetch and could not be read; a human researcher with a browser should check both directly. No dedicated news, video, social-media, or image source naming Kolana by name was found in the searches that did run.",
+ "searches_used": 9,
+ "sources": [
+  {
+   "village": "kolana",
+   "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
+   "title": "सदस्य:धतरवाल जाट (User page: Who are the Dhatarwal?)",
+   "platform": "wikipedia",
+   "source_type": "community_wiki",
+   "media_type": "text",
+   "author": "धतरवाल जाट (Wikipedia user, self-published)",
+   "published_date": "2024-01-03",
+   "language": "hi",
+   "found_by_query": "कोलाणा महाजन लूणकरणसर",
+   "summary": "एक विकिपीडिया सदस्य पृष्ठ धतरवाल जाट वंश का इतिहास बताते हुए कहता है कि नाथूजी के परपोते कोलाराम (कालूराम के पुत्र) ने कोलाणा गांव बसाया था। इसी वंश ने कोलाणा सहित 12 गांव बसाए, जिनमें से 9 गांव 1981 से 1986 के बीच महाजन फील्ड फायरिंग रेंज के लिए खाली करवाए गए।",
+   "topics": ["history", "founding", "displacement", "people_family", "military_range"],
+   "period": "pre_1900",
+   "geo_mentions": ["Mahajan", "महाजन", "Lunkaransar", "लूणकरणसर", "Bikaner"],
+   "direct_mention": true,
+   "name_form_matched": "कोलाणा",
+   "evidence_snippets": [
+    "नाथुजी के पिता मालूराम जी के चचेरे भाई कालूराम जी के पुत्र कोलाराम ने बड़े होकर कोलाणा गांव बसाया।",
+    "शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए"
+   ],
+   "entities": {
+    "people": ["कोलाराम", "कालूराम", "मालूराम", "नाथूजी (नाथूदादा)"],
+    "places": ["कोलाणा", "खिंयाणा", "सुलेरा", "भिखनेरा", "कुंभाणा", "अजीतवाणा", "लाडेरा", "भानाबस्ती", "मेघाणा", "मनेरा", "ठोईया", "नाथौर"],
+    "events": ["महाजन फील्ड फायरिंग रेंज हेतु 1981-1986 में गांव खाली करवाना"],
+    "organizations": []
+   },
+   "license": "",
+   "attribution": "Hindi Wikipedia user page, धतरवाल जाट, 2024",
+   "is_primary": false,
+   "related_villages": ["Kheenyera/खिंयाणा", "Soolera/सुलेरा", "Bheekhnera/भिखनेरा", "Meghana/मेघाणा", "Thoiya/ठोईया", "Manera/मनेरा", "कुंभाणा", "अजीतवाणा", "लाडेरा", "भानाबस्ती", "नाथौर"],
+   "claims": [
+    {
+     "claim_key": "founding_clan",
+     "value": "Dhatarwal Jat (धतरवाल जाट)",
+     "statement_hi": "कोलाणा गांव धतरवाल जाट वंश द्वारा बसाया गया था।",
+     "statement_en": "Kolana village was founded by the Dhatarwal Jat lineage.",
+     "snippet": "नाथुजी के... कोलाराम ने बड़े होकर कोलाणा गांव बसाया।"
+    },
+    {
+     "claim_key": "founder_name",
+     "value": "Kolaram, son of Kaluram (कोलाराम, कालूराम के पुत्र)",
+     "statement_hi": "कोलाराम ने कोलाणा गांव बसाया, संभवतः गांव का नाम भी उन्हीं के नाम पर पड़ा।",
+     "statement_en": "Kolaram, son of Kaluram, founded Kolana village; the village's name likely derives from his.",
+     "snippet": "कालूराम जी के पुत्र कोलाराम ने बड़े होकर कोलाणा गांव बसाया।"
+    },
+    {
+     "claim_key": "acquisition_year",
+     "value": "1981-1986",
+     "statement_hi": "कोलाणा सहित शेष गांव 1981 से 1986 के बीच महाजन फायरिंग रेंज के लिए खाली करवाए गए।",
+     "statement_en": "Kolana, among other villages, was vacated between 1981 and 1986 for the Mahajan Firing Range.",
+     "snippet": "शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "Self-published Wikipedia user page (not an article), single edit, no independent citation given for the genealogical claims — treat as a community oral-history claim needing corroboration, but it is the single strongest and most specific find of this run and directly matches the unit's own note ('Dhatarwal community history')."
+  },
+  {
+   "village": "kolana",
+   "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+   "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+   "platform": "patrika",
+   "source_type": "news",
+   "media_type": "text",
+   "author": "लूणाराम वर्मा / byline Hari Singh",
+   "published_date": "2022-11-29",
+   "language": "hi",
+   "found_by_query": "कोलाणा महाजन फायरिंग रेंज विस्थापित",
+   "summary": "राजस्थान पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए विस्थापित गांवों के निवासियों के दर्द पर केंद्रित है। इसमें भोजरासर, कुम्हाना, मोतलाई, खानीसर, ठोईया, मनेरा और डूडर गांवों का नाम लिया गया है, जो धतरवाल-वंश सूची में कोलाणा के पड़ोसी/सहोदर गांवों (ठोईया, मनेरा) से मेल खाते हैं, लेकिन कोलाणा का नाम सीधे नहीं लिया गया।",
+   "topics": ["displacement", "military_range", "land_agriculture"],
+   "period": "1981_1996",
+   "geo_mentions": ["Mahajan Field Firing Range", "महाजन", "Lunkaransar", "Bikaner", "ठोईया", "मनेरा"],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "कहने को तत्कालीन केन्द्र सरकार ने अच्छा-खासा मुआवजा व सिंचित क्षेत्र में जमीनों का आवंटन किया"
+   ],
+   "entities": {
+    "people": [],
+    "places": ["भोजरासर", "कुम्हाना", "मोतलाई", "खानीसर", "ठोईया", "मनेरा", "डूडर"],
+    "events": ["महाजन फील्ड फायरिंग रेंज विस्थापन"],
+    "organizations": ["केन्द्र सरकार (Government of India)"]
+   },
+   "license": "",
+   "attribution": "Rajasthan Patrika, 2022",
+   "is_primary": false,
+   "related_villages": ["Bhojrasar", "Kumhana", "Motlai", "Khanisar", "Thoiya", "Manera", "Duder"],
+   "claims": [
+    {
+     "claim_key": "resettlement_compensation",
+     "value": "irrigated land allotment + cash compensation",
+     "statement_hi": "विस्थापित किसानों को केंद्र सरकार ने मुआवजा और सिंचित क्षेत्र में जमीन आवंटित की।",
+     "statement_en": "Displaced farmers were given compensation and irrigated land allotments by the central government.",
+     "snippet": "अच्छा-खासा मुआवजा व सिंचित क्षेत्र में जमीनों का आवंटन किया"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "Kolana itself is not named in this article; recorded for geographic/thematic context (same firing-range displacement event, overlapping village cluster with sources that do name Kolana). Does not on its own establish direct_mention."
+  },
+  {
+   "village": "kolana",
+   "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+   "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+   "platform": "patrika",
+   "source_type": "news",
+   "media_type": "text",
+   "author": "Dinesh Kumar Swami",
+   "published_date": "2022-08-02",
+   "language": "hi",
+   "found_by_query": "कोलाणा महाजन फायरिंग रेंज विस्थापित",
+   "summary": "यह रिपोर्ट बताती है कि लगभग चार दशक पहले महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों को विस्थापित किया गया था; उनके मकान, तालाब और मंदिर आज भी खंडहर के रूप में मौजूद हैं। कोलाणा का नाम सीधे नहीं लिया गया।",
+   "topics": ["displacement", "military_range"],
+   "period": "1981_1996",
+   "geo_mentions": ["Mahajan Field Firing Range", "Lunkaransar", "Bikaner"],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "करीब चार दशक पहले 34 गांवों को विस्थापित कर",
+    "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं। हालांकि कच्चे-पक्के मकान खंडहर बन गए हैं।"
+   ],
+   "entities": {"people": [], "places": [], "events": ["34 गांवों का विस्थापन"], "organizations": ["रक्षा मंत्रालय (Ministry of Defence)"]},
+   "license": "",
+   "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2022",
+   "is_primary": false,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "abandoned_structures_survive",
+     "value": "houses, ponds, temples remain as ruins",
+     "statement_hi": "विस्थापित गांवों के मकान, तालाब और मंदिर आज भी खंडहर रूप में मौजूद हैं।",
+     "statement_en": "Houses, ponds and temples of the displaced villages still stand today, now in ruins.",
+     "snippet": "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं।"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "General firing-range context article, Kolana not named; useful for the broader 34-village narrative and for confirming physical remnants (temples/ponds) may still exist on-site, a possible lead for imagery."
+  },
+  {
+   "village": "kolana",
+   "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+   "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+   "platform": "patrika",
+   "source_type": "news",
+   "media_type": "text",
+   "author": "Jay Kumar Bhati",
+   "published_date": "2018-11-05",
+   "language": "hi",
+   "found_by_query": "कोलाणा महाजन फायरिंग रेंज विस्थापित",
+   "summary": "2018 की यह पत्रिका रिपोर्ट बताती है कि महाजन फील्ड फायरिंग रेंज की स्थापना के लिए अधिग्रहित किए गए 34 गांवों के किसानों को केंद्र सरकार ने मुआवजा और सिंचित भूमि आवंटित की थी। कोलाणा का नाम विशेष रूप से नहीं लिया गया।",
+   "topics": ["displacement", "land_agriculture", "military_range"],
+   "period": "1981_1996",
+   "geo_mentions": ["Mahajan Field Firing Range", "Lunkaransar", "Bikaner"],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "महाजन फील्ड फायरिंग रेंज की स्थापना के लिए अधिग्रहित किये गए ३४ गांवों के किसानों को कहने को तत्कालीन केन्द्र सरकार ने अच्छा-खासा मुआवजा व सिंचित क्षेत्र में जमीनों का आवंटन किया"
+   ],
+   "entities": {"people": [], "places": [], "events": ["34 गांवों का भूमि अधिग्रहण 1984-85"], "organizations": ["केन्द्र सरकार"]},
+   "license": "",
+   "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 2018",
+   "is_primary": false,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "acquisition_year",
+     "value": "1984-85 (land acquisition for all 34 villages, cited generally)",
+     "statement_hi": "महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिग्रहित की गई।",
+     "statement_en": "Land for all 34 villages, including this cluster, was acquired around 1984-85 for the Mahajan Firing Range.",
+     "snippet": "34 गांवों के किसानों को... सिंचित क्षेत्र में जमीनों का आवंटन किया"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "General context, no direct Kolana mention; corroborates the wider 1984-85 acquisition date sometimes cited (vs. the Dhatarwal wiki page's narrower 1981-1986 vacating window for Kolana's own cluster of 9 villages)."
+  },
+  {
+   "village": "kolana",
+   "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html",
+   "title": "Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
+   "platform": "mapsofindia.com",
+   "source_type": "website",
+   "media_type": "map",
+   "author": "",
+   "published_date": "",
+   "language": "en",
+   "found_by_query": "Kolana village history Bikaner",
+   "summary": "यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।",
+   "topics": ["census_admin"],
+   "period": "2016_present",
+   "geo_mentions": ["Lunkaransar", "Bikaner", "Rajasthan"],
+   "direct_mention": true,
+   "name_form_matched": "Kolana",
+   "evidence_snippets": [
+    "kolana Google map shows the location of kolana village under lunkaransar, , bikaner, of rajasthan state using Google Maps data."
+   ],
+   "entities": {"people": [], "places": [], "events": [], "organizations": []},
+   "license": "",
+   "attribution": "MapsOfIndia.com",
+   "is_primary": false,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "administrative_location",
+     "value": "Lunkaransar tehsil, Bikaner district, Rajasthan",
+     "statement_hi": "कोलाणा गांव लूणकरणसर तहसील, बीकानेर जिले, राजस्थान में स्थित है।",
+     "statement_en": "Kolana village is located in Lunkaransar tehsil, Bikaner district, Rajasthan.",
+     "snippet": "kolana village under lunkaransar, , bikaner, of rajasthan state"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "Low-detail directory listing; page content was retrieved via an AI summarizer rather than read verbatim, so treat the exact wording as approximate. Confirms only that the village is indexed under Lunkaransar tehsil, consistent with the unit's geo data — worth a human re-check of the raw page for coordinates/population."
+  },
+  {
+   "village": "kolana",
+   "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+   "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+   "platform": "census2011.co.in",
+   "source_type": "census_mirror",
+   "media_type": "dataset",
+   "author": "",
+   "published_date": "2011",
+   "language": "en",
+   "found_by_query": "Kolana Lunkaransar census village code panchayat",
+   "summary": "यह जनगणना 2011 आधारित सूची लूणकरणसर तहसील (बीकानेर) के 125 गांवों को सूचीबद्ध करती है, लेकिन इसमें 'कोलाणा' नाम का कोई गांव सूचीबद्ध नहीं है — यह इस बात से मेल खाता है कि गांव 1981-1986 में खाली करवा दिया गया था और अब एक बसा हुआ राजस्व गांव नहीं है।",
+   "topics": ["census_admin", "displacement"],
+   "period": "2016_present",
+   "geo_mentions": ["Lunkaransar", "Bikaner", "Rajasthan"],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "list of 125 villages documented... Kolana does not appear in this comprehensive census data"
+   ],
+   "entities": {"people": [], "places": [], "events": [], "organizations": []},
+   "license": "",
+   "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
+   "is_primary": false,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "not_in_2011_census",
+     "value": "Kolana absent from current Lunkaransar tehsil village list",
+     "statement_hi": "2011 की जनगणना सूची में लूणकरणसर तहसील के अंतर्गत कोलाणा नाम का कोई गांव नहीं मिलता, जो इसके विस्थापन/निर्जनीकरण के अनुरूप है।",
+     "statement_en": "Kolana does not appear in the 2011 Census list of Lunkaransar tehsil villages, consistent with its having been vacated for the firing range.",
+     "snippet": "Kolana does not appear in this comprehensive census data"
+    }
+   ],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "Negative evidence only (absence of a listing), included because it corroborates the displacement/depopulation claim from other sources; a human should verify by opening the raw page rather than relying on this summarized extraction."
+  },
+  {
+   "village": "kolana",
+   "url": "https://en.wikipedia.org/wiki/Chetan_Patel_Kolana",
+   "title": "Chetan Patel Kolana",
+   "platform": "wikipedia",
+   "source_type": "encyclopedia",
+   "media_type": "text",
+   "author": "",
+   "published_date": "",
+   "language": "en",
+   "found_by_query": "34 gaon Kolana Mahajan",
+   "summary": "यह विकिपीडिया पृष्ठ चेतन पटेल कोलाणा नामक एक व्यक्ति (कोटा जिले के पीपल्दा विधानसभा क्षेत्र से 16वीं राजस्थान विधानसभा के सदस्य) के बारे में है। यह हमारे शोध विषय बीकानेर/लूणकरणसर के कोलाणा गांव से असंबंधित प्रतीत होता है।",
+   "topics": [],
+   "period": "",
+   "geo_mentions": ["Kota district", "Pipalda"],
+   "direct_mention": false,
+   "name_form_matched": "Kolana (surname)",
+   "evidence_snippets": [
+    "a member of the 16th Rajasthan Assembly from Pipalda Assembly constituency of the Kota district"
+   ],
+   "entities": {"people": ["Chetan Patel Kolana"], "places": ["Kota district", "Pipalda"], "events": [], "organizations": ["16th Rajasthan Assembly"]},
+   "license": "",
+   "attribution": "Wikipedia",
+   "is_primary": false,
+   "related_villages": [],
+   "claims": [],
+   "media": {"channel": "", "uploader": "", "caption": "", "creator": "", "transcript_available": "", "timestamps": "", "book_title": "", "pages": ""},
+   "notes": "FALSE-POSITIVE TRAP, logged to prevent re-investigation: this 'Kolana' is a surname tied to a politician from Kota district (Pipalda constituency), not the Bikaner/Lunkaransar village. See also 'Kolayat' (Bikaner tehsil with a sacred lake) and 'Kolana, Pipalda tehsil, Kota' (a separate village on mapsofindia) as other same-name confusions surfaced by plain 'Kolana Bikaner'-style queries."
+  }
+ ]
+}

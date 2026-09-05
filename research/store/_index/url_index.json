@@ -3,7 +3,8 @@
     "villages": [
       "34-gaon",
       "bhojrasar",
-      "motlai"
+      "motlai",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
@@ -14,7 +15,8 @@
       "kumbhana",
       "duder",
       "thoiya",
-      "motlai"
+      "motlai",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
@@ -24,7 +26,8 @@
       "bhojrasar",
       "duder",
       "thoiya",
-      "motlai"
+      "motlai",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
@@ -125,7 +128,8 @@
   "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html": {
     "villages": [
       "bhojrasar",
-      "duder"
+      "duder",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
@@ -161,7 +165,8 @@
   },
   "https://jatland.com/home/Dhatarwal": {
     "villages": [
-      "thoiya"
+      "thoiya",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
@@ -173,13 +178,20 @@
   },
   "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html": {
     "villages": [
-      "motlai"
+      "motlai",
+      "manera"
     ],
     "first_seen": "2026-09-05"
   },
   "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt": {
     "villages": [
       "motlai"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://patrika.com/bikaner-news/mahajan-field-firing-range-in-rajasthan-hundreds-of-bombs-fired-every-day-20541582": {
+    "villages": [
+      "manera"
     ],
     "first_seen": "2026-09-05"
   }

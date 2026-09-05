@@ -1,0 +1,164 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "मणेरां सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित की गई।",
+    "statement_en": "Land from 34 villages including Manera was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "The Ministry of Defence acquired land from 34 villages in the Mahajan area in 1984-85"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_b5a8030a": {
+    "id": "clm_resettlement_sites_b5a8030a",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala / Pugal (canal-irrigated land)",
+    "statement_hi": "विस्थापितों को खाजूवाला और पूगल क्षेत्र में सिंचित भूमि दी गई।",
+    "statement_en": "Displaced families were given irrigated land in the Khajuwala and Pugal areas.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "displaced residents from 34 villages who received compensation and agricultural land in areas like Khajuwala and Poogl"
+      }
+    ],
+    "competing": [
+      "Khajuwala, Dantor, Pugal, Mohangadh, Nachna"
+    ]
+  },
+  "clm_resettlement_sites_26037ff7": {
+    "id": "clm_resettlement_sites_26037ff7",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna",
+    "statement_hi": "विस्थापितों को खाजूवाला, डाँटोर, पूगल, मोहनगढ़ और नाचना क्षेत्र में भूमि दी गई।",
+    "statement_en": "Displaced families were allotted land in Khajuwala, Dantor, Pugal, Mohangadh and Nachna areas.",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_c37d5179aabc",
+        "text": "resettlement locations including Khajuwala, Dantor, Pugal, Mohangadh, and Nachna"
+      }
+    ],
+    "competing": [
+      "Khajuwala / Pugal (canal-irrigated land)"
+    ]
+  },
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_clan_66a7e7f6": {
+    "id": "clm_founding_clan_66a7e7f6",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal Jat",
+    "statement_hi": "मणेरां गांव की स्थापना धतरवाल जाटों द्वारा हुई थी।",
+    "statement_en": "Manera village was founded by Dhatarwal Jats.",
+    "sources": [
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7da0e757971f",
+        "text": "12 villages founded by Dhatarwals include Manera"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founder_name_3bcfdea0": {
+    "id": "clm_founder_name_3bcfdea0",
+    "claim_key": "founder_name",
+    "value": "Mena (son of Asu)",
+    "statement_hi": "गांव का नाम असू के पुत्र मेना के नाम पर पड़ा।",
+    "statement_en": "The village is named after Mena, son of Asu, who founded it.",
+    "sources": [
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7da0e757971f",
+        "text": "Asu's eldest son was Mena after whom founded village Manera."
+      }
+    ],
+    "competing": []
+  },
+  "clm_post_acquisition_census_status_f3f61e38": {
+    "id": "clm_post_acquisition_census_status_f3f61e38",
+    "claim_key": "post_acquisition_census_status",
+    "value": "no independent census entry",
+    "statement_hi": "2011 की जनगणना में लूणकरणसर तहसील की सूची में मणेरां का कोई स्वतंत्र गांव कोड नहीं मिलता।",
+    "statement_en": "Manera has no independent village entry in the 2011 Census list for Lunkaransar tehsil.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "No entry for Manera or Maneran among 125 listed villages"
+      }
+    ],
+    "competing": []
+  }
+}

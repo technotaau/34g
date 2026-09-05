@@ -8,7 +8,7 @@
 | मोटलाई (Motlai) | 6 | 1 | 0 | 5 | 5 | [report](store/motlai/report.md) |
 | खानीसर (Khanisar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | ठोईयां (Thoiya) | 6 | 4 | 0 | 7 | 7 | [report](store/thoiya/report.md) |
-| मणेरां (Manera) | – | – | – | – | – | _अभी शोध नहीं_ |
+| मणेरां (Manera) | 7 | 2 | 1 | 8 | 8 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 6 | 6 | [report](store/duder/report.md) |
 | चिड़ासर (Chidasar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | मेऊसर (Meusar) | – | – | – | – | – | _अभी शोध नहीं_ |

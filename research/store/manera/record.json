@@ -1,0 +1,807 @@
+{
+  "village": {
+    "slug": "manera",
+    "name_en": "Manera",
+    "name_hi": "मणेरां",
+    "status": "acquired",
+    "notes": "Dhatarwal village.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-05",
+  "counts": {
+    "sources_total": 7,
+    "accepted": 2,
+    "context": 4,
+    "review": 1,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 8
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_7da0e757971f",
+        "src_b27fa43b7bd0",
+        "src_4fb2da84d5a4",
+        "src_8c5b127adbe8"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_b27fa43b7bd0",
+        "src_4fb2da84d5a4",
+        "src_8c5b127adbe8"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_7da0e757971f",
+        "src_b27fa43b7bd0",
+        "src_4fb2da84d5a4",
+        "src_c37d5179aabc",
+        "src_4ab64be9f75d"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_7da0e757971f"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_4ab64be9f75d"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_4ab64be9f75d"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_7da0e757971f",
+        "src_4fb2da84d5a4",
+        "src_c37d5179aabc",
+        "src_8c5b127adbe8"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": [
+        "src_4fb2da84d5a4"
+      ]
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_b27fa43b7bd0",
+        "src_4fb2da84d5a4",
+        "src_8c5b127adbe8"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc",
+        "src_4ab64be9f75d"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Asu",
+      "Mena",
+      "Narsi Godara",
+      "Nathu Dhatarwal",
+      "Rajuram Sharma",
+      "Rupa Godara"
+    ],
+    "places": [
+      "Ajeetmana",
+      "Baderan",
+      "Baladasar",
+      "Bhanabasti",
+      "Chudana",
+      "Dantor",
+      "Gusaina",
+      "Khajuwala",
+      "Kolana",
+      "Kumbhana",
+      "Ladera",
+      "Lunkaransar",
+      "Lunkaransar tehsil",
+      "Mahajan Field Firing Range",
+      "Mahajan Fieldfiring Range",
+      "Manera",
+      "Manoharia",
+      "Mohangadh",
+      "Nachna",
+      "Pugal",
+      "Ramsara"
+    ],
+    "events": [
+      "1984-85 acquisition",
+      "1984-85 land acquisition",
+      "death fighting Sindh invaders (1387 AD)",
+      "settlement of Baderan (VS 1406 / 1349 AD)"
+    ],
+    "organizations": [
+      "Indian Army",
+      "Ministry of Defence",
+      "Parliament of India"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "मणेरां सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित की गई।",
+        "statement_en": "Land from 34 villages including Manera was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "The Ministry of Defence acquired land from 34 villages in the Mahajan area in 1984-85"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_b5a8030a",
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala / Pugal (canal-irrigated land)",
+        "statement_hi": "विस्थापितों को खाजूवाला और पूगल क्षेत्र में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced families were given irrigated land in the Khajuwala and Pugal areas.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "displaced residents from 34 villages who received compensation and agricultural land in areas like Khajuwala and Poogl"
+          }
+        ],
+        "competing": [
+          "Khajuwala, Dantor, Pugal, Mohangadh, Nachna"
+        ]
+      },
+      {
+        "id": "clm_resettlement_sites_26037ff7",
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangadh, Nachna",
+        "statement_hi": "विस्थापितों को खाजूवाला, डाँटोर, पूगल, मोहनगढ़ और नाचना क्षेत्र में भूमि दी गई।",
+        "statement_en": "Displaced families were allotted land in Khajuwala, Dantor, Pugal, Mohangadh and Nachna areas.",
+        "sources": [
+          "src_c37d5179aabc"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "conflicting",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_c37d5179aabc",
+            "text": "resettlement locations including Khajuwala, Dantor, Pugal, Mohangadh, and Nachna"
+          }
+        ],
+        "competing": [
+          "Khajuwala / Pugal (canal-irrigated land)"
+        ]
+      },
+      {
+        "id": "clm_evacuation_period_b223afcb",
+        "claim_key": "evacuation_period",
+        "value": "1981-1986",
+        "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+        "statement_en": "",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_founding_person_40eeeeea",
+        "claim_key": "founding_person",
+        "value": "Nathu Dhatarwal",
+        "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+        "statement_en": "",
+        "sources": [
+          "src_dc27e87bee50"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_founding_clan_66a7e7f6",
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal Jat",
+        "statement_hi": "मणेरां गांव की स्थापना धतरवाल जाटों द्वारा हुई थी।",
+        "statement_en": "Manera village was founded by Dhatarwal Jats.",
+        "sources": [
+          "src_7da0e757971f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_7da0e757971f",
+            "text": "12 villages founded by Dhatarwals include Manera"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_founder_name_3bcfdea0",
+        "claim_key": "founder_name",
+        "value": "Mena (son of Asu)",
+        "statement_hi": "गांव का नाम असू के पुत्र मेना के नाम पर पड़ा।",
+        "statement_en": "The village is named after Mena, son of Asu, who founded it.",
+        "sources": [
+          "src_7da0e757971f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_7da0e757971f",
+            "text": "Asu's eldest son was Mena after whom founded village Manera."
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_post_acquisition_census_status_f3f61e38",
+        "claim_key": "post_acquisition_census_status",
+        "value": "no independent census entry",
+        "statement_hi": "2011 की जनगणना में लूणकरणसर तहसील की सूची में मणेरां का कोई स्वतंत्र गांव कोड नहीं मिलता।",
+        "statement_en": "Manera has no independent village entry in the 2011 Census list for Lunkaransar tehsil.",
+        "sources": [
+          "src_b27fa43b7bd0"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_b27fa43b7bd0",
+            "text": "No entry for Manera or Maneran among 125 listed villages"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_b27fa43b7bd0",
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Manera",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ]
+    }
+  ],
+  "sources": {
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Manera",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']"
+        ],
+        "matched_names": [
+          "Manera",
+          "मणेरां",
+          "मणेरा"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "land_agriculture",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+      "is_primary": false
+    },
+    "src_7da0e757971f": {
+      "url": "https://www.jatland.com/home/Dhatarwal",
+      "title": "Dhatarwal - धतरवाल (Jatland Wiki)",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 79,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 4,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Manera",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Baderan']"
+        ],
+        "matched_names": [
+          "Manera",
+          "मणेरां",
+          "मणेरा"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Baderan",
+          "बादेरा",
+          "Ajeetmana",
+          "Dhatarwal",
+          "धतरवाल",
+          "Godara",
+          "गोदारा",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "history",
+        "land_agriculture",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki, 'Dhatarwal' article",
+      "is_primary": false
+    },
+    "src_b27fa43b7bd0": {
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Manera",
+          "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Manera",
+          "Maneran"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
+      "is_primary": false
+    },
+    "src_4fb2da84d5a4": {
+      "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+      "title": "Mahajan Field Firing Range in Rajasthan",
+      "platform": "sansad",
+      "source_type": "government",
+      "media_type": "document",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 55,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 14,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 0,
+          "recency": 0,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "history",
+        "land_agriculture",
+        "legal",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Sansad (Parliament of India) e-library",
+      "is_primary": true
+    },
+    "src_c37d5179aabc": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2018-11-05",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+      "is_primary": false
+    },
+    "src_4ab64be9f75d": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-in-rajasthan-hundreds-of-bombs-fired-every-day-20541582",
+      "title": "राजस्थान: यहां रोज दागे जाते हैं सैकड़ों बम, 25-30 KM दूर तक गूंजते हैं धमाके",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2026-04-30",
+      "language": "hi",
+      "relevance": {
+        "score": 44,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 0,
+          "recency": 3,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "Rajasthan",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Santosh Trivedi",
+      "is_primary": false
+    },
+    "src_8c5b127adbe8": {
+      "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+      "title": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 42,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "VillageInfo.in",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_a5150b8b1d53",
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द"
+    },
+    {
+      "id": "src_dc27e87bee50",
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "जाट धतरवाल इतिहास (Hindi Wikipedia user page)"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260905T175424Z",
+      "file": "/home/user/34g/research/inbox/manera/discovery.json",
+      "input": 7,
+      "invalid": 0,
+      "new": 7,
+      "updated": 0,
+      "errors": [],
+      "total_after": 7,
+      "at": "2026-09-05T17:54:25.063561+00:00"
+    }
+  ]
+}
