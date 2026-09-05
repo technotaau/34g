@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 1, स्वीकृत 1, पृष्ठभूमि (context) 0, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 17
+स्रोत: कुल 1, स्वीकृत 1, पृष्ठभूमि (context) 0, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 16
 
 > Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude.
 
@@ -83,8 +83,7 @@ _कोई नहीं_
 - **temple_name** = Thakurji Mandir · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **ghirt_stone_grinder** = camel-driven stone wheel grinding powder used as cement alternative · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **village_well_exists** = yes (main well of the village water system) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **first_house_birth_room** = three generations born in the first house of the village · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['four generations born in / standing in the first house of the village'] · स्रोत: src_02fff109d15c
-- **first_house_birth_room** = four generations born in / standing in the first house of the village · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['three generations born in the first house of the village'] · स्रोत: src_02fff109d15c
+- **first_house_birth_room** = four generations born in / standing in the first house of the village · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **crops_field_memory** = grandmother hand-harvested crops in the family field · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **resettlement_sites** = Sherpura (Lunkaransar tehsil, Bikaner) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **range_area_acres** = 337000 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c

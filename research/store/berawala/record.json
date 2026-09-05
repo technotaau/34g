@@ -20,7 +20,7 @@
     "review": 0,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 17
+    "claims": 16
   },
   "questions": {
     "what": {
@@ -346,29 +346,6 @@
         "competing": []
       },
       {
-        "id": "clm_first_house_birth_room_c445d521",
-        "claim_key": "first_house_birth_room",
-        "value": "three generations born in the first house of the village",
-        "statement_hi": "गांव के पहले मकान के एक कमरे में तीन पीढ़ियाँ जन्मीं",
-        "statement_en": "Three generations were born in one room of the village's first house",
-        "sources": [
-          "src_02fff109d15c"
-        ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "conflicting",
-        "confidence": 0.55,
-        "evidence": [
-          {
-            "source": "src_02fff109d15c",
-            "text": "This was the first house built in the village ... All of us got birth in this room only"
-          }
-        ],
-        "competing": [
-          "four generations born in / standing in the first house of the village"
-        ]
-      },
-      {
         "id": "clm_first_house_birth_room_e4355554",
         "claim_key": "first_house_birth_room",
         "value": "four generations born in / standing in the first house of the village",
@@ -379,17 +356,15 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "conflicting",
-        "confidence": 0.55,
+        "status": "single-source",
+        "confidence": 0.5,
         "evidence": [
           {
             "source": "src_02fff109d15c",
             "text": "4 GENERATIONS are standing in that room"
           }
         ],
-        "competing": [
-          "three generations born in the first house of the village"
-        ]
+        "competing": []
       },
       {
         "id": "clm_crops_field_memory_fa65c376",
@@ -619,6 +594,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 1,
       "at": "2026-09-05T20:23:11.824128+00:00"
+    },
+    {
+      "run_id": "run_20260905T202337Z",
+      "file": "/home/user/34g/research/inbox/berawala/discovery.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 2,
+      "agent_notes": "Manual pull by TechnoTaau Team from a Google result screenshot (5 Sep 2026). Video located via YouTube search page (id a37vCzQOq4o), metadata via oEmbed + yt-dlp. Watch page itself returns 'sign in to confirm you are not a bot' to plain fetches. Channel has only this one video. No other Berawala-specific press found in one Hindi search; Google auto-corrects to 'Barwala' (Haryana). 2026-09-05 update: burned-in subtitles extracted (29 lines) from a team-supplied 720p copy; Marwari speech not machine-transcribable.",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 1,
+      "at": "2026-09-05T20:23:37.405368+00:00"
     }
   ]
 }

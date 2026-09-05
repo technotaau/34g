@@ -213,29 +213,6 @@
     ],
     "competing": []
   },
-  "clm_first_house_birth_room_c445d521": {
-    "id": "clm_first_house_birth_room_c445d521",
-    "claim_key": "first_house_birth_room",
-    "value": "three generations born in the first house of the village",
-    "statement_hi": "गांव के पहले मकान के एक कमरे में तीन पीढ़ियाँ जन्मीं",
-    "statement_en": "Three generations were born in one room of the village's first house",
-    "sources": [
-      "src_02fff109d15c"
-    ],
-    "independent_sources": 1,
-    "has_strong_source": true,
-    "status": "conflicting",
-    "confidence": 0.55,
-    "evidence": [
-      {
-        "source": "src_02fff109d15c",
-        "text": "This was the first house built in the village ... All of us got birth in this room only"
-      }
-    ],
-    "competing": [
-      "four generations born in / standing in the first house of the village"
-    ]
-  },
   "clm_first_house_birth_room_e4355554": {
     "id": "clm_first_house_birth_room_e4355554",
     "claim_key": "first_house_birth_room",
@@ -247,17 +224,15 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "conflicting",
-    "confidence": 0.55,
+    "status": "single-source",
+    "confidence": 0.5,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "4 GENERATIONS are standing in that room"
       }
     ],
-    "competing": [
-      "three generations born in the first house of the village"
-    ]
+    "competing": []
   },
   "clm_crops_field_memory_fa65c376": {
     "id": "clm_crops_field_memory_fa65c376",

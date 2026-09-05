@@ -230,3 +230,10 @@ def test_claim_values_compared_on_core():
     assert verify.norm_value("Dhatarwal Jat (place of origin)") == verify.norm_value("Dhatarwal Jat / धतरवाल जाट")
     assert verify.norm_value("1984-85 (land acquisition, cited generally)") == verify.norm_value("1984-85")
     assert verify.norm_value("1982") != verify.norm_value("1984-85")
+
+
+def test_rerun_replaces_same_source_claims_per_key():
+    old = {"claims": [{"claim_key": "k", "value": "three"}, {"claim_key": "other", "value": "x"}], "runs": ["r1"]}
+    new = {"claims": [{"claim_key": "k", "value": "four"}], "runs": ["r2"]}
+    merged = store.merge_source(old, new, "r2")
+    assert {(c["claim_key"], c["value"]) for c in merged["claims"]} == {("k", "four"), ("other", "x")}

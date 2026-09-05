@@ -80,8 +80,9 @@ def merge_source(existing: dict | None, new: dict, run_id: str) -> dict:
     for k in ("summary", "author", "published_date", "license", "attribution", "language", "period", "name_form_matched", "notes"):
         if len(str(new.get(k) or "")) > len(str(existing.get(k) or "")):
             out[k] = new[k]
-    seen = {(c["claim_key"], str(c["value"])) for c in existing.get("claims", [])}
-    out["claims"] = existing.get("claims", []) + [c for c in new.get("claims", []) if (c["claim_key"], str(c["value"])) not in seen]
+    # a newer reading of the SAME source replaces its earlier claims for the same key (one source, one voice per fact)
+    new_keys = {c["claim_key"] for c in new.get("claims", [])}
+    out["claims"] = [c for c in existing.get("claims", []) if c["claim_key"] not in new_keys] + list(new.get("claims", []))
     ent = dict(existing.get("entities", {}))
     for k, v in (new.get("entities") or {}).items():
         ent[k] = sorted(set(ent.get(k, [])) | set(v or []))

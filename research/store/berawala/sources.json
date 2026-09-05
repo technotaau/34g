@@ -164,10 +164,10 @@
       },
       {
         "claim_key": "first_house_birth_room",
-        "value": "three generations born in the first house of the village",
-        "statement_hi": "गांव के पहले मकान के एक कमरे में तीन पीढ़ियाँ जन्मीं",
-        "statement_en": "Three generations were born in one room of the village's first house",
-        "snippet": "This was the first house built in the village ... All of us got birth in this room only"
+        "value": "four generations born in / standing in the first house of the village",
+        "statement_hi": "गांव के पहले मकान के एक कमरे में चार पीढ़ियाँ खड़ी हैं (परिवार वहीं जन्मा)",
+        "statement_en": "Four generations stood in the room of the village's first house where the family was born",
+        "snippet": "4 GENERATIONS are standing in that room"
       },
       {
         "claim_key": "crops_field_memory",
@@ -175,13 +175,6 @@
         "statement_hi": "नानी अपने हाथों से खेत में फसल काटती थीं",
         "statement_en": "The grandmother remembers cutting crops by hand in the family field",
         "snippet": "Your grandmother (Nani) used to cut crops in this field"
-      },
-      {
-        "claim_key": "first_house_birth_room",
-        "value": "four generations born in / standing in the first house of the village",
-        "statement_hi": "गांव के पहले मकान के एक कमरे में चार पीढ़ियाँ खड़ी हैं (परिवार वहीं जन्मा)",
-        "statement_en": "Four generations stood in the room of the village's first house where the family was born",
-        "snippet": "4 GENERATIONS are standing in that room"
       },
       {
         "claim_key": "resettlement_sites",
@@ -278,7 +271,8 @@
     "runs": [
       "run_20260905T190302Z",
       "run_20260905T195856Z",
-      "run_20260905T202311Z"
+      "run_20260905T202311Z",
+      "run_20260905T202337Z"
     ],
     "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84). 2026-09-05: subtitles OCR'd from a 720p copy supplied by the team; see a37vCzQOq4o.content.md."
   }
