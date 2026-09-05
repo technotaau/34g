@@ -6,7 +6,8 @@
       "motlai",
       "manera",
       "khanisar",
-      "chidasar"
+      "chidasar",
+      "bhanabasti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -23,7 +24,8 @@
       "khanisar",
       "kolana",
       "chidasar",
-      "ajeetwana"
+      "ajeetwana",
+      "bhanabasti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -203,7 +205,8 @@
       "motlai",
       "manera",
       "kolana",
-      "ajeetwana"
+      "ajeetwana",
+      "bhanabasti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -350,6 +353,30 @@
   "https://mapsofindia.com/villages/rajasthan/bikaner/bikaner/ladera.html": {
     "villages": [
       "ladera"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Lunkaransar": {
+    "villages": [
+      "bhanabasti"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://en.wikipedia.org/wiki/Lunkaransar": {
+    "villages": [
+      "bhanabasti"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html": {
+    "villages": [
+      "bhanabasti"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://connectrajasthan.com/bikaner-tehsil-towns-villages": {
+    "villages": [
+      "bhanabasti"
     ],
     "first_seen": "2026-09-05"
   }

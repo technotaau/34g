@@ -1,0 +1,16 @@
+[
+  {
+    "run_id": "run_20260905T175559Z",
+    "file": "/home/user/34g/research/inbox/bhanabasti/discovery.json",
+    "input": 7,
+    "invalid": 0,
+    "new": 7,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 6,
+    "agent_notes": "Bhanabasti returns almost nothing in open web/news/social/video/image searches under any spelling (Bhanabasti, Bhana Basti, भानाबस्ती, भाना बस्ती) — it appears to be a very small basti/hamlet, not a standalone revenue village, since it is absent from both the official Census2011 list (125 villages, Lunkaransar tehsil) and the MapsOfIndia village directory for the tehsil. The one substantive lead is a Jatland search-snippet stating Bhanabasti was founded by/named after 'Bhana', paternal uncle (tau) of one Nathu Dhatarwal — consistent with the unit's Dhatarwal-community note — but jatland.com bl",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-05T17:55:59.978116+00:00"
+  }
+]
