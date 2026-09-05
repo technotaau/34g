@@ -218,3 +218,9 @@ def test_personal_profiles_are_held_for_privacy_review():
     r2 = {"url": "https://www.facebook.com/RajasthanPatrika/posts/1", "resolution": {"decision": "accept", "reasons": []}, "review_flags": []}
     pipeline.privacy_check(r2)
     assert r2["resolution"]["decision"] == "accept"
+
+
+def test_claim_keys_are_canonicalised():
+    assert pipeline.canonical_claim_key("Land Acquisition Year") == "acquisition_year"
+    assert pipeline.canonical_claim_key("villages_displaced") == "villages_acquired_count"
+    assert pipeline.canonical_claim_key("some_new_key") == "some_new_key"

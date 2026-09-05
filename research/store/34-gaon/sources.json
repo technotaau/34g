@@ -206,7 +206,7 @@
         "statement_hi": "पत्रिका के अनुसार 34 गांव विस्थापित हुए"
       },
       {
-        "claim_key": "holi_return_tradition",
+        "claim_key": "holika_tradition_continues",
         "value": "yes",
         "statement_hi": "विस्थापित परिवार आज भी होली पर रेंज में जाकर कुम्भाणा में होलिका दहन करते हैं"
       }
@@ -916,7 +916,7 @@
         "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए"
       },
       {
-        "claim_key": "dhatarwal_founder",
+        "claim_key": "founding_person",
         "value": "Nathu Dhatarwal",
         "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल"
       }

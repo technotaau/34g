@@ -57,9 +57,9 @@
     "evidence": [],
     "competing": []
   },
-  "clm_dhatarwal_founder_40eeeeea": {
-    "id": "clm_dhatarwal_founder_40eeeeea",
-    "claim_key": "dhatarwal_founder",
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
     "value": "Nathu Dhatarwal",
     "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
     "statement_en": "",

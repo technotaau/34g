@@ -20,9 +20,9 @@
     ],
     "competing": []
   },
-  "clm_resettlement_site_8d342230": {
-    "id": "clm_resettlement_site_8d342230",
-    "claim_key": "resettlement_site",
+  "clm_resettlement_sites_8d342230": {
+    "id": "clm_resettlement_sites_8d342230",
+    "claim_key": "resettlement_sites",
     "value": "Mahajan town",
     "statement_hi": "भोजरासर के विस्थापित राजूराम शर्मा महाजन कस्बे में बस गए।",
     "statement_en": "Displaced resident Raj Uram Sharma from Bhojrasar resettled in Mahajan town.",

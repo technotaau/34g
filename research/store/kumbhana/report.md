@@ -103,7 +103,7 @@ _कोई नहीं_
 - **acquisition_year** = 1984-85 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **holika_tradition_continues** = yes, on-site every Holi · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
-- **dhatarwal_founder** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **kumbhana_thikana_founder** = Thakur Kesri Singh (Ratansinghot) · unverified · विश्वास 0.3 · स्रोत: src_0e0757dd116a
 - **founding_clan** = Dhatarwal Jat · unverified · विश्वास 0.3 · स्रोत: src_698a84e4ebfa
 - **jagirdari_abolition_year** = 1952 · unverified · विश्वास 0.3 · स्रोत: src_698a84e4ebfa

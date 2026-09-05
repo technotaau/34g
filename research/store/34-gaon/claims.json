@@ -74,9 +74,9 @@
     "evidence": [],
     "competing": []
   },
-  "clm_holi_return_tradition_fb360f9c": {
-    "id": "clm_holi_return_tradition_fb360f9c",
-    "claim_key": "holi_return_tradition",
+  "clm_holika_tradition_continues_fb360f9c": {
+    "id": "clm_holika_tradition_continues_fb360f9c",
+    "claim_key": "holika_tradition_continues",
     "value": "yes",
     "statement_hi": "विस्थापित परिवार आज भी होली पर रेंज में जाकर कुम्भाणा में होलिका दहन करते हैं",
     "statement_en": "",
@@ -264,9 +264,9 @@
     "evidence": [],
     "competing": []
   },
-  "clm_dhatarwal_founder_40eeeeea": {
-    "id": "clm_dhatarwal_founder_40eeeeea",
-    "claim_key": "dhatarwal_founder",
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
     "value": "Nathu Dhatarwal",
     "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
     "statement_en": "",

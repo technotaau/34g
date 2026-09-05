@@ -33,10 +33,10 @@
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 82)
   - रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि अधिग्रहित की; घर, पेड़, कृषि भूमि का मुआवजा; खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में कृषि भूमि आवंटन।
-- [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 80)
-  - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
   - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
+- [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 80)
+  - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71](https://indiankanoon.org/doc/38464/) (legal · document · 1997-01-06 · स्कोर 74)
   - 1985 की अधिसूचना: बारानी भूमि 300 रुपये प्रति बीघा, IGNP कमांड भूमि आरक्षित मूल्य के दोगुने पर; 2 बीघा बारानी = 1 बीघा कमांड।
 - [Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017](https://indiankanoon.org/doc/174753246/) (legal · document · 2017-01-24 · स्कोर 71)
@@ -149,7 +149,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **villages_acquired_count** = 34 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['33'] · स्रोत: src_a5150b8b1d53, src_c37d5179aabc
 - **private_land_acquired_bighas** = 312649 · single-source · विश्वास 0.5 · स्रोत: src_4fb2da84d5a4
 - **compensation_total_crore** = 64.11 · single-source · विश्वास 0.5 · स्रोत: src_4fb2da84d5a4
-- **holi_return_tradition** = yes · unverified · विश्वास 0.3 · स्रोत: src_a5150b8b1d53
+- **holika_tradition_continues** = yes · unverified · विश्वास 0.3 · स्रोत: src_a5150b8b1d53
 - **acquisition_year** = 1984-85 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['1983-84', '1982'] · स्रोत: src_c37d5179aabc
 - **acquisition_year** = 1983-84 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-85', '1982'] · स्रोत: src_d159880ed58d
 - **acquisition_year** = 1982 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-85', '1983-84'] · स्रोत: src_38f66d790796
@@ -159,7 +159,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **range_area_ha** = 136406 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['136586'] · स्रोत: src_aaf7222a0629
 - **range_area_ha** = 136586 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['136406'] · स्रोत: src_187ce13936fa
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
-- **dhatarwal_founder** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **kumbhana_thikana_founder** = Thakur Kesri Singh (Ratansinghot) · unverified · विश्वास 0.3 · स्रोत: src_0e0757dd116a
 - **pending_allotment_cases_2025** = 148 · unverified · विश्वास 0.3 · स्रोत: src_56bd5f269706
 

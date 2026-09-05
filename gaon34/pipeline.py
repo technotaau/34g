@@ -5,7 +5,7 @@ from pathlib import Path
 
 import re
 
-from .classify import classify_platform, classify_source_type, classify_media, classify_topics, classify_period, detect_language
+from .classify import LEXICON, classify_platform, classify_source_type, classify_media, classify_topics, classify_period, detect_language
 from .dedup import find_duplicates
 from .normalize import canonical_url
 from .registry import get_village
@@ -28,8 +28,14 @@ def _strict_text(raw: dict) -> str:
     return " ".join([raw.get("title", ""), raw.get("name_form_matched", "") or "", " ".join(raw.get("evidence_snippets", []) or [])])
 
 
+def canonical_claim_key(key: str) -> str:
+    k = re.sub(r"[^a-z0-9]+", "_", str(key or "").strip().lower()).strip("_")
+    return LEXICON.get("claim_key_aliases", {}).get(k, k)
+
+
 def normalise_record(raw: dict, village: dict, run_id: str) -> SourceRecord:
     raw = {**AGENT_OPTIONAL, **raw}
+    raw["claims"] = [{**c, "claim_key": canonical_claim_key(c.get("claim_key"))} for c in (raw.get("claims") or []) if isinstance(c, dict)]
     url = raw["url"].strip()
     key = canonical_url(url)
     platform = classify_platform(url)
@@ -109,6 +115,8 @@ def rebuild(slug: str, sources: dict | None = None) -> dict:
     village = get_village(slug)
     recs = list(sources.values())
     for r in recs:  # re-run resolution so registry edits (new variants/negatives) take effect
+        for c in r.get("claims", []):
+            c["claim_key"] = canonical_claim_key(c.get("claim_key"))
         r["resolution"] = resolve(village, _text_of(r), r.get("direct_mention"), r.get("geo_mentions"), _strict_text(r))
         privacy_check(r)
     find_duplicates(recs)

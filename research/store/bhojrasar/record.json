@@ -29,8 +29,8 @@
         "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72",
-        "src_8c5b127adbe8",
         "src_4649c3381476",
+        "src_8c5b127adbe8",
         "src_f07a8c256ae6"
       ]
     },
@@ -49,8 +49,8 @@
         "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72",
-        "src_8c5b127adbe8",
         "src_4649c3381476",
+        "src_8c5b127adbe8",
         "src_f07a8c256ae6"
       ]
     },
@@ -179,8 +179,8 @@
         "competing": []
       },
       {
-        "id": "clm_resettlement_site_8d342230",
-        "claim_key": "resettlement_site",
+        "id": "clm_resettlement_sites_8d342230",
+        "claim_key": "resettlement_sites",
         "value": "Mahajan town",
         "statement_hi": "भोजरासर के विस्थापित राजूराम शर्मा महाजन कस्बे में बस गए।",
         "statement_en": "Displaced resident Raj Uram Sharma from Bhojrasar resettled in Mahajan town.",
