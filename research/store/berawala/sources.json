@@ -225,7 +225,8 @@
         "बेरावाला",
         "Berawala Bikaner",
         "बेरावाला गांव",
-        "बेरावाला महाजन"
+        "बेरावाला महाजन",
+        "Berawala Sherpura"
       ],
       "geo_hits": [
         "Mahajan",
@@ -275,5 +276,667 @@
       "run_20260905T202337Z"
     ],
     "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84). 2026-09-05: subtitles OCR'd from a 720p copy supplied by the team; see a37vCzQOq4o.content.md."
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "berawala",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "बेरावाला महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय ने महाजन क्षेत्र के 34 गांवों की भूमि फील्ड फायरिंग रेंज के लिए अधिग्रहित की थी। विस्थापित परिवारों को मुआवजा और सिंचित क्षेत्र में भूमि आवंटित की गई, लेकिन अपने पुश्तैनी घर छोड़ने का दर्द आज भी दिखता है। यह लेख विशेष रूप से बेरावाला का नाम नहीं लेता, बल्कि Bhojrasar, Kumbhana, Motlai, Khaniser, Thoiya, Manera, Duder, Khajuwala, Dantor, Pugal, Mohangad, Nachna जैसे गांवों का उल्लेख करता है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Bikaner",
+      "Lunkaransar",
+      "34 gaon",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "इन गांवों में आज भी थेह बनते पुराने मकान अपना अस्तित्व बयां कर रहे हैं।"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khaniser",
+        "Thoiya",
+        "Manera",
+        "Duder",
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangad",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition for Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+        "statement_en": "Land of 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "1984-85 में रक्षा मंत्रालय ने महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहित की।"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 gaon",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "Berawala is not among the villages this article names explicitly; included as strong background evidence for the general 34-gaon displacement narrative that presumably also applies to Berawala. Confirms compensation/resettlement pattern applicable across the 34 villages."
+  },
+  "src_cd874a59e127": {
+    "id": "src_cd874a59e127",
+    "village": "berawala",
+    "url": "https://www.patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913",
+    "url_key": "https://patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913",
+    "title": "बीकानेर : फायरिंग रेंज में जाना पड़ा महंगा, ग्वाला गोली से घायल",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jai Prakash Gahlot",
+    "published_date": "2019-09-19",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "बेरावाला महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "एक ग्वाला (चरवाहा) महाजन फील्ड फायरिंग रेंज क्षेत्र में गोली लगने से घायल हो गया। रिपोर्ट में खोडाला निवासी का उल्लेख है; बेरावाला का कोई उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Khodala",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "खोडाला निवासी ग्वाला गोली से घायल हुआ।"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khodala"
+      ],
+      "events": [
+        "stray bullet injury, 2019"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jai Prakash Gahlot, 19 Sep 2019",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "Weak/tangential: general firing-range hazard reporting, no Berawala mention. Included only for channel breadth; low relevance to this village specifically."
+  },
+  "src_b27fa43b7bd0": {
+    "id": "src_b27fa43b7bd0",
+    "village": "berawala",
+    "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Berawala Lunkaransar census village code panchayat"
+    ],
+    "summary": "इस पृष्ठ पर लूणकरणसर तहसील, बीकानेर के सभी 125 गांवों की सूची है (जनगणना 2011 आधारित)। इस सूची में 'Berawala' या 'Berwala' नाम का कोई गांव नहीं मिला, जो इस बात का संकेत हो सकता है कि यह अब एक स्वतंत्र जनगणना गांव के रूप में सूचीबद्ध नहीं है।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Complete list includes villages from '1 LKD' through 'Udeshiyan'; neither 'Berawala' nor 'Berwala' appears."
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Census2011.co.in, Census of India 2011 mirror",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "current_census_status",
+        "value": "not_independently_listed",
+        "statement_hi": "2011 की जनगणना सूची में लूणकरणसर तहसील के 125 गांवों में 'बेरावाला' नाम स्वतंत्र रूप से सूचीबद्ध नहीं है।",
+        "statement_en": "Berawala does not appear as an independent village in the 2011 census list of 125 villages for Lunkaransar tehsil.",
+        "snippet": "Berawala/Berwala not among the 125 villages listed for Lunkaransar tehsil."
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Berawala",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Berawala",
+        "Berwala"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "Negative evidence, important for the pipeline: suggests Berawala was likely absorbed administratively into the firing range acquisition and no longer has separate revenue-village status, OR is recorded under a variant/anglicized spelling not matched here. Needs manual cross-check against a pre-1982 Bikaner district census handbook."
+  },
+  "src_8c5b127adbe8": {
+    "id": "src_8c5b127adbe8",
+    "village": "berawala",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "title": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Akshay Godara Berawala Mahajan firing range vlog village"
+    ],
+    "summary": "'Mahajan Fieldfiring Range' is itself registered as a distinct revenue/census village (also seen as village code 69202 on localbodydata.com and mapped on mapsofindia.com and geoiq.io) within Lunkaransar tehsil, Bikaner. This administrative entity likely covers land that once held Berawala and other acquired villages, but the page does not itself name Berawala.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Fieldfiring Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Fieldfiring Range"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in / mapsofindia.com / localbodydata.com (village code 69202)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "administrative_status",
+        "value": "absorbed_under_firing_range_census_entity",
+        "statement_hi": "अधिग्रहित क्षेत्र अब 'Mahajan Fieldfiring Range' नामक एक अलग जनगणना/राजस्व गांव के रूप में दर्ज है।",
+        "statement_en": "The acquired area is now recorded as a separate census/revenue village called 'Mahajan Fieldfiring Range'.",
+        "snippet": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan, village code 69202."
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 42,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "WebFetch of this exact page returned 403 (blocked); details taken from search-result snippets only (villageinfo.in, mapsofindia.com, localbodydata.com, geoiq.io all show the same entity). A human researcher should fetch this directly to check for a constituent-village list or the pre-acquisition name Berawala."
+  },
+  "src_42f3fee70694": {
+    "id": "src_42f3fee70694",
+    "village": "berawala",
+    "url": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "title": "Rajasthan District Gazetteers: Bikaner (K.K. Sehgal)",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K.K. Sehgal",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Berawala\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "बीकानेर जिले का आधिकारिक राजस्थान गजेटियर, जो जिले के गांवों, इतिहास और प्रशासन का विवरण देता है। इससे जुड़ी एक OCR टेक्स्ट फ़ाइल (एक भिन्न संस्करण की) में स्वचालित खोज में 'Berawala'/'Berwala' नहीं मिला, लेकिन OCR त्रुटियों की संभावना है, इसलिए मानव समीक्षा आवश्यक है।",
+    "topics": [
+      "census_admin",
+      "history",
+      "religion_temple"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "K.K. Sehgal"
+      ],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Internet Archive / Digital Library of India public domain scan",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, K.K. Sehgal, Internet Archive (Digital Library of India)",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 3,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "A related OCR .txt of a different edition (archive.org/stream/in.ernet.dli.2015.146804) was searched automatically for 'Berawala'/'Berwala' with no match, but OCR quality for old gazetteers is often poor and village-level detail may be in a village-list appendix not well captured by OCR. Flagging as a primary book source a human researcher should page through directly (village/pargana lists near Lunkaransar/Mahajan)."
+  },
+  "src_35e2031c49cc": {
+    "id": "src_35e2031c49cc",
+    "village": "berawala",
+    "url": "https://www.jatland.com/home/Sherpura_Bikaner",
+    "url_key": "https://jatland.com/home/Sherpura_Bikaner",
+    "title": "Sherpura Bikaner - शेरपुरा बीकानेर",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "Berawala Sherpura बेरावाला शेरपुरा"
+    ],
+    "summary": "Jatland wiki page for Sherpura village, Bikaner — the village where the Godara family from the known Akshay Godara YouTube vlog (about Berawala/Mahajan firing range) now resides. Automated fetch of the page was blocked (HTTP 403); content could not be verified for a Berawala mention.",
+    "topics": [
+      "displacement",
+      "military_range",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Sherpura",
+      "Bikaner",
+      "Lunkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Sherpura"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Sherpura Bikaner page",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Sherpura']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "बीकानेर",
+        "Sherpura",
+        "शेरपुरा",
+        "Godara"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 37,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260905T203906Z"
+    ],
+    "notes": "Jatland blocks automated WebFetch (403 Forbidden); a human researcher with a browser should open this directly, since jatland pages often list Jat clan genealogies and connected/ancestral villages including displaced ones like Berawala. Highest-priority manual-follow-up lead from this run."
   }
 }

@@ -54,5 +54,18 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 1,
     "at": "2026-09-05T20:23:37.405368+00:00"
+  },
+  {
+    "run_id": "run_20260905T203906Z",
+    "file": "/home/user/34g/research/inbox/berawala/discovery.json",
+    "input": 6,
+    "invalid": 0,
+    "new": 6,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 30,
+    "agent_notes": "No source found across web, news, video, social, image, book/archive, or government channels that directly names 'Berawala'/'बेरावाला' with Bikaner/Lunkaransar/Mahajan geographic context — the only known lead remains the already-catalogued Akshay Godara YouTube vlog (not re-added per instructions). Confirmed via census2011.co.in's full 125-village list for Lunkaransar tehsil that 'Berawala' is NOT a standalone census village today, which is consistent with it being absorbed into the Mahajan Field Firing Range acquisition and possibly re-designated under the separate census entity 'Mahajan Fiel",
+    "total_after": 7,
+    "at": "2026-09-05T20:39:06.986689+00:00"
   }
 ]

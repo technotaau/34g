@@ -31,15 +31,40 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "conflicting",
+    "confidence": 0.55,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "MFFR was acquired in 1984"
       }
     ],
-    "competing": []
+    "competing": [
+      "1984-85"
+    ]
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+    "statement_en": "Land of 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "1984-85 में रक्षा मंत्रालय ने महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहित की।"
+      }
+    ],
+    "competing": [
+      "1984"
+    ]
   },
   "clm_evacuation_period_e0f34ffa": {
     "id": "clm_evacuation_period_e0f34ffa",
@@ -335,6 +360,48 @@
       {
         "source": "src_02fff109d15c",
         "text": "after 36 YEARS"
+      }
+    ],
+    "competing": []
+  },
+  "clm_current_census_status_701519a1": {
+    "id": "clm_current_census_status_701519a1",
+    "claim_key": "current_census_status",
+    "value": "not_independently_listed",
+    "statement_hi": "2011 की जनगणना सूची में लूणकरणसर तहसील के 125 गांवों में 'बेरावाला' नाम स्वतंत्र रूप से सूचीबद्ध नहीं है।",
+    "statement_en": "Berawala does not appear as an independent village in the 2011 census list of 125 villages for Lunkaransar tehsil.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "Berawala/Berwala not among the 125 villages listed for Lunkaransar tehsil."
+      }
+    ],
+    "competing": []
+  },
+  "clm_administrative_status_d87256d0": {
+    "id": "clm_administrative_status_d87256d0",
+    "claim_key": "administrative_status",
+    "value": "absorbed_under_firing_range_census_entity",
+    "statement_hi": "अधिग्रहित क्षेत्र अब 'Mahajan Fieldfiring Range' नामक एक अलग जनगणना/राजस्व गांव के रूप में दर्ज है।",
+    "statement_en": "The acquired area is now recorded as a separate census/revenue village called 'Mahajan Fieldfiring Range'.",
+    "sources": [
+      "src_8c5b127adbe8"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_8c5b127adbe8",
+        "text": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan, village code 69202."
       }
     ],
     "competing": []

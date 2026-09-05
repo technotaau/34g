@@ -27,7 +27,8 @@
       "chidasar",
       "ajeetwana",
       "bhanabasti",
-      "khiyana"
+      "khiyana",
+      "berawala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -137,7 +138,8 @@
   },
   "https://archive.org/details/in.ernet.dli.2015.120386": {
     "villages": [
-      "bhojrasar"
+      "bhojrasar",
+      "berawala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -157,7 +159,8 @@
     "villages": [
       "bhojrasar",
       "duder",
-      "manera"
+      "manera",
+      "berawala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -213,7 +216,8 @@
       "manera",
       "kolana",
       "ajeetwana",
-      "bhanabasti"
+      "bhanabasti",
+      "berawala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -432,6 +436,18 @@
     "first_seen": "2026-09-05"
   },
   "https://www.youtube.com/watch?v=a37vCzQOq4o": {
+    "villages": [
+      "berawala"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913": {
+    "villages": [
+      "berawala"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Sherpura_Bikaner": {
     "villages": [
       "berawala"
     ],
