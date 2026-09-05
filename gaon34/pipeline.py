@@ -3,6 +3,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+import re
+
 from .classify import classify_platform, classify_source_type, classify_media, classify_topics, classify_period, detect_language
 from .dedup import find_duplicates
 from .normalize import canonical_url
@@ -20,6 +22,10 @@ def _text_of(raw: dict) -> str:
     for c in raw.get("claims", []) or []:
         parts += [str(c.get("statement_hi", "")), str(c.get("statement_en", "")), str(c.get("snippet", ""))]
     return " ".join(p for p in parts if p)
+
+
+def _strict_text(raw: dict) -> str:
+    return " ".join([raw.get("title", ""), raw.get("name_form_matched", "") or "", " ".join(raw.get("evidence_snippets", []) or [])])
 
 
 def normalise_record(raw: dict, village: dict, run_id: str) -> SourceRecord:
@@ -44,7 +50,7 @@ def normalise_record(raw: dict, village: dict, run_id: str) -> SourceRecord:
         related_villages=list(raw.get("related_villages") or []), media=dict(raw.get("media") or {}),
         claims=list(raw.get("claims") or []), notes=raw.get("notes", "") or "", runs=[run_id],
     )
-    rec.resolution = resolve(village, text, rec.direct_mention, rec.geo_mentions)
+    rec.resolution = resolve(village, text, rec.direct_mention, rec.geo_mentions, _strict_text(raw))
     return rec
 
 
@@ -74,15 +80,40 @@ def ingest(slug: str, inbox_file: Path, run_id: str | None = None) -> dict:
     return stats
 
 
+PERSONAL_PROFILE = re.compile(r"linkedin\.com/in/|facebook\.com/profile\.php|facebook\.com/people/|instagram\.com/[^/]+/?$", re.I)
+
+
+def privacy_check(r: dict):
+    """Public profiles of private individuals are held for human review, never auto-published."""
+    if PERSONAL_PROFILE.search(r["url"]):
+        r["review_flags"] = sorted(set(r.get("review_flags", [])) | {"privacy_review"})
+        if r["resolution"]["decision"] in ("accept", "context"):
+            r["resolution"]["decision"] = "review"
+            r["resolution"]["reasons"].append("personal profile page: human must confirm it is a public figure/page and consent is appropriate")
+
+
+UMBRELLA_SLUG = "34-gaon"
+
+
+def shared_umbrella_sources(slug: str) -> dict:
+    """Umbrella-unit sources that explicitly relate to this village (by related_villages) corroborate its claims."""
+    if slug == UMBRELLA_SLUG:
+        return {}
+    return {sid: s for sid, s in load_sources(UMBRELLA_SLUG).items() if slug in (s.get("related_villages") or [])
+            and s.get("resolution", {}).get("decision") in ("accept", "context")}
+
+
 def rebuild(slug: str, sources: dict | None = None) -> dict:
     """Recompute dedup, scores and claims for a village store (idempotent)."""
     sources = sources if sources is not None else load_sources(slug)
     village = get_village(slug)
     recs = list(sources.values())
     for r in recs:  # re-run resolution so registry edits (new variants/negatives) take effect
-        r["resolution"] = resolve(village, _text_of(r), r.get("direct_mention"), r.get("geo_mentions"))
+        r["resolution"] = resolve(village, _text_of(r), r.get("direct_mention"), r.get("geo_mentions"), _strict_text(r))
+        privacy_check(r)
     find_duplicates(recs)
-    claims = build_claims(sources, verdicts=load_verdicts(slug))
+    shared = shared_umbrella_sources(slug)
+    claims = build_claims({**shared, **sources}, verdicts=load_verdicts(slug))
     corroboration = {}
     for c in claims.values():
         if c["independent_sources"] >= 2:

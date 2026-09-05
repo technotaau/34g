@@ -5,10 +5,14 @@ Never accept on name alone. Positive geographic context raises confidence, negat
 from .normalize import contains_term
 
 
-def resolve(village: dict, text: str, agent_direct_mention=None, agent_geo=None) -> dict:
+def resolve(village: dict, text: str, agent_direct_mention=None, agent_geo=None, strict_text: str | None = None) -> dict:
+    """text = everything the agent captured; strict_text = title + evidence + name_form only.
+    When the agent explicitly says direct_mention=False, only strict_text may count as a name match
+    (agents often write 'not the same as X' in notes, which must not become a match)."""
     reasons, score = [], 0.0
     names = village["all_names"]
-    matched = [n for n in names if contains_term(text, n)]
+    match_corpus = strict_text if (agent_direct_mention is False and strict_text is not None) else text
+    matched = [n for n in names if contains_term(match_corpus, n)]
     if matched:
         primary = village["names"]["en"], village["names"]["hi"]
         if any(m in primary for m in matched):
@@ -50,8 +54,14 @@ def resolve(village: dict, text: str, agent_direct_mention=None, agent_geo=None)
         score = max(score, 0.6 if (matched and (s_hits or m_hits)) else score)
 
     score = max(0.0, min(1.0, round(score, 3)))
+    if agent_direct_mention is False and village.get("unit_type") != "umbrella":
+        score = min(score, 0.55)
+        reasons.append("agent: village not directly named")
     if score >= 0.6:
         decision = "accept"
+    elif agent_direct_mention is False and not matched and s_hits and not neg:
+        decision = "context"  # about the region / umbrella, not this village specifically
+        score = max(score, 0.5)
     elif score >= 0.35:
         decision = "review"
     else:

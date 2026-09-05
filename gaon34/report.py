@@ -5,6 +5,7 @@ from datetime import date
 from .registry import get_village, load_villages
 from .store import load_sources, load_claims, save_record, village_dir, load_runs
 from .verify import needs_verification
+from .pipeline import shared_umbrella_sources
 from . import STORE_DIR
 
 QUESTIONS = [
@@ -30,7 +31,7 @@ MEDIA_SECTIONS = [
 
 
 def _accepted(sources: dict) -> list[dict]:
-    return sorted([s for s in sources.values() if not s.get("duplicate_of") and s["resolution"]["decision"] != "reject"],
+    return sorted([s for s in sources.values() if not s.get("duplicate_of") and s["resolution"]["decision"] in ("accept", "context", "review")],
                   key=lambda s: -s["relevance"]["score"])
 
 
@@ -51,7 +52,8 @@ def build_record(slug: str) -> dict:
         "village": {"slug": slug, "name_en": v["names"]["en"], "name_hi": v["names"]["hi"], "status": v.get("status"), "notes": v.get("notes", ""),
                     "location": {"state": "Rajasthan", "district": "Bikaner", "tehsil": "Lunkaransar", "sub_tehsil": "Mahajan"} if v.get("unit_type") != "umbrella" else {}},
         "built": date.today().isoformat(),
-        "counts": {"sources_total": len(sources), "accepted": len(acc), "review": sum(1 for s in sources.values() if s["resolution"]["decision"] == "review"),
+        "counts": {"sources_total": len(sources), "accepted": sum(1 for s in acc if s["resolution"]["decision"] == "accept"),
+                   "context": sum(1 for s in acc if s["resolution"]["decision"] == "context"), "review": sum(1 for s in sources.values() if s["resolution"]["decision"] == "review"),
                    "rejected": sum(1 for s in sources.values() if s["resolution"]["decision"] == "reject"),
                    "duplicates": sum(1 for s in sources.values() if s.get("duplicate_of")), "claims": len(claims)},
         "questions": {qid: {"label": label, "source_ids": sorted({sid for t in topics for sid in by_topic.get(t, [])}, key=lambda sid: -sources[sid]["relevance"]["score"])} for qid, label, topics in QUESTIONS},
@@ -62,6 +64,7 @@ def build_record(slug: str) -> dict:
         "manual_review": [{"id": s["id"], "url": s["url"], "title": s["title"], "flags": s["review_flags"], "reasons": s["resolution"]["reasons"]}
                           for s in sources.values() if s["review_flags"] and not s.get("duplicate_of")],
         "sources": {s["id"]: {k: s[k] for k in ("url", "title", "platform", "source_type", "media_type", "published_date", "language", "relevance", "resolution", "topics", "license", "attribution", "is_primary")} for s in acc},
+        "shared_umbrella_sources": [{"id": sid, "url": s["url"], "title": s["title"]} for sid, s in shared_umbrella_sources(slug).items()],
         "runs": load_runs(slug),
     }
     save_record(slug, record)
@@ -70,6 +73,8 @@ def build_record(slug: str) -> dict:
 
 def _src_line(s: dict) -> str:
     meta = [s["source_type"], s["media_type"], s.get("published_date") or "तिथि अज्ञात", f"स्कोर {s['relevance']['score']}"]
+    if s["resolution"]["decision"] != "accept":
+        meta.append({"context": "पृष्ठभूमि स्रोत", "review": "समीक्षा हेतु"}.get(s["resolution"]["decision"], s["resolution"]["decision"]))
     lic = f" · लाइसेंस: {s['license']}" if s.get("license") else ""
     return f"- [{s['title']}]({s['url']}) ({' · '.join(meta)}){lic}"
 
@@ -80,7 +85,7 @@ def render_report(slug: str, record: dict | None = None) -> str:
     v = record["village"]
     L = [f"# {v['name_hi']} ({v['name_en']}) — शोध रिकॉर्ड", "",
          f"**स्थिति:** {v.get('status')} · **निर्मित:** {record['built']} · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)", "",
-         f"स्रोत: कुल {record['counts']['sources_total']}, स्वीकृत {record['counts']['accepted']}, समीक्षा हेतु {record['counts']['review']}, अस्वीकृत {record['counts']['rejected']}, डुप्लिकेट {record['counts']['duplicates']} · दावे: {record['counts']['claims']}", ""]
+         f"स्रोत: कुल {record['counts']['sources_total']}, स्वीकृत {record['counts']['accepted']}, पृष्ठभूमि (context) {record['counts']['context']}, समीक्षा हेतु {record['counts']['review']}, अस्वीकृत {record['counts']['rejected']}, डुप्लिकेट {record['counts']['duplicates']} · दावे: {record['counts']['claims']}", ""]
     if v.get("notes"):
         L += [f"> {v['notes']}", ""]
     L += ["## मुख्य प्रश्न", ""]
@@ -121,6 +126,10 @@ def render_report(slug: str, record: dict | None = None) -> str:
         L.append(f"- **{c['claim_key']}** = {c['value']} · {c['status']} · विश्वास {c['confidence']}{comp} · स्रोत: {', '.join(c['sources'])}")
     if not record["claims"]["needs_verification"]:
         L.append("_कोई नहीं_")
+    if record.get("shared_umbrella_sources"):
+        L += ["", "## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं", ""]
+        for u in record["shared_umbrella_sources"]:
+            L.append(f"- [{u['title']}]({u['url']})")
     L += ["", "## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत", ""]
     for m in record["manual_review"]:
         L.append(f"- [{m['title']}]({m['url']}) · flags: {', '.join(m['flags'])} · {'; '.join(m['reasons'][:2])}")

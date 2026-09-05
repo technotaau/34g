@@ -1,6 +1,11 @@
 """Exact and near-duplicate detection plus syndication linking across villages."""
 from .normalize import tokens, jaccard, host_of
 
+
+def _year(r):
+    y = str(r.get("published_date") or "")[:4]
+    return y if y.isdigit() else ""
+
 NEAR_DUP_THRESHOLD = 0.8
 
 
@@ -25,6 +30,9 @@ def find_duplicates(records: list[dict]) -> list[dict]:
             if other is r or len(ft) < 3:
                 continue
             if jaccard(t, ft) >= NEAR_DUP_THRESHOLD:
+                ya, yb = _year(r), _year(other)
+                if ya and yb and ya != yb:
+                    continue  # same headline, different years: two distinct articles (e.g. Patrika 2018 and 2022)
                 if host_of(r["url"]) == host_of(other["url"]):
                     r["duplicate_of"] = other["duplicate_of"] or other["id"]
                 else:

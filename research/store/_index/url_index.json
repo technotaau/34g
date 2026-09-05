@@ -1,19 +1,23 @@
 {
   "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4": {
     "villages": [
-      "34-gaon"
+      "34-gaon",
+      "bhojrasar"
     ],
     "first_seen": "2026-09-05"
   },
   "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463": {
     "villages": [
-      "34-gaon"
+      "34-gaon",
+      "bhojrasar",
+      "kumbhana"
     ],
     "first_seen": "2026-09-05"
   },
   "https://patrika.com/bikaner-news/mahajan-firing-range-3673091": {
     "villages": [
-      "34-gaon"
+      "34-gaon",
+      "bhojrasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -68,6 +72,67 @@
   "https://openstreetmap.org/way/412765540": {
     "villages": [
       "34-gaon"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974": {
+    "villages": [
+      "bhojrasar",
+      "kumbhana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Mahajan": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://archive.org/details/in.ernet.dli.2015.547015": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://archive.org/details/in.ernet.dli.2015.120386": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.in/rajasthan/churu/sardarshahar/bhojrasar": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html": {
+    "villages": [
+      "bhojrasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Kumbhana": {
+    "villages": [
+      "kumbhana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://indianrajputs.com/view/kumbhana": {
+    "villages": [
+      "kumbhana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5": {
+    "villages": [
+      "kumbhana"
     ],
     "first_seen": "2026-09-05"
   }

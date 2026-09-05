@@ -190,3 +190,31 @@ def test_agent_downgrade_of_source_type_is_honoured():
     assert classify_source_type("https://hi.wikipedia.org/wiki/सदस्य:x", "community_wiki") == ("community_wiki", 0.45, False)
     assert classify_source_type("https://indiankanoon.org/doc/1/", "blog") == ("blog", 0.4, False)
     assert classify_source_type("https://www.patrika.com/x", "government")[0] == "news"  # upgrades ignored
+
+
+def test_direct_mention_false_uses_strict_text_and_yields_context():
+    v = village()
+    # agent note mentions the name while denying it; title/evidence do not
+    r = resolve.resolve(v, "Bhojoosar village Bikaner. Note: not the same as Bhojrasar of the firing range", False, ["Bikaner"], strict_text="Bhojoosar Village in Bikaner")
+    assert r["decision"] != "accept" and r["confidence"] <= 0.55
+    r2 = resolve.resolve(v, "Mahajan Field Firing Range 34 villages displaced, Lunkaransar", False, ["Mahajan"], strict_text="महाजन फायरिंग रेंज 34 गांव")
+    assert r2["decision"] == "context"
+    r3 = resolve.resolve(v, "भोजरासर से आकर महाजन में बसे", False, [], strict_text="भोजरासर से आकर महाजन में बसे")
+    assert r3["decision"] == "review" and r3["confidence"] <= 0.55  # named in title but agent unsure
+
+
+def test_same_headline_different_years_not_duplicate():
+    recs = [{"id": "a", "url": "https://patrika.com/a", "url_key": "a", "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द", "published_date": "2018-11-05"},
+            {"id": "b", "url": "https://patrika.com/b", "url_key": "b", "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द", "published_date": "2022-11-29"},
+            {"id": "c", "url": "https://patrika.com/c", "url_key": "c", "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द", "published_date": ""}]
+    dedup.find_duplicates(recs)
+    assert recs[1]["duplicate_of"] == "" and recs[2]["duplicate_of"] == "a"
+
+
+def test_personal_profiles_are_held_for_privacy_review():
+    r = {"url": "https://www.linkedin.com/in/someone-kumbhana", "resolution": {"decision": "accept", "reasons": []}, "review_flags": []}
+    pipeline.privacy_check(r)
+    assert r["resolution"]["decision"] == "review" and "privacy_review" in r["review_flags"]
+    r2 = {"url": "https://www.facebook.com/RajasthanPatrika/posts/1", "resolution": {"decision": "accept", "reasons": []}, "review_flags": []}
+    pipeline.privacy_check(r2)
+    assert r2["resolution"]["decision"] == "accept"

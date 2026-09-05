@@ -1,0 +1,1122 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "bhojrasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव भोजरासर महाजन"
+    ],
+    "summary": "बीकानेर के महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में उजाड़े गए 34 गांवों में भोजरासर का नाम प्रत्यक्ष रूप से लिया गया है। भोजरासर से महाजन आकर बसे राजूराम शर्मा अपने पुराने गांव की उपजाऊ भूमि और भाईचारे को याद करते हैं। लेख में कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर गांवों का भी उल्लेख है, तथा विस्थापितों को खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना में जमीन दिए जाने का जिक्र है।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangarh",
+      "Nachna",
+      "Kumbhana",
+      "Motlai",
+      "Khanisar",
+      "Thoiyan",
+      "Maneran",
+      "Duder"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "भोजरासर / Bhojrasar",
+    "evidence_snippets": [
+      "भोजरासर से आकर महाजन में बसे राजूराम शर्मा बताते हैं कि इन गांवों में राम रमता था"
+    ],
+    "entities": {
+      "people": [
+        "Raj Uram Sharma",
+        "राजूराम शर्मा"
+      ],
+      "places": [
+        "Mahajan",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition for Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Defence Ministry / रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": true,
+    "reliability": 0.75,
+    "related_villages": [
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiyan",
+      "maneran",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "भोजरासर सहित 34 गांवों की जमीन 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+        "statement_en": "Bhojrasar's land, along with 33 other villages, was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "करीब 34 गांवों को उजाड़कर 1984-85 में 3.37 लाख एकड़ भूमि पर महाजन फील्ड फायरिंग रेंज बनाई गई"
+      },
+      {
+        "claim_key": "resettlement_site",
+        "value": "Mahajan town",
+        "statement_hi": "भोजरासर के विस्थापित राजूराम शर्मा महाजन कस्बे में बस गए।",
+        "statement_en": "Displaced resident Raj Uram Sharma from Bhojrasar resettled in Mahajan town.",
+        "snippet": "भोजरासर से आकर महाजन में बसे राजूराम शर्मा"
+      },
+      {
+        "claim_key": "resettlement_land_areas",
+        "value": "Khajuwala, Dantaur, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित किसानों को खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना क्षेत्रों में सिंचित भूमि आवंटित की गई।",
+        "statement_en": "Displaced farmers were allotted irrigated land in Khajuwala, Dantaur, Pugal, Mohangarh and Nachna.",
+        "snippet": "विस्थापित किसानों को खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना क्षेत्र में जमीन आवंटित की गई"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Bhojrasar",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']"
+      ],
+      "matched_names": [
+        "Bhojrasar",
+        "भोजरासर"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 92,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 11,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 6,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Strongest direct-mention source found; corroborates unit notes field ('Sharma family resettled in Mahajan town'). Recommend WebFetch/manual read of full article for any further named residents or temple names."
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "bhojrasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "भोजरासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह रिपोर्ट महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) के लिए करीब चार दशक पहले उजाड़े गए 34 गांवों की सामान्य पृष्ठभूमि देती है — घर, तालाब, मंदिर आज भी खंडहर के रूप में मौजूद हैं। भोजरासर का नाम इस विशेष लेख में सीधे नहीं आया, केवल सामान्य '34 गांव' संदर्भ में शामिल माना जा सकता है।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को उजाड़कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan"
+      ],
+      "events": [
+        "Mahajan Field Firing Range establishment"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "total_acquired_area",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए कुल 3.37 लाख एकड़ भूमि अधिग्रहित की गई थी।",
+        "statement_en": "A total of 3.37 lakh acres was acquired to create the Mahajan Field Firing Range.",
+        "snippet": "3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "No direct name match to Bhojrasar in this article; recorded only for firing-range/34-gaon geographic and historical context per project rules."
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "bhojrasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "भोजरासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "2018 का यह लेख 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए विस्थापित 34 गांवों पर है; खाजूवाला, दंतोर, पूगल, मोहनगढ़, नाचना में पुनर्वास का उल्लेख है। भोजरासर का नाम इस लेख में सीधे नहीं है।",
+    "topics": [
+      "displacement",
+      "history",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangarh",
+      "Nachna",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 वर्ष बाद भी विस्थापित परिवारों को अपने पुराने घरों से भावनात्मक लगाव है"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "src_a5150b8b1d53",
+    "syndicate_group": "",
+    "review_flags": [
+      "duplicate"
+    ],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Same news beat as the two other Patrika finds, earlier (2018) instance; no direct name mention found, kept for background/cross-checking dates and resettlement place names."
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "bhojrasar",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range 34 villages list names acquired 1982 1984 parliament"
+    ],
+    "summary": "Parliamentary e-library catalogue entry titled 'Mahajan Field Firing Range in Rajasthan'. Page content could not be fully retrieved (only the title rendered); likely a Lok Sabha/Rajya Sabha question-and-answer or committee document about the range, potentially containing the list of the 34 acquired villages including Bhojrasar.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "legal",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Parliament of India"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad eLibrary (Parliament of India)",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 55,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "High-value lead not fully accessible via WebFetch (page appears to require interaction/JS to render body text). A human researcher should open this directly — parliamentary records are a likely place to find an official list of the 34 villages naming Bhojrasar and possibly compensation/acquisition-year figures."
+  },
+  "src_f07a8c256ae6": {
+    "id": "src_f07a8c256ae6",
+    "village": "bhojrasar",
+    "url": "https://www.jatland.com/home/Mahajan",
+    "url_key": "https://jatland.com/home/Mahajan",
+    "title": "Mahajan - महाजन (Jatland Wiki)",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en+hi",
+    "found_by_query": [
+      "भोजरासर महाजन लूणकरणसर"
+    ],
+    "summary": "Jatland wiki page for Mahajan village (Lunkaransar tehsil, Bikaner) — the sub-tehsil town after which the firing range and this displaced-villages cluster are named. Page could not be fetched (403 Forbidden on WebFetch); only appeared as a search result. Likely to contain clan/gotra and settlement-history material relevant to the wider 34-gaon area, possibly cross-referencing Bhojrasar.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "military_range",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 gaon",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 37,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Fetch blocked (HTTP 403) in this pass; a human researcher (or a differently-configured fetch) should check this page and Jatland's Lunkaransar/Bikaner clan pages for any direct Bhojrasar reference."
+  },
+  "src_cfc3c0cd8dea": {
+    "id": "src_cfc3c0cd8dea",
+    "village": "bhojrasar",
+    "url": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "title": "Gazetteer of the Bikaner State",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "P.W. Powlett",
+    "published_date": "1874",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Bhojrasar\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "1874 gazetteer of the princely Bikaner State (188 pages), digitized on Internet Archive. Not confirmed in this pass to name Bhojrasar, but pre-independence village lists/revenue records of this type sometimes include minor villages later absorbed by the firing range.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "military_range"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner State"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "P.W. Powlett"
+      ],
+      "places": [
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Internet Archive - check item page for specific terms",
+    "attribution": "Internet Archive, Gazetteer of the Bikaner State, P.W. Powlett, 1874",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Gazetteer of the Bikaner State",
+      "pages": "188",
+      "caption": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Not full-text searched for 'Bhojrasar' in this pass due to search-budget limits; recommend a human run archive.org's full-text search inside this and the companion Sehgal/Erskine gazetteers (also on archive.org) for the exact spelling and Rajasthani variants."
+  },
+  "src_42f3fee70694": {
+    "id": "src_42f3fee70694",
+    "village": "bhojrasar",
+    "url": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "title": "Rajasthan District Gazetteers: Bikaner",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K.K. Sehgal",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Bhojrasar\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "Post-independence Rajasthan District Gazetteer for Bikaner (491 pages), Directorate of District Gazetteers, Government of Rajasthan. A full-text search for 'Bhojrasar' inside this volume was not performed in this pass; it is a plausible source for village-level administrative/demographic data pre-dating the firing-range acquisition.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner district"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "K.K. Sehgal"
+      ],
+      "places": [
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Directorate of District Gazetteers, Government of Rajasthan"
+      ]
+    },
+    "license": "Internet Archive - check item page for specific terms",
+    "attribution": "Internet Archive / Govt. of Rajasthan, Rajasthan District Gazetteers: Bikaner, K.K. Sehgal",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": "491",
+      "caption": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 3,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Also available as full OCR text at https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt for keyword search by a human researcher."
+  },
+  "src_4649c3381476": {
+    "id": "src_4649c3381476",
+    "village": "bhojrasar",
+    "url": "https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html",
+    "title": "Bhojoosar Village in Bikaner, Rajasthan | villageinfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Bhojrasar village Bikaner Rajasthan"
+    ],
+    "summary": "Census-derived listing for a village spelled 'Bhojoosar' — 40 km from Bikaner city, in Bikaner TEHSIL (not Lunkaransar), gram panchayat Swaroopdesar, population 493 (2011). This is very likely a DIFFERENT village from the 34-gaon Bhojrasar near Mahajan/Lunkaransar, since it is a currently-populated village in a different tehsil with no link to the firing range.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner tehsil",
+      "Swaroopdesar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Bhojoosar",
+    "evidence_snippets": [
+      "Bhojoosar is a village located in Bikaner tehsil of Bikaner district... population of Bhojoosar is 493"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Swaroopdesar"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in (Census of India 2011 data)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar', '34 gaon']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "34 gaon",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 43,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Likely a false lead / name-confusion with a similarly spelled but geographically distinct, still-inhabited village in Bikaner tehsil (not Lunkaransar/Mahajan). Flagged so the pipeline does not conflate it with the 34-gaon Bhojrasar."
+  },
+  "src_cf83dfc20bca": {
+    "id": "src_cf83dfc20bca",
+    "village": "bhojrasar",
+    "url": "https://villageinfo.in/rajasthan/churu/sardarshahar/bhojrasar/",
+    "url_key": "https://villageinfo.in/rajasthan/churu/sardarshahar/bhojrasar",
+    "title": "Bhojrasar Village in Sardarshahar, Churu, Rajasthan | VillageInfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Bhojrasar Lunkaransar census village code panchayat"
+    ],
+    "summary": "A separate, currently-inhabited village also named 'Bhojrasar' exists in Sardarshahar tehsil, Churu district (census code 070365, population 2,063 in 2011, its own gram panchayat). This is a DIFFERENT village in Churu district, which is explicitly a negative_terms region for this unit.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Sardarshahar",
+      "Churu"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Bhojrasar",
+    "evidence_snippets": [
+      "Bhojrasar is a village in Sardarshahar, Churu... total population of 2,063 people"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in (Census of India 2011 data)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.0,
+      "reasons": [
+        "primary name match: Bhojrasar",
+        "state-level context only",
+        "negative/other-place signals: ['Churu', 'Sardarshahar', 'Churu']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Bhojrasar"
+      ],
+      "geo_hits": [
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Churu",
+        "Sardarshahar",
+        "Churu"
+      ]
+    },
+    "relevance": {
+      "score": 47,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 0,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Explicit namesake collision with the negative_terms region Churu. Any source found under 'Bhojrasar, Churu' or 'Bhojrasar, Sardarshahar' should NOT be attributed to this 34-gaon unit. Recorded here purely as a disambiguation flag for the pipeline."
+  },
+  "src_8c5b127adbe8": {
+    "id": "src_8c5b127adbe8",
+    "village": "bhojrasar",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "title": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range 34 villages list names acquired 1982 1984 parliament"
+    ],
+    "summary": "Census of India recognises 'Mahajan Fieldfiring Range' itself as a distinct revenue/census village (code 69202) inside Lunkaransar tehsil, Bikaner — i.e., the acquired land of the 34 villages, including Bhojrasar's former site, was consolidated into this single military-use census unit after acquisition. WebFetch of the page itself returned 403 in this pass, so population/area figures were not confirmed.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Mahajan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Census of India"
+      ]
+    },
+    "license": "",
+    "attribution": "villageinfo.in / Census of India (village code 69202)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "post_acquisition_administrative_status",
+        "value": "merged into 'Mahajan Fieldfiring Range' census village (code 69202), Lunkaransar tehsil",
+        "statement_hi": "अधिग्रहण के बाद भोजरासर सहित 34 गांवों की भूमि 'महाजन फील्ड फायरिंग रेंज' नामक एक ही जनगणना गांव (कोड 69202) में समाहित कर दी गई।",
+        "statement_en": "After acquisition, the land of Bhojrasar and the other 34 villages was consolidated into a single census village named 'Mahajan Fieldfiring Range' (code 69202) in Lunkaransar tehsil.",
+        "snippet": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 43,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174840Z"
+    ],
+    "notes": "Explains why Bhojrasar has no standalone modern census/village page: it was administratively absorbed. Also listed on mapsofindia.com and localbodydata.com (village code 69202) — both blocked/redirected on fetch in this pass and worth a manual look."
+  }
+}

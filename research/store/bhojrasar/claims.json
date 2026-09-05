@@ -1,0 +1,107 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "भोजरासर सहित 34 गांवों की जमीन 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित की गई।",
+    "statement_en": "Bhojrasar's land, along with 33 other villages, was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "करीब 34 गांवों को उजाड़कर 1984-85 में 3.37 लाख एकड़ भूमि पर महाजन फील्ड फायरिंग रेंज बनाई गई"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_site_8d342230": {
+    "id": "clm_resettlement_site_8d342230",
+    "claim_key": "resettlement_site",
+    "value": "Mahajan town",
+    "statement_hi": "भोजरासर के विस्थापित राजूराम शर्मा महाजन कस्बे में बस गए।",
+    "statement_en": "Displaced resident Raj Uram Sharma from Bhojrasar resettled in Mahajan town.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "भोजरासर से आकर महाजन में बसे राजूराम शर्मा"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_land_areas_c314b98e": {
+    "id": "clm_resettlement_land_areas_c314b98e",
+    "claim_key": "resettlement_land_areas",
+    "value": "Khajuwala, Dantaur, Pugal, Mohangarh, Nachna",
+    "statement_hi": "विस्थापित किसानों को खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना क्षेत्रों में सिंचित भूमि आवंटित की गई।",
+    "statement_en": "Displaced farmers were allotted irrigated land in Khajuwala, Dantaur, Pugal, Mohangarh and Nachna.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "विस्थापित किसानों को खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना क्षेत्र में जमीन आवंटित की गई"
+      }
+    ],
+    "competing": []
+  },
+  "clm_total_acquired_area_792fcc92": {
+    "id": "clm_total_acquired_area_792fcc92",
+    "claim_key": "total_acquired_area",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए कुल 3.37 लाख एकड़ भूमि अधिग्रहित की गई थी।",
+    "statement_en": "A total of 3.37 lakh acres was acquired to create the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई"
+      }
+    ],
+    "competing": []
+  },
+  "clm_post_acquisition_administrative_status_694977bc": {
+    "id": "clm_post_acquisition_administrative_status_694977bc",
+    "claim_key": "post_acquisition_administrative_status",
+    "value": "merged into 'Mahajan Fieldfiring Range' census village (code 69202), Lunkaransar tehsil",
+    "statement_hi": "अधिग्रहण के बाद भोजरासर सहित 34 गांवों की भूमि 'महाजन फील्ड फायरिंग रेंज' नामक एक ही जनगणना गांव (कोड 69202) में समाहित कर दी गई।",
+    "statement_en": "After acquisition, the land of Bhojrasar and the other 34 villages was consolidated into a single census village named 'Mahajan Fieldfiring Range' (code 69202) in Lunkaransar tehsil.",
+    "sources": [
+      "src_8c5b127adbe8"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_8c5b127adbe8",
+        "text": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan"
+      }
+    ],
+    "competing": []
+  }
+}

@@ -10,7 +10,8 @@
   "built": "2026-09-05",
   "counts": {
     "sources_total": 12,
-    "accepted": 12,
+    "accepted": 9,
+    "context": 0,
     "review": 3,
     "rejected": 0,
     "duplicates": 0,
@@ -1208,6 +1209,7 @@
       "is_primary": false
     }
   },
+  "shared_umbrella_sources": [],
   "runs": [
     {
       "run_id": "run_20260905T174617Z",

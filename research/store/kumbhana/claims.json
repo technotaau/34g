@@ -1,0 +1,197 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "कुम्भाणा सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिगृहीत की गई।",
+    "statement_en": "Kumbhana, along with 33 other villages, had its land acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया।"
+      }
+    ],
+    "competing": []
+  },
+  "clm_holika_tradition_continues_410fde9e": {
+    "id": "clm_holika_tradition_continues_410fde9e",
+    "claim_key": "holika_tradition_continues",
+    "value": "yes, on-site every Holi",
+    "statement_hi": "विस्थापन के बावजूद कुम्भाणा में होली पर होलिका दहन की परंपरा आज भी निभाई जाती है।",
+    "statement_en": "Despite displacement, the tradition of burning Holika at Kumbhana continues every Holi, with former residents returning to the range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "होली पर्व पर कुम्भाणा में होलिका का दहन करने की परम्परा का निर्वहन होता है"
+      }
+    ],
+    "competing": []
+  },
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_dhatarwal_founder_40eeeeea": {
+    "id": "clm_dhatarwal_founder_40eeeeea",
+    "claim_key": "dhatarwal_founder",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_kumbhana_thikana_founder_3a943632": {
+    "id": "clm_kumbhana_thikana_founder_3a943632",
+    "claim_key": "kumbhana_thikana_founder",
+    "value": "Thakur Kesri Singh (Ratansinghot)",
+    "statement_hi": "कुम्भाणा ठिकाना ठाकुर केसरी सिंह को जागीर में मिला",
+    "statement_en": "",
+    "sources": [
+      "src_0e0757dd116a"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_clan_66a7e7f6": {
+    "id": "clm_founding_clan_66a7e7f6",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal Jat",
+    "statement_hi": "कुम्भाणा गांव की स्थापना नाथू धतरवाल के पुत्र कुम्भा ने की थी।",
+    "statement_en": "Kumbhana village was founded by Kumbha, eldest son of Nathu Dhatarwal.",
+    "sources": [
+      "src_698a84e4ebfa"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_698a84e4ebfa",
+        "text": "Kumbhana was founded after Kumbha, the eldest son of Nathu Dhatarwal."
+      }
+    ],
+    "competing": []
+  },
+  "clm_jagirdari_abolition_year_2da8dade": {
+    "id": "clm_jagirdari_abolition_year_2da8dade",
+    "claim_key": "jagirdari_abolition_year",
+    "value": "1952",
+    "statement_hi": "1952 के भूमि सुधार अधिनियम से कुम्भाणा ठिकाने के जागीरदारी अधिकार समाप्त हुए।",
+    "statement_en": "Kumbhana Thikana's jagirdari rights were abolished under the 1952 Rajasthan Land Reforms Act.",
+    "sources": [
+      "src_698a84e4ebfa"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_698a84e4ebfa",
+        "text": "With the passing of the Rajasthan Land Reforms and Resumption of Jagirs Act in 1952, the feudal privileges, jagirdari rights, and administrative powers of Kumbhana Thikana were formally abolished."
+      }
+    ],
+    "competing": []
+  },
+  "clm_thikana_rank_8f146284": {
+    "id": "clm_thikana_rank_8f146284",
+    "claim_key": "thikana_rank",
+    "value": "second only to Mahajan among Bikaner Thikanas",
+    "statement_hi": "बीकानेर रियासत के ठिकानों में कुम्भाणा का दर्जा महाजन के बाद दूसरे स्थान पर था।",
+    "statement_en": "Kumbhana was one of the premier noble estates of Bikaner state, second only to Mahajan.",
+    "sources": [
+      "src_31f3ca85e9a1"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_31f3ca85e9a1",
+        "text": "one of the premier noble estates, second only to the estate of Mahajan"
+      }
+    ],
+    "competing": []
+  },
+  "clm_clan_branch_89c763f1": {
+    "id": "clm_clan_branch_89c763f1",
+    "claim_key": "clan_branch",
+    "value": "Ratansinghot (Bika Rathore)",
+    "statement_hi": "कुम्भाणा ठिकाना बीका राठौड़ों की रतनसिंहोत शाखा से संबंधित है।",
+    "statement_en": "Kumbhana Thikana belongs to the Ratansinghot branch of the Bika Rathore clan.",
+    "sources": [
+      "src_31f3ca85e9a1"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_31f3ca85e9a1",
+        "text": "Kumbhana is a Thikana of the Rathore Dynasty's Bika clan, specifically the Ratansinghot subclan."
+      }
+    ],
+    "competing": []
+  },
+  "clm_present_pattedar_b08ab35f": {
+    "id": "clm_present_pattedar_b08ab35f",
+    "claim_key": "present_pattedar",
+    "value": "Thakur Raj Singh Rathore",
+    "statement_hi": "वर्तमान में ठाकुर राज सिंह राठौड़ कुम्भाणा के पट्टेदार हैं।",
+    "statement_en": "Thakur Raj Singh Rathore currently serves as Pattedar of Kumbhana, succeeding his grandfather Rao Bahadur Thakur Daulat Singh.",
+    "sources": [
+      "src_31f3ca85e9a1"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_31f3ca85e9a1",
+        "text": "Thakur Raj Singh Rathore currently serves as Pattedar, succeeding his grandfather Rao Bahadur Thakur Daulat Singhji."
+      }
+    ],
+    "competing": []
+  }
+}
