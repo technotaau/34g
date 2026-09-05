@@ -530,11 +530,14 @@
           "बेरावाला गांव",
           "बेरावाला महाजन",
           "बेरावाला बीकानेर",
-          "बेरवाला"
+          "बेरवाला",
+          "Bera Wala",
+          "बेरावाला गांव महाजन",
+          "Berawala Sherpura"
         ]
       },
       "status": "acquired",
-      "notes": "Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude.",
+      "notes": "Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude. Family in the Akshay Godara vlog now lives at Sherpura (Lunkaransar tehsil); video tags use 'Berwala' too.",
       "disambiguation": {
         "negative_terms": [
           "Barwala",
