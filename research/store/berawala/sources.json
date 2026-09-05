@@ -15,7 +15,7 @@
     "found_by_query": [
       "Berawala Village Mahajan Firing Range (YouTube search)"
     ],
-    "summary": "अक्षय गोदारा का 7:37 मिनट का पारिवारिक व्लॉग: परिवार महाजन फील्ड फायरिंग रेंज के अंदर अपने पैतृक गांव बेरावाला के खंडहर देखने गया। विवरण में बेरावाला को रेंज के 34 गांवों में से एक बताया गया है; रेंज का अधिग्रहण 1984 और क्षेत्रफल 3.37 लाख एकड़ लिखा है। दर्शकों के अनुसार वीडियो में नानी की भावुक यादें, मिट्टी का तिलक और तालाब से पानी लेना है; टिप्पणियों में '1986 में यहाँ 34 गांव उठे' और दुदेर वासी की टिप्पणी है। वीडियो में बर्न-इन सबटाइटल हैं; YouTube कैप्शन ट्रैक नहीं।",
+    "summary": "अक्षय गोदारा का 7:37 मिनट का पारिवारिक व्लॉग: परिवार महाजन फील्ड फायरिंग रेंज के अंदर अपने पैतृक गांव बेरावाला के खंडहर देखने गया। विवरण में बेरावाला को रेंज के 34 गांवों में से एक बताया गया है; रेंज का अधिग्रहण 1984 और क्षेत्रफल 3.37 लाख एकड़ लिखा है। दर्शकों के अनुसार वीडियो में नानी की भावुक यादें, मिट्टी का तिलक और तालाब से पानी लेना है; टिप्पणियों में '1986 में यहाँ 34 गांव उठे' और दुदेर वासी की टिप्पणी है। वीडियो में बर्न-इन सबटाइटल हैं; YouTube कैप्शन ट्रैक नहीं। सबटाइटल (OCR) के अनुसार परिवार ने 7 जुलाई 1986 को गांव छोड़ा; वीडियो में पुराना खेत, गांव का पहला मकान (जहाँ तीन पीढ़ियाँ जन्मीं), ठाकुरजी मंदिर, दादा का बनाया घर, पानी की टंकी, ऊंट से चलने वाली पत्थर की 'घिर्ट' (चूना/सीमेंट विकल्प पीसने की चक्की), गांव का मुख्य कुआँ और मुख्य तालाब दिखाए गए हैं।",
     "topics": [
       "culture",
       "displacement",
@@ -23,25 +23,34 @@
       "land_agriculture",
       "media_visual",
       "military_range",
-      "people_family"
+      "people_family",
+      "religion_temple"
     ],
     "period": "mixed",
     "geo_mentions": [
       "Berawala",
-      "Mahajan Field Firing Range",
-      "MFFR",
       "Bikaner",
+      "MFFR",
+      "Mahajan Field Firing Range",
       "Mahajan Range"
     ],
     "direct_mention": true,
     "name_form_matched": "Berawala Village",
     "evidence_snippets": [
       "I documented the visit to Berawala Village which is one of the 34 Village which is situated in Mahajan Field Firing Ranges (MFFR)",
+      "Label 03:10: 'Thakurji Mandir'",
       "MFFR was acquired in 1984 and are the second-largest Ranges in the country with an area of 3.37 lakh acres of land.",
+      "Subtitle 00:00: 'On 7th July 1986, we left this village. We came today after that day.'",
+      "Subtitle 01:11: 'Your grandmother (Nani) used to cut crops in this field ... It was so hard for us to leave all this, so hard'",
+      "Subtitle 02:23: 'This was the first house built in the village, this room ... All of us got birth in this room only ... 3 generations are standing in that room'",
+      "Subtitle 03:37: 'House built by my Grandfather'",
+      "Subtitle 05:17: 'used to be called ghirt (local name) ... stone wheel on top ... used to grind with the help of camels; that powder was used as an alternative of cement'",
+      "Subtitle 05:37: '(this) was the main well of the village (water system)'",
+      "Subtitle 06:12: 'Main pond of the village'",
+      "Uploader reply to 'कोनसा गांव था भाई यो': 'Berawala Ganv'",
       "Viewer comment: 'Ke baat hai yrr, 1986 me athe 34 gaon uthya'",
       "Viewer comment: 'दुदेर वासी ❤'",
-      "Viewer comment: best parts: grandma's emotional moment, clay tilak, taking water from the pond",
-      "Uploader reply to 'कोनसा गांव था भाई यो': 'Berawala Ganv'"
+      "Viewer comment: best parts: grandma's emotional moment, clay tilak, taking water from the pond"
     ],
     "entities": {
       "people": [
@@ -49,10 +58,15 @@
       ],
       "places": [
         "Berawala",
+        "Berawala main pond",
+        "Berawala village well",
+        "Bikaner",
         "Mahajan Field Firing Range",
-        "Bikaner"
+        "Thakurji Mandir (Berawala)",
+        "first house of Berawala"
       ],
       "events": [
+        "Family left Berawala on 7 July 1986",
         "Family visit to Berawala ruins, Feb 2022"
       ],
       "organizations": [
@@ -72,8 +86,8 @@
       "uploader": "@akshaygodara1516 (channel UC5t_IF-p1RpQdZvsADzdfiw)",
       "caption": "",
       "creator": "Akshay Godara",
-      "transcript_available": "No YouTube caption tracks (manual or auto). Viewer comment says the video carries burned-in subtitles.",
-      "timestamps": "none in description; 47 public comments, 1,810 views, 151 likes as of 5 Sep 2026",
+      "transcript_available": "No YouTube captions. Burned-in English subtitles OCR'd from a 720p copy (29 lines) -> research/inbox/berawala/a37vCzQOq4o.content.md. Spoken Marwari not machine-transcribable.",
+      "timestamps": "00:00 title (7 July 1986); 00:57 old field; 01:11 Nani on cutting crops; 01:46 arrival; 02:23 first house/birth room; 03:10 Thakurji Mandir; 03:37 grandfather's house; 04:48 water tank; 05:17 ghirt stone grinder (camel-driven) and well; 06:12 main pond; 06:31 mother and son; 07:00 closing title",
       "book_title": "",
       "pages": ""
     },
@@ -112,6 +126,48 @@
         "statement_hi": "विस्थापित परिवार रेंज के अंदर अपने गांव के खंडहर देखने जाते हैं",
         "statement_en": "Displaced families visit their village ruins inside the range",
         "snippet": "My family visited Berawala Village"
+      },
+      {
+        "claim_key": "evacuation_date",
+        "value": "1986-07-07",
+        "statement_hi": "परिवार ने 7 जुलाई 1986 को बेरावाला गांव छोड़ा (वीडियो शीर्षक)",
+        "statement_en": "The family left Berawala on 7 July 1986 (video title card)",
+        "snippet": "On 7th July 1986, we left this village"
+      },
+      {
+        "claim_key": "temple_name",
+        "value": "Thakurji Mandir",
+        "statement_hi": "गांव में ठाकुरजी मंदिर के खंडहर मौजूद हैं",
+        "statement_en": "Ruins of a Thakurji temple stand in the village",
+        "snippet": "Thakurji Mandir (on-screen label)"
+      },
+      {
+        "claim_key": "ghirt_stone_grinder",
+        "value": "camel-driven stone wheel grinding powder used as cement alternative",
+        "statement_hi": "गांव में 'घिर्ट' नाम की ऊंट से चलने वाली पत्थर की चक्की थी जिसका चूर्ण सीमेंट के विकल्प के रूप में काम आता था",
+        "statement_en": "The village had a camel-driven stone grinder called 'ghirt' whose powder served as a cement alternative",
+        "snippet": "used to be called ghirt ... used to grind with the help of camels; that powder was used as an alternative of cement"
+      },
+      {
+        "claim_key": "village_well_exists",
+        "value": "yes (main well of the village water system)",
+        "statement_hi": "गांव का मुख्य कुआँ आज भी दिखता है",
+        "statement_en": "The village's main well still stands",
+        "snippet": "was the main well of the village (Water system)"
+      },
+      {
+        "claim_key": "first_house_birth_room",
+        "value": "three generations born in the first house of the village",
+        "statement_hi": "गांव के पहले मकान के एक कमरे में तीन पीढ़ियाँ जन्मीं",
+        "statement_en": "Three generations were born in one room of the village's first house",
+        "snippet": "This was the first house built in the village ... All of us got birth in this room only"
+      },
+      {
+        "claim_key": "crops_field_memory",
+        "value": "grandmother hand-harvested crops in the family field",
+        "statement_hi": "नानी अपने हाथों से खेत में फसल काटती थीं",
+        "statement_en": "The grandmother remembers cutting crops by hand in the family field",
+        "snippet": "Your grandmother (Nani) used to cut crops in this field"
       }
     ],
     "resolution": {
@@ -125,7 +181,8 @@
       "matched_names": [
         "Berawala",
         "बेरावाला",
-        "Berawala Mahajan",
+        "Berawala Bikaner",
+        "बेरावाला गांव",
         "बेरावाला महाजन"
       ],
       "geo_hits": [
@@ -167,8 +224,9 @@
     "syndicate_group": "",
     "review_flags": [],
     "runs": [
-      "run_20260905T190302Z"
+      "run_20260905T190302Z",
+      "run_20260905T195856Z"
     ],
-    "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84)."
+    "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84). 2026-09-05: subtitles OCR'd from a 720p copy supplied by the team; see a37vCzQOq4o.content.md."
   }
 }

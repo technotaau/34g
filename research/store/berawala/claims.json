@@ -103,5 +103,131 @@
       }
     ],
     "competing": []
+  },
+  "clm_evacuation_date_25abef77": {
+    "id": "clm_evacuation_date_25abef77",
+    "claim_key": "evacuation_date",
+    "value": "1986-07-07",
+    "statement_hi": "परिवार ने 7 जुलाई 1986 को बेरावाला गांव छोड़ा (वीडियो शीर्षक)",
+    "statement_en": "The family left Berawala on 7 July 1986 (video title card)",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "On 7th July 1986, we left this village"
+      }
+    ],
+    "competing": []
+  },
+  "clm_temple_name_dc4f5b3e": {
+    "id": "clm_temple_name_dc4f5b3e",
+    "claim_key": "temple_name",
+    "value": "Thakurji Mandir",
+    "statement_hi": "गांव में ठाकुरजी मंदिर के खंडहर मौजूद हैं",
+    "statement_en": "Ruins of a Thakurji temple stand in the village",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "Thakurji Mandir (on-screen label)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_ghirt_stone_grinder_4ecdf64d": {
+    "id": "clm_ghirt_stone_grinder_4ecdf64d",
+    "claim_key": "ghirt_stone_grinder",
+    "value": "camel-driven stone wheel grinding powder used as cement alternative",
+    "statement_hi": "गांव में 'घिर्ट' नाम की ऊंट से चलने वाली पत्थर की चक्की थी जिसका चूर्ण सीमेंट के विकल्प के रूप में काम आता था",
+    "statement_en": "The village had a camel-driven stone grinder called 'ghirt' whose powder served as a cement alternative",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "used to be called ghirt ... used to grind with the help of camels; that powder was used as an alternative of cement"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_well_exists_fb360f9c": {
+    "id": "clm_village_well_exists_fb360f9c",
+    "claim_key": "village_well_exists",
+    "value": "yes (main well of the village water system)",
+    "statement_hi": "गांव का मुख्य कुआँ आज भी दिखता है",
+    "statement_en": "The village's main well still stands",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "was the main well of the village (Water system)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_first_house_birth_room_c445d521": {
+    "id": "clm_first_house_birth_room_c445d521",
+    "claim_key": "first_house_birth_room",
+    "value": "three generations born in the first house of the village",
+    "statement_hi": "गांव के पहले मकान के एक कमरे में तीन पीढ़ियाँ जन्मीं",
+    "statement_en": "Three generations were born in one room of the village's first house",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "This was the first house built in the village ... All of us got birth in this room only"
+      }
+    ],
+    "competing": []
+  },
+  "clm_crops_field_memory_fa65c376": {
+    "id": "clm_crops_field_memory_fa65c376",
+    "claim_key": "crops_field_memory",
+    "value": "grandmother hand-harvested crops in the family field",
+    "statement_hi": "नानी अपने हाथों से खेत में फसल काटती थीं",
+    "statement_en": "The grandmother remembers cutting crops by hand in the family field",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "Your grandmother (Nani) used to cut crops in this field"
+      }
+    ],
+    "competing": []
   }
 }

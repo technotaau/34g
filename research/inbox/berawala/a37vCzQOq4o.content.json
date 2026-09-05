@@ -1,0 +1,225 @@
+{
+ "video": "a37vCzQOq4o",
+ "source_url": "https://www.youtube.com/watch?v=a37vCzQOq4o",
+ "duration_s": 456.799615,
+ "method": "720p copy supplied by TechnoTaau Team via Google Drive; OCR of burned-in English subtitles (tesseract, letterbox band only, 1 fps); Whisper medium attempted with auto-detect (Urdu script) and forced Hindi: output unusable because the family speaks Marwari over music; subtitles are the uploader's own translation and are used as the transcript. Media not stored in the repository.",
+ "ocr_subtitles": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "On 7th July 1986, we left this village"
+  },
+  {
+   "start": 5.0,
+   "end": 8.0,
+   "text": "We came today after that day"
+  },
+  {
+   "start": 57.0,
+   "end": 60.0,
+   "text": "[Reached our first stop, the old field]"
+  },
+  {
+   "start": 60.0,
+   "end": 66.0,
+   "text": "[we asked for the permission to visit the area]"
+  },
+  {
+   "start": 71.0,
+   "end": 74.0,
+   "text": "Your grandmother (Nani) used to cut crops in this feild"
+  },
+  {
+   "start": 74.0,
+   "end": 78.0,
+   "text": "clearly remember cutting the crops here from my hands"
+  },
+  {
+   "start": 82.0,
+   "end": 90.0,
+   "text": "It was so hard for us to leave all this, so hard"
+  },
+  {
+   "start": 106.0,
+   "end": 112.0,
+   "text": "[Finally we arrived at the village]"
+  },
+  {
+   "start": 122.0,
+   "end": 128.0,
+   "text": "[Look at the smile on her face"
+  },
+  {
+   "start": 128.0,
+   "end": 132.0,
+   "text": "[So peaceful]"
+  },
+  {
+   "start": 143.0,
+   "end": 147.0,
+   "text": "This was the first house built in the village, this room"
+  },
+  {
+   "start": 151.0,
+   "end": 154.0,
+   "text": "And I'm standing in that room, my room"
+  },
+  {
+   "start": 154.0,
+   "end": 157.0,
+   "text": "All of us got birth in this room only"
+  },
+  {
+   "start": 157.0,
+   "end": 159.0,
+   "text": "Even mine (My Mother)"
+  },
+  {
+   "start": 159.0,
+   "end": 168.0,
+   "text": "GENERATIONS are standing in that room]"
+  },
+  {
+   "start": 168.0,
+   "end": 176.0,
+   "text": "in the other room, locked myself by mistake as kid"
+  },
+  {
+   "start": 217.0,
+   "end": 236.0,
+   "text": "House build by my Grandfather"
+  },
+  {
+   "start": 288.0,
+   "end": 298.0,
+   "text": "[Small water storage tank in front house]"
+  },
+  {
+   "start": 317.0,
+   "end": 320.0,
+   "text": "used to be called ghirt (Local name)"
+  },
+  {
+   "start": 320.0,
+   "end": 328.0,
+   "text": "there was stone wheel on top it, attached with handmade equipments"
+  },
+  {
+   "start": 328.0,
+   "end": 335.0,
+   "text": "used to ground with the help of camels"
+  },
+  {
+   "start": 335.0,
+   "end": 337.0,
+   "text": "that powder was used as an alternative of cement"
+  },
+  {
+   "start": 337.0,
+   "end": 342.0,
+   "text": "was the main well of the village (Water system)"
+  },
+  {
+   "start": 343.0,
+   "end": 349.0,
+   "text": "[Rest of the process was explained]"
+  },
+  {
+   "start": 372.0,
+   "end": 390.0,
+   "text": "Main pond of the village"
+  },
+  {
+   "start": 391.0,
+   "end": 397.0,
+   "text": "Nostalgic moment between son and the mother"
+  },
+  {
+   "start": 420.0,
+   "end": 424.0,
+   "text": "On 7th July 1986, we left this village"
+  },
+  {
+   "start": 424.0,
+   "end": 427.0,
+   "text": "We came today after that day"
+  },
+  {
+   "start": 432.0,
+   "end": 434.0,
+   "text": "Let's gooo"
+  }
+ ],
+ "on_screen_labels": [
+  {
+   "start": 190.0,
+   "end": 205.0,
+   "text": "Thakurji Mandir (on-screen location label, seen in frame at 03:10-03:25)"
+  },
+  {
+   "start": 320.0,
+   "end": 335.0,
+   "text": "Handmade stone grinder (Ghirt) (on-screen location label, seen in frame at ~05:30)"
+  }
+ ],
+ "scenes": [
+  {
+   "at": "00:00",
+   "what": "Opening title: 'On 7th July 1986, we left this village. We came today after that day.'"
+  },
+  {
+   "at": "00:15",
+   "what": "Drive through mustard fields (yellow sarson) towards the range; grandfather in the car"
+  },
+  {
+   "at": "00:57",
+   "what": "First stop: the old family field; permission taken to enter the area"
+  },
+  {
+   "at": "01:11",
+   "what": "Nani (grandmother) recalls cutting crops in this field by hand; 'so hard for us to leave all this'"
+  },
+  {
+   "at": "01:46",
+   "what": "Arrival at the village ruins; grandmother's smile"
+  },
+  {
+   "at": "02:23",
+   "what": "The first house built in the village; the room where three generations were born (uploader's mother included); childhood story of being locked in the other room"
+  },
+  {
+   "at": "03:10",
+   "what": "Thakurji Mandir: brick-and-plaster temple ruins"
+  },
+  {
+   "at": "03:37",
+   "what": "House built by the grandfather"
+  },
+  {
+   "at": "04:48",
+   "what": "Small water storage tank in front of the house"
+  },
+  {
+   "at": "05:17",
+   "what": "'Ghirt': handmade stone grinder with a stone wheel turned by camels; the powder was used as an alternative to cement; the village's main well and water system explained"
+  },
+  {
+   "at": "06:12",
+   "what": "Main pond of the village (family takes water from it)"
+  },
+  {
+   "at": "06:31",
+   "what": "Nostalgic moment between son and mother"
+  },
+  {
+   "at": "07:00",
+   "what": "Closing title repeats the 7 July 1986 departure; 'Let's gooo'"
+  }
+ ],
+ "speech": {
+  "status": "unusable",
+  "language_detected": "ur (auto) / hi (forced)",
+  "note": "18 gibberish segments; speech present at 0:00-0:06, 2:24-2:56, 5:20-5:42, 7:00-7:13 (Marwari)."
+ },
+ "_note": "Derived research notes; quote sparingly and attribute to Akshay Godara (YouTube)."
+}

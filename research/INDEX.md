@@ -18,4 +18,4 @@
 | लाडेरा (Ladera) | 7 | 0 | 7 | 8 | 8 | [report](store/ladera/report.md) |
 | भानाबस्ती (Bhanabasti) | 7 | 1 | 2 | 10 | 10 | [report](store/bhanabasti/report.md) |
 | नाथौर (Nathor) | 6 | 3 | 1 | 9 | 9 | [report](store/nathor/report.md) |
-| बेरावाला (Berawala) | 1 | 1 | 0 | 5 | 5 | [report](store/berawala/report.md) |
+| बेरावाला (Berawala) | 1 | 1 | 0 | 11 | 11 | [report](store/berawala/report.md) |
