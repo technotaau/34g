@@ -1,0 +1,107 @@
+{
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "बेरावाला महाजन फायरिंग रेंज के 34 गांवों में से एक है",
+    "statement_en": "Berawala is one of the 34 villages inside MFFR",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "one of the 34 Village which is situated in Mahajan Field Firing Ranges"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_d0ee345e": {
+    "id": "clm_acquisition_year_d0ee345e",
+    "claim_key": "acquisition_year",
+    "value": "1984",
+    "statement_hi": "व्लॉग विवरण: रेंज का अधिग्रहण 1984 में",
+    "statement_en": "Vlog description: MFFR acquired in 1984",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "MFFR was acquired in 1984"
+      }
+    ],
+    "competing": []
+  },
+  "clm_evacuation_period_e0f34ffa": {
+    "id": "clm_evacuation_period_e0f34ffa",
+    "claim_key": "evacuation_period",
+    "value": "1986",
+    "statement_hi": "दर्शक टिप्पणी: 1986 में 34 गांव उठे",
+    "statement_en": "Viewer comment: the 34 villages were vacated in 1986",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "1986 me athe 34 gaon uthya"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_pond_exists_fb360f9c": {
+    "id": "clm_village_pond_exists_fb360f9c",
+    "claim_key": "village_pond_exists",
+    "value": "yes (ruins, pond still holds water)",
+    "statement_hi": "गांव के खंडहर और तालाब आज भी मौजूद; परिवार ने तालाब से पानी लिया",
+    "statement_en": "Ruins and the village pond survive; family took water from it",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "taking water from the pond"
+      }
+    ],
+    "competing": []
+  },
+  "clm_return_visit_tradition_8a2e4747": {
+    "id": "clm_return_visit_tradition_8a2e4747",
+    "claim_key": "return_visit_tradition",
+    "value": "family visits to ancestral ruins inside range",
+    "statement_hi": "विस्थापित परिवार रेंज के अंदर अपने गांव के खंडहर देखने जाते हैं",
+    "statement_en": "Displaced families visit their village ruins inside the range",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "My family visited Berawala Village"
+      }
+    ],
+    "competing": []
+  }
+}

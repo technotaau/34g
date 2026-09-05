@@ -515,6 +515,37 @@
         ]
       },
       "notes": "Principal Dhatarwal village named after Nathu Dhatarwal."
+    },
+    {
+      "slug": "berawala",
+      "names": {
+        "en": "Berawala",
+        "hi": "बेरावाला",
+        "variants": [
+          "Berawala Mahajan",
+          "Berawala Bikaner",
+          "Berawala Lunkaransar",
+          "Berwala",
+          "Berawala village firing range",
+          "बेरावाला गांव",
+          "बेरावाला महाजन",
+          "बेरावाला बीकानेर",
+          "बेरवाला"
+        ]
+      },
+      "status": "acquired",
+      "notes": "Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude.",
+      "disambiguation": {
+        "negative_terms": [
+          "Barwala",
+          "बरवाला",
+          "Hisar",
+          "हिसार",
+          "Panchkula",
+          "Bhiwani",
+          "Jhajjar"
+        ]
+      }
     }
   ]
 }

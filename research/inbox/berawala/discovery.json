@@ -1,0 +1,117 @@
+{
+ "village": "berawala",
+ "agent_notes": "Manual pull by TechnoTaau Team from a Google result screenshot (5 Sep 2026). Video located via YouTube search page (id a37vCzQOq4o), metadata via oEmbed + yt-dlp. Watch page itself returns 'sign in to confirm you are not a bot' to plain fetches. Channel has only this one video. No other Berawala-specific press found in one Hindi search; Google auto-corrects to 'Barwala' (Haryana).",
+ "searches_used": 2,
+ "sources": [
+  {
+   "village": "berawala",
+   "url": "https://www.youtube.com/watch?v=a37vCzQOq4o",
+   "title": "My family visited Berawala Village, Mahajan Firing Field Range (MFFR) (Vlog 0)",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Akshay Godara (@akshaygodara1516)",
+   "published_date": "2022-02-18",
+   "language": "en+hi",
+   "found_by_query": "Berawala Village Mahajan Firing Range (YouTube search)",
+   "summary": "अक्षय गोदारा का 7:37 मिनट का पारिवारिक व्लॉग: परिवार महाजन फील्ड फायरिंग रेंज के अंदर अपने पैतृक गांव बेरावाला के खंडहर देखने गया। विवरण में बेरावाला को रेंज के 34 गांवों में से एक बताया गया है; रेंज का अधिग्रहण 1984 और क्षेत्रफल 3.37 लाख एकड़ लिखा है। दर्शकों के अनुसार वीडियो में नानी की भावुक यादें, मिट्टी का तिलक और तालाब से पानी लेना है; टिप्पणियों में '1986 में यहाँ 34 गांव उठे' और दुदेर वासी की टिप्पणी है। वीडियो में बर्न-इन सबटाइटल हैं; YouTube कैप्शन ट्रैक नहीं।",
+   "topics": [
+    "displacement",
+    "people_family",
+    "culture",
+    "media_visual",
+    "military_range",
+    "history"
+   ],
+   "period": "mixed",
+   "geo_mentions": [
+    "Berawala",
+    "Mahajan Field Firing Range",
+    "MFFR",
+    "Bikaner",
+    "Mahajan Range"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "Berawala Village",
+   "evidence_snippets": [
+    "I documented the visit to Berawala Village which is one of the 34 Village which is situated in Mahajan Field Firing Ranges (MFFR)",
+    "MFFR was acquired in 1984 and are the second-largest Ranges in the country with an area of 3.37 lakh acres of land.",
+    "Viewer comment: 'Ke baat hai yrr, 1986 me athe 34 gaon uthya'",
+    "Viewer comment: 'दुदेर वासी ❤'",
+    "Viewer comment: best parts: grandma's emotional moment, clay tilak, taking water from the pond",
+    "Uploader reply to 'कोनसा गांव था भाई यो': 'Berawala Ganv'"
+   ],
+   "entities": {
+    "people": [
+     "Akshay Godara (uploader)"
+    ],
+    "places": [
+     "Berawala",
+     "Mahajan Field Firing Range",
+     "Bikaner"
+    ],
+    "events": [
+     "Family visit to Berawala ruins, Feb 2022"
+    ],
+    "organizations": [
+     "Indian Army (range)"
+    ]
+   },
+   "license": "Standard YouTube licence (all rights reserved by uploader); embed permitted via YouTube player",
+   "attribution": "Akshay Godara, YouTube, 18 Feb 2022, https://www.youtube.com/watch?v=a37vCzQOq4o",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon",
+    "duder"
+   ],
+   "claims": [
+    {
+     "claim_key": "village_in_34_gaon",
+     "value": "yes",
+     "statement_hi": "बेरावाला महाजन फायरिंग रेंज के 34 गांवों में से एक है",
+     "statement_en": "Berawala is one of the 34 villages inside MFFR",
+     "snippet": "one of the 34 Village which is situated in Mahajan Field Firing Ranges"
+    },
+    {
+     "claim_key": "acquisition_year",
+     "value": "1984",
+     "statement_hi": "व्लॉग विवरण: रेंज का अधिग्रहण 1984 में",
+     "statement_en": "Vlog description: MFFR acquired in 1984",
+     "snippet": "MFFR was acquired in 1984"
+    },
+    {
+     "claim_key": "evacuation_period",
+     "value": "1986",
+     "statement_hi": "दर्शक टिप्पणी: 1986 में 34 गांव उठे",
+     "statement_en": "Viewer comment: the 34 villages were vacated in 1986",
+     "snippet": "1986 me athe 34 gaon uthya"
+    },
+    {
+     "claim_key": "village_pond_exists",
+     "value": "yes (ruins, pond still holds water)",
+     "statement_hi": "गांव के खंडहर और तालाब आज भी मौजूद; परिवार ने तालाब से पानी लिया",
+     "statement_en": "Ruins and the village pond survive; family took water from it",
+     "snippet": "taking water from the pond"
+    },
+    {
+     "claim_key": "return_visit_tradition",
+     "value": "family visits to ancestral ruins inside range",
+     "statement_hi": "विस्थापित परिवार रेंज के अंदर अपने गांव के खंडहर देखने जाते हैं",
+     "statement_en": "Displaced families visit their village ruins inside the range",
+     "snippet": "My family visited Berawala Village"
+    }
+   ],
+   "media": {
+    "channel": "Akshay Godara",
+    "uploader": "@akshaygodara1516 (channel UC5t_IF-p1RpQdZvsADzdfiw)",
+    "caption": "",
+    "creator": "Akshay Godara",
+    "transcript_available": "No YouTube caption tracks (manual or auto). Viewer comment says the video carries burned-in subtitles.",
+    "timestamps": "none in description; 47 public comments, 1,810 views, 151 likes as of 5 Sep 2026",
+    "book_title": "",
+    "pages": ""
+   },
+   "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84)."
+  }
+ ]
+}
