@@ -87,3 +87,16 @@ Adding a new village later: append to `research/villages.json` (or `add-village`
 - New platform or credibility rule: edit `research/config/lexicon.json`.
 - New topic vocabulary (e.g. `migration_diaspora`): add keywords in `lexicon.json`; reports pick it up via `QUESTIONS` in `gaon34/report.py`.
 - Scoring weights: `gaon34/score.py` (single function, factor dict is stored on each source for auditability).
+
+## 6. Getting content out of videos (burned-in subtitles and speech)
+
+Many village vlogs have no YouTube caption track but carry burned-in subtitles. `scripts/video_extract.py` turns a local video file into timestamped research notes:
+
+```bash
+apt-get install -y ffmpeg tesseract-ocr tesseract-ocr-hin && pip install faster-whisper
+python3 scripts/video_extract.py /path/to/video.mp4 --out research/inbox/<slug>/<youtube_id>.content.json --lang hin+eng --whisper small
+```
+
+It samples one frame per second, OCRs the bottom subtitle band (Hindi + English), collapses repeated lines into `[start–end] text`, and transcribes speech with Whisper (CPU, `small` model by default; use `medium` for better Rajasthani/Hindi accuracy if time allows). Output: `<id>.content.json` and a readable `<id>.content.md`. Feed the useful lines back into the source record as `evidence_snippets` or `media.timestamps`, then re-run `ingest`.
+
+Rules: obtain the file legitimately (download it yourself from YouTube on your own account/device, or ask the uploader). The script never copies media into the repository, and this cloud environment cannot fetch YouTube media directly (YouTube blocks datacenter downloads with a sign-in check; do not work around it with cookies). Quote sparingly and attribute the uploader.
