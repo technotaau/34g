@@ -1,0 +1,315 @@
+{
+  "clm_villages_acquired_count_b6692ea5": {
+    "id": "clm_villages_acquired_count_b6692ea5",
+    "claim_key": "villages_acquired_count",
+    "value": "33",
+    "statement_hi": "रक्षा मंत्रालय के अनुसार 33 गांव हटाए गए",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4",
+      "src_d159880ed58d"
+    ],
+    "independent_sources": 2,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_4fb2da84d5a4",
+        "text": "(b) 33."
+      }
+    ],
+    "competing": [
+      "34"
+    ]
+  },
+  "clm_villages_acquired_count_f1f836cb": {
+    "id": "clm_villages_acquired_count_f1f836cb",
+    "claim_key": "villages_acquired_count",
+    "value": "34",
+    "statement_hi": "पत्रिका के अनुसार 34 गांव विस्थापित हुए",
+    "statement_en": "",
+    "sources": [
+      "src_a5150b8b1d53",
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [],
+    "competing": [
+      "33"
+    ]
+  },
+  "clm_private_land_acquired_bighas_f3259299": {
+    "id": "clm_private_land_acquired_bighas_f3259299",
+    "claim_key": "private_land_acquired_bighas",
+    "value": "312649",
+    "statement_hi": "3,12,649 बीघा 05 बिस्वा निजी भूमि अधिग्रहित",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_compensation_total_crore_70f30172": {
+    "id": "clm_compensation_total_crore_70f30172",
+    "claim_key": "compensation_total_crore",
+    "value": "64.11",
+    "statement_hi": "निजी भूमि/संपत्ति के लिए 64.11 करोड़ रुपये मुआवजा",
+    "statement_en": "",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_holi_return_tradition_fb360f9c": {
+    "id": "clm_holi_return_tradition_fb360f9c",
+    "claim_key": "holi_return_tradition",
+    "value": "yes",
+    "statement_hi": "विस्थापित परिवार आज भी होली पर रेंज में जाकर कुम्भाणा में होलिका दहन करते हैं",
+    "statement_en": "",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "पत्रिका: अधिग्रहण 1984-85 में",
+    "statement_en": "",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [],
+    "competing": [
+      "1983-84",
+      "1982"
+    ]
+  },
+  "clm_acquisition_year_7f16bf9e": {
+    "id": "clm_acquisition_year_7f16bf9e",
+    "claim_key": "acquisition_year",
+    "value": "1983-84",
+    "statement_hi": "उच्च न्यायालय: अधिग्रहण 1983-84 में",
+    "statement_en": "",
+    "sources": [
+      "src_d159880ed58d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [],
+    "competing": [
+      "1984-85",
+      "1982"
+    ]
+  },
+  "clm_acquisition_year_e182c217": {
+    "id": "clm_acquisition_year_e182c217",
+    "claim_key": "acquisition_year",
+    "value": "1982",
+    "statement_hi": "उच्च न्यायालय (2017): भूमि 1982 में अधिग्रहित",
+    "statement_en": "",
+    "sources": [
+      "src_38f66d790796"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [],
+    "competing": [
+      "1984-85",
+      "1983-84"
+    ]
+  },
+  "clm_resettlement_sites_e3face96": {
+    "id": "clm_resettlement_sites_e3face96",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+    "statement_hi": "विस्थापितों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में भूमि आवंटित",
+    "statement_en": "",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_rehabilitation_notification_date_9bf841b7": {
+    "id": "clm_rehabilitation_notification_date_9bf841b7",
+    "claim_key": "rehabilitation_notification_date",
+    "value": "1985-11-23",
+    "statement_hi": "23 नवंबर 1985 की अधिसूचना से विस्थापितों को भूमि आवंटन की शक्ति उपनिवेशन आयुक्त को",
+    "statement_en": "",
+    "sources": [
+      "src_6606deafe9c7",
+      "src_d159880ed58d"
+    ],
+    "independent_sources": 2,
+    "has_strong_source": true,
+    "status": "verified",
+    "confidence": 0.9,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_barani_land_rate_per_bigha_128e10aa": {
+    "id": "clm_barani_land_rate_per_bigha_128e10aa",
+    "claim_key": "barani_land_rate_per_bigha",
+    "value": "Rs 300",
+    "statement_hi": "विस्थापितों को बारानी भूमि 300 रुपये प्रति बीघा",
+    "statement_en": "",
+    "sources": [
+      "src_6606deafe9c7"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_rule_20b_insertion_date_1a2e8188": {
+    "id": "clm_rule_20b_insertion_date_1a2e8188",
+    "claim_key": "rule_20b_insertion_date",
+    "value": "1977-09-09",
+    "statement_hi": "नियम 20B 9 सितम्बर 1977 को जोड़ा गया",
+    "statement_en": "",
+    "sources": [
+      "src_064a2acb392d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_range_area_ha_79f98c59": {
+    "id": "clm_range_area_ha_79f98c59",
+    "claim_key": "range_area_ha",
+    "value": "136406",
+    "statement_hi": "रेंज का क्षेत्रफल 1,36,406 हेक्टेयर",
+    "statement_en": "",
+    "sources": [
+      "src_aaf7222a0629"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [],
+    "competing": [
+      "136586"
+    ]
+  },
+  "clm_range_area_ha_4cc4a88b": {
+    "id": "clm_range_area_ha_4cc4a88b",
+    "claim_key": "range_area_ha",
+    "value": "136586",
+    "statement_hi": "",
+    "statement_en": "",
+    "sources": [
+      "src_187ce13936fa"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [],
+    "competing": [
+      "136406"
+    ]
+  },
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_dhatarwal_founder_40eeeeea": {
+    "id": "clm_dhatarwal_founder_40eeeeea",
+    "claim_key": "dhatarwal_founder",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_kumbhana_thikana_founder_3a943632": {
+    "id": "clm_kumbhana_thikana_founder_3a943632",
+    "claim_key": "kumbhana_thikana_founder",
+    "value": "Thakur Kesri Singh (Ratansinghot)",
+    "statement_hi": "कुम्भाणा ठिकाना ठाकुर केसरी सिंह को जागीर में मिला",
+    "statement_en": "",
+    "sources": [
+      "src_0e0757dd116a"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_pending_allotment_cases_2025_536fb693": {
+    "id": "clm_pending_allotment_cases_2025_536fb693",
+    "claim_key": "pending_allotment_cases_2025",
+    "value": "148",
+    "statement_hi": "2025 में 148 आवंटन प्रकरण लंबित",
+    "statement_en": "",
+    "sources": [
+      "src_56bd5f269706"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  }
+}

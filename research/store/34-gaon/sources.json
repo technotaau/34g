@@ -1,0 +1,1233 @@
+{
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "34-gaon",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Ministry of Defence (MoS Shivraj V. Patil), asked by Manphool Singh Chaudhary",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range Lok Sabha"
+    ],
+    "summary": "रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Chidasar",
+      "Meusar"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Mahajan Field Firing Range",
+    "evidence_snippets": [
+      "(b) 33.",
+      "In Chidasar village 83 persons were paid compensation ... 'Meusar' where 192 persons have been paid compensation for their residential plots."
+    ],
+    "entities": {
+      "people": [
+        "Manphool Singh Chaudhary",
+        "Shivraj V. Patil"
+      ],
+      "places": [
+        "Chidasar",
+        "Meusar",
+        "Lunkaransar"
+      ],
+      "organizations": [
+        "Ministry of Defence",
+        "Panchayat Samiti Lunkaransar",
+        "District Collector Bikaner"
+      ]
+    },
+    "license": "",
+    "attribution": "Lok Sabha Secretariat, e-library",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [
+      "chidasar",
+      "meusar"
+    ],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "33",
+        "statement_hi": "रक्षा मंत्रालय के अनुसार 33 गांव हटाए गए",
+        "snippet": "(b) 33."
+      },
+      {
+        "claim_key": "private_land_acquired_bighas",
+        "value": "312649",
+        "statement_hi": "3,12,649 बीघा 05 बिस्वा निजी भूमि अधिग्रहित"
+      },
+      {
+        "claim_key": "compensation_total_crore",
+        "value": "64.11",
+        "statement_hi": "निजी भूमि/संपत्ति के लिए 64.11 करोड़ रुपये मुआवजा"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 80,
+      "band": "high",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 3,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "34-gaon",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika, लूणाराम वर्मा",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "महाजन फील्ड फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।",
+    "topics": [
+      "culture",
+      "displacement",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan",
+      "Bhojrasar",
+      "Kumbhana",
+      "Motlai",
+      "Khanisar",
+      "Thoiya",
+      "Manera",
+      "Duder"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गांव",
+    "evidence_snippets": [
+      "भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित अन्य गांवों को उजड़े 35-36 साल बीत जाने के बाद"
+    ],
+    "entities": {
+      "people": [
+        "राजूराम शर्मा",
+        "बजरंगलाल लखोटिया"
+      ],
+      "places": [
+        "भोजरासर",
+        "कुम्भाणा",
+        "मोटलाई",
+        "खानीसर",
+        "ठोईयां",
+        "मणेरां",
+        "दुदेर"
+      ],
+      "events": [
+        "होलिका दहन कुम्भाणा"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Loonaram Verma, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder"
+    ],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "34",
+        "statement_hi": "पत्रिका के अनुसार 34 गांव विस्थापित हुए"
+      },
+      {
+        "claim_key": "holi_return_tradition",
+        "value": "yes",
+        "statement_hi": "विस्थापित परिवार आज भी होली पर रेंज में जाकर कुम्भाणा में होलिका दहन करते हैं"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['Mahajan', '34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 80,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "34-gaon",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "महाजन फायरिंग रेंज 34 गांव"
+    ],
+    "summary": "रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि अधिग्रहित की; घर, पेड़, कृषि भूमि का मुआवजा; खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में कृषि भूमि आवंटन।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangarh",
+      "Nachna"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गांवों",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने वर्ष १९८४-८५ में महाजन क्षेत्र के ३४ गांवों की भूमि को अधिग्रहित किया था"
+    ],
+    "entities": {
+      "places": [
+        "खाजूवाला",
+        "दंतौर",
+        "पूगल",
+        "मोहनगढ़",
+        "नाचना"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "पत्रिका: अधिग्रहण 1984-85 में"
+      },
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "34"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापितों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में भूमि आवंटित"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 82,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 6,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_d159880ed58d": {
+    "id": "src_d159880ed58d",
+    "village": "34-gaon",
+    "url": "https://indiankanoon.org/doc/26436710/",
+    "url_key": "https://indiankanoon.org/doc/26436710",
+    "title": "Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "",
+    "published_date": "2024-02-08",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Mahajan Field Firing Range\" indiankanoon"
+    ],
+    "summary": "उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Loonkaransar",
+      "Bikaner",
+      "Goyalri",
+      "Kolayat"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Mahajan Field Firing Range",
+    "evidence_snippets": [
+      "land of 33 villages of Loonkaransar Tehsil, Bikaner was acquired by the Government of Rajasthan in the year 1983-84"
+    ],
+    "entities": {},
+    "license": "",
+    "attribution": "Rajasthan High Court via indiankanoon.org",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "33"
+      },
+      {
+        "claim_key": "acquisition_year",
+        "value": "1983-84",
+        "statement_hi": "उच्च न्यायालय: अधिग्रहण 1983-84 में"
+      },
+      {
+        "claim_key": "rehabilitation_notification_date",
+        "value": "1985-11-23",
+        "statement_hi": "23 नवंबर 1985 की अधिसूचना से विस्थापितों को भूमि आवंटन की शक्ति उपनिवेशन आयुक्त को"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Loonkaransar', 'लूणकरणसर', 'विस्थापित']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Loonkaransar",
+        "लूणकरणसर",
+        "विस्थापित",
+        "Bikaner",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 83,
+      "band": "high",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 6,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 6,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_38f66d790796": {
+    "id": "src_38f66d790796",
+    "village": "34-gaon",
+    "url": "https://indiankanoon.org/doc/174753246/",
+    "url_key": "https://indiankanoon.org/doc/174753246",
+    "title": "Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "",
+    "published_date": "2017-01-24",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Mahajan Field Firing Range\" indiankanoon"
+    ],
+    "summary": "भूमि 1982 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित; अवार्ड पारित; भारत सरकार के नाम दर्ज।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Mahajan Field Firing Range",
+    "evidence_snippets": [
+      "acquired in the year 1982 for Mahajan Field Firing Range of Indian Army"
+    ],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1982",
+        "statement_hi": "उच्च न्यायालय (2017): भूमि 1982 में अधिग्रहित"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 71,
+      "band": "high",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_6606deafe9c7": {
+    "id": "src_6606deafe9c7",
+    "village": "34-gaon",
+    "url": "https://indiankanoon.org/doc/38464/",
+    "url_key": "https://indiankanoon.org/doc/38464",
+    "title": "State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "",
+    "published_date": "1997-01-06",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range displaced allotment"
+    ],
+    "summary": "1985 की अधिसूचना: बारानी भूमि 300 रुपये प्रति बीघा, IGNP कमांड भूमि आरक्षित मूल्य के दोगुने पर; 2 बीघा बारानी = 1 बीघा कमांड।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "legal"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Indira Gandhi Nahar"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Mahajan Field Firing Range",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "barani_land_rate_per_bigha",
+        "value": "Rs 300",
+        "statement_hi": "विस्थापितों को बारानी भूमि 300 रुपये प्रति बीघा"
+      },
+      {
+        "claim_key": "rehabilitation_notification_date",
+        "value": "1985-11-23"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Indira Gandhi Nahar', 'IGNP', 'विस्थापित']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Indira Gandhi Nahar",
+        "IGNP",
+        "विस्थापित",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 74,
+      "band": "high",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 3,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 4,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_064a2acb392d": {
+    "id": "src_064a2acb392d",
+    "village": "34-gaon",
+    "url": "https://indiankanoon.org/doc/86733848/",
+    "url_key": "https://indiankanoon.org/doc/86733848",
+    "title": "Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "",
+    "published_date": "1977-09-09",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Rule 20B Mahajan Field Firing Range"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Mahajan Field Firing Range",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "rule_20b_insertion_date",
+        "value": "1977-09-09",
+        "statement_hi": "नियम 20B 9 सितम्बर 1977 को जोड़ा गया"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.5,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 68,
+      "band": "high",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_aaf7222a0629": {
+    "id": "src_aaf7222a0629",
+    "village": "34-gaon",
+    "url": "https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html",
+    "title": "Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Fieldfiring Range census village"
+    ],
+    "summary": "पूरा अधिग्रहित क्षेत्र एक ही जनगणना गांव के रूप में दर्ज: क्षेत्रफल 1,36,406 हेक्टेयर, जनसंख्या 2, ग्राम पंचायत महाजन, पिन 334604।",
+    "topics": [
+      "census_admin",
+      "military_range"
+    ],
+    "period": "1997_2015",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Mahajan",
+      "Bikaner"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "range_area_ha",
+        "value": "136406",
+        "statement_hi": "रेंज का क्षेत्रफल 1,36,406 हेक्टेयर"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_dc27e87bee50": {
+    "id": "src_dc27e87bee50",
+    "village": "34-gaon",
+    "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+    "url_key": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+    "title": "जाट धतरवाल इतिहास (Hindi Wikipedia user page)",
+    "platform": "wikipedia",
+    "source_type": "encyclopedia",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "धतरवाल कुंभाणा ठोईया मनेरा"
+    ],
+    "summary": "नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "बादेरा",
+      "महाजन फायरिंग रेंज",
+      "इंदिरा गांधी नहर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "महाजन फायरिंग रेंज",
+    "evidence_snippets": [
+      "शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए"
+    ],
+    "entities": {
+      "people": [
+        "नाथू धतरवाल",
+        "रूपा गोदारा"
+      ],
+      "places": [
+        "बादेरा",
+        "संसारदेसर",
+        "करणीसर",
+        "कृष्णनगर",
+        "तख्तपुरा",
+        "सामरथा",
+        "वारानी",
+        "नाथुसर वास"
+      ]
+    },
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.6,
+    "related_villages": [
+      "khiyana",
+      "kumbhana",
+      "kolana",
+      "ajeetwana",
+      "ladera",
+      "bhanabasti",
+      "manera",
+      "thoiya",
+      "nathor"
+    ],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "evacuation_period",
+        "value": "1981-1986",
+        "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए"
+      },
+      {
+        "claim_key": "dhatarwal_founder",
+        "value": "Nathu Dhatarwal",
+        "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['महाजन', 'महाजन फायरिंग रेंज', 'फायरिंग रेंज']",
+        "district/nearby/clan context: ['बादेरा', 'भिखनेरा', 'सुलेरा']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "इंदिरा गांधी नहर",
+        "विस्थापित",
+        "बादेरा",
+        "भिखनेरा",
+        "सुलेरा",
+        "मेघाणा",
+        "धतरवाल",
+        "जाट"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 9,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": "Community-written; not an encyclopedic article."
+  },
+  "src_0e0757dd116a": {
+    "id": "src_0e0757dd116a",
+    "village": "34-gaon",
+    "url": "https://rajputs.net/view/kumbhana",
+    "url_key": "https://rajputs.net/view/kumbhana",
+    "title": "Kumbhana thikana (rajputs.net)",
+    "platform": "rajputs.net",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Kumbhana thikana"
+    ],
+    "summary": "कुम्भाणा ठिकाना: महाराजा अनूप सिंह द्वारा ठाकुर केसरी सिंह को जागीर; रतनसिंहोत शाखा; महाजन के बाद दूसरा प्रमुख ठिकाना।",
+    "topics": [
+      "history",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Kumbhana",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.5,
+    "related_villages": [
+      "kumbhana"
+    ],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "kumbhana_thikana_founder",
+        "value": "Thakur Kesri Singh (Ratansinghot)",
+        "statement_hi": "कुम्भाणा ठिकाना ठाकुर केसरी सिंह को जागीर में मिला"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'महाजन']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 51,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 8,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_56bd5f269706": {
+    "id": "src_56bd5f269706",
+    "village": "34-gaon",
+    "url": "https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378",
+    "url_key": "https://patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378",
+    "title": "देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika",
+    "published_date": "2025-02-14",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "महाजन फायरिंग रेंज विस्थापित आवंटन"
+    ],
+    "summary": "148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "legal"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner",
+      "Khajuwala",
+      "Pugal"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "pending_allotment_cases_2025",
+        "value": "148",
+        "statement_hi": "2025 में 148 आवंटन प्रकरण लंबित"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner",
+        "Khajuwala",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 53,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 5,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  },
+  "src_187ce13936fa": {
+    "id": "src_187ce13936fa",
+    "village": "34-gaon",
+    "url": "https://www.openstreetmap.org/way/412765540",
+    "url_key": "https://openstreetmap.org/way/412765540",
+    "title": "Mahajan Field Firing Ranges polygon (OpenStreetMap way 412765540)",
+    "platform": "osm",
+    "source_type": "website",
+    "media_type": "map",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range openstreetmap"
+    ],
+    "summary": "रेंज की सीमा का बहुभुज; क्षेत्रफल लगभग 1,366 वर्ग किमी।",
+    "topics": [
+      "census_admin",
+      "military_range"
+    ],
+    "period": "",
+    "geo_mentions": [
+      "Mahajan",
+      "Lunkaransar"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {},
+    "license": "ODbL, (c) OpenStreetMap contributors",
+    "attribution": "OpenStreetMap contributors",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {},
+    "claims": [
+      {
+        "claim_key": "range_area_ha",
+        "value": "136586"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.5,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'Lunkaransar']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 49,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T174617Z"
+    ],
+    "notes": ""
+  }
+}
