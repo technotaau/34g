@@ -444,7 +444,11 @@
           "Ladera Lunkaransar",
           "लाडेरा",
           "लाडेरा महाजन",
-          "लाडेरा बीकानेर"
+          "लाडेरा बीकानेर",
+          "Lalera",
+          "लालेरा",
+          "Lalera Patta Mahajan",
+          "लालेरा पट्टा महाजन"
         ]
       },
       "status": "acquired",
@@ -454,10 +458,17 @@
           "California",
           "Ladera Heights",
           "Spain",
-          "Mexico"
+          "Mexico",
+          "Malasar",
+          "मालासर",
+          "Jamsar",
+          "जामसर",
+          "Bikaner tehsil",
+          "Bikaner Tehsil",
+          "tehsil Bikaner"
         ]
       },
-      "notes": "Dhatarwal community history."
+      "notes": "Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified."
     },
     {
       "slug": "bhanabasti",

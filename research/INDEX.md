@@ -15,6 +15,6 @@
 | खिंयाणा (Khiyana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कोलाणा (Kolana) | 7 | 2 | 2 | 10 | 10 | [report](store/kolana/report.md) |
 | अजीतवाणा (Ajeetwana) | 9 | 5 | 0 | 10 | 9 | [report](store/ajeetwana/report.md) |
-| लाडेरा (Ladera) | – | – | – | – | – | _अभी शोध नहीं_ |
+| लाडेरा (Ladera) | 7 | 0 | 7 | 8 | 8 | [report](store/ladera/report.md) |
 | भानाबस्ती (Bhanabasti) | – | – | – | – | – | _अभी शोध नहीं_ |
 | नाथौर (Nathor) | – | – | – | – | – | _अभी शोध नहीं_ |

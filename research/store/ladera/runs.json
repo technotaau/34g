@@ -1,0 +1,16 @@
+[
+  {
+    "run_id": "run_20260905T175551Z",
+    "file": "/home/user/34g/research/inbox/ladera/discovery.json",
+    "input": 7,
+    "invalid": 0,
+    "new": 7,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 9,
+    "agent_notes": "Major finding: nearly every indexed online record of a 'Ladera' in Bikaner district points to a village in BIKANER TEHSIL (census code 069062, Gram Panchayat area near Malasar/Katariasar/Jamsar, ~43km from Bikaner city) — not to Lunkaransar tehsil or Mahajan sub-tehsil where the 34-gaon Ladera should sit. Indiankanoon court filings independently corroborate this same Malasar/Jamsar location for 'Village Ladera'. This is almost certainly a DIFFERENT, still-inhabited Ladera (pop. 475, Census 2011) than the one acquired for MFFR in 1982-84 — flagged direct_mention:false throughout. A much stronge",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-05T17:55:51.624332+00:00"
+  }
+]

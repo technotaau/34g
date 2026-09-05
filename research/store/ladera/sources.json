@@ -1,0 +1,818 @@
+{
+  "src_64e5e1430c8e": {
+    "id": "src_64e5e1430c8e",
+    "village": "ladera",
+    "url": "https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/bikaner/ladera",
+    "title": "Ladera Village in Bikaner, Rajasthan | VillageInfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Ladera village Bikaner Rajasthan"
+    ],
+    "summary": "Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikaner administrative block — likely a different village from the 34-gaon unit despite the shared name and shared assembly constituency.",
+    "topics": [
+      "census_admin",
+      "legal"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner tehsil",
+      "Malasar",
+      "Bikaner district",
+      "Lunkaransar Vidhan Sabha constituency"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Ladera",
+    "evidence_snippets": [
+      "village code of Ladera is 069062",
+      "falls under the Lunkaransar Vidhan Sabha (Assembly) constituency and the Bikaner Lok Sabha (Parliamentary) constituency"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Malasar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "VillageInfo.in, Census of India 2011 data",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "tehsil_admin",
+        "value": "Bikaner tehsil (per this source) vs. Lunkaransar tehsil (per research brief)",
+        "statement_hi": "इस स्रोत के अनुसार लाडेरा बीकानेर तहसील में है, न कि लूणकरणसर में — शोध ब्रीफ से विरोधाभास।",
+        "statement_en": "This source places Ladera in Bikaner tehsil, contradicting the research brief's Lunkaransar/Mahajan placement.",
+        "snippet": "Tehsil: Bikaner"
+      },
+      {
+        "claim_key": "population_2011",
+        "value": "475 (235 male, 240 female), 75 households",
+        "statement_hi": "2011 की जनगणना के अनुसार इस लाडेरा की जनसंख्या 475 थी।",
+        "statement_en": "Per 2011 census this Ladera had a population of 475.",
+        "snippet": "total population of 475 people, consisting of 235 males and 240 females"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Ladera",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Ladera"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "34 gaon",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Malasar",
+        "Bikaner tehsil",
+        "Bikaner Tehsil",
+        "tehsil Bikaner"
+      ]
+    },
+    "relevance": {
+      "score": 70,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "High risk of being a different Ladera village than the 34-gaon/MFFR unit: Mahajan sub-tehsil and the historic firing-range villages lie much farther from Bikaner city (near Suratgarh/Anupgarh side) than this village's stated 43km/Malasar location. Court records (see indiankanoon sources below) independently place 'Village Ladera' near Malasar and Jamsar, both close to Bikaner city, reinforcing this is likely NOT the acquired village. Recommend the pipeline treat this as unresolved/possibly-wrong-village rather than a confirmed match."
+  },
+  "src_a2d2a4035eb8": {
+    "id": "src_a2d2a4035eb8",
+    "village": "ladera",
+    "url": "https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/village/69062-ladera-rajasthan.html",
+    "title": "Ladera Village Population - Census 2011",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Ladera\" Lunkaransar census village code Bikaner"
+    ],
+    "summary": "Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner tehsil",
+      "Bikaner district",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Ladera",
+    "evidence_snippets": [
+      "Tehsil: Bikaner",
+      "Literacy rate of Ladera village was 69.38 % compared to 66.11 % of Rajasthan"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Census2011.co.in, Census of India 2011",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "literacy_rate_2011",
+        "value": "69.38% overall, male 86.02%, female 52.46%",
+        "statement_hi": "2011 की जनगणना अनुसार साक्षरता दर 69.38% थी।",
+        "statement_en": "2011 census literacy rate was 69.38%.",
+        "snippet": "Literacy rate of Ladera village was 69.38 %"
+      },
+      {
+        "claim_key": "sc_population_2011",
+        "value": "89 (18.74%)",
+        "statement_hi": "अनुसूचित जाति जनसंख्या 18.74% थी।",
+        "statement_en": "Scheduled Caste population was 18.74%.",
+        "snippet": "Schedule Caste population comprises 18.74% (89 individuals)"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Ladera",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Ladera"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Bikaner tehsil",
+        "Bikaner Tehsil",
+        "tehsil Bikaner"
+      ]
+    },
+    "relevance": {
+      "score": 70,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Same likely-wrong-village caveat as the villageinfo.in record above; duplicate data point, kept for corroboration of the tehsil discrepancy."
+  },
+  "src_6c3af2e6feef": {
+    "id": "src_6c3af2e6feef",
+    "village": "ladera",
+    "url": "https://indiankanoon.org/doc/96063995/",
+    "url_key": "https://indiankanoon.org/doc/96063995",
+    "title": "Kana Ram vs State Of Rajasthan",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "Rajasthan High Court, Jodhpur",
+    "published_date": "2025-12-04",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Ladera\" Bikaner indiankanoon OR \"High Court\" OR gazette"
+    ],
+    "summary": "A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.",
+    "topics": [
+      "census_admin",
+      "legal"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Malasar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Village Ladera, Malasar, Bikaner",
+    "evidence_snippets": [
+      "Village Ladera, Malasar, Bikaner, (Raj)."
+    ],
+    "entities": {
+      "people": [
+        "Kana Ram"
+      ],
+      "places": [
+        "Malasar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Rajasthan High Court"
+      ]
+    },
+    "license": "",
+    "attribution": "Indian Kanoon / Rajasthan High Court, Jodhpur bench",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Ladera",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Ladera"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Malasar",
+        "Bikaner tehsil",
+        "Bikaner Tehsil"
+      ]
+    },
+    "relevance": {
+      "score": 82,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Unrelated to firing-range history; only useful as corroboration that the well-documented modern 'Ladera' is the Malasar one near Bikaner city, not the Mahajan-area village named in the research brief."
+  },
+  "src_d3b8463e062e": {
+    "id": "src_d3b8463e062e",
+    "village": "ladera",
+    "url": "https://indiankanoon.org/doc/147633919/",
+    "url_key": "https://indiankanoon.org/doc/147633919",
+    "title": "Sunita vs State Of Rajasthan",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "Rajasthan High Court, Jodhpur",
+    "published_date": "2021-01-18",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Ladera\" Bikaner indiankanoon OR \"High Court\" OR gazette"
+    ],
+    "summary": "Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).",
+    "topics": [
+      "census_admin",
+      "legal"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Jamsar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Ladera, Jamsar, Bikaner",
+    "evidence_snippets": [
+      "Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner"
+    ],
+    "entities": {
+      "people": [
+        "Shakantula Devi"
+      ],
+      "places": [
+        "Jamsar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Rajasthan High Court"
+      ]
+    },
+    "license": "",
+    "attribution": "Indian Kanoon / Rajasthan High Court, Jodhpur bench",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "has_sub_health_center",
+        "value": "yes (as of ~2021)",
+        "statement_hi": "लाडेरा में एक उप स्वास्थ्य केंद्र है।",
+        "statement_en": "Ladera has a government sub-health centre.",
+        "snippet": "Sub Health Center, Ladera, Jamsar, Bikaner"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.4,
+      "reasons": [
+        "primary name match: Ladera",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Jamsar']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Ladera"
+      ],
+      "geo_hits": [
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Jamsar"
+      ]
+    },
+    "relevance": {
+      "score": 80,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 6,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 3,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Jamsar is a known coal-mining-belt village near Bikaner city, geographically distant from Mahajan/Lunkaransar; further evidence this is a different, still-functioning Ladera."
+  },
+  "src_717f7c0d0947": {
+    "id": "src_717f7c0d0947",
+    "village": "ladera",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html",
+    "title": "Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Lalera Patta Mahajan\" village Lunkaransar"
+    ],
+    "summary": "POSSIBLE STRONG LEAD: a village named 'Lalera Patta Mahajan' (लालेरा पट्टा महाजन) sits in Lunkaransar tehsil, ~50km from Lunkaransar HQ and near Mahajan/Suratgarh — matching the research brief's expected sub_tehsil (Mahajan) far better than the Bikaner-tehsil 'Ladera' above. Gram Panchayat Baladesar, village code 069226, population 492 (270M/222F, 81 households), pincode 334604, nearest town Suratgarh.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar tehsil",
+      "Mahajan",
+      "Baladesar",
+      "Suratgarh",
+      "Bikaner district"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Lalera Patta Mahajan (लालेरा पट्टा महाजन)",
+    "evidence_snippets": [
+      "Lalera Patta Mahajan is a village in Lunkaransar tehsil",
+      "Baladesar is the Gram Panchayat for Lalera Patta Mahajan village"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Baladesar",
+        "Mahajan",
+        "Suratgarh"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "VillageInfo.in, Census of India 2011 data",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "possible_spelling_variant",
+        "value": "Lalera (लालेरा) vs Ladera (लाडेरा) — one consonant differs (ल vs ड)",
+        "statement_hi": "संभव है कि 'लालेरा पट्टा महाजन' ही शोध इकाई 'लाडेरा' का सही/वर्तमान नाम हो, क्योंकि भौगोलिक स्थिति (लूणकरणसर तहसील, महाजन क्षेत्र) मेल खाती है।",
+        "statement_en": "Lalera Patta Mahajan may be the correct current name/spelling for the research unit's Ladera, since its geography (Lunkaransar tehsil, Mahajan area) matches the brief far better than the Bikaner-tehsil Ladera.",
+        "snippet": "village in Lunkaransar tehsil ... near Mahajan"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "variant match: Lalera",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Lalera",
+        "लालेरा",
+        "Lalera Patta Mahajan",
+        "लालेरा पट्टा महाजन"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "Suratgarh",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Bikaner tehsil",
+        "Bikaner Tehsil"
+      ]
+    },
+    "relevance": {
+      "score": 68,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Flagging as a lead, not a confirmed match — name_form differs by one consonant and no source directly equates the two. A human researcher fluent in local dialect/revenue records should verify whether 'Ladera' and 'Lalera Patta Mahajan' are the same settlement (the '34 gaon' villages are known to have several such spelling drifts between old revenue records and modern census transliteration)."
+  },
+  "src_bccc82b19805": {
+    "id": "src_bccc82b19805",
+    "village": "ladera",
+    "url": "https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/",
+    "url_key": "https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan",
+    "title": "Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram",
+    "platform": "villagegram.in",
+    "source_type": "census_mirror",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "\"Lalera Patta Mahajan\" village Lunkaransar"
+    ],
+    "summary": "Secondary directory listing corroborating the same Lalera Patta Mahajan village data (Lunkaransar tehsil, pincode 334604) found on villageinfo.in; page itself returned 403 on direct fetch, URL recorded from search results only.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar tehsil",
+      "Bikaner district"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Lalera Patta Mahajan",
+    "evidence_snippets": [
+      "Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Villagegram.in",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "variant match: Lalera",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['tehsil Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Lalera",
+        "Lalera Patta Mahajan"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "tehsil Bikaner"
+      ]
+    },
+    "relevance": {
+      "score": 61,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Could not fetch page body directly (HTTP 403); recorded from search snippet only. Duplicate of the villageinfo.in Lalera Patta Mahajan lead above."
+  },
+  "src_3a4f0d2ee2d3": {
+    "id": "src_3a4f0d2ee2d3",
+    "village": "ladera",
+    "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/bikaner/ladera.html",
+    "url_key": "https://mapsofindia.com/villages/rajasthan/bikaner/bikaner/ladera.html",
+    "title": "Ladera Village Map | Bikaner Tehsil, Bikaner District, Rajasthan",
+    "platform": "mapsofindia.com",
+    "source_type": "website",
+    "media_type": "map",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Ladera village Bikaner Rajasthan"
+    ],
+    "summary": "Confirms the same Bikaner-tehsil Ladera via a Google-Maps-linked village directory listing; no additional demographic or historical content available on this page.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner tehsil",
+      "Bikaner district"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Ladera",
+    "evidence_snippets": [
+      "Ladera Google map shows the location of Ladera village under Bikaner, Bikaner of Rajasthan state"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "MapsOfIndia.com",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.4,
+      "reasons": [
+        "primary name match: Ladera",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [
+        "Ladera"
+      ],
+      "geo_hits": [
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Bikaner tehsil",
+        "Bikaner Tehsil",
+        "tehsil Bikaner"
+      ]
+    },
+    "relevance": {
+      "score": 59,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 6,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260905T175551Z"
+    ],
+    "notes": "Low-value duplicate confirming tehsil placement only; kept for completeness/breadth-across-channels."
+  }
+}
