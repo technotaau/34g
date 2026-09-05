@@ -43,10 +43,14 @@
       "Subtitle 00:00: 'On 7th July 1986, we left this village. We came today after that day.'",
       "Subtitle 01:11: 'Your grandmother (Nani) used to cut crops in this field ... It was so hard for us to leave all this, so hard'",
       "Subtitle 02:23: 'This was the first house built in the village, this room ... All of us got birth in this room only ... 3 generations are standing in that room'",
+      "Subtitle 02:39: '4 GENERATIONS are standing in that room'; label 'Naniji's house'",
       "Subtitle 03:37: 'House built by my Grandfather'",
       "Subtitle 05:17: 'used to be called ghirt (local name) ... stone wheel on top ... used to grind with the help of camels; that powder was used as an alternative of cement'",
       "Subtitle 05:37: '(this) was the main well of the village (water system)'",
       "Subtitle 06:12: 'Main pond of the village'",
+      "Title card 00:12: 'A family goes back to their ancient village after 36 YEARS' with route 'Sherpura, Bikaner to Berawala, Bikaner'",
+      "Title card 00:21: 'Berawala village was among 34 villages that got evacuated in between the years of 1984 and 1986'",
+      "Title card 00:42: 'Ministry of Defence evacuated 34 villages with 3,37,000 acres of area to form Mahajan Field Firing Range (MFFR) for Indian Army'",
       "Uploader reply to 'कोनसा गांव था भाई यो': 'Berawala Ganv'",
       "Viewer comment: 'Ke baat hai yrr, 1986 me athe 34 gaon uthya'",
       "Viewer comment: 'दुदेर वासी ❤'",
@@ -62,6 +66,7 @@
         "Berawala village well",
         "Bikaner",
         "Mahajan Field Firing Range",
+        "Sherpura, Bikaner (family's present home)",
         "Thakurji Mandir (Berawala)",
         "first house of Berawala"
       ],
@@ -79,7 +84,8 @@
     "reliability": 0.4,
     "related_villages": [
       "34-gaon",
-      "duder"
+      "duder",
+      "sherpura-resettlement"
     ],
     "media": {
       "channel": "Akshay Godara",
@@ -89,7 +95,8 @@
       "transcript_available": "No YouTube captions. Burned-in English subtitles OCR'd from a 720p copy (29 lines) -> research/inbox/berawala/a37vCzQOq4o.content.md. Spoken Marwari not machine-transcribable.",
       "timestamps": "00:00 title (7 July 1986); 00:57 old field; 01:11 Nani on cutting crops; 01:46 arrival; 02:23 first house/birth room; 03:10 Thakurji Mandir; 03:37 grandfather's house; 04:48 water tank; 05:17 ghirt stone grinder (camel-driven) and well; 06:12 main pond; 06:31 mother and son; 07:00 closing title",
       "book_title": "",
-      "pages": ""
+      "pages": "",
+      "frames": "35 stills in research/media/berawala/frames (manifest.json); rights: creator's copyright, family consent needed before publishing"
     },
     "claims": [
       {
@@ -168,6 +175,48 @@
         "statement_hi": "नानी अपने हाथों से खेत में फसल काटती थीं",
         "statement_en": "The grandmother remembers cutting crops by hand in the family field",
         "snippet": "Your grandmother (Nani) used to cut crops in this field"
+      },
+      {
+        "claim_key": "first_house_birth_room",
+        "value": "four generations born in / standing in the first house of the village",
+        "statement_hi": "गांव के पहले मकान के एक कमरे में चार पीढ़ियाँ खड़ी हैं (परिवार वहीं जन्मा)",
+        "statement_en": "Four generations stood in the room of the village's first house where the family was born",
+        "snippet": "4 GENERATIONS are standing in that room"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Sherpura (Lunkaransar tehsil, Bikaner)",
+        "statement_hi": "परिवार अब शेरपुरा (बीकानेर) में रहता है; यात्रा शेरपुरा से बेरावाला की थी",
+        "statement_en": "The family now lives at Sherpura, Bikaner; the trip ran Sherpura to Berawala",
+        "snippet": "Sherpura, Bikaner to Berawala, Bikaner"
+      },
+      {
+        "claim_key": "evacuation_period",
+        "value": "1984-1986",
+        "statement_hi": "शीर्षक कार्ड: 34 गांव 1984 से 1986 के बीच खाली कराए गए",
+        "statement_en": "Title card: the 34 villages were evacuated between 1984 and 1986",
+        "snippet": "evacuated in between the years of 1984 and 1986"
+      },
+      {
+        "claim_key": "range_area_acres",
+        "value": "337000",
+        "statement_hi": "शीर्षक कार्ड: 3,37,000 एकड़ क्षेत्र",
+        "statement_en": "Title card: 3,37,000 acres",
+        "snippet": "3,37,000 acres of area"
+      },
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "34",
+        "statement_hi": "शीर्षक कार्ड: 34 गांव",
+        "statement_en": "Title card: 34 villages",
+        "snippet": "evacuated 34 villages"
+      },
+      {
+        "claim_key": "years_since_departure_at_visit",
+        "value": "36 (Feb 2022)",
+        "statement_hi": "परिवार 36 साल बाद गांव लौटा",
+        "statement_en": "The family returned after 36 years",
+        "snippet": "after 36 YEARS"
       }
     ],
     "resolution": {
@@ -176,7 +225,7 @@
       "reasons": [
         "primary name match: Berawala",
         "strong geo context: ['Mahajan', 'महाजन', '34 gaon']",
-        "district/nearby/clan context: ['Bikaner', 'गोदारा']"
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Sherpura']"
       ],
       "matched_names": [
         "Berawala",
@@ -198,6 +247,9 @@
         "फायरिंग रेंज",
         "विस्थापित",
         "Bikaner",
+        "बीकानेर",
+        "Sherpura",
+        "शेरपुरा",
         "गोदारा"
       ],
       "negative_hits": []
@@ -225,7 +277,8 @@
     "review_flags": [],
     "runs": [
       "run_20260905T190302Z",
-      "run_20260905T195856Z"
+      "run_20260905T195856Z",
+      "run_20260905T202311Z"
     ],
     "notes": "Uploader is a public YouTube creator; commenters' handles kept out of the store (see meta.json note). Surnames in the comment thread (Jakhar, Godara, Legha, Saran, Takhar) are a clan signal for Berawala/Duder families worth following up through the uploader. 'Vlog 0' implies later vlogs but the channel has no other videos. Video description's '1984' conflicts with court records (1982/1983-84). 2026-09-05: subtitles OCR'd from a 720p copy supplied by the team; see a37vCzQOq4o.content.md."
   }

@@ -221,5 +221,28 @@
   "language_detected": "ur (auto) / hi (forced)",
   "note": "18 gibberish segments; speech present at 0:00-0:06, 2:24-2:56, 5:20-5:42, 7:00-7:13 (Marwari)."
  },
- "_note": "Derived research notes; quote sparingly and attribute to Akshay Godara (YouTube)."
+ "_note": "Derived research notes; quote sparingly and attribute to Akshay Godara (YouTube).",
+ "title_cards": [
+  {
+   "at": "00:12",
+   "text": "A family goes back to their ancient village after 36 YEARS / Sherpura, Bikaner to Berawala, Bikaner"
+  },
+  {
+   "at": "00:21",
+   "text": "Berawala village was among 34 villages that got evacuated in between the years of 1984 and 1986"
+  },
+  {
+   "at": "00:42",
+   "text": "Ministry of Defence evacuated 34 villages with 3,37,000 acres of area to form Mahajan Field Firing Range (MFFR) for Indian Army"
+  },
+  {
+   "at": "02:39",
+   "text": "[4 GENERATIONS are standing in that room] (label: Naniji's house)"
+  },
+  {
+   "at": "07:18",
+   "text": "Shot & Edited by Akshay Godara"
+  }
+ ],
+ "frames_manifest": "research/media/berawala/manifest.json"
 }

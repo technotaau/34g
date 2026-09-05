@@ -20,7 +20,7 @@
     "review": 0,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 11
+    "claims": 17
   },
   "questions": {
     "what": {
@@ -116,6 +116,7 @@
       "Berawala village well",
       "Bikaner",
       "Mahajan Field Firing Range",
+      "Sherpura, Bikaner (family's present home)",
       "Thakurji Mandir (Berawala)",
       "first house of Berawala"
     ],
@@ -183,15 +184,40 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
+        "status": "conflicting",
+        "confidence": 0.55,
         "evidence": [
           {
             "source": "src_02fff109d15c",
             "text": "1986 me athe 34 gaon uthya"
           }
         ],
-        "competing": []
+        "competing": [
+          "1984-1986"
+        ]
+      },
+      {
+        "id": "clm_evacuation_period_821d2efb",
+        "claim_key": "evacuation_period",
+        "value": "1984-1986",
+        "statement_hi": "शीर्षक कार्ड: 34 गांव 1984 से 1986 के बीच खाली कराए गए",
+        "statement_en": "Title card: the 34 villages were evacuated between 1984 and 1986",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "evacuated in between the years of 1984 and 1986"
+          }
+        ],
+        "competing": [
+          "1986"
+        ]
       },
       {
         "id": "clm_village_pond_exists_fb360f9c",
@@ -330,15 +356,40 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
+        "status": "conflicting",
+        "confidence": 0.55,
         "evidence": [
           {
             "source": "src_02fff109d15c",
             "text": "This was the first house built in the village ... All of us got birth in this room only"
           }
         ],
-        "competing": []
+        "competing": [
+          "four generations born in / standing in the first house of the village"
+        ]
+      },
+      {
+        "id": "clm_first_house_birth_room_e4355554",
+        "claim_key": "first_house_birth_room",
+        "value": "four generations born in / standing in the first house of the village",
+        "statement_hi": "गांव के पहले मकान के एक कमरे में चार पीढ़ियाँ खड़ी हैं (परिवार वहीं जन्मा)",
+        "statement_en": "Four generations stood in the room of the village's first house where the family was born",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "4 GENERATIONS are standing in that room"
+          }
+        ],
+        "competing": [
+          "three generations born in the first house of the village"
+        ]
       },
       {
         "id": "clm_crops_field_memory_fa65c376",
@@ -357,6 +408,90 @@
           {
             "source": "src_02fff109d15c",
             "text": "Your grandmother (Nani) used to cut crops in this field"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_resettlement_sites_d68857a1",
+        "claim_key": "resettlement_sites",
+        "value": "Sherpura (Lunkaransar tehsil, Bikaner)",
+        "statement_hi": "परिवार अब शेरपुरा (बीकानेर) में रहता है; यात्रा शेरपुरा से बेरावाला की थी",
+        "statement_en": "The family now lives at Sherpura, Bikaner; the trip ran Sherpura to Berawala",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "Sherpura, Bikaner to Berawala, Bikaner"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_range_area_acres_2f42b8b1",
+        "claim_key": "range_area_acres",
+        "value": "337000",
+        "statement_hi": "शीर्षक कार्ड: 3,37,000 एकड़ क्षेत्र",
+        "statement_en": "Title card: 3,37,000 acres",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "3,37,000 acres of area"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_villages_acquired_count_f1f836cb",
+        "claim_key": "villages_acquired_count",
+        "value": "34",
+        "statement_hi": "शीर्षक कार्ड: 34 गांव",
+        "statement_en": "Title card: 34 villages",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "evacuated 34 villages"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_years_since_departure_at_visit_fc074d50",
+        "claim_key": "years_since_departure_at_visit",
+        "value": "36 (Feb 2022)",
+        "statement_hi": "परिवार 36 साल बाद गांव लौटा",
+        "statement_en": "The family returned after 36 years",
+        "sources": [
+          "src_02fff109d15c"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_02fff109d15c",
+            "text": "after 36 YEARS"
           }
         ],
         "competing": []
@@ -397,7 +532,7 @@
         "reasons": [
           "primary name match: Berawala",
           "strong geo context: ['Mahajan', 'महाजन', '34 gaon']",
-          "district/nearby/clan context: ['Bikaner', 'गोदारा']"
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Sherpura']"
         ],
         "matched_names": [
           "Berawala",
@@ -419,6 +554,9 @@
           "फायरिंग रेंज",
           "विस्थापित",
           "Bikaner",
+          "बीकानेर",
+          "Sherpura",
+          "शेरपुरा",
           "गोदारा"
         ],
         "negative_hits": []
@@ -467,6 +605,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 1,
       "at": "2026-09-05T19:58:56.207545+00:00"
+    },
+    {
+      "run_id": "run_20260905T202311Z",
+      "file": "/home/user/34g/research/inbox/berawala/discovery.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 2,
+      "agent_notes": "Manual pull by TechnoTaau Team from a Google result screenshot (5 Sep 2026). Video located via YouTube search page (id a37vCzQOq4o), metadata via oEmbed + yt-dlp. Watch page itself returns 'sign in to confirm you are not a bot' to plain fetches. Channel has only this one video. No other Berawala-specific press found in one Hindi search; Google auto-corrects to 'Barwala' (Haryana). 2026-09-05 update: burned-in subtitles extracted (29 lines) from a team-supplied 720p copy; Marwari speech not machine-transcribable.",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 1,
+      "at": "2026-09-05T20:23:11.824128+00:00"
     }
   ]
 }

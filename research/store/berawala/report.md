@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 1, स्वीकृत 1, पृष्ठभूमि (context) 0, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 11
+स्रोत: कुल 1, स्वीकृत 1, पृष्ठभूमि (context) 0, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 17
 
 > Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude.
 
@@ -63,7 +63,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## निकाले गए नाम (entities)
 
 - **people:** Akshay Godara (uploader)
-- **places:** Berawala, Berawala main pond, Berawala village well, Bikaner, Mahajan Field Firing Range, Thakurji Mandir (Berawala), first house of Berawala
+- **places:** Berawala, Berawala main pond, Berawala village well, Bikaner, Mahajan Field Firing Range, Sherpura, Bikaner (family's present home), Thakurji Mandir (Berawala), first house of Berawala
 - **events:** Family left Berawala on 7 July 1986, Family visit to Berawala ruins, Feb 2022
 - **organizations:** Indian Army (range)
 
@@ -75,15 +75,21 @@ _कोई नहीं_
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
 - **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **acquisition_year** = 1984 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **evacuation_period** = 1986 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **evacuation_period** = 1986 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-1986'] · स्रोत: src_02fff109d15c
+- **evacuation_period** = 1984-1986 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1986'] · स्रोत: src_02fff109d15c
 - **village_pond_exists** = yes (ruins, pond still holds water) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **return_visit_tradition** = family visits to ancestral ruins inside range · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **evacuation_date** = 1986-07-07 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **temple_name** = Thakurji Mandir · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **ghirt_stone_grinder** = camel-driven stone wheel grinding powder used as cement alternative · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **village_well_exists** = yes (main well of the village water system) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **first_house_birth_room** = three generations born in the first house of the village · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **first_house_birth_room** = three generations born in the first house of the village · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['four generations born in / standing in the first house of the village'] · स्रोत: src_02fff109d15c
+- **first_house_birth_room** = four generations born in / standing in the first house of the village · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['three generations born in the first house of the village'] · स्रोत: src_02fff109d15c
 - **crops_field_memory** = grandmother hand-harvested crops in the family field · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **resettlement_sites** = Sherpura (Lunkaransar tehsil, Bikaner) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **range_area_acres** = 337000 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **villages_acquired_count** = 34 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **years_since_departure_at_visit** = 36 (Feb 2022) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

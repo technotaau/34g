@@ -56,3 +56,13 @@ Source: https://www.youtube.com/watch?v=a37vCzQOq4o · Akshay Godara · 18 Feb 2
 
 ## Speech
 Marwari speech over music; Whisper output unusable (see JSON). Subtitles above are the uploader's translation.
+
+## Title cards (OCR of full frame)
+- [00:12] A family goes back to their ancient village after 36 YEARS / Sherpura, Bikaner to Berawala, Bikaner
+- [00:21] Berawala village was among 34 villages that got evacuated in between the years of 1984 and 1986
+- [00:42] Ministry of Defence evacuated 34 villages with 3,37,000 acres of area to form Mahajan Field Firing Range (MFFR) for Indian Army
+- [02:39] [4 GENERATIONS are standing in that room] (label: Naniji's house)
+- [07:18] Shot & Edited by Akshay Godara
+
+## Stills
+35 frames with descriptions: research/media/berawala/manifest.json

@@ -1,0 +1,419 @@
+{
+ "village": "berawala",
+ "source": {
+  "url": "https://www.youtube.com/watch?v=a37vCzQOq4o",
+  "title": "My family visited Berawala Village, Mahajan Firing Field Range (MFFR) (Vlog 0)",
+  "creator": "Akshay Godara",
+  "uploaded": "2022-02-18",
+  "source_id": "src_02fff109d15c"
+ },
+ "extracted": "2026-09-05",
+ "method": "ffmpeg frame grabs from a 720p copy supplied by TechnoTaau Team; full frame incl. burned-in subtitles/labels; JPEG q3",
+ "rights": "Stills are copyright of the creator (Akshay Godara). Stored for research reference and identification. Before publishing on the website, obtain the creator's permission and the consent of the family members shown (elderly grandparents, children).",
+ "frames": [
+  {
+   "file": "frames/0003s_berawala-pond-opening-grandfather.jpg",
+   "timestamp_s": 3,
+   "timestamp": "00:03",
+   "description": "Opening: grandfather at the village pond at sunrise; label 'Berawala village, MFFR'; subtitle 'On 7th July 1986, we left this village'",
+   "tags": [
+    "people",
+    "landscape",
+    "title"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0006s_title-card-after-36-years.jpg",
+   "timestamp_s": 6,
+   "timestamp": "00:06",
+   "description": "Grandfather at the pond; subtitle 'We came today after that day'",
+   "tags": [
+    "people",
+    "landscape"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0012s_family-in-car-from-sherpura.jpg",
+   "timestamp_s": 12,
+   "timestamp": "00:12",
+   "description": "Title card: 'A family goes back to their ancient village after 36 YEARS'; route 'Sherpura, Bikaner to Berawala, Bikaner'",
+   "tags": [
+    "title"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0021s_title-card-34-villages-1984-1986.jpg",
+   "timestamp_s": 21,
+   "timestamp": "00:21",
+   "description": "Title card: 'Berawala village was among 34 villages that got evacuated in between the years of 1984 and 1986'",
+   "tags": [
+    "title"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0026s_green-fields-near-sherpura.jpg",
+   "timestamp_s": 26,
+   "timestamp": "00:26",
+   "description": "Green fields near Sherpura on the drive",
+   "tags": [
+    "landscape"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0036s_canal-on-the-way.jpg",
+   "timestamp_s": 36,
+   "timestamp": "00:36",
+   "description": "Lined irrigation canal crossed on the way (Indira Gandhi canal system)",
+   "tags": [
+    "landscape",
+    "water"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0042s_title-card-mod-337000-acres.jpg",
+   "timestamp_s": 42,
+   "timestamp": "00:42",
+   "description": "Title card: 'Ministry of Defence evacuated 34 villages with 3,37,000 acres of area to form Mahajan Field Firing Range (MFFR) for Indian Army'",
+   "tags": [
+    "title"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0044s_mustard-fields-on-the-way.jpg",
+   "timestamp_s": 44,
+   "timestamp": "00:44",
+   "description": "Yellow mustard (sarson) fields on the drive",
+   "tags": [
+    "landscape"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0048s_road-into-the-range.jpg",
+   "timestamp_s": 48,
+   "timestamp": "00:48",
+   "description": "Asphalt road into the firing range",
+   "tags": [
+    "landscape",
+    "range"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0060s_arrival-by-jeep-at-old-field.jpg",
+   "timestamp_s": 60,
+   "timestamp": "01:00",
+   "description": "Arrival by jeep at the old family field; subtitle 'Reached our first stop, the old field'",
+   "tags": [
+    "people",
+    "range"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0066s_family-with-army-soldier-at-old-field.jpg",
+   "timestamp_s": 66,
+   "timestamp": "01:06",
+   "description": "Family at the old field with an army soldier (permission taken to visit)",
+   "tags": [
+    "people",
+    "range"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0084s_nani-so-hard-to-leave.jpg",
+   "timestamp_s": 84,
+   "timestamp": "01:24",
+   "description": "Nani (grandmother) in the field; subtitle 'It was so hard for us to leave all this, so hard'",
+   "tags": [
+    "people",
+    "oral-history"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0096s_nani-in-the-old-field.jpg",
+   "timestamp_s": 96,
+   "timestamp": "01:36",
+   "description": "Nani in the old field with the uploader",
+   "tags": [
+    "people",
+    "oral-history"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0132s_approaching-village-ruins.jpg",
+   "timestamp_s": 132,
+   "timestamp": "02:12",
+   "description": "Approaching the village ruins",
+   "tags": [
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0144s_nani-first-house-of-village.jpg",
+   "timestamp_s": 144,
+   "timestamp": "02:24",
+   "description": "Nani with granddaughter; subtitle 'This was the first house built in the village, this room'",
+   "tags": [
+    "people",
+    "oral-history",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0162s_family-group-at-nanijis-house.jpg",
+   "timestamp_s": 162,
+   "timestamp": "02:42",
+   "description": "Family group at the ruined house; label 'Naniji's house'; subtitle '4 GENERATIONS are standing in that room'",
+   "tags": [
+    "people",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0168s_family-group-four-generations.jpg",
+   "timestamp_s": 168,
+   "timestamp": "02:48",
+   "description": "Family group, four generations, at Naniji's house",
+   "tags": [
+    "people",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0204s_thakurji-mandir-brick-ruins.jpg",
+   "timestamp_s": 204,
+   "timestamp": "03:24",
+   "description": "Thakurji Mandir: brick and plaster temple ruins, interior",
+   "tags": [
+    "temple",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0207s_thakurji-mandir-dome-sun.jpg",
+   "timestamp_s": 207,
+   "timestamp": "03:27",
+   "description": "Thakurji Mandir dome silhouetted against the sun",
+   "tags": [
+    "temple",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0216s_mud-wall-ruins.jpg",
+   "timestamp_s": 216,
+   "timestamp": "03:36",
+   "description": "Mud-brick wall ruins of a house",
+   "tags": [
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0222s_house-built-by-grandfather.jpg",
+   "timestamp_s": 222,
+   "timestamp": "03:42",
+   "description": "Mud-brick wall; label 'House built by my Grandfather'",
+   "tags": [
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0240s_pointing-out-old-landmarks.jpg",
+   "timestamp_s": 240,
+   "timestamp": "04:00",
+   "description": "Family member pointing out old landmarks among the ruins",
+   "tags": [
+    "people",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0252s_ruined-wall-corner.jpg",
+   "timestamp_s": 252,
+   "timestamp": "04:12",
+   "description": "Ruined wall corner with family member",
+   "tags": [
+    "people",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0288s_water-storage-tank-opening.jpg",
+   "timestamp_s": 288,
+   "timestamp": "04:48",
+   "description": "Small water storage tank (tanka) opening in front of the house",
+   "tags": [
+    "water",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0312s_water-tank-opening-closeup.jpg",
+   "timestamp_s": 312,
+   "timestamp": "05:12",
+   "description": "Water tank opening, close-up",
+   "tags": [
+    "water",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0318s_ghirt-stone-grinder-circle.jpg",
+   "timestamp_s": 318,
+   "timestamp": "05:18",
+   "description": "The 'ghirt': circular stone grinder track; label 'Handmade stone grinder (Ghirt)'",
+   "tags": [
+    "craft",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0336s_ghirt-powder-cement-alternative.jpg",
+   "timestamp_s": 336,
+   "timestamp": "05:36",
+   "description": "Family member at the ghirt; subtitle 'that powder was used as an alternative of cement'",
+   "tags": [
+    "people",
+    "craft"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0348s_main-well-of-village.jpg",
+   "timestamp_s": 348,
+   "timestamp": "05:48",
+   "description": "Masonry well of the village water system; subtitle 'Rest of the process was explained'",
+   "tags": [
+    "water",
+    "ruins"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0372s_main-pond-of-village.jpg",
+   "timestamp_s": 372,
+   "timestamp": "06:12",
+   "description": "Main pond of the village (label)",
+   "tags": [
+    "water",
+    "landscape"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0384s_nani-at-the-pond.jpg",
+   "timestamp_s": 384,
+   "timestamp": "06:24",
+   "description": "Nani at the main pond",
+   "tags": [
+    "people",
+    "water",
+    "oral-history"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0402s_nani-and-mother-embrace.jpg",
+   "timestamp_s": 402,
+   "timestamp": "06:42",
+   "description": "Nani and the uploader's mother embracing at the pond",
+   "tags": [
+    "people",
+    "oral-history"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0408s_collecting-water-from-pond.jpg",
+   "timestamp_s": 408,
+   "timestamp": "06:48",
+   "description": "Family member collecting water from the pond",
+   "tags": [
+    "people",
+    "water"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0420s_grandfather-at-pond-sunset.jpg",
+   "timestamp_s": 420,
+   "timestamp": "07:00",
+   "description": "Grandfather at the pond at sunset; closing subtitle 'On 7th July 1986, we left this village'",
+   "tags": [
+    "people",
+    "landscape"
+   ],
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "frames/0438s_credits-shot-edited-by-akshay-godara.jpg",
+   "timestamp_s": 438,
+   "timestamp": "07:18",
+   "description": "Credits: 'Shot & Edited by Akshay Godara'",
+   "tags": [
+    "title"
+   ],
+   "width": 1280,
+   "height": 720
+  }
+ ],
+ "count": 34,
+ "route": "Sherpura (Lunkaransar tehsil, Bikaner) to Berawala (inside MFFR), per the title card"
+}

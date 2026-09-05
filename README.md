@@ -20,6 +20,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `research/config/` | Query templates, classification lexicon, claim-key aliases. |
 | `research/inbox/<slug>/` | Raw agent output per unit (discovery.json, verdicts.json). |
 | `research/store/<slug>/` | Processed store per unit: sources.json, claims.json, record.json, report.md (Hindi), runs.json. |
+| `research/media/<slug>/` | Reference stills extracted from videos, with `manifest.json` (timestamp, description, rights note). Not for publication without creator and family consent. |
 | `research/INDEX.md` | Coverage index across all units. |
 | `scripts/video_extract.py` | OCR burned-in subtitles and transcribe speech from a locally supplied video into timestamped notes. |
 | `tests/` | 21 pytest tests for the pipeline. |

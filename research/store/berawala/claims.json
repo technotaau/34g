@@ -52,15 +52,40 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "conflicting",
+    "confidence": 0.55,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "1986 me athe 34 gaon uthya"
       }
     ],
-    "competing": []
+    "competing": [
+      "1984-1986"
+    ]
+  },
+  "clm_evacuation_period_821d2efb": {
+    "id": "clm_evacuation_period_821d2efb",
+    "claim_key": "evacuation_period",
+    "value": "1984-1986",
+    "statement_hi": "शीर्षक कार्ड: 34 गांव 1984 से 1986 के बीच खाली कराए गए",
+    "statement_en": "Title card: the 34 villages were evacuated between 1984 and 1986",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "evacuated in between the years of 1984 and 1986"
+      }
+    ],
+    "competing": [
+      "1986"
+    ]
   },
   "clm_village_pond_exists_fb360f9c": {
     "id": "clm_village_pond_exists_fb360f9c",
@@ -199,15 +224,40 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "conflicting",
+    "confidence": 0.55,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "This was the first house built in the village ... All of us got birth in this room only"
       }
     ],
-    "competing": []
+    "competing": [
+      "four generations born in / standing in the first house of the village"
+    ]
+  },
+  "clm_first_house_birth_room_e4355554": {
+    "id": "clm_first_house_birth_room_e4355554",
+    "claim_key": "first_house_birth_room",
+    "value": "four generations born in / standing in the first house of the village",
+    "statement_hi": "गांव के पहले मकान के एक कमरे में चार पीढ़ियाँ खड़ी हैं (परिवार वहीं जन्मा)",
+    "statement_en": "Four generations stood in the room of the village's first house where the family was born",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "4 GENERATIONS are standing in that room"
+      }
+    ],
+    "competing": [
+      "three generations born in the first house of the village"
+    ]
   },
   "clm_crops_field_memory_fa65c376": {
     "id": "clm_crops_field_memory_fa65c376",
@@ -226,6 +276,90 @@
       {
         "source": "src_02fff109d15c",
         "text": "Your grandmother (Nani) used to cut crops in this field"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_d68857a1": {
+    "id": "clm_resettlement_sites_d68857a1",
+    "claim_key": "resettlement_sites",
+    "value": "Sherpura (Lunkaransar tehsil, Bikaner)",
+    "statement_hi": "परिवार अब शेरपुरा (बीकानेर) में रहता है; यात्रा शेरपुरा से बेरावाला की थी",
+    "statement_en": "The family now lives at Sherpura, Bikaner; the trip ran Sherpura to Berawala",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "Sherpura, Bikaner to Berawala, Bikaner"
+      }
+    ],
+    "competing": []
+  },
+  "clm_range_area_acres_2f42b8b1": {
+    "id": "clm_range_area_acres_2f42b8b1",
+    "claim_key": "range_area_acres",
+    "value": "337000",
+    "statement_hi": "शीर्षक कार्ड: 3,37,000 एकड़ क्षेत्र",
+    "statement_en": "Title card: 3,37,000 acres",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "3,37,000 acres of area"
+      }
+    ],
+    "competing": []
+  },
+  "clm_villages_acquired_count_f1f836cb": {
+    "id": "clm_villages_acquired_count_f1f836cb",
+    "claim_key": "villages_acquired_count",
+    "value": "34",
+    "statement_hi": "शीर्षक कार्ड: 34 गांव",
+    "statement_en": "Title card: 34 villages",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "evacuated 34 villages"
+      }
+    ],
+    "competing": []
+  },
+  "clm_years_since_departure_at_visit_fc074d50": {
+    "id": "clm_years_since_departure_at_visit_fc074d50",
+    "claim_key": "years_since_departure_at_visit",
+    "value": "36 (Feb 2022)",
+    "statement_hi": "परिवार 36 साल बाद गांव लौटा",
+    "statement_en": "The family returned after 36 years",
+    "sources": [
+      "src_02fff109d15c"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_02fff109d15c",
+        "text": "after 36 YEARS"
       }
     ],
     "competing": []

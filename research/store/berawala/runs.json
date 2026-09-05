@@ -26,5 +26,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 1,
     "at": "2026-09-05T19:58:56.207545+00:00"
+  },
+  {
+    "run_id": "run_20260905T202311Z",
+    "file": "/home/user/34g/research/inbox/berawala/discovery.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 2,
+    "agent_notes": "Manual pull by TechnoTaau Team from a Google result screenshot (5 Sep 2026). Video located via YouTube search page (id a37vCzQOq4o), metadata via oEmbed + yt-dlp. Watch page itself returns 'sign in to confirm you are not a bot' to plain fetches. Channel has only this one video. No other Berawala-specific press found in one Hindi search; Google auto-corrects to 'Barwala' (Haryana). 2026-09-05 update: burned-in subtitles extracted (29 lines) from a team-supplied 720p copy; Marwari speech not machine-transcribable.",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 1,
+    "at": "2026-09-05T20:23:11.824128+00:00"
   }
 ]
