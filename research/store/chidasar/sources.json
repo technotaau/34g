@@ -1,0 +1,907 @@
+{
+  "src_4f4dcd54c42b": {
+    "id": "src_4f4dcd54c42b",
+    "village": "chidasar",
+    "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/chidasar.html",
+    "url_key": "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/chidasar.html",
+    "title": "Chidasar Village | Map of Chidasar Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
+    "platform": "mapsofindia.com",
+    "source_type": "website",
+    "media_type": "map",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Chidasar village Bikaner Rajasthan"
+    ],
+    "summary": "A directory/map stub confirming Chidasar as a village under Lunkaransar tehsil, Bikaner district, Rajasthan. No population, coordinates, or other statistics are actually shown despite the page format promising a Google map location.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "chidasar",
+    "evidence_snippets": [
+      "chidasar Google map shows the location of chidasar village under lunkaransar, , bikaner, of rajasthan state"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "MapsOfIndia.com",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "tehsil_location",
+        "value": "Lunkaransar, Bikaner, Rajasthan",
+        "statement_hi": "चिड़ासर गांव लूणकरणसर तहसील, बीकानेर जिले में स्थित है।",
+        "statement_en": "Chidasar village is located in Lunkaransar tehsil, Bikaner district.",
+        "snippet": "chidasar village under lunkaransar, bikaner, of rajasthan state"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Chidasar",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+      ],
+      "matched_names": [
+        "Chidasar",
+        "चिड़ासर",
+        "चिडासर"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Extremely thin content -- essentially only confirms the village exists and its tehsil/district; no demographic or historical data. Still useful as a geo-confirmation anchor."
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "chidasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "चिड़ासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "बीकानेर के महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में 34 गांवों की जमीन अधिग्रहित की गई थी। लेख में विस्थापित परिवारों का दर्द, मुआवजा और नई भूमि आवंटन (खाजूवाला, डाँटोर आदि) का जिक्र है, पर चिड़ासर गांव का नाम सीधे नहीं लिया गया।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Khajuwala",
+      "Bhojrassar",
+      "Kumhana",
+      "Motlai",
+      "Khaniser",
+      "Thoiya",
+      "Maneran",
+      "Duder",
+      "Pugal",
+      "Mohangarh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर बनाई गई महाजन फील्ड फायरिंग रेंज"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Khajuwala",
+        "Pugal",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में रक्षा मंत्रालय द्वारा अधिग्रहित की गई।",
+        "statement_en": "Land from 34 villages was acquired by the Defence Ministry in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "34 गांवों को विस्थापित कर बनाई गई महाजन फील्ड फायरिंग रेंज"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Chidasar not named individually -- village list given is only a sample of the 34; geographic/thematic context is strong (firing range, Lunkaransar-area villages, displacement) so recorded as geo-context, not direct evidence about Chidasar."
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "chidasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "चिड़ासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "3.37 लाख एकड़ में फैली महाजन फील्ड फायरिंग रेंज में अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त युद्धाभ्यास होते हैं। बताया गया कि खाली कराए गए गांवों के मंदिर और तालाबों के अवशेषों का उपयोग नकली गांव के रूप में प्रशिक्षण में किया जाता है।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर",
+      "मंदिरों और तालाबों के अवशेषों वाली खाली बस्तियां"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [
+        "Mahajan",
+        "Lunkaransar"
+      ],
+      "events": [
+        "Indo-Russia joint exercise",
+        "Indo-French joint exercise"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "firing_range_area",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है।",
+        "statement_en": "The Mahajan Field Firing Range spans 3.37 lakh acres.",
+        "snippet": "3.37 लाख एकड़ भूमि में फैली महाजन फील्ड फायरिंग रेंज"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "No village named; useful for confirming that abandoned village temples/ponds (possibly including Chidasar's) still physically exist inside the range and are used in military training -- a possible lead for imagery or veteran interviews."
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "chidasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "चिड़ासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों की भूमि अधिग्रहण के बाद विस्थापित परिवारों को मुआवजा और खाजूवाला, डाँटोर, पूगल, मोहनगढ़, नाचना क्षेत्र में सिंचित भूमि दी गई, लेकिन दशकों बाद भी वे अपने उजड़े घरों को भूल नहीं पाए।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Khajuwala",
+      "Pugal",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों की भूमि का अधिग्रहण कर वहां महाजन फील्ड फायरिंग रेंज स्थापित की"
+    ],
+    "entities": {
+      "people": [
+        "Jay Kumar Bhati"
+      ],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Earlier (2018) version of essentially the same recurring Patrika story about MFFR displacement; Chidasar not named. Useful mainly as a second independent date-stamp for the same regional narrative."
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "chidasar",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Chidasar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Lok Sabha e-library catalogue item titled 'Mahajan Field Firing Range in Rajasthan'. This is very likely the parliamentary question/answer that is the origin of this unit's existing note ('Lok Sabha 1987: 83 persons paid for residential plots'), but the page is a JavaScript-rendered single-page app and WebFetch could only retrieve the bare title, not the question text, date, member name, or PDF link.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan Field Firing Range in Rajasthan"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Rajasthan"
+      ],
+      "events": [],
+      "organizations": [
+        "Lok Sabha"
+      ]
+    },
+    "license": "",
+    "attribution": "Lok Sabha e-library (Sansad Library)",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 57,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "HIGH-PRIORITY LEAD for a human researcher: open this URL in a real browser (SPA, blocked to automated fetch) or search sansad.in / eparlib.nic.in for the underlying unstarred question text, which likely lists all 34 villages and per-village compensation/plot figures including Chidasar's 83 persons."
+  },
+  "src_7e32199c2697": {
+    "id": "src_7e32199c2697",
+    "village": "chidasar",
+    "url": "https://www.facebook.com/283917615793054",
+    "url_key": "https://www.facebook.com/283917615793054",
+    "title": "Field Firing Range Mahajan",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "Field Firing Range Mahajan",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Chidasar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "A public Facebook page named 'Field Firing Range Mahajan', surfaced in search results but returned only Facebook's login wall to the automated fetch, so its posts, photos, and about text could not be reviewed for any mention of Chidasar.",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Facebook page: Field Firing Range Mahajan",
+    "is_primary": false,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 35,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 5,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Could not be opened without a logged-in session; a human researcher with Facebook access should check its posts and photo albums for former-village references, including Chidasar."
+  },
+  "src_f07a8c256ae6": {
+    "id": "src_f07a8c256ae6",
+    "village": "chidasar",
+    "url": "https://www.jatland.com/home/Mahajan",
+    "url_key": "https://jatland.com/home/Mahajan",
+    "title": "Mahajan - महाजन (Jatland Wiki)",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en+hi",
+    "found_by_query": [
+      "चिड़ासर महाजन लूणकरणसर"
+    ],
+    "summary": "Jatland wiki entry on Mahajan village/thikana, Lunkaransar tehsil, Bikaner. Search snippet indicates it discusses Mahajan's location on the Bikaner-Ganganagar road and mentions historical context tied to the republic of Johiya Jats in Jangladesh; full page could not be fetched (403) so a direct Chidasar mention could not be confirmed or ruled out.",
+    "topics": [
+      "history"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan",
+      "Lunkaransar",
+      "Bikaner",
+      "Jangladesh"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan is a village in Lunkaransar tehsil of Bikaner district ... situated on Bikaner-Ganganagar road"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Jangladesh"
+      ],
+      "events": [],
+      "organizations": [
+        "Johiya Jats"
+      ]
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Mahajan article",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "Jangladesh",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Fetch blocked with HTTP 403; only the search-result snippet could be used. Worth a manual revisit since Jatland pages often cross-list nearby villages and clan (gotra) settlement histories relevant to Chidasar's Jat/Godara/Dhatarwal families."
+  },
+  "src_0e1c88b9795b": {
+    "id": "src_0e1c88b9795b",
+    "village": "chidasar",
+    "url": "https://www.youtube.com/watch?v=zleWptMmcYM",
+    "url_key": "https://www.youtube.com/watch?v=zleWptMmcYM",
+    "title": "Mahajan field firing range : महाजन फील्ड फायरिंग रेंज में तोपाभ्यास के दौरान फटा बम",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Bikaner News",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "चिड़ासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "News video report on a shell/bomb explosion during artillery practice at the Mahajan Field Firing Range near Bikaner. No mention of Chidasar in the title; included only as regional military-range context and a channel worth checking for other MFFR-area footage.",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Bikaner"
+      ],
+      "events": [
+        "artillery practice accident"
+      ],
+      "organizations": [
+        "Bikaner News"
+      ]
+    },
+    "license": "",
+    "attribution": "Bikaner News (YouTube channel)",
+    "is_primary": false,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Bikaner News",
+      "uploader": "Bikaner News",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "unknown",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "MFFR",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260905T175513Z"
+    ],
+    "notes": "Not fetched for transcript per rules (whole-video transcription not requested); recorded from title/description only."
+  }
+}

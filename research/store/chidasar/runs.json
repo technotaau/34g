@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260905T175513Z",
+    "file": "/home/user/34g/research/inbox/chidasar/discovery.json",
+    "input": 8,
+    "invalid": 0,
+    "new": 8,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 25,
+    "agent_notes": "No source found that discusses Chidasar village by name in any depth; the only hit that is unambiguously about this exact place is a thin MapsOfIndia directory stub confirming it sits in Lunkaransar tehsil, Bikaner. All spelling variants tried (चिड़ासर, चिडासर, Chidasar, Chirasar) returned nothing village-specific on news, social, video, book or gazetteer channels -- results instead surfaced other Bikaner villages, unrelated 'Chidiya' (bird) content, or generic gotra/land-acquisition explainers. Regional coverage of Mahajan Field Firing Range displacement (Patrika, 2018/2022) is strong on the ",
+    "total_after": 8,
+    "at": "2026-09-05T17:55:13.376345+00:00"
+  }
+]

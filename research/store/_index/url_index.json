@@ -5,7 +5,8 @@
       "bhojrasar",
       "motlai",
       "manera",
-      "khanisar"
+      "khanisar",
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -20,7 +21,8 @@
       "manera",
       "meusar",
       "khanisar",
-      "kolana"
+      "kolana",
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -34,7 +36,8 @@
       "manera",
       "meusar",
       "khanisar",
-      "kolana"
+      "kolana",
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -101,14 +104,16 @@
       "motlai",
       "meusar",
       "khanisar",
-      "kolana"
+      "kolana",
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   },
   "https://jatland.com/home/Mahajan": {
     "villages": [
       "bhojrasar",
-      "meusar"
+      "meusar",
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -271,6 +276,24 @@
   "https://en.wikipedia.org/wiki/Chetan_Patel_Kolana": {
     "villages": [
       "kolana"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/chidasar.html": {
+    "villages": [
+      "chidasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://www.facebook.com/283917615793054": {
+    "villages": [
+      "chidasar"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://www.youtube.com/watch?v=zleWptMmcYM": {
+    "villages": [
+      "chidasar"
     ],
     "first_seen": "2026-09-05"
   }

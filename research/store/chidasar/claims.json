@@ -1,0 +1,65 @@
+{
+  "clm_tehsil_location_1504545b": {
+    "id": "clm_tehsil_location_1504545b",
+    "claim_key": "tehsil_location",
+    "value": "Lunkaransar, Bikaner, Rajasthan",
+    "statement_hi": "चिड़ासर गांव लूणकरणसर तहसील, बीकानेर जिले में स्थित है।",
+    "statement_en": "Chidasar village is located in Lunkaransar tehsil, Bikaner district.",
+    "sources": [
+      "src_4f4dcd54c42b"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_4f4dcd54c42b",
+        "text": "chidasar village under lunkaransar, bikaner, of rajasthan state"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में रक्षा मंत्रालय द्वारा अधिग्रहित की गई।",
+    "statement_en": "Land from 34 villages was acquired by the Defence Ministry in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 गांवों को विस्थापित कर बनाई गई महाजन फील्ड फायरिंग रेंज"
+      }
+    ],
+    "competing": []
+  },
+  "clm_firing_range_area_792fcc92": {
+    "id": "clm_firing_range_area_792fcc92",
+    "claim_key": "firing_range_area",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है।",
+    "statement_en": "The Mahajan Field Firing Range spans 3.37 lakh acres.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़ भूमि में फैली महाजन फील्ड फायरिंग रेंज"
+      }
+    ],
+    "competing": []
+  }
+}

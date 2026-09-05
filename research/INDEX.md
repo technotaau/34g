@@ -10,7 +10,7 @@
 | ठोईयां (Thoiya) | 6 | 4 | 0 | 7 | 7 | [report](store/thoiya/report.md) |
 | मणेरां (Manera) | 7 | 2 | 1 | 8 | 8 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 6 | 6 | [report](store/duder/report.md) |
-| चिड़ासर (Chidasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| चिड़ासर (Chidasar) | 8 | 1 | 0 | 3 | 3 | [report](store/chidasar/report.md) |
 | मेऊसर (Meusar) | 10 | 0 | 3 | 10 | 10 | [report](store/meusar/report.md) |
 | खिंयाणा (Khiyana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कोलाणा (Kolana) | 7 | 2 | 2 | 10 | 10 | [report](store/kolana/report.md) |
