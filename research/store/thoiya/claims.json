@@ -1,0 +1,144 @@
+{
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "ठोईयां सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिगृहीत की गई।",
+    "statement_en": "Land of Thoiya and 33 other villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_displacement_status_078f4074": {
+    "id": "clm_displacement_status_078f4074",
+    "claim_key": "displacement_status",
+    "value": "displaced_1984_85",
+    "statement_hi": "ठोईयां गांव के निवासियों को विस्थापित कर मुआवजा व नई भूमि दी गई।",
+    "statement_en": "Residents of Thoiya were displaced and given compensation and resettlement land.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "विस्थापित परिवारों को घर, पेड़ और कृषि भूमि का मुआवजा तथा खाजूवाला, दांतौर, पूगल में भूमि आवंटन"
+      }
+    ],
+    "competing": []
+  },
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "claim_key": "evacuation_period",
+    "value": "1981-1986",
+    "statement_hi": "गांव 1981 से 1986 के बीच खाली कराए गए",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "claim_key": "founding_person",
+    "value": "Nathu Dhatarwal",
+    "statement_hi": "धतरवाल गांवों के संस्थापक नाथू धतरवाल",
+    "statement_en": "",
+    "sources": [
+      "src_dc27e87bee50"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [],
+    "competing": []
+  },
+  "clm_founding_clan_851d8466": {
+    "id": "clm_founding_clan_851d8466",
+    "claim_key": "founding_clan",
+    "value": "Dhatarwal",
+    "statement_hi": "ठोईयां गांव की स्थापना धतरवाल परिवार से जुड़ी है।",
+    "statement_en": "Thoiya village's founding is linked to the Dhatarwal family.",
+    "sources": [
+      "src_07585bc5b0e8",
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_07585bc5b0e8",
+        "text": "Dhatarwal village named after Thoili"
+      },
+      {
+        "source": "src_7da0e757971f",
+        "text": "12 villages founded by Dhatarwals including Thoiya"
+      }
+    ],
+    "competing": []
+  },
+  "clm_eponym_83bb6055": {
+    "id": "clm_eponym_83bb6055",
+    "claim_key": "eponym",
+    "value": "Thoili (daughter of Nathu Dhatarwal)",
+    "statement_hi": "गांव का नाम नाथू धतरवाल की पुत्री थोईली के नाम पर पड़ा।",
+    "statement_en": "The village is named after Thoili, daughter of Nathu Dhatarwal.",
+    "sources": [
+      "src_07585bc5b0e8"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_07585bc5b0e8",
+        "text": "The village was founded after Thoili, the daughter of Nathu Dhatarwal. Thoili was married to Beniwals."
+      }
+    ],
+    "competing": []
+  },
+  "clm_clan_migration_origin_0aa2d0f9": {
+    "id": "clm_clan_migration_origin_0aa2d0f9",
+    "claim_key": "clan_migration_origin",
+    "value": "Dhatri to Baderan",
+    "statement_hi": "नाथू धतरवाल अपने चाचा कालू धतरवाल और मामेरे भाई भिनयाराम रोज के साथ धाटी छोड़कर बादेरा में बस गए।",
+    "statement_en": "Nathu Dhatarwal, with his uncle Kalu Dhatarwal and maternal-cousin Bhinya Ram Roj, left Dhatri and settled at Baderan.",
+    "sources": [
+      "src_7da0e757971f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7da0e757971f",
+        "text": "left Dhatri and settled at Baderan in Lunkaransar area where they constructed ponds and wells"
+      }
+    ],
+    "competing": []
+  }
+}

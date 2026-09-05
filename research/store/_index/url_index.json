@@ -11,7 +11,8 @@
       "34-gaon",
       "bhojrasar",
       "kumbhana",
-      "duder"
+      "duder",
+      "thoiya"
     ],
     "first_seen": "2026-09-05"
   },
@@ -19,7 +20,8 @@
     "villages": [
       "34-gaon",
       "bhojrasar",
-      "duder"
+      "duder",
+      "thoiya"
     ],
     "first_seen": "2026-09-05"
   },
@@ -81,7 +83,8 @@
     "villages": [
       "bhojrasar",
       "kumbhana",
-      "duder"
+      "duder",
+      "thoiya"
     ],
     "first_seen": "2026-09-05"
   },
@@ -143,6 +146,24 @@
   "https://jatland.com/home/Duderia": {
     "villages": [
       "duder"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Thoiya": {
+    "villages": [
+      "thoiya"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://jatland.com/home/Dhatarwal": {
+    "villages": [
+      "thoiya"
+    ],
+    "first_seen": "2026-09-05"
+  },
+  "https://wikimapia.org/10793488/Thoiya": {
+    "villages": [
+      "thoiya"
     ],
     "first_seen": "2026-09-05"
   }

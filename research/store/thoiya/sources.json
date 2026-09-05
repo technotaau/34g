@@ -1,0 +1,735 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "thoiya",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव ठोईयां महाजन"
+    ],
+    "summary": "राजस्थान पत्रिका की यह रिपोर्ट बताती है कि 1984-85 में रक्षा मंत्रालय ने महाजन फील्ड फायरिंग रेंज बनाने के लिए 34 गांवों की करीब 3.37 लाख एकड़ भूमि अधिगृहीत की थी। ठोईयां (Thoiya) को भोजरासर, कुम्भाणा, मोटलाई, खानीसर, मणेरां और दुदेर के साथ विस्थापित गांवों में सूचीबद्ध किया गया है। विस्थापित परिवारों को घर, पेड़ और कृषि भूमि का मुआवजा तथा खाजूवाला, दांतौर, पूगल जैसे क्षेत्रों में भूमि आवंटन मिला।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "बीकानेर",
+      "Mahajan Field Firing Range",
+      "महाजन फील्ड फायरिंग रेंज",
+      "Lunkaransar",
+      "Khajuwala",
+      "खाजूवाला",
+      "Pugal",
+      "पूगल"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "ठोईयां / Thoiyaan",
+    "evidence_snippets": [
+      "34 villages... including Thoiya... were displaced",
+      "भूमि जहां उपजाऊ थी वहीं लोगों में भाईचारे की भावना थी"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh",
+        "Rajuram Sharma",
+        "Bajranglal Lakhotiya"
+      ],
+      "places": [
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiya",
+        "Manera",
+        "Duder",
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition for Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Defence Ministry / रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": true,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "manera",
+      "duder",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "ठोईयां सहित 34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिगृहीत की गई।",
+        "statement_en": "Land of Thoiya and 33 other villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      },
+      {
+        "claim_key": "displacement_status",
+        "value": "displaced_1984_85",
+        "statement_hi": "ठोईयां गांव के निवासियों को विस्थापित कर मुआवजा व नई भूमि दी गई।",
+        "statement_en": "Residents of Thoiya were displaced and given compensation and resettlement land.",
+        "snippet": "विस्थापित परिवारों को घर, पेड़ और कृषि भूमि का मुआवजा तथा खाजूवाला, दांतौर, पूगल में भूमि आवंटन"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Thoiya",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']"
+      ],
+      "matched_names": [
+        "Thoiya",
+        "ठोईयां",
+        "ठोईया"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 92,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 11,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "Fetched directly; content confirmed via WebFetch. Strongest available source for this unit."
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "thoiya",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "ठोईयां महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह पत्रिका रिपोर्ट महाजन फील्ड फायरिंग रेंज के अंतरराष्ट्रीय सैन्य अभ्यासों (अमेरिका, ब्रिटेन, रूस, फ्रांस के साथ) पर केंद्रित है और बताती है कि करीब चार दशक पहले 34 गांवों को विस्थापित कर यह रेंज बनाई गई थी। विस्थापित गांवों के घर, तालाब और मंदिर आज भी सैन्याभ्यास स्थल पर मौजूद हैं। लेख में ठोईयां का नाम स्पष्ट रूप से नहीं लिया गया, केवल '34 गांव' सामूहिक रूप से संदर्भित हैं।",
+    "topics": [
+      "displacement",
+      "history",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "महाजन फील्ड फायरिंग रेंज",
+      "Bikaner",
+      "बीकानेर"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "1984-85 land acquisition",
+        "international joint military exercises"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "Same 34-village displacement context as the 7893463 article but does not name Thoiya specifically in the retrieved text; kept for background/context only, not as direct evidence."
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "thoiya",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "hi",
+    "found_by_query": [
+      "ठोईयां महाजन लूणकरणसर"
+    ],
+    "summary": "शीर्षक लगभग समान है 7893463 वाले लेख के जैसा (\"आशियाना उजड़ने का दर्द\"), संभवतः वही रिपोर्ट किसी पुराने URL/संस्करण पर या इसका पूर्ववर्ती लेख। पूरी सामग्री की पुष्टि के लिए फेच नहीं किया गया (खोज बजट सीमा के कारण)।",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan firing range",
+      "बीकानेर"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika (unverified duplicate/related URL)",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 41,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "src_a5150b8b1d53",
+    "syndicate_group": "",
+    "review_flags": [
+      "duplicate"
+    ],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "Not independently fetched; near-duplicate title of the 7893463 article, likely same story republished under a different slug/date. Needs human verification and possibly de-duplication with that source."
+  },
+  "src_07585bc5b0e8": {
+    "id": "src_07585bc5b0e8",
+    "village": "thoiya",
+    "url": "https://www.jatland.com/home/Thoiya",
+    "url_key": "https://jatland.com/home/Thoiya",
+    "title": "Thoiya - Jatland Wiki",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Thoiya village Bikaner Rajasthan"
+    ],
+    "summary": "Jatland's community wiki page states Thoiya is a village in Lunkaransar tehsil, Bikaner district, Rajasthan, founded after Thoili, daughter of Nathu Dhatarwal; Thoili was married into the Beniwal clan. The village is presented as part of a cluster of villages established by the Dhatarwal family and its descendants in the Lunkaransar area.",
+    "topics": [
+      "history",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner",
+      "Lunkaransar",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Thoiya",
+    "evidence_snippets": [
+      "Thoiya is a village in Lunkaransar tehsil of Bikaner district in Rajasthan",
+      "The village was founded after Thoili, the daughter of Nathu Dhatarwal"
+    ],
+    "entities": {
+      "people": [
+        "Thoili",
+        "Nathu Dhatarwal"
+      ],
+      "places": [
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [
+        "village founding"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Thoiya page",
+    "is_primary": true,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal",
+        "statement_hi": "ठोईयां गांव की स्थापना धतरवाल परिवार से जुड़ी है।",
+        "statement_en": "Thoiya village's founding is linked to the Dhatarwal family.",
+        "snippet": "Dhatarwal village named after Thoili"
+      },
+      {
+        "claim_key": "eponym",
+        "value": "Thoili (daughter of Nathu Dhatarwal)",
+        "statement_hi": "गांव का नाम नाथू धतरवाल की पुत्री थोईली के नाम पर पड़ा।",
+        "statement_en": "The village is named after Thoili, daughter of Nathu Dhatarwal.",
+        "snippet": "The village was founded after Thoili, the daughter of Nathu Dhatarwal. Thoili was married to Beniwals."
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Thoiya",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Dhatarwal', 'धतरवाल']"
+      ],
+      "matched_names": [
+        "Thoiya",
+        "ठोईयां",
+        "ठोईया"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "Dhatarwal",
+        "धतरवाल",
+        "Beniwal",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 87,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "WebFetch on this URL returned HTTP 403 Forbidden; content above is reconstructed from WebSearch result snippets only and must be verified by a human opening the page directly in a browser."
+  },
+  "src_7da0e757971f": {
+    "id": "src_7da0e757971f",
+    "village": "thoiya",
+    "url": "https://www.jatland.com/home/Dhatarwal",
+    "url_key": "https://jatland.com/home/Dhatarwal",
+    "title": "Dhatarwal - धतरवाल",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en+hi",
+    "found_by_query": [
+      "Thoiya village history Bikaner"
+    ],
+    "summary": "Jatland's Dhatarwal clan page (per search snippet) describes Nathu Dhatarwal migrating with his uncle Kalu Dhatarwal and maternal brother Bhinya Ram Roj from Dhatri to Baderan in the Lunkaransar area after a war, where they built ponds and wells. It states Dhatarwals founded around 12 villages in the region, including Thoiya, named after Nathu's daughter Thoili.",
+    "topics": [
+      "history",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Baderan",
+      "बादेरा"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Thoiya",
+    "evidence_snippets": [
+      "Dhatarwals founded number of villages after Nathu Dhatarwal and his descendants, with 12 villages founded by Dhatarwals including Thoiya",
+      "Nathu Dhatarwal along with his uncle Kalu Dhatarwal and maternal brother Bhinya Ram Roj left Dhatri and settled at Baderan"
+    ],
+    "entities": {
+      "people": [
+        "Nathu Dhatarwal",
+        "Kalu Dhatarwal",
+        "Bhinya Ram Roj"
+      ],
+      "places": [
+        "Dhatri",
+        "Baderan",
+        "Lunkaransar"
+      ],
+      "events": [
+        "clan migration after a war"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Dhatarwal page",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [
+      "baderan"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal",
+        "statement_hi": "धतरवाल कुल ने लूणकरणसर क्षेत्र में करीब 12 गांव बसाए, जिनमें ठोईयां भी शामिल है।",
+        "statement_en": "The Dhatarwal clan founded about 12 villages in the Lunkaransar area, including Thoiya.",
+        "snippet": "12 villages founded by Dhatarwals including Thoiya"
+      },
+      {
+        "claim_key": "clan_migration_origin",
+        "value": "Dhatri to Baderan",
+        "statement_hi": "नाथू धतरवाल अपने चाचा कालू धतरवाल और मामेरे भाई भिनयाराम रोज के साथ धाटी छोड़कर बादेरा में बस गए।",
+        "statement_en": "Nathu Dhatarwal, with his uncle Kalu Dhatarwal and maternal-cousin Bhinya Ram Roj, left Dhatri and settled at Baderan.",
+        "snippet": "left Dhatri and settled at Baderan in Lunkaransar area where they constructed ponds and wells"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Thoiya",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Kalu', 'कालू', 'Baderan']"
+      ],
+      "matched_names": [
+        "Thoiya",
+        "ठोईयां",
+        "ठोईया"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Kalu",
+        "कालू",
+        "Baderan",
+        "बादेरा",
+        "Dhatarwal",
+        "धतरवाल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 79,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "WebFetch on this URL returned HTTP 403 Forbidden; content above is reconstructed from WebSearch result snippets only and must be verified by a human opening the page directly in a browser. Companion source to the Jatland Thoiya page and to the region's nearby-village list (Baderan)."
+  },
+  "src_6fa7bc3651b0": {
+    "id": "src_6fa7bc3651b0",
+    "village": "thoiya",
+    "url": "http://wikimapia.org/10793488/Thoiya",
+    "url_key": "https://wikimapia.org/10793488/Thoiya",
+    "title": "Thoiya - Wikimapia",
+    "platform": "wikimapia.org",
+    "source_type": "website",
+    "media_type": "map",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-05",
+    "language": "en",
+    "found_by_query": [
+      "Thoiya village history Bikaner"
+    ],
+    "summary": "A Wikimapia map entry titled 'Thoiya' surfaced in search results, suggesting a mapped point/place for this village, but WebFetch returned no retrievable page content (likely a JS-rendered map page). Location context could not be independently confirmed as Bikaner/Lunkaransar from the fetch attempt.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Thoiya",
+    "evidence_snippets": [
+      "Thoiya - Wikimapia"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Wikimapia contributors",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Thoiya",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Thoiya"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 73,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260905T175357Z"
+    ],
+    "notes": "WebFetch returned empty content (page likely requires JS rendering). Title match only -- a human should open this map page directly to confirm coordinates and that it corresponds to Thoiya, Lunkaransar, Bikaner, and not a same-named place elsewhere."
+  }
+}
