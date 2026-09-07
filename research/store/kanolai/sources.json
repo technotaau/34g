@@ -55,8 +55,8 @@
     "media": {
       "channel": "Rssuthar Jaisalmer",
       "uploader": "@RssutharJaisalmer",
-      "transcript_available": "no caption tracks (manual or auto)",
-      "timestamps": "4 public comments; 376 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 435 in tp0mVligrls.content.json",
+      "timestamps": "4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer",
       "frames": "72 stills in research/media/kanolai/tp0mVligrls/ (manifest.json, contact_sheet.png)"
     },
     "claims": [],
@@ -111,7 +111,8 @@
     "review_flags": [],
     "runs": [
       "run_20260907T082736Z",
-      "run_20260907T140216Z"
+      "run_20260907T140216Z",
+      "run_20260907T161253Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   },
