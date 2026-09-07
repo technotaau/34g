@@ -77,9 +77,9 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_bf43bd9c771a",
         "src_d816c2b00dd1",
         "src_f8ed99a1785c",
+        "src_bf43bd9c771a",
         "src_654585ebcb8b",
         "src_58181afd64a7",
         "src_da33d836896a",
@@ -92,9 +92,9 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_bf43bd9c771a",
         "src_d816c2b00dd1",
         "src_f8ed99a1785c",
+        "src_bf43bd9c771a",
         "src_654585ebcb8b",
         "src_58181afd64a7",
         "src_da33d836896a",
@@ -1680,6 +1680,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 18,
       "at": "2026-09-07T08:52:34.069861+00:00"
+    },
+    {
+      "run_id": "run_20260907T140216Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_YGDc75dU39g.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-07T14:02:17.573977+00:00"
     }
   ]
 }

@@ -1297,7 +1297,8 @@
       "channel": "Shubh Journey",
       "uploader": "@ShubhJourney",
       "transcript_available": "no caption tracks (manual or auto)",
-      "timestamps": "80 public comments; 73335 views; hashtags: CulturalVlog DailyRoutine DesiLife DesiVibes ExploreRajasthan FarmLife FarmVlogs FarmingLife HeritageOfIndia HomeTour IndianCulture IndianTradition IndianVillages RajasthanCulture RajasthanDiaries Raj"
+      "timestamps": "80 public comments; 73335 views; hashtags: CulturalVlog DailyRoutine DesiLife DesiVibes ExploreRajasthan FarmLife FarmVlogs FarmingLife HeritageOfIndia HomeTour IndianCulture IndianTradition IndianVillages RajasthanCulture RajasthanDiaries Raj",
+      "frames": "53 stills in research/media/khiyana/YGDc75dU39g/ (manifest.json, contact_sheet.png)"
     },
     "claims": [],
     "resolution": {
@@ -1347,7 +1348,8 @@
     "review_flags": [],
     "runs": [
       "run_20260907T082733Z",
-      "run_20260907T082828Z"
+      "run_20260907T082828Z",
+      "run_20260907T140216Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   },
