@@ -20,7 +20,7 @@
     "review": 4,
     "rejected": 2,
     "duplicates": 0,
-    "claims": 2
+    "claims": 7
   },
   "questions": {
     "what": {
@@ -55,6 +55,7 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_ae6977b947db",
+        "src_7e0f76030fe8",
         "src_61e9e3b48a37"
       ]
     },
@@ -62,6 +63,7 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_ae6977b947db",
+        "src_7e0f76030fe8",
         "src_61e9e3b48a37"
       ]
     },
@@ -117,10 +119,17 @@
   "entities": {
     "people": [],
     "places": [
+      "Heer ji ki Madhi (samadhi with red flag)",
       "Heer ji ki Madhi (white shrine under a large tree)",
-      "Peer ji Maharaj Kanolai Dham (shrine)"
+      "Peer ji Maharaj Kanolai Dham (shrine with jaal tree and bell offerings)",
+      "Peer ji Maharaj Kanolai Dham (shrine)",
+      "lime-plastered house ruins of Kanolai",
+      "old well/tanka of Kanolai"
     ],
-    "events": [],
+    "events": [
+      "Return visit of elderly former residents, January 2019 (footage date in file names)",
+      "Vishal jagran announced on the shrine board"
+    ],
     "organizations": [
       "Rssuthar Jaisalmer"
     ]
@@ -128,6 +137,50 @@
   "claims": {
     "well_supported": [],
     "needs_verification": [
+      {
+        "id": "clm_evacuation_period_e0f34ffa",
+        "claim_key": "evacuation_period",
+        "value": "1986",
+        "statement_hi": "शीर्षक: कानोलाई 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया",
+        "statement_en": "Title: Kanolai was taken into the Mahajan Field Firing Range in 1986",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_shrine_peer_ji_kanolai_dham_383678f6",
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held",
+        "statement_hi": "पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है",
+        "statement_en": "Peer ji Maharaj Kanolai Dham still stands; strings of bells are offered on the jaal tree; the board announces a vishal jagran",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "board: पीरजी महाराज कानोल[ाई] ... विशाल जागरण"
+          }
+        ],
+        "competing": [
+          "Peer ji Maharaj Kanolai Dham shrine stands and is visited"
+        ]
+      },
       {
         "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
         "claim_key": "shrine_peer_ji_kanolai_dham",
@@ -139,15 +192,40 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
+        "status": "conflicting",
+        "confidence": 0.55,
         "evidence": [
           {
             "source": "src_ae6977b947db",
             "text": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
           }
         ],
-        "competing": []
+        "competing": [
+          "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held"
+        ]
+      },
+      {
+        "id": "clm_shrine_heer_ji_madhi_5f32c6bd",
+        "claim_key": "shrine_heer_ji_madhi",
+        "value": "masonry samadhi with red flag, visited by elders",
+        "statement_hi": "हीर जी की मढ़ी: लाल ध्वज वाली छोटी पक्की समाधि जहाँ बुज़ुर्ग नमन करते हैं",
+        "statement_en": "Heer ji ki Madhi: a small masonry samadhi with a red flag where the elders pay respects",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "frames 27:30-32:00"
+          }
+        ],
+        "competing": [
+          "white madhi under a large tree"
+        ]
       },
       {
         "id": "clm_shrine_heer_ji_madhi_ec918df3",
@@ -160,12 +238,56 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
+        "status": "conflicting",
+        "confidence": 0.55,
         "evidence": [
           {
             "source": "src_ae6977b947db",
             "text": "channel tag #HeerjikiSamadhi; frames 01:52-02:22"
+          }
+        ],
+        "competing": [
+          "masonry samadhi with red flag, visited by elders"
+        ]
+      },
+      {
+        "id": "clm_house_ruins_material_99873977",
+        "claim_key": "house_ruins_material",
+        "value": "lime-plastered platforms and walls",
+        "statement_hi": "गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं",
+        "statement_en": "Lime-plastered platforms and wall stubs of the houses survive",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "frames 17:00-22:00"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_well_exists_fb360f9c",
+        "claim_key": "village_well_exists",
+        "value": "yes (lime-built well or tanka)",
+        "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
+        "statement_en": "The village's lime-built well or tanka survives",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "frames 22:00-26:00"
           }
         ],
         "competing": []
@@ -342,7 +464,7 @@
       "published_date": "2025-01-30",
       "language": "hi",
       "relevance": {
-        "score": 80,
+        "score": 86,
         "band": "high",
         "factors": {
           "name_match": 30,
@@ -353,7 +475,7 @@
           "corroboration": 0,
           "queries": 2,
           "evidence": 6,
-          "claims": 0,
+          "claims": 6,
           "recency": 3,
           "media": 3,
           "negative": -8
@@ -391,7 +513,8 @@
         "displacement",
         "media_visual",
         "military_range",
-        "people_family"
+        "people_family",
+        "religion_temple"
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=tp0mVligrls",
@@ -767,6 +890,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 9,
       "at": "2026-09-07T16:12:53.394928+00:00"
+    },
+    {
+      "run_id": "run_20260907T165646Z",
+      "file": "research/inbox/kanolai/video_tp0mVligrls.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=tp0mVligrls on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-07T16:56:47.226676+00:00"
     }
   ]
 }

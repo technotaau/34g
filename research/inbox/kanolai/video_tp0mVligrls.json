@@ -14,7 +14,7 @@
    "published_date": "2025-01-30",
    "language": "hi",
    "found_by_query": "video supplied by TechnoTaau Team",
-   "summary": "YouTube video 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था' (36:01) by Rssuthar Jaisalmer. Kanolai 20190128_142338",
+   "summary": "YouTube video 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था' (36:01) by Rssuthar Jaisalmer. Kanolai 20190128_142338 36 मिनट का वीडियो (जनवरी 2019 की फुटेज): बुज़ुर्ग पूर्व निवासी जीप से रेंज के अंदर कानोलाई पहुंचते हैं; पीरजी महाराज कानोलाई धाम (जाल के पेड़ पर घंटियों की मालाएं, बोर्ड पर 'विशाल जागरण'), चूने से पुते मकानों के खंडहर, पुराना कुआँ/टांका और लाल ध्वज वाली हीर जी की मढ़ी दिखाई गई है; बुज़ुर्ग अपने घरों की जगह पहचानते हैं। बातचीत मारवाड़ी में है।",
    "topics": [
     "media_visual"
    ],
@@ -30,12 +30,26 @@
     "Location field: कनोलाई बप",
     "Viewer comment: 34 Village Mahajan field firing range Lunkaransar Bikaner 😢",
     "Viewer comment: Bahut boora hua🙄",
-    "Viewer comment: सोच के दुःख होता हैं आज उन लोगों में क्या बीतती होगी कि उनके जड़े काट दी, में पूरे परिवार के साथ जयपुर रहता हूं पर 5–6 महीने में गांव …"
+    "Viewer comment: सोच के दुःख होता हैं आज उन लोगों में क्या बीतती होगी कि उनके जड़े काट दी, में पूरे परिवार के साथ जयपुर रहता हूं पर 5–6 महीने में गांव …",
+    "Frames 09:00-13:30 (Jan 2019 footage): Peer ji Maharaj Kanolai Dham shrine, whitewashed with green door; painted board reads 'पीरजी महाराज कानोल[ाई] ... ॥ शुभ ॥ ... विशाल जागरण' (visual reading); strings of small brass bells and cloth tokens hung on wires and on the jaal tree as offerings",
+    "Frame 10:30: an elder points across the open sand from the shrine towards the site where the village stood",
+    "Frames 17:00-22:00: lime-plastered platforms and wall stubs of the old houses; an elder stands in the ruin of his own house",
+    "Frames 22:00-26:00: lime-built well or tanka examined by the elders",
+    "Frames 27:30-32:00: small masonry samadhi with red cloth and flag (Heer ji ki Madhi per channel tags); the elders pay respects and talk",
+    "Frames 02:00, 14:30, 35:30: elderly former residents of Kanolai travel in and out by jeep"
    ],
    "entities": {
     "people": [],
-    "places": [],
-    "events": [],
+    "places": [
+     "Peer ji Maharaj Kanolai Dham (shrine with jaal tree and bell offerings)",
+     "Heer ji ki Madhi (samadhi with red flag)",
+     "lime-plastered house ruins of Kanolai",
+     "old well/tanka of Kanolai"
+    ],
+    "events": [
+     "Return visit of elderly former residents, January 2019 (footage date in file names)",
+     "Vishal jagran announced on the shrine board"
+    ],
     "organizations": [
      "Rssuthar Jaisalmer"
     ]
@@ -47,7 +61,43 @@
     "34-gaon",
     "kolana"
    ],
-   "claims": [],
+   "claims": [
+    {
+     "claim_key": "evacuation_period",
+     "value": "1986",
+     "statement_hi": "शीर्षक: कानोलाई 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया",
+     "statement_en": "Title: Kanolai was taken into the Mahajan Field Firing Range in 1986",
+     "snippet": "जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था"
+    },
+    {
+     "claim_key": "shrine_peer_ji_kanolai_dham",
+     "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held",
+     "statement_hi": "पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है",
+     "statement_en": "Peer ji Maharaj Kanolai Dham still stands; strings of bells are offered on the jaal tree; the board announces a vishal jagran",
+     "snippet": "board: पीरजी महाराज कानोल[ाई] ... विशाल जागरण"
+    },
+    {
+     "claim_key": "shrine_heer_ji_madhi",
+     "value": "masonry samadhi with red flag, visited by elders",
+     "statement_hi": "हीर जी की मढ़ी: लाल ध्वज वाली छोटी पक्की समाधि जहाँ बुज़ुर्ग नमन करते हैं",
+     "statement_en": "Heer ji ki Madhi: a small masonry samadhi with a red flag where the elders pay respects",
+     "snippet": "frames 27:30-32:00"
+    },
+    {
+     "claim_key": "house_ruins_material",
+     "value": "lime-plastered platforms and walls",
+     "statement_hi": "गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं",
+     "statement_en": "Lime-plastered platforms and wall stubs of the houses survive",
+     "snippet": "frames 17:00-22:00"
+    },
+    {
+     "claim_key": "village_well_exists",
+     "value": "yes (lime-built well or tanka)",
+     "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
+     "statement_en": "The village's lime-built well or tanka survives",
+     "snippet": "frames 22:00-26:00"
+    }
+   ],
    "media": {
     "channel": "Rssuthar Jaisalmer",
     "uploader": "@RssutharJaisalmer",

@@ -15,12 +15,13 @@
     "found_by_query": [
       "video supplied by TechnoTaau Team"
     ],
-    "summary": "YouTube video 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था' (36:01) by Rssuthar Jaisalmer. Kanolai 20190128_142338",
+    "summary": "YouTube video 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था' (36:01) by Rssuthar Jaisalmer. Kanolai 20190128_142338 36 मिनट का वीडियो (जनवरी 2019 की फुटेज): बुज़ुर्ग पूर्व निवासी जीप से रेंज के अंदर कानोलाई पहुंचते हैं; पीरजी महाराज कानोलाई धाम (जाल के पेड़ पर घंटियों की मालाएं, बोर्ड पर 'विशाल जागरण'), चूने से पुते मकानों के खंडहर, पुराना कुआँ/टांका और लाल ध्वज वाली हीर जी की मढ़ी दिखाई गई है; बुज़ुर्ग अपने घरों की जगह पहचानते हैं। बातचीत मारवाड़ी में है।",
     "topics": [
       "displacement",
       "media_visual",
       "military_range",
-      "people_family"
+      "people_family",
+      "religion_temple"
     ],
     "period": "2016_present",
     "geo_mentions": [
@@ -30,6 +31,12 @@
     "name_form_matched": "Kanolai",
     "evidence_snippets": [
       "Description: Kanolai 20190128_142338",
+      "Frame 10:30: an elder points across the open sand from the shrine towards the site where the village stood",
+      "Frames 02:00, 14:30, 35:30: elderly former residents of Kanolai travel in and out by jeep",
+      "Frames 09:00-13:30 (Jan 2019 footage): Peer ji Maharaj Kanolai Dham shrine, whitewashed with green door; painted board reads 'पीरजी महाराज कानोल[ाई] ... ॥ शुभ ॥ ... विशाल जागरण' (visual reading); strings of small brass bells and cloth tokens hung on wires and on the jaal tree as offerings",
+      "Frames 17:00-22:00: lime-plastered platforms and wall stubs of the old houses; an elder stands in the ruin of his own house",
+      "Frames 22:00-26:00: lime-built well or tanka examined by the elders",
+      "Frames 27:30-32:00: small masonry samadhi with red cloth and flag (Heer ji ki Madhi per channel tags); the elders pay respects and talk",
       "Location field: कनोलाई बप",
       "Title: खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था",
       "Viewer comment: 34 Village Mahajan field firing range Lunkaransar Bikaner 😢",
@@ -38,8 +45,16 @@
     ],
     "entities": {
       "people": [],
-      "places": [],
-      "events": [],
+      "places": [
+        "Heer ji ki Madhi (samadhi with red flag)",
+        "Peer ji Maharaj Kanolai Dham (shrine with jaal tree and bell offerings)",
+        "lime-plastered house ruins of Kanolai",
+        "old well/tanka of Kanolai"
+      ],
+      "events": [
+        "Return visit of elderly former residents, January 2019 (footage date in file names)",
+        "Vishal jagran announced on the shrine board"
+      ],
       "organizations": [
         "Rssuthar Jaisalmer"
       ]
@@ -59,7 +74,43 @@
       "timestamps": "4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer",
       "frames": "72 stills in research/media/kanolai/tp0mVligrls/ (manifest.json, contact_sheet.png)"
     },
-    "claims": [],
+    "claims": [
+      {
+        "claim_key": "evacuation_period",
+        "value": "1986",
+        "statement_hi": "शीर्षक: कानोलाई 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया",
+        "statement_en": "Title: Kanolai was taken into the Mahajan Field Firing Range in 1986",
+        "snippet": "जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था"
+      },
+      {
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held",
+        "statement_hi": "पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है",
+        "statement_en": "Peer ji Maharaj Kanolai Dham still stands; strings of bells are offered on the jaal tree; the board announces a vishal jagran",
+        "snippet": "board: पीरजी महाराज कानोल[ाई] ... विशाल जागरण"
+      },
+      {
+        "claim_key": "shrine_heer_ji_madhi",
+        "value": "masonry samadhi with red flag, visited by elders",
+        "statement_hi": "हीर जी की मढ़ी: लाल ध्वज वाली छोटी पक्की समाधि जहाँ बुज़ुर्ग नमन करते हैं",
+        "statement_en": "Heer ji ki Madhi: a small masonry samadhi with a red flag where the elders pay respects",
+        "snippet": "frames 27:30-32:00"
+      },
+      {
+        "claim_key": "house_ruins_material",
+        "value": "lime-plastered platforms and walls",
+        "statement_hi": "गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं",
+        "statement_en": "Lime-plastered platforms and wall stubs of the houses survive",
+        "snippet": "frames 17:00-22:00"
+      },
+      {
+        "claim_key": "village_well_exists",
+        "value": "yes (lime-built well or tanka)",
+        "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
+        "statement_en": "The village's lime-built well or tanka survives",
+        "snippet": "frames 22:00-26:00"
+      }
+    ],
     "resolution": {
       "decision": "accept",
       "confidence": 0.65,
@@ -89,7 +140,7 @@
       ]
     },
     "relevance": {
-      "score": 80,
+      "score": 86,
       "band": "high",
       "factors": {
         "name_match": 30,
@@ -100,7 +151,7 @@
         "corroboration": 0,
         "queries": 2,
         "evidence": 6,
-        "claims": 0,
+        "claims": 6,
         "recency": 3,
         "media": 3,
         "negative": -8
@@ -112,7 +163,8 @@
     "runs": [
       "run_20260907T082736Z",
       "run_20260907T140216Z",
-      "run_20260907T161253Z"
+      "run_20260907T161253Z",
+      "run_20260907T165646Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   },
