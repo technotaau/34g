@@ -20,12 +20,13 @@
     "review": 1,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 10
+    "claims": 11
   },
   "questions": {
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
+        "src_99ea53c3e2c8",
         "src_31f3ca85e9a1",
         "src_da93acd53623",
         "src_698a84e4ebfa"
@@ -38,6 +39,7 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_99ea53c3e2c8",
         "src_a5150b8b1d53",
         "src_31f3ca85e9a1",
         "src_da93acd53623",
@@ -144,6 +146,7 @@
       "Bikaner",
       "Dhatri",
       "Kumbhana",
+      "Kumbhana garh (fort) ruins",
       "Mahajan",
       "Mahajan Field Firing Range",
       "Sujangarh"
@@ -360,6 +363,27 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_fort_ruins_exist_fde337f0",
+        "claim_key": "fort_ruins_exist",
+        "value": "brick fort (garh) ruins stand at Kumbhana",
+        "statement_hi": "कुम्भाणा में ठिकाने के गढ़ के ईंटों के खंडहर आज भी खड़े हैं",
+        "statement_en": "Brick ruins of the Kumbhana thikana fort still stand",
+        "sources": [
+          "src_99ea53c3e2c8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_99ea53c3e2c8",
+            "text": "'कुम्हाणा गढ़' overlay; frames 00:02-00:14"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -379,6 +403,63 @@
     }
   ],
   "sources": {
+    "src_99ea53c3e2c8": {
+      "url": "https://www.youtube.com/watch?v=guImlBcRMTU",
+      "title": "पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-27",
+      "language": "hi",
+      "relevance": {
+        "score": 92,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 2,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Kumbhana",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Bikaner', 'Chhatargarh']"
+        ],
+        "matched_names": [
+          "Kumbhana",
+          "कुम्भाणा",
+          "Kumbhana thikana",
+          "कुम्हाणा"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Bikaner",
+          "Chhatargarh",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "history",
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=guImlBcRMTU",
+      "is_primary": true
+    },
     "src_a5150b8b1d53": {
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
       "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
@@ -440,59 +521,6 @@
       ],
       "license": "",
       "attribution": "Rajasthan Patrika, Loonaram Verma, 2022-11-29",
-      "is_primary": true
-    },
-    "src_99ea53c3e2c8": {
-      "url": "https://www.youtube.com/watch?v=guImlBcRMTU",
-      "title": "पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2025-10-27",
-      "language": "hi",
-      "relevance": {
-        "score": 88,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 6,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "variant match: कुम्हाणा",
-          "strong geo context: ['34 गांव', '34 गाँव']",
-          "district/nearby/clan context: ['Bikaner', 'Chhatargarh']"
-        ],
-        "matched_names": [
-          "कुम्हाणा"
-        ],
-        "geo_hits": [
-          "34 गांव",
-          "34 गाँव",
-          "Bikaner",
-          "Chhatargarh",
-          "Rajasthan"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "media_visual"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=guImlBcRMTU",
       "is_primary": true
     },
     "src_31f3ca85e9a1": {
@@ -769,6 +797,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 6,
       "at": "2026-09-07T08:27:40.035353+00:00"
+    },
+    {
+      "run_id": "run_20260907T090203Z",
+      "file": "/home/user/34g/research/inbox/kumbhana/video_guImlBcRMTU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/shorts/guImlBcRMTU on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 6,
+      "at": "2026-09-07T09:02:04.120611+00:00"
+    },
+    {
+      "run_id": "run_20260907T090843Z",
+      "file": "research/inbox/kumbhana/video_guImlBcRMTU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/shorts/guImlBcRMTU on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 6,
+      "at": "2026-09-07T09:08:44.128372+00:00"
     }
   ]
 }

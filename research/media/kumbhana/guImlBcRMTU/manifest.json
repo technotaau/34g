@@ -1,0 +1,63 @@
+{
+ "video_id": "guImlBcRMTU",
+ "source_url": "https://www.youtube.com/watch?v=guImlBcRMTU",
+ "credit": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 (YouTube guImlBcRMTU)",
+ "extracted": "2026-09-07",
+ "every_s": 3,
+ "rights": "Stills from a third-party video for research reference. Creator's copyright; consent of identifiable people needed before publication.",
+ "count": 5,
+ "frames": [
+  {
+   "file": "frames/0002s.jpg",
+   "timestamp_s": 2,
+   "timestamp": "00:02",
+   "description": "Kumbhana garh (fort) ruins: brick wall with window openings, roof slab collapsed; overlay 'कुम्हाणा गढ़ Rajasthan Journey'",
+   "tags": [
+    "fort",
+    "ruins",
+    "title"
+   ]
+  },
+  {
+   "file": "frames/0005s.jpg",
+   "timestamp_s": 5,
+   "timestamp": "00:05",
+   "description": "Fort interior: arched doorway in the brick wall, rubble on the floor",
+   "tags": [
+    "fort",
+    "ruins"
+   ]
+  },
+  {
+   "file": "frames/0008s.jpg",
+   "timestamp_s": 8,
+   "timestamp": "00:08",
+   "description": "Fort wall edge with scrub growing through the ruins",
+   "tags": [
+    "fort",
+    "ruins",
+    "landscape"
+   ]
+  },
+  {
+   "file": "frames/0011s.jpg",
+   "timestamp_s": 11,
+   "timestamp": "00:11",
+   "description": "Ruined rampart line of the fort against the sky",
+   "tags": [
+    "fort",
+    "ruins"
+   ]
+  },
+  {
+   "file": "frames/0014s.jpg",
+   "timestamp_s": 14,
+   "timestamp": "00:14",
+   "description": "Brick masonry detail of the fort wall",
+   "tags": [
+    "fort",
+    "ruins"
+   ]
+  }
+ ]
+}

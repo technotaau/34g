@@ -1,1 +1,44 @@
-{}
+{
+  "clm_shrine_peer_ji_kanolai_dham_41ca879b": {
+    "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
+    "claim_key": "shrine_peer_ji_kanolai_dham",
+    "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited",
+    "statement_hi": "कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं",
+    "statement_en": "The small Peer ji Maharaj Kanolai Dham shrine still stands and the family visits it",
+    "sources": [
+      "src_ae6977b947db"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_ae6977b947db",
+        "text": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_shrine_heer_ji_madhi_ec918df3": {
+    "id": "clm_shrine_heer_ji_madhi_ec918df3",
+    "claim_key": "shrine_heer_ji_madhi",
+    "value": "white madhi under a large tree",
+    "statement_hi": "हीर जी की मढ़ी: बड़े पेड़ (जाल) के नीचे सफेद मढ़ी",
+    "statement_en": "Heer ji ki Madhi: a white shrine at the foot of a large tree",
+    "sources": [
+      "src_ae6977b947db"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_ae6977b947db",
+        "text": "channel tag #HeerjikiSamadhi; frames 01:52-02:22"
+      }
+    ],
+    "competing": []
+  }
+}

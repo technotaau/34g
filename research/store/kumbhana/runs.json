@@ -23,5 +23,33 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 6,
     "at": "2026-09-07T08:27:40.035353+00:00"
+  },
+  {
+    "run_id": "run_20260907T090203Z",
+    "file": "/home/user/34g/research/inbox/kumbhana/video_guImlBcRMTU.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/shorts/guImlBcRMTU on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 6,
+    "at": "2026-09-07T09:02:04.120611+00:00"
+  },
+  {
+    "run_id": "run_20260907T090843Z",
+    "file": "research/inbox/kumbhana/video_guImlBcRMTU.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/shorts/guImlBcRMTU on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 6,
+    "at": "2026-09-07T09:08:44.128372+00:00"
   }
 ]

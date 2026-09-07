@@ -20,7 +20,7 @@
     "review": 4,
     "rejected": 2,
     "duplicates": 0,
-    "claims": 0
+    "claims": 2
   },
   "questions": {
     "what": {
@@ -34,8 +34,8 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_2f5657e5a37e",
         "src_ae6977b947db",
+        "src_2f5657e5a37e",
         "src_7e0f76030fe8",
         "src_100cc543387f"
       ]
@@ -43,6 +43,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_ae6977b947db",
         "src_7e0f76030fe8"
       ]
     },
@@ -53,18 +54,22 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
+        "src_ae6977b947db",
         "src_61e9e3b48a37"
       ]
     },
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
+        "src_ae6977b947db",
         "src_61e9e3b48a37"
       ]
     },
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
-      "source_ids": []
+      "source_ids": [
+        "src_ae6977b947db"
+      ]
     },
     "education": {
       "label": "शिक्षा व विद्यालय",
@@ -111,7 +116,10 @@
   },
   "entities": {
     "people": [],
-    "places": [],
+    "places": [
+      "Heer ji ki Madhi (white shrine under a large tree)",
+      "Peer ji Maharaj Kanolai Dham (shrine)"
+    ],
     "events": [],
     "organizations": [
       "Rssuthar Jaisalmer"
@@ -119,7 +127,50 @@
   },
   "claims": {
     "well_supported": [],
-    "needs_verification": []
+    "needs_verification": [
+      {
+        "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited",
+        "statement_hi": "कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं",
+        "statement_en": "The small Peer ji Maharaj Kanolai Dham shrine still stands and the family visits it",
+        "sources": [
+          "src_ae6977b947db"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_ae6977b947db",
+            "text": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_shrine_heer_ji_madhi_ec918df3",
+        "claim_key": "shrine_heer_ji_madhi",
+        "value": "white madhi under a large tree",
+        "statement_hi": "हीर जी की मढ़ी: बड़े पेड़ (जाल) के नीचे सफेद मढ़ी",
+        "statement_en": "Heer ji ki Madhi: a white shrine at the foot of a large tree",
+        "sources": [
+          "src_ae6977b947db"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_ae6977b947db",
+            "text": "channel tag #HeerjikiSamadhi; frames 01:52-02:22"
+          }
+        ],
+        "competing": []
+      }
+    ]
   },
   "manual_review": [
     {
@@ -178,7 +229,7 @@
       "published_date": "2025-02-26",
       "language": "hi",
       "relevance": {
-        "score": 88,
+        "score": 92,
         "band": "high",
         "factors": {
           "name_match": 30,
@@ -189,7 +240,7 @@
           "corroboration": 0,
           "queries": 2,
           "evidence": 6,
-          "claims": 0,
+          "claims": 4,
           "recency": 3,
           "media": 3,
           "negative": 0
@@ -203,7 +254,8 @@
           "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
         ],
         "matched_names": [
-          "Kanolai"
+          "Kanolai",
+          "कानोलाई"
         ],
         "geo_hits": [
           "Mahajan",
@@ -213,8 +265,11 @@
       },
       "topics": [
         "displacement",
+        "land_agriculture",
         "media_visual",
-        "military_range"
+        "military_range",
+        "people_family",
+        "religion_temple"
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
@@ -656,6 +711,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 9,
       "at": "2026-09-07T08:52:07.214234+00:00"
+    },
+    {
+      "run_id": "run_20260907T090654Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_z3ILa3-NyU0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=z3ILa3-NyU0 on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-07T09:06:54.552818+00:00"
+    },
+    {
+      "run_id": "run_20260907T090843Z",
+      "file": "research/inbox/kanolai/video_z3ILa3-NyU0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=z3ILa3-NyU0 on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-07T09:08:43.812511+00:00"
     }
   ]
 }

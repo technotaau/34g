@@ -2,13 +2,15 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
+स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 11
 
 > Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site.
 
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts' (0:16) by 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝. पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan #youtubeshorts #shorts #village #465rd #chhatargarh #bikaner #rajasthan #rajasthani #ra
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) (website · text · 2018 · स्कोर 80)
   - Genealogical/heraldic database entry on Kumbhana Thikana, held by the Ratansinghot branch of the Bika Rathore clan, founded by Thakur Kesri Singh (sixth in descent from Rao Lunkaran of Bikaner) and ranked as one of the state's premier noble estates, second only to Mahajan. Lists Thikana chiefs and k
 - [pradyuman singh bika kumbhana - Rajasthan, India | Professional Profile | LinkedIn](https://www.linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5/) (social · social_post · तिथि अज्ञात · स्कोर 69 · समीक्षा हेतु)
@@ -20,6 +22,8 @@
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts' (0:16) by 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝. पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan #youtubeshorts #shorts #village #465rd #chhatargarh #bikaner #rajasthan #rajasthani #ra
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 90)
   - कुम्भाणा को महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में अधिगृहीत किए गए 34 गांवों में गिना गया है। गांव के व्यवसायी बजरंग लाल लखोटिया के हवाले से बताया गया है कि विस्थापन के बावजूद आज भी होली पर कुम्भाणा में होलिका दहन की परंपरा निभाई जाती है और लोग खतरे के बावजूद वहां पहुंचते हैं।
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) (website · text · 2018 · स्कोर 80)
@@ -73,8 +77,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
 ### वीडियो (1)
-- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 1 in guImlBcRMTU.content.json · timestamps: 0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -92,7 +96,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## निकाले गए नाम (entities)
 
 - **people:** Bajrang Lal Lakhotiya, Dinesh Kumar Swami, Kumbha, Maharaja Anup Singh, Maharaja Ganga Singh, Nathu Dhatarwal, Pradyuman Singh Bika Kumbhana, Rao Bahadur Thakur Daulat Singh, Rao Lunkaran, Thakur Bairisal, Thakur Kesri Singh, Thakur Megh Singh, Thakur Raj Singh Rathore
-- **places:** Bikaner, Dhatri, Kumbhana, Mahajan, Mahajan Field Firing Range, Sujangarh
+- **places:** Bikaner, Dhatri, Kumbhana, Kumbhana garh (fort) ruins, Mahajan, Mahajan Field Firing Range, Sujangarh
 - **events:** Accession to India 1956, Court of Wards (1896-97), Holika Dahan, Rajasthan Land Reforms Act 1952, Rajasthan Land Reforms and Resumption of Jagirs Act, 1952, joint international military exercises
 - **organizations:** Bikaner State, Indian Army, Ministry of Defence, 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝
 
@@ -112,6 +116,7 @@ _कोई नहीं_
 - **thikana_rank** = second only to Mahajan among Bikaner Thikanas · unverified · विश्वास 0.3 · स्रोत: src_31f3ca85e9a1
 - **clan_branch** = Ratansinghot (Bika Rathore) · unverified · विश्वास 0.3 · स्रोत: src_31f3ca85e9a1
 - **present_pattedar** = Thakur Raj Singh Rathore · unverified · विश्वास 0.3 · स्रोत: src_31f3ca85e9a1
+- **fort_ruins_exist** = brick fort (garh) ruins stand at Kumbhana · single-source · विश्वास 0.5 · स्रोत: src_99ea53c3e2c8
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
@@ -125,8 +130,8 @@ _कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) · youtube · video · स्कोर 92 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 90 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव कुम्भाणा महाजन फायरिंग रेंज
-- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) · indianrajputs.com · website · स्कोर 80 · रिज़ॉल्यूशन accept (0.8) · खोज: Kumbhana village Bikaner Rajasthan
 - [pradyuman singh bika kumbhana - Rajasthan, India | Professional Profile | LinkedIn](https://www.linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5/) · linkedin.com · social · स्कोर 69 · रिज़ॉल्यूशन review (0.55) · खोज: Kumbhana Bikaner
 - [Kumbhana - Jatland Wiki](https://www.jatland.com/home/Kumbhana) · jatland · community_wiki · स्कोर 67 · रिज़ॉल्यूशन accept (0.65) · खोज: Kumbhana village Bikaner Rajasthan

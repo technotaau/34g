@@ -129,25 +129,39 @@
     "found_by_query": [
       "video supplied by TechnoTaau Team"
     ],
-    "summary": "YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+    "summary": "YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327. वीडियो (जून 2021 की फुटेज) में पीर जी महाराज कानोलाई धाम का मंदिर, ट्रैक्टर से पुराने गांव की जमीन का चक्कर और बड़े पेड़ के नीचे सफेद मढ़ी दिखाई गई है।",
     "topics": [
       "displacement",
+      "land_agriculture",
       "media_visual",
-      "military_range"
+      "military_range",
+      "people_family",
+      "religion_temple"
     ],
     "period": "2016_present",
     "geo_mentions": [],
     "direct_mention": true,
     "name_form_matched": "Kanolai",
     "evidence_snippets": [
-      "Title: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
       "Description: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
-      "Viewer comment: हमारा ननिहाल कितना अच्छा है। 😊",
-      "Viewer comment: Bahla village se ho kya ap"
+      "Frame 00:02 (visual reading of painted sign): 'पीर जी महाराज कानोलाई धाम', whitewashed shrine with green door and strings of hanging offerings",
+      "Frames 01:52 to 02:22: white shrine (madhi) at the foot of a large old tree, probably Heer ji ki Madhi under a jaal tree (channel tags name both sites)",
+      "On-screen text 0s: ।७ Ty, Kanolai, the beautifUl village of Mahajan Field Firing Range १0...202270523....097327 की छा",
+      "On-screen text 149s: Sig पलक अत",
+      "On-screen text 17s: are हर असर 22 oe eaaiGkinicia ee 22222 or एक उस Bee Sorc दा Pr Le 2.0 cea, SX Sais aie",
+      "On-screen text 33s: ay 46 AY Sav Ase जन",
+      "On-screen text 4s: 007० जा हा WT. Pat ss Kanolai, the beautifU! village of NOS sen) Mahajan Field Firing Range ei जे 40. 20270523- 09327 सं",
+      "On-screen text 61s: है, See",
+      "Title: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+      "Viewer comment: Bahla village se ho kya ap",
+      "Viewer comment: हमारा ननिहाल कितना अच्छा है। 😊"
     ],
     "entities": {
       "people": [],
-      "places": [],
+      "places": [
+        "Heer ji ki Madhi (white shrine under a large tree)",
+        "Peer ji Maharaj Kanolai Dham (shrine)"
+      ],
       "events": [],
       "organizations": [
         "Rssuthar Jaisalmer"
@@ -163,10 +177,26 @@
     "media": {
       "channel": "Rssuthar Jaisalmer",
       "uploader": "@RssutharJaisalmer",
-      "transcript_available": "no caption tracks (manual or auto)",
-      "timestamps": "3 public comments; 123 views; hashtags: "
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 6 lines; speech segments: 5 in z3ILa3-NyU0.content.json",
+      "timestamps": "3 public comments; 123 views; hashtags: ",
+      "frames": "18 stills in research/media/kanolai/z3ILa3-NyU0/ (manifest.json, contact_sheet.png)"
     },
-    "claims": [],
+    "claims": [
+      {
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited",
+        "statement_hi": "कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं",
+        "statement_en": "The small Peer ji Maharaj Kanolai Dham shrine still stands and the family visits it",
+        "snippet": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
+      },
+      {
+        "claim_key": "shrine_heer_ji_madhi",
+        "value": "white madhi under a large tree",
+        "statement_hi": "हीर जी की मढ़ी: बड़े पेड़ (जाल) के नीचे सफेद मढ़ी",
+        "statement_en": "Heer ji ki Madhi: a white shrine at the foot of a large tree",
+        "snippet": "channel tag #HeerjikiSamadhi; frames 01:52-02:22"
+      }
+    ],
     "resolution": {
       "decision": "accept",
       "confidence": 0.7,
@@ -175,7 +205,8 @@
         "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
       ],
       "matched_names": [
-        "Kanolai"
+        "Kanolai",
+        "कानोलाई"
       ],
       "geo_hits": [
         "Mahajan",
@@ -184,7 +215,7 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 88,
+      "score": 92,
       "band": "high",
       "factors": {
         "name_match": 30,
@@ -195,7 +226,7 @@
         "corroboration": 0,
         "queries": 2,
         "evidence": 6,
-        "claims": 0,
+        "claims": 4,
         "recency": 3,
         "media": 3,
         "negative": 0
@@ -205,7 +236,9 @@
     "syndicate_group": "",
     "review_flags": [],
     "runs": [
-      "run_20260907T085020Z"
+      "run_20260907T085020Z",
+      "run_20260907T090654Z",
+      "run_20260907T090843Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   },

@@ -193,5 +193,26 @@
       }
     ],
     "competing": []
+  },
+  "clm_fort_ruins_exist_fde337f0": {
+    "id": "clm_fort_ruins_exist_fde337f0",
+    "claim_key": "fort_ruins_exist",
+    "value": "brick fort (garh) ruins stand at Kumbhana",
+    "statement_hi": "कुम्भाणा में ठिकाने के गढ़ के ईंटों के खंडहर आज भी खड़े हैं",
+    "statement_en": "Brick ruins of the Kumbhana thikana fort still stand",
+    "sources": [
+      "src_99ea53c3e2c8"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_99ea53c3e2c8",
+        "text": "'कुम्हाणा गढ़' overlay; frames 00:02-00:14"
+      }
+    ],
+    "competing": []
   }
 }
