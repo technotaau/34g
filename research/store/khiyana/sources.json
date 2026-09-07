@@ -1411,7 +1411,9 @@
         "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
       ],
       "matched_names": [
-        "Khiyana"
+        "Khiyana",
+        "Nathu Dada Dhora",
+        "Nathu Dada Dhora Khiyana"
       ],
       "geo_hits": [
         "Mahajan",
@@ -1498,15 +1500,19 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "context",
-      "confidence": 0.5,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
-        "village name not found in captured text",
+        "variant match: Khiana",
         "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
         "district/nearby/clan context: ['Bikaner']",
         "agent: village not directly named"
       ],
-      "matched_names": [],
+      "matched_names": [
+        "Khiana",
+        "Kheyana",
+        "Nathu Dada Dhora"
+      ],
       "geo_hits": [
         "Mahajan",
         "Loonkaransar",
@@ -1516,10 +1522,10 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 54,
-      "band": "medium",
+      "score": 84,
+      "band": "high",
       "factors": {
-        "name_match": 0,
+        "name_match": 30,
         "geo_match": 20,
         "resolution_conf": 8,
         "credibility": 6,
@@ -1535,7 +1541,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260907T085214Z"
     ],
@@ -1594,14 +1602,17 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "context",
-      "confidence": 0.5,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
-        "village name not found in captured text",
+        "variant match: Kheyana",
         "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
         "agent: village not directly named"
       ],
-      "matched_names": [],
+      "matched_names": [
+        "Kheyana",
+        "Nathu Dada Dhora"
+      ],
       "geo_hits": [
         "Mahajan",
         "Mahajan Field Firing Range"
@@ -1609,10 +1620,10 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 54,
-      "band": "medium",
+      "score": 84,
+      "band": "high",
       "factors": {
-        "name_match": 0,
+        "name_match": 30,
         "geo_match": 20,
         "resolution_conf": 8,
         "credibility": 6,
@@ -1628,7 +1639,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260907T085218Z"
     ],
@@ -1691,14 +1704,17 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "context",
-      "confidence": 0.5,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
-        "village name not found in captured text",
+        "variant match: Kheyana",
         "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
         "agent: village not directly named"
       ],
-      "matched_names": [],
+      "matched_names": [
+        "Kheyana",
+        "Nathu Dada Dhora"
+      ],
       "geo_hits": [
         "Mahajan",
         "Mahajan Field Firing Range"
@@ -1706,10 +1722,10 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 56,
-      "band": "medium",
+      "score": 86,
+      "band": "high",
       "factors": {
-        "name_match": 0,
+        "name_match": 30,
         "geo_match": 20,
         "resolution_conf": 8,
         "credibility": 6,
@@ -1725,7 +1741,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260907T085222Z"
     ],
@@ -1796,7 +1814,9 @@
         "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']"
       ],
       "matched_names": [
-        "Khiyana"
+        "Khiyana",
+        "Nathu Dada Dhora",
+        "Nathu Dada Dhora Khiyana"
       ],
       "geo_hits": [
         "Mahajan",
@@ -1892,7 +1912,10 @@
         "variant match: खींयाणा"
       ],
       "matched_names": [
-        "खींयाणा"
+        "खींयाणा",
+        "Kheyana",
+        "Nathu Dada Dhora",
+        "नाथू दादा धोरा"
       ],
       "geo_hits": [],
       "negative_hits": []
@@ -1984,7 +2007,10 @@
         "variant match: खींयाणा"
       ],
       "matched_names": [
-        "खींयाणा"
+        "खींयाणा",
+        "Kheyana",
+        "Nathu Dada Dhora",
+        "नाथू दादा धोरा"
       ],
       "geo_hits": [],
       "negative_hits": []

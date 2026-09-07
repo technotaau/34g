@@ -16,8 +16,8 @@
   "counts": {
     "sources_total": 18,
     "accepted": 7,
-    "context": 8,
-    "review": 1,
+    "context": 5,
+    "review": 4,
     "rejected": 2,
     "duplicates": 0,
     "claims": 12
@@ -44,17 +44,17 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
-        "src_f525760f12bd",
-        "src_7da0e757971f",
-        "src_4fb2da84d5a4",
+        "src_d816c2b00dd1",
         "src_da33d836896a",
         "src_12fb097b02c4",
         "src_a30396979513",
+        "src_f525760f12bd",
+        "src_7da0e757971f",
+        "src_4fb2da84d5a4",
         "src_a5150b8b1d53",
-        "src_c37d5179aabc",
-        "src_a6f66da51d72"
+        "src_a6f66da51d72",
+        "src_c37d5179aabc"
       ]
     },
     "people": {
@@ -77,12 +77,12 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_bf43bd9c771a",
+        "src_d816c2b00dd1",
+        "src_da33d836896a",
         "src_f525760f12bd",
         "src_7da0e757971f",
-        "src_da33d836896a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -90,12 +90,12 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_bf43bd9c771a",
+        "src_d816c2b00dd1",
+        "src_da33d836896a",
         "src_f525760f12bd",
         "src_7da0e757971f",
-        "src_da33d836896a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -491,6 +491,46 @@
         "primary name match: Khiyana",
         "agent: village not directly named"
       ]
+    },
+    {
+      "id": "src_12fb097b02c4",
+      "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+      "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: Khiana",
+        "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_a30396979513",
+      "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: Kheyana",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ]
+    },
+    {
+      "id": "src_da33d836896a",
+      "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: Kheyana",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ]
     }
   ],
   "sources": {
@@ -584,7 +624,9 @@
           "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
         ],
         "matched_names": [
-          "Khiyana"
+          "Khiyana",
+          "Nathu Dada Dhora",
+          "Nathu Dada Dhora Khiyana"
         ],
         "geo_hits": [
           "Mahajan",
@@ -636,7 +678,9 @@
           "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']"
         ],
         "matched_names": [
-          "Khiyana"
+          "Khiyana",
+          "Nathu Dada Dhora",
+          "Nathu Dada Dhora Khiyana"
         ],
         "geo_hits": [
           "Mahajan",
@@ -653,6 +697,170 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=vVP-LlMw4p4",
+      "is_primary": true
+    },
+    "src_da33d836896a": {
+      "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-06",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "variant match: Kheyana",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Kheyana",
+          "Nathu Dada Dhora"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=viNoX1PP5cc",
+      "is_primary": true
+    },
+    "src_12fb097b02c4": {
+      "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+      "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-08",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "variant match: Khiana",
+          "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Khiana",
+          "Kheyana",
+          "Nathu Dada Dhora"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Loonkaransar",
+          "Mahajan Field Firing Range",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
+      "is_primary": true
+    },
+    "src_a30396979513": {
+      "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-08",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "variant match: Kheyana",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [
+          "Kheyana",
+          "Nathu Dada Dhora"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
       "is_primary": true
     },
     "src_587f45f5d5d9": {
@@ -951,160 +1159,6 @@
       ],
       "license": "",
       "attribution": "Sansad e-Library (Parliament of India)",
-      "is_primary": true
-    },
-    "src_da33d836896a": {
-      "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
-      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2024-09-06",
-      "language": "hi",
-      "relevance": {
-        "score": 56,
-        "band": "medium",
-        "factors": {
-          "name_match": 0,
-          "geo_match": 20,
-          "resolution_conf": 8,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 6,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "context",
-        "confidence": 0.5,
-        "reasons": [
-          "village name not found in captured text",
-          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
-          "agent: village not directly named"
-        ],
-        "matched_names": [],
-        "geo_hits": [
-          "Mahajan",
-          "Mahajan Field Firing Range"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "displacement",
-        "media_visual",
-        "military_range",
-        "religion_temple"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=viNoX1PP5cc",
-      "is_primary": true
-    },
-    "src_12fb097b02c4": {
-      "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
-      "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2024-09-08",
-      "language": "hi",
-      "relevance": {
-        "score": 54,
-        "band": "medium",
-        "factors": {
-          "name_match": 0,
-          "geo_match": 20,
-          "resolution_conf": 8,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 4,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "context",
-        "confidence": 0.5,
-        "reasons": [
-          "village name not found in captured text",
-          "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
-          "district/nearby/clan context: ['Bikaner']",
-          "agent: village not directly named"
-        ],
-        "matched_names": [],
-        "geo_hits": [
-          "Mahajan",
-          "Loonkaransar",
-          "Mahajan Field Firing Range",
-          "Bikaner"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "displacement",
-        "media_visual",
-        "military_range"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
-      "is_primary": true
-    },
-    "src_a30396979513": {
-      "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
-      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2024-09-08",
-      "language": "hi",
-      "relevance": {
-        "score": 54,
-        "band": "medium",
-        "factors": {
-          "name_match": 0,
-          "geo_match": 20,
-          "resolution_conf": 8,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 4,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "context",
-        "confidence": 0.5,
-        "reasons": [
-          "village name not found in captured text",
-          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
-          "agent: village not directly named"
-        ],
-        "matched_names": [],
-        "geo_hits": [
-          "Mahajan",
-          "Mahajan Field Firing Range"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "displacement",
-        "media_visual",
-        "military_range"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
