@@ -55,11 +55,12 @@ def ocr_subtitles(video: Path, every: float, band: float, lang: str) -> list[dic
     return lines
 
 
-def transcribe(video: Path, model_size: str, language: str | None = None) -> dict:
-    """Force `language` (e.g. 'hi') for Rajasthani/Marwari speech: auto-detect often picks Urdu and emits Arabic script."""
+def transcribe(video: Path, model_size: str, language: str | None = None, beam: int = 5) -> dict:
+    """Force `language` (e.g. 'hi') for Rajasthani/Marwari speech: auto-detect often picks Urdu and emits Arabic script.
+    condition_on_previous_text=False avoids runaway repetition loops on long continuous narration."""
     from faster_whisper import WhisperModel
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
-    segments, info = model.transcribe(str(video), vad_filter=True, beam_size=5, language=language)
+    segments, info = model.transcribe(str(video), vad_filter=True, beam_size=beam, language=language, condition_on_previous_text=False)
     segs = [{"start": round(s.start, 1), "end": round(s.end, 1), "text": s.text.strip()} for s in segments]
     return {"language": info.language, "language_probability": round(info.language_probability, 3), "segments": segs}
 
@@ -107,6 +108,7 @@ def main():
     ap.add_argument("--band", type=float, default=0.72, help="fraction of frame height above the subtitle band")
     ap.add_argument("--whisper", default="small"); ap.add_argument("--no-whisper", action="store_true"); ap.add_argument("--no-ocr", action="store_true")
     ap.add_argument("--reclean", help="re-filter an existing output JSON instead of processing the video")
+    ap.add_argument("--beam", type=int, default=5, help="whisper beam size (1 is ~3x faster, slightly less accurate)")
     ap.add_argument("--language", default=None, help="force Whisper language code, e.g. hi")
     a = ap.parse_args()
     video, out = Path(a.video), Path(a.out)
@@ -122,7 +124,7 @@ def main():
             result["ocr_subtitles"] = clean_lines(result["ocr_raw"])
     if not a.no_whisper and not a.reclean:
         try:
-            result["speech"] = transcribe(video, a.whisper, a.language)
+            result["speech"] = transcribe(video, a.whisper, a.language, a.beam)
         except Exception as e:  # model download or import failure should not lose the OCR result
             result["speech"] = {"error": str(e)}
     out.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
