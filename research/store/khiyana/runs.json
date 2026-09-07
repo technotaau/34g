@@ -25,5 +25,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 11,
     "at": "2026-09-07T08:27:33.633343+00:00"
+  },
+  {
+    "run_id": "run_20260907T082828Z",
+    "file": "/home/user/34g/research/inbox/khiyana/video_YGDc75dU39g.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 11,
+    "at": "2026-09-07T08:28:29.022154+00:00"
   }
 ]

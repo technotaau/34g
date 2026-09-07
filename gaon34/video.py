@@ -85,8 +85,12 @@ def build_record(slug: str, meta: dict, captions: dict, related: list[str], vill
         snippets.append("Description: " + _snip(desc))
     if meta.get("location"):
         snippets.append(f"Location field: {meta['location']}")
-    for c in sorted(meta["comments_public"], key=lambda c: -c["likes"])[:6]:
-        if len(c["text"]) > 15 and not c["is_uploader"]:
+    naming = [c for c in meta["comments_public"] if any(n.lower() in c["text"].lower() for n in village_names)]
+    top = sorted(meta["comments_public"], key=lambda c: -c["likes"])[:6]
+    seen = set()
+    for c in naming + top:
+        if len(c["text"]) > 15 and not c["is_uploader"] and c["text"] not in seen:
+            seen.add(c["text"])
             snippets.append("Viewer comment: " + _snip(c["text"], 30))
     hashtags = sorted(set(re.findall(r"#([\wऀ-ॿ]+)", desc + " " + " ".join(meta.get("tags") or []))))
     dur = meta.get("duration") or 0
