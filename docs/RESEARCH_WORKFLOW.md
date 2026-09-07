@@ -100,3 +100,14 @@ python3 scripts/video_extract.py /path/to/video.mp4 --out research/inbox/<slug>/
 It samples one frame per second, OCRs the bottom subtitle band (Hindi + English), collapses repeated lines into `[start–end] text`, and transcribes speech with Whisper (CPU, `small` model by default; use `medium` for better Rajasthani/Hindi accuracy if time allows). Output: `<id>.content.json` and a readable `<id>.content.md`. Feed the useful lines back into the source record as `evidence_snippets` or `media.timestamps`, then re-run `ingest`.
 
 Rules: obtain the file legitimately (download it yourself from YouTube on your own account/device, or ask the uploader). The script never copies media into the repository, and this cloud environment cannot fetch YouTube media directly (YouTube blocks datacenter downloads with a sign-in check; do not work around it with cookies). Quote sparingly and attribute the uploader.
+
+## 7. Ingesting a YouTube video in one command
+
+```bash
+python3 -m gaon34 video <slug> "<youtube url>" [--related 34-gaon other-slug] \
+        [--drive-id <link-shared Google Drive file id> | --media /path/video.mp4] [--every 20] [--ocr-band 0.88 --ocr-lang hin+eng] [--whisper small]
+```
+
+What it does, in order: pulls public metadata, description, tags, location, caption tracks (manual and auto, if any) and public comments with yt-dlp (mobile-web client, no media); writes `research/inbox/<slug>/yt_<id>.meta.json`, `video_<id>.json` (a source record in the agent schema) and any `yt_<id>.captions.<lang>.txt`; if media is supplied, extracts a still every N seconds into `research/media/<slug>/<id>/frames/` with `manifest.json` and a timestamped `contact_sheet.png`, OCRs burned-in subtitles into `<id>.content.json/.md`, optionally runs Whisper; then ingests, rebuilds the report and index.
+
+Notes: YouTube blocks media downloads from this environment, so frames and OCR need a Drive upload shared as "Anyone with the link" (`--drive-id`), or a local file. Frame descriptions in the manifest are blank until a person (or the orchestrating session, by viewing `contact_sheet.png`) annotates them, as was done for Berawala. Claims are not auto-generated from a video; add them by editing `video_<id>.json` after viewing, then re-run `ingest`. Add the village first if it is new (`add-village` or `research/villages.json`); the resolver decides accept/context/review from the title, description and comments.

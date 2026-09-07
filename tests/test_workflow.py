@@ -237,3 +237,15 @@ def test_rerun_replaces_same_source_claims_per_key():
     new = {"claims": [{"claim_key": "k", "value": "four"}], "runs": ["r2"]}
     merged = store.merge_source(old, new, "r2")
     assert {(c["claim_key"], c["value"]) for c in merged["claims"]} == {("k", "four"), ("other", "x")}
+
+
+def test_video_id_and_record_builder():
+    from gaon34 import video as vmod
+    assert vmod.video_id("https://www.youtube.com/shorts/guImlBcRMTU") == "guImlBcRMTU"
+    assert vmod.video_id("https://youtu.be/a37vCzQOq4o?si=x") == "a37vCzQOq4o"
+    meta = {"id": "abc12345678", "title": "कुम्हाणा में गढ़ #village", "channel": "Ch", "uploader_id": "@ch", "upload_date": "20251027", "duration": 16,
+            "description": "पुराणा 34 गाँव के कुम्हाणा में गढ़ #chhatargarh", "tags": [], "location": "RAJASTHAN", "view_count": 1,
+            "comments_public": [{"text": "जय नाथू दादा", "likes": 3, "is_uploader": False}]}
+    rec = vmod.build_record("kumbhana", meta, {}, ["34-gaon"], ["Kumbhana", "कुम्हाणा"])
+    assert rec["direct_mention"] and rec["name_form_matched"] == "कुम्हाणा" and rec["published_date"] == "2025-10-27"
+    assert rec["media_type"] == "video" and "chhatargarh" in rec["media"]["timestamps"]

@@ -26,6 +26,11 @@ def main(argv=None):
     vp = sub.add_parser("verify-prompt", help="print verification-agent prompt"); vp.add_argument("slug"); vp.add_argument("--max", type=int, default=25)
     iv = sub.add_parser("ingest-verdicts"); iv.add_argument("slug"); iv.add_argument("file", nargs="?")
     b = sub.add_parser("build", help="rebuild record.json + report.md"); b.add_argument("slug", nargs="?"); b.add_argument("--all", action="store_true")
+    vd = sub.add_parser("video", help="ingest a YouTube video: metadata, captions, comments (+frames/OCR if media given)")
+    vd.add_argument("slug"); vd.add_argument("url"); vd.add_argument("--related", nargs="*", default=[])
+    vd.add_argument("--media", help="local video file"); vd.add_argument("--drive-id", help="link-shared Google Drive file id")
+    vd.add_argument("--every", type=int, default=20, help="seconds between extracted frames"); vd.add_argument("--ocr-band", type=float, default=0.88)
+    vd.add_argument("--ocr-lang", default="hin+eng"); vd.add_argument("--whisper", default=None, help="whisper model size, e.g. small/medium (off by default)")
     sub.add_parser("status")
     args = ap.parse_args(argv)
 
@@ -69,6 +74,14 @@ def main(argv=None):
             if load_sources(s):
                 rebuild(s); build_record(s); render_report(s)
         print(render_index())
+    elif args.cmd == "video":
+        from .video import ingest_video
+        v = get_village(args.slug)
+        res = ingest_video(args.slug, args.url, args.related, Path(args.media) if args.media else None, args.drive_id, args.every,
+                           args.ocr_band, args.ocr_lang, args.whisper, v["all_names"])
+        stats = ingest(args.slug, Path(res["inbox_file"]))
+        build_record(args.slug); render_report(args.slug); render_index()
+        print(json.dumps({**res, "ingest": {k: stats[k] for k in ("new", "updated", "invalid", "total_after")}}, ensure_ascii=False, indent=1))
     elif args.cmd == "status":
         for v in load_villages():
             runs = load_runs(v["slug"])

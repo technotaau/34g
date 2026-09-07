@@ -1,8 +1,8 @@
 # कुम्भाणा (Kumbhana) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 5, स्वीकृत 3, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
+स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
 
 > Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site.
 
@@ -72,7 +72,9 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -92,7 +94,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Bajrang Lal Lakhotiya, Dinesh Kumar Swami, Kumbha, Maharaja Anup Singh, Maharaja Ganga Singh, Nathu Dhatarwal, Pradyuman Singh Bika Kumbhana, Rao Bahadur Thakur Daulat Singh, Rao Lunkaran, Thakur Bairisal, Thakur Kesri Singh, Thakur Megh Singh, Thakur Raj Singh Rathore
 - **places:** Bikaner, Dhatri, Kumbhana, Mahajan, Mahajan Field Firing Range, Sujangarh
 - **events:** Accession to India 1956, Court of Wards (1896-97), Holika Dahan, Rajasthan Land Reforms Act 1952, Rajasthan Land Reforms and Resumption of Jagirs Act, 1952, joint international military exercises
-- **organizations:** Bikaner State, Indian Army, Ministry of Defence
+- **organizations:** Bikaner State, Indian Army, Ministry of Defence, 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝
 
 ## तथ्य / दावे
 
@@ -124,6 +126,7 @@ _कोई नहीं_
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 90 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव कुम्भाणा महाजन फायरिंग रेंज
+- [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) · indianrajputs.com · website · स्कोर 80 · रिज़ॉल्यूशन accept (0.8) · खोज: Kumbhana village Bikaner Rajasthan
 - [pradyuman singh bika kumbhana - Rajasthan, India | Professional Profile | LinkedIn](https://www.linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5/) · linkedin.com · social · स्कोर 69 · रिज़ॉल्यूशन review (0.55) · खोज: Kumbhana Bikaner
 - [Kumbhana - Jatland Wiki](https://www.jatland.com/home/Kumbhana) · jatland · community_wiki · स्कोर 67 · रिज़ॉल्यूशन accept (0.65) · खोज: Kumbhana village Bikaner Rajasthan

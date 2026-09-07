@@ -11,5 +11,19 @@
     "agent_notes": "Best lead: Khiyana is described (Hindi Wikipedia user essay + Jatland's Dhatarwal gotra page) as the origin/samadhi village of the Dhatarwal Jat clan's folk deity Nathu Dada (d. VS 1444 / 1387 CE), with a temple there drawing devotees from Rajasthan, Punjab and Haryana and an annual fair; one source says the village itself was founded by Khiyaji, Nathu Dada's second son, which conflicts slightly with Jatland's framing of Khiyana as Nathu's own place of origin — both are community/genealogy sources needing independent verification. Patrika (Bikaner desk) ran three 2018/2022 features on the 34-v",
     "total_after": 10,
     "at": "2026-09-05T17:59:46.750657+00:00"
+  },
+  {
+    "run_id": "run_20260907T082733Z",
+    "file": "/home/user/34g/research/inbox/khiyana/video_YGDc75dU39g.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 11,
+    "at": "2026-09-07T08:27:33.633343+00:00"
   }
 ]

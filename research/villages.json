@@ -198,7 +198,10 @@
           "कुम्भाना",
           "कुंभाना",
           "कुम्भाणा महाजन",
-          "कुंभाणा बीकानेर"
+          "कुंभाणा बीकानेर",
+          "कुम्हाणा",
+          "Kumhana",
+          "कुम्हाना"
         ]
       },
       "status": "acquired",
@@ -379,11 +382,16 @@
           "खींयाणा",
           "खींयेरा",
           "खिंयेरा",
-          "खिंयाणा महाजन"
+          "खिंयाणा महाजन",
+          "खिंयाणा धाम",
+          "खियाणा",
+          "Khiyana Dham",
+          "Nathu Dada Dham",
+          "नाथू दादा धाम"
         ]
       },
       "status": "acquired",
-      "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range."
+      "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024)."
     },
     {
       "slug": "kolana",
@@ -549,6 +557,36 @@
           "Jhajjar"
         ]
       }
+    },
+    {
+      "slug": "kanolai",
+      "names": {
+        "en": "Kanolai",
+        "hi": "कानोलाई",
+        "variants": [
+          "Kanolai",
+          "Kanhalai",
+          "Kanhlai",
+          "Kanholai",
+          "कानोलाई",
+          "कन्हळाई",
+          "कन्हलाई",
+          "कनोलाई",
+          "कानोलाई महाजन",
+          "Kanolai Mahajan",
+          "Kanolai Bikaner"
+        ]
+      },
+      "status": "acquired",
+      "disambiguation": {
+        "negative_terms": [
+          "Kanoli",
+          "Kanauli",
+          "कनौली",
+          "Kanaloi"
+        ]
+      },
+      "notes": "Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved."
     }
   ]
 }

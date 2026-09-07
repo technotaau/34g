@@ -452,5 +452,23 @@
       "berawala"
     ],
     "first_seen": "2026-09-05"
+  },
+  "https://www.youtube.com/watch?v=YGDc75dU39g": {
+    "villages": [
+      "khiyana"
+    ],
+    "first_seen": "2026-09-07"
+  },
+  "https://www.youtube.com/watch?v=tp0mVligrls": {
+    "villages": [
+      "kanolai"
+    ],
+    "first_seen": "2026-09-07"
+  },
+  "https://www.youtube.com/watch?v=guImlBcRMTU": {
+    "villages": [
+      "kumbhana"
+    ],
+    "first_seen": "2026-09-07"
   }
 }

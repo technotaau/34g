@@ -22,6 +22,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `research/store/<slug>/` | Processed store per unit: sources.json, claims.json, record.json, report.md (Hindi), runs.json. |
 | `research/media/<slug>/` | Reference stills extracted from videos, with `manifest.json` (timestamp, description, rights note). Not for publication without creator and family consent. |
 | `research/INDEX.md` | Coverage index across all units. |
+| `python -m gaon34 video <slug> <url>` | One-command YouTube ingest: metadata, captions, comments, and (with a supplied media file) frames plus subtitle OCR. |
 | `scripts/video_extract.py` | OCR burned-in subtitles and transcribe speech from a locally supplied video into timestamped notes. |
 | `tests/` | 21 pytest tests for the pipeline. |
 

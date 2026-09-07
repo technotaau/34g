@@ -637,5 +637,104 @@
       "run_20260905T175000Z"
     ],
     "notes": "Weak/doubtful lead, only seen via search-result title, not opened (LinkedIn profiles generally require login to view fully and were not bypassed per the rules). Worth a human researcher following up directly on LinkedIn as a possible contact for oral-history interviews about the Kumbhana Thikana family."
+  },
+  "src_99ea53c3e2c8": {
+    "id": "src_99ea53c3e2c8",
+    "village": "kumbhana",
+    "url": "https://www.youtube.com/watch?v=guImlBcRMTU",
+    "url_key": "https://www.youtube.com/watch?v=guImlBcRMTU",
+    "title": "पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 (@Apna465RD)",
+    "published_date": "2025-10-27",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts' (0:16) by 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝. पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan #youtubeshorts #shorts #village #465rd #chhatargarh #bikaner #rajasthan #rajasthani #rajasthanilife #shorts #short #shortsvideo #shortsfeed #trending #viral #trendingshorts #viralshorts #youtubeshorts #ytshorts #rajasthani #rajasthanishorts #rajasthan #rajasthanshorts #gaav #village #village #vlog #rajasthanjourney #rajasthanvlog #rajasthanjourneyrj",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "RAJASTHAN"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कुम्हाणा",
+    "evidence_snippets": [
+      "Title: पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts",
+      "Description: पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan #youtubeshorts #shorts #village #465rd #chhatargarh #bikaner #rajasthan #rajasthani #rajasthanilife #shorts #short #shortsvideo #shortsfeed #trending #viral #trendingshorts #viralshorts #youtubeshorts #ytshorts #rajasthani #rajasthanishorts #rajasthan #rajasthanshorts #gaav #village #village #vlog #rajasthanjourney #rajasthanvlog …",
+      "Location field: RAJASTHAN"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=guImlBcRMTU",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝",
+      "uploader": "@Apna465RD",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj rajasthanshorts rajasthanvlog short shorts shortsfeed shortsvideo trending trend"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: कुम्हाणा",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Bikaner', 'Chhatargarh']"
+      ],
+      "matched_names": [
+        "कुम्हाणा"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Bikaner",
+        "Chhatargarh",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T082739Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   }
 }

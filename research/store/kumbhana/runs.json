@@ -9,5 +9,19 @@
     "errors": [],
     "total_after": 5,
     "at": "2026-09-05T17:50:00.297340+00:00"
+  },
+  {
+    "run_id": "run_20260907T082739Z",
+    "file": "/home/user/34g/research/inbox/kumbhana/video_guImlBcRMTU.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/shorts/guImlBcRMTU on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 6,
+    "at": "2026-09-07T08:27:40.035353+00:00"
   }
 ]

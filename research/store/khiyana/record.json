@@ -4,7 +4,7 @@
     "name_en": "Khiyana",
     "name_hi": "खिंयाणा",
     "status": "acquired",
-    "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range.",
+    "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024).",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -12,12 +12,12 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-05",
+  "built": "2026-09-07",
   "counts": {
-    "sources_total": 10,
+    "sources_total": 11,
     "accepted": 4,
     "context": 5,
-    "review": 1,
+    "review": 2,
     "rejected": 0,
     "duplicates": 0,
     "claims": 12
@@ -48,8 +48,8 @@
         "src_7da0e757971f",
         "src_4fb2da84d5a4",
         "src_a5150b8b1d53",
-        "src_c37d5179aabc",
-        "src_a6f66da51d72"
+        "src_a6f66da51d72",
+        "src_c37d5179aabc"
       ]
     },
     "people": {
@@ -65,7 +65,8 @@
       "label": "सांस्कृतिक जानकारी",
       "source_ids": [
         "src_f525760f12bd",
-        "src_7da0e757971f"
+        "src_7da0e757971f",
+        "src_bf43bd9c771a"
       ]
     },
     "temples": {
@@ -73,6 +74,7 @@
       "source_ids": [
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_bf43bd9c771a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -82,6 +84,7 @@
       "source_ids": [
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_bf43bd9c771a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -106,7 +109,9 @@
     },
     "videos": {
       "label": "वीडियो",
-      "source_ids": []
+      "source_ids": [
+        "src_bf43bd9c771a"
+      ]
     },
     "audio": {
       "label": "साक्षात्कार / ऑडियो",
@@ -195,6 +200,7 @@
       "Ministry of Defence",
       "Ministry of Defence / रक्षा मंत्रालय",
       "Sansad e-Library / Parliament of India",
+      "Shubh Journey",
       "धतरवाल जाट समाज"
     ]
   },
@@ -468,6 +474,18 @@
         "primary name match: Khiyana",
         "agent: village not directly named"
       ]
+    },
+    {
+      "id": "src_bf43bd9c771a",
+      "url": "https://www.youtube.com/watch?v=YGDc75dU39g",
+      "title": "Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Mahajan', 'Lunkaransar']"
+      ]
     }
   ],
   "sources": {
@@ -714,6 +732,57 @@
       "license": "",
       "attribution": "Jatland Wiki, Dhatarwal page (community-edited, unsigned)",
       "is_primary": false
+    },
+    "src_bf43bd9c771a": {
+      "url": "https://www.youtube.com/watch?v=YGDc75dU39g",
+      "title": "Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-27",
+      "language": "hi",
+      "relevance": {
+        "score": 66,
+        "band": "high",
+        "factors": {
+          "name_match": 10,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.5,
+        "reasons": [
+          "agent reports direct mention (name not found in captured text)",
+          "strong geo context: ['Mahajan', 'Lunkaransar']"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "Rajasthan",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Shubh Journey, YouTube, 2024, https://www.youtube.com/watch?v=YGDc75dU39g",
+      "is_primary": true
     },
     "src_4fb2da84d5a4": {
       "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
@@ -1072,6 +1141,20 @@
       "agent_notes": "Best lead: Khiyana is described (Hindi Wikipedia user essay + Jatland's Dhatarwal gotra page) as the origin/samadhi village of the Dhatarwal Jat clan's folk deity Nathu Dada (d. VS 1444 / 1387 CE), with a temple there drawing devotees from Rajasthan, Punjab and Haryana and an annual fair; one source says the village itself was founded by Khiyaji, Nathu Dada's second son, which conflicts slightly with Jatland's framing of Khiyana as Nathu's own place of origin — both are community/genealogy sources needing independent verification. Patrika (Bikaner desk) ran three 2018/2022 features on the 34-v",
       "total_after": 10,
       "at": "2026-09-05T17:59:46.750657+00:00"
+    },
+    {
+      "run_id": "run_20260907T082733Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_YGDc75dU39g.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 11,
+      "at": "2026-09-07T08:27:33.633343+00:00"
     }
   ]
 }

@@ -1,0 +1,195 @@
+{
+  "village": {
+    "slug": "kanolai",
+    "name_en": "Kanolai",
+    "name_hi": "कानोलाई",
+    "status": "acquired",
+    "notes": "Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-07",
+  "counts": {
+    "sources_total": 1,
+    "accepted": 1,
+    "context": 0,
+    "review": 0,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 0
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": []
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": []
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_7e0f76030fe8"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_7e0f76030fe8"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": []
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": []
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": []
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": [
+        "src_7e0f76030fe8"
+      ]
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": []
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": []
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+      "Rssuthar Jaisalmer"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": []
+  },
+  "manual_review": [],
+  "sources": {
+    "src_7e0f76030fe8": {
+      "url": "https://www.youtube.com/watch?v=tp0mVligrls",
+      "title": "खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-01-30",
+      "language": "hi",
+      "relevance": {
+        "score": 80,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.65,
+        "reasons": [
+          "primary name match: Kanolai",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['जयपुर']"
+        ],
+        "matched_names": [
+          "Kanolai",
+          "कानोलाई",
+          "कन्हळाई",
+          "कनोलाई"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner"
+        ],
+        "negative_hits": [
+          "जयपुर"
+        ]
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "people_family"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=tp0mVligrls",
+      "is_primary": true
+    }
+  },
+  "shared_umbrella_sources": [],
+  "runs": [
+    {
+      "run_id": "run_20260907T082736Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_tp0mVligrls.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=tp0mVligrls on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 1,
+      "at": "2026-09-07T08:27:36.823942+00:00"
+    }
+  ]
+}
