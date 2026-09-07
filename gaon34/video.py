@@ -147,8 +147,8 @@ def extract_frames(media: Path, out_dir: Path, every: int, vid: str, source_url:
     return manifest
 
 
-def run_ocr(media: Path, out_json: Path, band: float, lang: str, whisper: str | None, speech_lang: str = "hi") -> None:
-    cmd = [sys.executable, str(ROOT / "scripts" / "video_extract.py"), str(media), "--out", str(out_json), "--lang", lang, "--band", str(band), "--every", "1.0"]
+def run_ocr(media: Path, out_json: Path, band: float, lang: str, whisper: str | None, speech_lang: str = "hi", ocr_every: float = 1.0) -> None:
+    cmd = [sys.executable, str(ROOT / "scripts" / "video_extract.py"), str(media), "--out", str(out_json), "--lang", lang, "--band", str(band), "--every", str(ocr_every)]
     cmd += ["--whisper", whisper, "--language", speech_lang] if whisper else ["--no-whisper"]
     subprocess.run(cmd, check=False)
 
@@ -163,9 +163,9 @@ def local_meta(media: Path, title: str, credit: str, source_url: str) -> dict:
 
 def ingest_video(slug: str, url: str, related=None, media: Path | None = None, drive_id: str | None = None, every: int = 20,
                  ocr_band: float = 0.88, ocr_lang: str = "hin+eng", whisper: str | None = None, village_names=None,
-                 title: str | None = None, credit: str | None = None) -> dict:
+                 title: str | None = None, credit: str | None = None, ocr_every: float = 1.0) -> dict:
     if not re.search(r"youtube\.com|youtu\.be", url):
-        return ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title or "", credit or "")
+        return ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title or "", credit or "", ocr_every)
     vid = video_id(url)
     inbox = INBOX_DIR / slug
     inbox.mkdir(parents=True, exist_ok=True)
@@ -186,7 +186,7 @@ def ingest_video(slug: str, url: str, related=None, media: Path | None = None, d
         credit = f"{meta.get('channel', '')} (YouTube {vid})"
         man = extract_frames(Path(media), MEDIA_DIR / slug / vid, every, vid, rec["url"], credit)
         result["frames"] = man["count"]
-        run_ocr(Path(media), inbox / f"{vid}.content.json", ocr_band, ocr_lang, whisper)
+        run_ocr(Path(media), inbox / f"{vid}.content.json", ocr_band, ocr_lang, whisper, "hi", ocr_every)
         rec["media"]["frames"] = f"{man['count']} stills in research/media/{slug}/{vid}/ (manifest.json, contact_sheet.png)"
         cj = inbox / f"{vid}.content.json"
         if cj.exists():
@@ -203,7 +203,7 @@ def ingest_video(slug: str, url: str, related=None, media: Path | None = None, d
     return result
 
 
-def ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title, credit) -> dict:
+def ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title, credit, ocr_every=1.0) -> dict:
     """A video that exists only as a file (e.g. a family clip shared via Drive). url = where it came from (Drive view URL)."""
     inbox = INBOX_DIR / slug
     inbox.mkdir(parents=True, exist_ok=True)
@@ -222,7 +222,7 @@ def ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang,
                 "attribution": f"{meta['channel']}, video file '{media.name}'", "license": "unknown; obtain from the person who shot it",
                 "found_by_query": "video file supplied by TechnoTaau Team", "notes": "Non-YouTube media; provenance recorded from file name and supplier."})
     man = extract_frames(media, MEDIA_DIR / slug / vid, every, vid, url, meta["channel"])
-    run_ocr(media, inbox / f"{vid}.content.json", ocr_band, ocr_lang, whisper)
+    run_ocr(media, inbox / f"{vid}.content.json", ocr_band, ocr_lang, whisper, "hi", ocr_every)
     rec["media"]["frames"] = f"{man['count']} stills in research/media/{slug}/{vid}/ (manifest.json, contact_sheet.png)"
     cj = inbox / f"{vid}.content.json"
     result = {"video_id": vid, "title": meta["title"], "captions": [], "comments": 0, "frames": man["count"]}

@@ -31,7 +31,7 @@ def main(argv=None):
     vd.add_argument("--media", help="local video file"); vd.add_argument("--drive-id", help="link-shared Google Drive file id")
     vd.add_argument("--every", type=int, default=20, help="seconds between extracted frames"); vd.add_argument("--ocr-band", type=float, default=0.88)
     vd.add_argument("--ocr-lang", default="hin+eng"); vd.add_argument("--whisper", default=None, help="whisper model size, e.g. small/medium (off by default)")
-    vd.add_argument("--title", help="title for non-YouTube media"); vd.add_argument("--credit", help="who shot / supplied non-YouTube media")
+    vd.add_argument("--ocr-every", type=float, default=1.0, help="seconds between OCR samples"); vd.add_argument("--title", help="title for non-YouTube media"); vd.add_argument("--credit", help="who shot / supplied non-YouTube media")
     sub.add_parser("status")
     args = ap.parse_args(argv)
 
@@ -79,7 +79,7 @@ def main(argv=None):
         from .video import ingest_video
         v = get_village(args.slug)
         res = ingest_video(args.slug, args.url, args.related, Path(args.media) if args.media else None, args.drive_id, args.every,
-                           args.ocr_band, args.ocr_lang, args.whisper, v["all_names"], args.title, args.credit)
+                           args.ocr_band, args.ocr_lang, args.whisper, v["all_names"], args.title, args.credit, args.ocr_every)
         stats = ingest(args.slug, Path(res["inbox_file"]))
         build_record(args.slug); render_report(args.slug); render_index()
         print(json.dumps({**res, "ingest": {k: stats[k] for k in ("new", "updated", "invalid", "total_after")}}, ensure_ascii=False, indent=1))
