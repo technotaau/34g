@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=rI1mLJ5oPDQ on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+   "title": "अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2026-07-03",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥' (3:55) by Rssuthar Jaisalmer. पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 20260517_185107",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "कानोलाई",
+   "evidence_snippets": [
+    "Title: अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+    "Description: पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 20260517_185107"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 60 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

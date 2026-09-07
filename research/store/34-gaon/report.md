@@ -1,8 +1,8 @@
 # महाजन के 34 गांव (34 Gaon of Mahajan) — शोध रिकॉर्ड
 
-**स्थिति:** umbrella · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** umbrella · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 12, स्वीकृत 9, पृष्ठभूमि (context) 0, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 18
+स्रोत: कुल 13, स्वीकृत 9, पृष्ठभूमि (context) 1, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 18
 
 > Umbrella research unit for the whole displacement; sources here are shared by all villages.
 
@@ -49,6 +49,8 @@
   - 148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।
 - [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) (community_wiki · text · तिथि अज्ञात · स्कोर 51)
   - कुम्भाणा ठिकाना: महाराजा अनूप सिंह द्वारा ठाकुर केसरी सिंह को जागीर; रतनसिंहोत शाखा; महाजन के बाद दूसरा प्रमुख ठिकाना।
+- [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 46 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 80)
@@ -71,6 +73,8 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
+- [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 46 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
 
 ### त्योहार व परंपराएं
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
@@ -79,6 +83,8 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
+- [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 46 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
 
 ### भूमि, खेती, पशुपालन, नहर
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
@@ -105,7 +111,9 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 46 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 4 public comments; 68 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -136,7 +144,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 - **places:** Chidasar, Lunkaransar, Meusar, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
 - **people:** Manphool Singh Chaudhary, Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
-- **organizations:** District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar
+- **organizations:** District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rssuthar Jaisalmer
 - **events:** होलिका दहन कुम्भाणा
 
 ## तथ्य / दावे
@@ -183,3 +191,4 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) · patrika · news · स्कोर 53 · रिज़ॉल्यूशन review (0.35) · खोज: महाजन फायरिंग रेंज विस्थापित आवंटन
 - [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) · rajputs.net · community_wiki · स्कोर 51 · रिज़ॉल्यूशन accept (0.6) · खोज: Kumbhana thikana
 - [Mahajan Field Firing Ranges polygon (OpenStreetMap way 412765540)](https://www.openstreetmap.org/way/412765540) · osm · website · स्कोर 49 · रिज़ॉल्यूशन review (0.5) · खोज: Mahajan Field Firing Range openstreetmap
+- [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) · youtube · video · स्कोर 46 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team

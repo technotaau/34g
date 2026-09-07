@@ -1,0 +1,53 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=uEc6MLyHxIA on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+   "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-09-08",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.' (3:46) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana wrestling scene. Mahajan field firing range Nathu Dada Dhora Kheyana Loonkaransar Bikaner. Date _26 20190924_091433",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+    "Description: Nathu Dada Dhora Kheyana wrestling scene. Mahajan field firing range Nathu Dada Dhora Kheyana Loonkaransar Bikaner. Date _26 20190924_091433"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 99 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

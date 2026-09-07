@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=1Trtx9oNsOs on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=1Trtx9oNsOs",
+   "title": "आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2025-01-30",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।' (3:10) by Rssuthar Jaisalmer. RamNagar (Kanolai) Hunta Farm 20241019_085124 आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Kanolai",
+   "evidence_snippets": [
+    "Title: आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+    "Description: RamNagar (Kanolai) Hunta Farm 20241019_085124 आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=1Trtx9oNsOs",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 175 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

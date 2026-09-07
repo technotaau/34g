@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-05",
+  "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
     "accepted": 2,
@@ -27,15 +27,15 @@
       "label": "यह गांव क्या है?",
       "source_ids": [
         "src_f525760f12bd",
-        "src_b27fa43b7bd0",
-        "src_e6b1f74cf8ca"
+        "src_e6b1f74cf8ca",
+        "src_b27fa43b7bd0"
       ]
     },
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_b27fa43b7bd0",
-        "src_e6b1f74cf8ca"
+        "src_e6b1f74cf8ca",
+        "src_b27fa43b7bd0"
       ]
     },
     "history": {

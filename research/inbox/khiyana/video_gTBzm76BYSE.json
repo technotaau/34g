@@ -1,0 +1,56 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=gTBzm76BYSE on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=gTBzm76BYSE",
+   "title": "Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-08-13",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.' (6:40) by Rssuthar Jaisalmer. नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "नाथू दादा मंदिर"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खींयाणा",
+   "evidence_snippets": [
+    "Title: Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.",
+    "Description: नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511",
+    "Location field: नाथू दादा मंदिर"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=gTBzm76BYSE",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 238 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

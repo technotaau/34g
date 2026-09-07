@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=d-YDz_8VKss on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=d-YDz_8VKss",
+   "title": "पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2025-01-27",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।' (5:25) by Rssuthar Jaisalmer. पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में। 6 Dkd Rawla 15-04-2010 RamNagar 30-07-2012 RamNagar 39-11-2012",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।",
+    "Description: पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में। 6 Dkd Rawla 15-04-2010 RamNagar 30-07-2012 RamNagar 39-11-2012"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=d-YDz_8VKss",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 87 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

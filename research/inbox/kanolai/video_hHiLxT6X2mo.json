@@ -1,0 +1,56 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=hHiLxT6X2mo on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=hHiLxT6X2mo",
+   "title": "बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2025-01-30",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।' (8:53) by Rssuthar Jaisalmer. Knl RamNagar (Raj.) 20190128_152144 बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+    "Description: Knl RamNagar (Raj.) 20190128_152144 बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+    "Viewer comment: वा सा बहुत सुंदर दृश्य 👍",
+    "Viewer comment: Bhai kyu is gav ki pol khol raha ha tu 😂😂😂",
+    "Viewer comment: आदीवासी hi nahi raha skte yaha par"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=hHiLxT6X2mo",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "3 public comments; 216 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

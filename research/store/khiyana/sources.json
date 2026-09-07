@@ -1444,5 +1444,575 @@
       "run_20260907T085024Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_12fb097b02c4": {
+    "id": "src_12fb097b02c4",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+    "url_key": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+    "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-09-08",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.' (3:46) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana wrestling scene. Mahajan field firing range Nathu Dada Dhora Kheyana Loonkaransar Bikaner. Date _26 20190924_091433",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+      "Description: Nathu Dada Dhora Kheyana wrestling scene. Mahajan field firing range Nathu Dada Dhora Kheyana Loonkaransar Bikaner. Date _26 20190924_091433"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 99 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Loonkaransar",
+        "Mahajan Field Firing Range",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085214Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_a30396979513": {
+    "id": "src_a30396979513",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+    "url_key": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+    "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-09-08",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.' (6:07) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana Mahajan field firing range Date _25 20190924_090820",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+      "Description: Nathu Dada Dhora Kheyana Mahajan field firing range Date _25 20190924_090820"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 80 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085218Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_da33d836896a": {
+    "id": "src_da33d836896a",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+    "url_key": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+    "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-09-06",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+      "Description: Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640",
+      "Location field: नाथू दादा मंदिर"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=viNoX1PP5cc",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 75 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085222Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_d816c2b00dd1": {
+    "id": "src_d816c2b00dd1",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=vVP-LlMw4p4",
+    "url_key": "https://www.youtube.com/watch?v=vVP-LlMw4p4",
+    "title": "Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-08-30",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.' (5:50) by Rssuthar Jaisalmer. Mahajan Field Firing Range Nathu Dada Temple Village Khiyana Loonkaransar 20 Darasingh Dewasi 20190924_072226",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.",
+      "Description: Mahajan Field Firing Range Nathu Dada Temple Village Khiyana Loonkaransar 20 Darasingh Dewasi 20190924_072226",
+      "Location field: नाथू दादा मंदिर",
+      "Viewer comment: Jay babe ri sa 🙏🙏"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=vVP-LlMw4p4",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 187 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']"
+      ],
+      "matched_names": [
+        "Khiyana"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Loonkaransar",
+        "Mahajan Field Firing Range"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085226Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_58181afd64a7": {
+    "id": "src_58181afd64a7",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=-H5a5iNsxyM",
+    "url_key": "https://www.youtube.com/watch?v=-H5a5iNsxyM",
+    "title": "जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-08-29",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.' (3:54) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana 19 20190924_071304 جيٿرام پهلوان جي جرئت ۽ جذبي کي سلام. ناٿو دادا ڍورا ڪيانا ريسلنگ ڊانس",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खींयाणा",
+    "evidence_snippets": [
+      "Title: जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.",
+      "Description: Nathu Dada Dhora Kheyana 19 20190924_071304 جيٿرام پهلوان جي جرئت ۽ جذبي کي سلام. ناٿو دادا ڍورا ڪيانا ريسلنگ ڊانس",
+      "Location field: नाथू दादा मंदिर"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=-H5a5iNsxyM",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 267 views; hashtags: DevaThapa Jaisalmer Jethuram Pahalwan Rssuthar Wrestling"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.25,
+      "reasons": [
+        "variant match: खींयाणा"
+      ],
+      "matched_names": [
+        "खींयाणा"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 62,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 4,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085229Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_654585ebcb8b": {
+    "id": "src_654585ebcb8b",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=gTBzm76BYSE",
+    "url_key": "https://www.youtube.com/watch?v=gTBzm76BYSE",
+    "title": "Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-08-13",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.' (6:40) by Rssuthar Jaisalmer. नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खींयाणा",
+    "evidence_snippets": [
+      "Title: Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.",
+      "Description: नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511",
+      "Location field: नाथू दादा मंदिर"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=gTBzm76BYSE",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 238 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.25,
+      "reasons": [
+        "variant match: खींयाणा"
+      ],
+      "matched_names": [
+        "खींयाणा"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 62,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 4,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085233Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   }
 }

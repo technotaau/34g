@@ -1229,5 +1229,101 @@
       "run_20260905T174617Z"
     ],
     "notes": ""
+  },
+  "src_7f98544507e3": {
+    "id": "src_7f98544507e3",
+    "village": "34-gaon",
+    "url": "https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+    "url_key": "https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+    "title": "Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-01-29",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisalmer n Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "महादेओवाली"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+      "Description: Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisalmer n Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+      "Location field: महादेओवाली",
+      "Viewer comment: शंखनाद करने वाले अब...😭😭😭"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "4 public comments; 68 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085210Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   }
 }

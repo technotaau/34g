@@ -1,0 +1,56 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=boOPyrBQxBU on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=boOPyrBQxBU",
+   "title": "ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-12-09",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो' (0:27) by Rssuthar Jaisalmer. 2011-12 का विडियो है यह!",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "RSSUTHAR JAISALMER"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "कानोलाई",
+   "evidence_snippets": [
+    "Title: ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+    "Description: 2011-12 का विडियो है यह!",
+    "Location field: RSSUTHAR JAISALMER"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=boOPyrBQxBU",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "3 public comments; 31 views; hashtags: OldVideos Rajasthanculture RssutharJaisalmer VillageLife"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

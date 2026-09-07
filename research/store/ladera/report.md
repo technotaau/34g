@@ -1,6 +1,6 @@
 # लाडेरा (Ladera) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 7, स्वीकृत 0, पृष्ठभूमि (context) 0, समीक्षा हेतु 7, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 8
 
@@ -45,10 +45,10 @@
   - A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
   - Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
-  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
 - [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
   - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
+  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_

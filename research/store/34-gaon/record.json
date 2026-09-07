@@ -7,11 +7,11 @@
     "notes": "Umbrella research unit for the whole displacement; sources here are shared by all villages.",
     "location": {}
   },
-  "built": "2026-09-05",
+  "built": "2026-09-07",
   "counts": {
-    "sources_total": 12,
+    "sources_total": 13,
     "accepted": 9,
-    "context": 0,
+    "context": 1,
     "review": 3,
     "rejected": 0,
     "duplicates": 0,
@@ -48,7 +48,8 @@
         "src_064a2acb392d",
         "src_dc27e87bee50",
         "src_56bd5f269706",
-        "src_0e0757dd116a"
+        "src_0e0757dd116a",
+        "src_7f98544507e3"
       ]
     },
     "people": {
@@ -71,7 +72,8 @@
       "source_ids": [
         "src_d159880ed58d",
         "src_a5150b8b1d53",
-        "src_dc27e87bee50"
+        "src_dc27e87bee50",
+        "src_7f98544507e3"
       ]
     },
     "festivals": {
@@ -79,7 +81,8 @@
       "source_ids": [
         "src_d159880ed58d",
         "src_a5150b8b1d53",
-        "src_dc27e87bee50"
+        "src_dc27e87bee50",
+        "src_7f98544507e3"
       ]
     },
     "land": {
@@ -107,7 +110,9 @@
     },
     "videos": {
       "label": "वीडियो",
-      "source_ids": []
+      "source_ids": [
+        "src_7f98544507e3"
+      ]
     },
     "audio": {
       "label": "साक्षात्कार / ऑडियो",
@@ -185,7 +190,8 @@
     "organizations": [
       "District Collector Bikaner",
       "Ministry of Defence",
-      "Panchayat Samiti Lunkaransar"
+      "Panchayat Samiti Lunkaransar",
+      "Rssuthar Jaisalmer"
     ],
     "events": [
       "होलिका दहन कुम्भाणा"
@@ -1207,6 +1213,55 @@
       "license": "ODbL, (c) OpenStreetMap contributors",
       "attribution": "OpenStreetMap contributors",
       "is_primary": false
+    },
+    "src_7f98544507e3": {
+      "url": "https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+      "title": "Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-01-29",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Lunkaransar']"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Lunkaransar"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+      "is_primary": true
     }
   },
   "shared_umbrella_sources": [],
@@ -1221,6 +1276,20 @@
       "errors": [],
       "total_after": 12,
       "at": "2026-09-05T17:46:17.859692+00:00"
+    },
+    {
+      "run_id": "run_20260907T085210Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_20Dj1Nd3Gyw.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=20Dj1Nd3Gyw on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 13,
+      "at": "2026-09-07T08:52:11.057459+00:00"
     }
   ]
 }

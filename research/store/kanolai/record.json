@@ -14,11 +14,11 @@
   },
   "built": "2026-09-07",
   "counts": {
-    "sources_total": 2,
-    "accepted": 2,
+    "sources_total": 9,
+    "accepted": 3,
     "context": 0,
-    "review": 0,
-    "rejected": 0,
+    "review": 4,
+    "rejected": 2,
     "duplicates": 0,
     "claims": 0
   },
@@ -35,7 +35,9 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_ae6977b947db",
-        "src_7e0f76030fe8"
+        "src_2f5657e5a37e",
+        "src_7e0f76030fe8",
+        "src_100cc543387f"
       ]
     },
     "people": {
@@ -50,11 +52,15 @@
     },
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
-      "source_ids": []
+      "source_ids": [
+        "src_61e9e3b48a37"
+      ]
     },
     "festivals": {
       "label": "त्योहार व परंपराएं",
-      "source_ids": []
+      "source_ids": [
+        "src_61e9e3b48a37"
+      ]
     },
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
@@ -74,7 +80,12 @@
       "label": "वीडियो",
       "source_ids": [
         "src_ae6977b947db",
-        "src_7e0f76030fe8"
+        "src_2f5657e5a37e",
+        "src_7e0f76030fe8",
+        "src_61e9e3b48a37",
+        "src_24907b87028c",
+        "src_100cc543387f",
+        "src_a4f128ed55c6"
       ]
     },
     "audio": {
@@ -110,7 +121,53 @@
     "well_supported": [],
     "needs_verification": []
   },
-  "manual_review": [],
+  "manual_review": [
+    {
+      "id": "src_100cc543387f",
+      "url": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+      "title": "अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_61e9e3b48a37",
+      "url": "https://www.youtube.com/watch?v=1Trtx9oNsOs",
+      "title": "आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Kanolai",
+        "state-level context only"
+      ]
+    },
+    {
+      "id": "src_24907b87028c",
+      "url": "https://www.youtube.com/watch?v=boOPyrBQxBU",
+      "title": "ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_a4f128ed55c6",
+      "url": "https://www.youtube.com/watch?v=jXeounYD1uA",
+      "title": "Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Kanolai"
+      ]
+    }
+  ],
   "sources": {
     "src_ae6977b947db": {
       "url": "https://www.youtube.com/watch?v=z3ILa3-NyU0",
@@ -161,6 +218,64 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
+      "is_primary": true
+    },
+    "src_2f5657e5a37e": {
+      "url": "https://www.youtube.com/watch?v=xh6IoC9xyh8",
+      "title": "खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-01-13",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Kanolai",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']"
+        ],
+        "matched_names": [
+          "Kanolai",
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=xh6IoC9xyh8",
       "is_primary": true
     },
     "src_7e0f76030fe8": {
@@ -226,6 +341,192 @@
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=tp0mVligrls",
       "is_primary": true
+    },
+    "src_61e9e3b48a37": {
+      "url": "https://www.youtube.com/watch?v=1Trtx9oNsOs",
+      "title": "आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-01-30",
+      "language": "hi",
+      "relevance": {
+        "score": 72,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 6,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.4,
+        "reasons": [
+          "primary name match: Kanolai",
+          "state-level context only"
+        ],
+        "matched_names": [
+          "Kanolai",
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=1Trtx9oNsOs",
+      "is_primary": true
+    },
+    "src_24907b87028c": {
+      "url": "https://www.youtube.com/watch?v=boOPyrBQxBU",
+      "title": "ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-12-09",
+      "language": "hi",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=boOPyrBQxBU",
+      "is_primary": true
+    },
+    "src_100cc543387f": {
+      "url": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+      "title": "अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-03",
+      "language": "hi",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+      "is_primary": true
+    },
+    "src_a4f128ed55c6": {
+      "url": "https://www.youtube.com/watch?v=jXeounYD1uA",
+      "title": "Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-12-15",
+      "language": "hi",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: Kanolai"
+        ],
+        "matched_names": [
+          "Kanolai"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=jXeounYD1uA",
+      "is_primary": true
     }
   },
   "shared_umbrella_sources": [],
@@ -257,6 +558,104 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 2,
       "at": "2026-09-07T08:50:20.578158+00:00"
+    },
+    {
+      "run_id": "run_20260907T085145Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_rI1mLJ5oPDQ.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=rI1mLJ5oPDQ on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 3,
+      "at": "2026-09-07T08:51:45.189474+00:00"
+    },
+    {
+      "run_id": "run_20260907T085148Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_xh6IoC9xyh8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=xh6IoC9xyh8 on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 4,
+      "at": "2026-09-07T08:51:49.029082+00:00"
+    },
+    {
+      "run_id": "run_20260907T085152Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_1Trtx9oNsOs.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=1Trtx9oNsOs on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 5,
+      "at": "2026-09-07T08:51:52.530873+00:00"
+    },
+    {
+      "run_id": "run_20260907T085155Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_boOPyrBQxBU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=boOPyrBQxBU on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 6,
+      "at": "2026-09-07T08:51:56.064977+00:00"
+    },
+    {
+      "run_id": "run_20260907T085159Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_jXeounYD1uA.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=jXeounYD1uA on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 7,
+      "at": "2026-09-07T08:51:59.737020+00:00"
+    },
+    {
+      "run_id": "run_20260907T085203Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_hHiLxT6X2mo.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=hHiLxT6X2mo on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-07T08:52:03.493391+00:00"
+    },
+    {
+      "run_id": "run_20260907T085207Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_d-YDz_8VKss.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=d-YDz_8VKss on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-07T08:52:07.214234+00:00"
     }
   ]
 }

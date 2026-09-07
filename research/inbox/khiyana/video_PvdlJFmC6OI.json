@@ -1,0 +1,53 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=PvdlJFmC6OI on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+   "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-09-08",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.' (6:07) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana Mahajan field firing range Date _25 20190924_090820",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+    "Description: Nathu Dada Dhora Kheyana Mahajan field firing range Date _25 20190924_090820"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 80 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

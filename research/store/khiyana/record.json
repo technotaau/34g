@@ -14,11 +14,11 @@
   },
   "built": "2026-09-07",
   "counts": {
-    "sources_total": 12,
-    "accepted": 6,
-    "context": 5,
+    "sources_total": 18,
+    "accepted": 7,
+    "context": 8,
     "review": 1,
-    "rejected": 0,
+    "rejected": 2,
     "duplicates": 0,
     "claims": 12
   },
@@ -44,13 +44,17 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_f525760f12bd",
         "src_7da0e757971f",
         "src_4fb2da84d5a4",
+        "src_da33d836896a",
+        "src_12fb097b02c4",
+        "src_a30396979513",
         "src_a5150b8b1d53",
-        "src_a6f66da51d72",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a6f66da51d72"
       ]
     },
     "people": {
@@ -73,10 +77,12 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
+        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_da33d836896a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -84,10 +90,12 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
+        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_da33d836896a",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -114,7 +122,11 @@
       "label": "वीडियो",
       "source_ids": [
         "src_bf43bd9c771a",
-        "src_f8ed99a1785c"
+        "src_f8ed99a1785c",
+        "src_d816c2b00dd1",
+        "src_da33d836896a",
+        "src_12fb097b02c4",
+        "src_a30396979513"
       ]
     },
     "audio": {
@@ -590,6 +602,59 @@
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=S3RMmydQupE",
       "is_primary": true
     },
+    "src_d816c2b00dd1": {
+      "url": "https://www.youtube.com/watch?v=vVP-LlMw4p4",
+      "title": "Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-08-30",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']"
+        ],
+        "matched_names": [
+          "Khiyana"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Loonkaransar",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=vVP-LlMw4p4",
+      "is_primary": true
+    },
     "src_587f45f5d5d9": {
       "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/kheenyera.html",
       "title": "Kheenyera Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in",
@@ -886,6 +951,160 @@
       ],
       "license": "",
       "attribution": "Sansad e-Library (Parliament of India)",
+      "is_primary": true
+    },
+    "src_da33d836896a": {
+      "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-06",
+      "language": "hi",
+      "relevance": {
+        "score": 56,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=viNoX1PP5cc",
+      "is_primary": true
+    },
+    "src_12fb097b02c4": {
+      "url": "https://www.youtube.com/watch?v=uEc6MLyHxIA",
+      "title": "Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-08",
+      "language": "hi",
+      "relevance": {
+        "score": 54,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Loonkaransar",
+          "Mahajan Field Firing Range",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
+      "is_primary": true
+    },
+    "src_a30396979513": {
+      "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
+      "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-08",
+      "language": "hi",
+      "relevance": {
+        "score": 54,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
@@ -1233,6 +1452,90 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 12,
       "at": "2026-09-07T08:50:24.433216+00:00"
+    },
+    {
+      "run_id": "run_20260907T085214Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_uEc6MLyHxIA.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=uEc6MLyHxIA on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 13,
+      "at": "2026-09-07T08:52:15.090427+00:00"
+    },
+    {
+      "run_id": "run_20260907T085218Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_PvdlJFmC6OI.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=PvdlJFmC6OI on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 14,
+      "at": "2026-09-07T08:52:18.697058+00:00"
+    },
+    {
+      "run_id": "run_20260907T085222Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_viNoX1PP5cc.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=viNoX1PP5cc on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 15,
+      "at": "2026-09-07T08:52:22.563455+00:00"
+    },
+    {
+      "run_id": "run_20260907T085226Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_vVP-LlMw4p4.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=vVP-LlMw4p4 on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 16,
+      "at": "2026-09-07T08:52:26.299237+00:00"
+    },
+    {
+      "run_id": "run_20260907T085229Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_-H5a5iNsxyM.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=-H5a5iNsxyM on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 17,
+      "at": "2026-09-07T08:52:30.002092+00:00"
+    },
+    {
+      "run_id": "run_20260907T085233Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_gTBzm76BYSE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=gTBzm76BYSE on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-07T08:52:34.069861+00:00"
     }
   ]
 }

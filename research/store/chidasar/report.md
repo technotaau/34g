@@ -1,6 +1,6 @@
 # चिड़ासर (Chidasar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-05 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 8, स्वीकृत 1, पृष्ठभूमि (context) 7, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 3
 
@@ -31,10 +31,10 @@
   - बीकानेर के महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में 34 गांवों की जमीन अधिग्रहित की गई थी। लेख में विस्थापित परिवारों का दर्द, मुआवजा और नई भूमि आवंटन (खाजूवाला, डाँटोर आदि) का जिक्र है, पर चिड़ासर गांव का नाम सीधे नहीं लिया गया।
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - 1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों की भूमि अधिग्रहण के बाद विस्थापित परिवारों को मुआवजा और खाजूवाला, डाँटोर, पूगल, मोहनगढ़, नाचना क्षेत्र में सिंचित भूमि दी गई, लेकिन दशकों बाद भी वे अपने उजड़े घरों को भूल नहीं पाए।
-- [Mahajan - महाजन (Jatland Wiki)](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
-  - Jatland wiki entry on Mahajan village/thikana, Lunkaransar tehsil, Bikaner. Search snippet indicates it discusses Mahajan's location on the Bikaner-Ganganagar road and mentions historical context tied to the republic of Johiya Jats in Jangladesh; full page could not be fetched (403) so a direct Chid
 - [Mahajan field firing range : महाजन फील्ड फायरिंग रेंज में तोपाभ्यास के दौरान फटा बम](https://www.youtube.com/watch?v=zleWptMmcYM) (video · video · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
   - News video report on a shell/bomb explosion during artillery practice at the Mahajan Field Firing Range near Bikaner. No mention of Chidasar in the title; included only as regional military-range context and a channel worth checking for other MFFR-area footage.
+- [Mahajan - महाजन (Jatland Wiki)](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
+  - Jatland wiki entry on Mahajan village/thikana, Lunkaransar tehsil, Bikaner. Search snippet indicates it discusses Mahajan's location on the Bikaner-Ganganagar road and mentions historical context tied to the republic of Johiya Jats in Jangladesh; full page could not be fetched (403) so a direct Chid
 - [Field Firing Range Mahajan](https://www.facebook.com/283917615793054) (social · social_post · तिथि अज्ञात · स्कोर 35 · पृष्ठभूमि स्रोत)
   - A public Facebook page named 'Field Firing Range Mahajan', surfaced in search results but returned only Facebook's login wall to the automated fetch, so its posts, photos, and about text could not be reviewed for any mention of Chidasar.
 

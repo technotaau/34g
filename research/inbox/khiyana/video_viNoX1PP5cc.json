@@ -1,0 +1,56 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=viNoX1PP5cc on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=viNoX1PP5cc",
+   "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-09-06",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "नाथू दादा मंदिर"
+   ],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
+    "Description: Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640",
+    "Location field: नाथू दादा मंदिर"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=viNoX1PP5cc",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "1 public comments; 75 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

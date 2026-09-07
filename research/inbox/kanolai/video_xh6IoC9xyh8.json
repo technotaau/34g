@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=xh6IoC9xyh8 on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=xh6IoC9xyh8",
+   "title": "खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2025-01-13",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी' (24:52) by Rssuthar Jaisalmer. Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था। यहाँ सभी लोग आपस में खूब हिलमिल कर प्रेम व भाईचारे से रहते थे। इस गाँव के पश्चिम में ऊँचे टीले पर पीरजी की जाल है जहाँ …",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Kanolai",
+   "evidence_snippets": [
+    "Title: खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी",
+    "Description: Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था। यहाँ सभी लोग आपस में खूब हिलमिल …"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=xh6IoC9xyh8",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "2 public comments; 175 views; hashtags: Bikaner Kanolai Lunkaransar Mahajanfieldfiringrange Village"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

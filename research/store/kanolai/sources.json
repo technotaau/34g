@@ -208,5 +208,656 @@
       "run_20260907T085020Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_100cc543387f": {
+    "id": "src_100cc543387f",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+    "url_key": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+    "title": "अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-03",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥' (3:55) by Rssuthar Jaisalmer. पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 20260517_185107",
+    "topics": [
+      "displacement",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
+      "Description: पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 20260517_185107"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 60 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 61,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260907T085145Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_2f5657e5a37e": {
+    "id": "src_2f5657e5a37e",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=xh6IoC9xyh8",
+    "url_key": "https://www.youtube.com/watch?v=xh6IoC9xyh8",
+    "title": "खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-01-13",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी' (24:52) by Rssuthar Jaisalmer. Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था। यहाँ सभी लोग आपस में खूब हिलमिल कर प्रेम व भाईचारे से रहते थे। इस गाँव के पश्चिम में ऊँचे टीले पर पीरजी की जाल है जहाँ …",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी",
+      "Description: Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था। यहाँ सभी लोग आपस में खूब हिलमिल …"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=xh6IoC9xyh8",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 175 views; hashtags: Bikaner Kanolai Lunkaransar Mahajanfieldfiringrange Village"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Kanolai",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Kanolai",
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085148Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_61e9e3b48a37": {
+    "id": "src_61e9e3b48a37",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=1Trtx9oNsOs",
+    "url_key": "https://www.youtube.com/watch?v=1Trtx9oNsOs",
+    "title": "आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-01-30",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।' (3:10) by Rssuthar Jaisalmer. RamNagar (Kanolai) Hunta Farm 20241019_085124 आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।",
+      "Description: RamNagar (Kanolai) Hunta Farm 20241019_085124 आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=1Trtx9oNsOs",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 175 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.4,
+      "reasons": [
+        "primary name match: Kanolai",
+        "state-level context only"
+      ],
+      "matched_names": [
+        "Kanolai",
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 72,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 6,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260907T085152Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_24907b87028c": {
+    "id": "src_24907b87028c",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=boOPyrBQxBU",
+    "url_key": "https://www.youtube.com/watch?v=boOPyrBQxBU",
+    "title": "ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-12-09",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो' (0:27) by Rssuthar Jaisalmer. 2011-12 का विडियो है यह!",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "RSSUTHAR JAISALMER"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो",
+      "Description: 2011-12 का विडियो है यह!",
+      "Location field: RSSUTHAR JAISALMER"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=boOPyrBQxBU",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 31 views; hashtags: OldVideos Rajasthanculture RssutharJaisalmer VillageLife"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 63,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260907T085155Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_a4f128ed55c6": {
+    "id": "src_a4f128ed55c6",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=jXeounYD1uA",
+    "url_key": "https://www.youtube.com/watch?v=jXeounYD1uA",
+    "title": "Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-12-15",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.' (1:03) by Rssuthar Jaisalmer. Barsalpur Bhurasar Farm Barsalpur Bhurasar farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.",
+      "Description: Barsalpur Bhurasar Farm Barsalpur Bhurasar farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc."
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=jXeounYD1uA",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 72 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: Kanolai"
+      ],
+      "matched_names": [
+        "Kanolai"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 61,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260907T085159Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_333aa0b06702": {
+    "id": "src_333aa0b06702",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=hHiLxT6X2mo",
+    "url_key": "https://www.youtube.com/watch?v=hHiLxT6X2mo",
+    "title": "बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-01-30",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।' (8:53) by Rssuthar Jaisalmer. Knl RamNagar (Raj.) 20190128_152144 बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+      "Description: Knl RamNagar (Raj.) 20190128_152144 बीकानेर जिले का बेहद खूबसूरत आबाद गाँव है रामनगर। चौपङ की तरह 40-60 फिट चौङी गलियों के साथ बसावट।",
+      "Viewer comment: वा सा बहुत सुंदर दृश्य 👍",
+      "Viewer comment: Bhai kyu is gav ki pol khol raha ha tu 😂😂😂",
+      "Viewer comment: आदीवासी hi nahi raha skte yaha par"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=hHiLxT6X2mo",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 216 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 41,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085203Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_3eface8c4df7": {
+    "id": "src_3eface8c4df7",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=d-YDz_8VKss",
+    "url_key": "https://www.youtube.com/watch?v=d-YDz_8VKss",
+    "title": "पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-01-27",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।' (5:25) by Rssuthar Jaisalmer. पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में। 6 Dkd Rawla 15-04-2010 RamNagar 30-07-2012 RamNagar 39-11-2012",
+    "topics": [
+      "culture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में।",
+      "Description: पुरानी संस्कृति प्रेम भाईचारा सब कुछ देखने को मिलता है मेरे ननिहाल के खूबसूरत आबाद गाँव रामनगर में। 6 Dkd Rawla 15-04-2010 RamNagar 30-07-2012 RamNagar 39-11-2012"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=d-YDz_8VKss",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 87 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.0,
+      "reasons": [
+        "village name not found in captured text",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 26,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 0,
+        "resolution_conf": 0,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085207Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   }
 }
