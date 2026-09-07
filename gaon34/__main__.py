@@ -29,7 +29,7 @@ def main(argv=None):
     vd = sub.add_parser("video", help="ingest a YouTube video: metadata, captions, comments (+frames/OCR if media given)")
     vd.add_argument("slug"); vd.add_argument("url"); vd.add_argument("--related", nargs="*", default=[])
     vd.add_argument("--media", help="local video file"); vd.add_argument("--drive-id", help="link-shared Google Drive file id")
-    vd.add_argument("--every", type=int, default=20, help="seconds between extracted frames"); vd.add_argument("--ocr-band", type=float, default=0.88)
+    vd.add_argument("--every", type=int, default=20, help="seconds between extracted frames"); vd.add_argument("--ocr-band", type=float, default=0.88, help="fraction of frame height above the subtitle bar; 0 disables OCR")
     vd.add_argument("--ocr-lang", default="hin+eng"); vd.add_argument("--whisper", default=None, help="whisper model size, e.g. small/medium (off by default)")
     vd.add_argument("--ocr-every", type=float, default=1.0, help="seconds between OCR samples"); vd.add_argument("--title", help="title for non-YouTube media"); vd.add_argument("--credit", help="who shot / supplied non-YouTube media")
     sub.add_parser("status")

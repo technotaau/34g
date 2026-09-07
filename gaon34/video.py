@@ -149,6 +149,8 @@ def extract_frames(media: Path, out_dir: Path, every: int, vid: str, source_url:
 
 def run_ocr(media: Path, out_json: Path, band: float, lang: str, whisper: str | None, speech_lang: str = "hi", ocr_every: float = 1.0) -> None:
     cmd = [sys.executable, str(ROOT / "scripts" / "video_extract.py"), str(media), "--out", str(out_json), "--lang", lang, "--band", str(band), "--every", str(ocr_every)]
+    if band <= 0:
+        cmd.append("--no-ocr")  # full-frame videos without a subtitle bar: OCR of picture content is slow and useless
     cmd += ["--whisper", whisper, "--language", speech_lang] if whisper else ["--no-whisper"]
     subprocess.run(cmd, check=False)
 
