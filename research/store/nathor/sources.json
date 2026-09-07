@@ -484,7 +484,7 @@
       "Lunkaransar",
       "Bikaner"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "Nathor does not appear among them",
@@ -524,17 +524,17 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Nathor",
         "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Nathusar']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Nathusar']"
       ],
       "matched_names": [
-        "Nathor"
+        "Nathor",
+        "नाथौर"
       ],
       "geo_hits": [
         "Lunkaransar",
@@ -547,12 +547,12 @@
       ]
     },
     "relevance": {
-      "score": 65,
+      "score": 67,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 7,
         "primary": 0,
         "corroboration": 0,
@@ -566,9 +566,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175726Z"
     ],

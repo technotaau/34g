@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 6,
-    "accepted": 3,
+    "accepted": 4,
     "context": 2,
-    "review": 1,
+    "review": 0,
     "rejected": 0,
     "duplicates": 0,
     "claims": 9
@@ -355,21 +355,6 @@
   },
   "manual_review": [
     {
-      "id": "src_c0a313e97116",
-      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/",
-      "title": "Villages in Lunkaransar Tehsil, Bikaner",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Nathor",
-        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Nathusar']",
-        "agent: village not directly named"
-      ]
-    },
-    {
       "id": "src_e9f089cdc38c",
       "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
       "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in",
@@ -593,12 +578,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 65,
+        "score": 67,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 10,
           "credibility": 7,
           "primary": 0,
           "corroboration": 0,
@@ -611,17 +596,17 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.65,
         "reasons": [
           "primary name match: Nathor",
           "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Nathusar']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Nathusar']"
         ],
         "matched_names": [
-          "Nathor"
+          "Nathor",
+          "नाथौर"
         ],
         "geo_hits": [
           "Lunkaransar",

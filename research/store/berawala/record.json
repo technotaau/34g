@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
-    "accepted": 1,
+    "accepted": 2,
     "context": 4,
-    "review": 1,
+    "review": 0,
     "rejected": 1,
     "duplicates": 0,
     "claims": 19
@@ -580,20 +580,6 @@
   },
   "manual_review": [
     {
-      "id": "src_b27fa43b7bd0",
-      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
-      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Berawala",
-        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "agent: village not directly named"
-      ]
-    },
-    {
       "id": "src_35e2031c49cc",
       "url": "https://www.jatland.com/home/Sherpura_Bikaner",
       "title": "Sherpura Bikaner - शेरपुरा बीकानेर",
@@ -694,12 +680,12 @@
       "published_date": "2011",
       "language": "en",
       "relevance": {
-        "score": 75,
+        "score": 79,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 12,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -712,16 +698,16 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.8,
         "reasons": [
           "primary name match: Berawala",
           "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "agent: village not directly named"
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
         ],
         "matched_names": [
           "Berawala",
+          "बेरावाला",
           "Berwala"
         ],
         "geo_hits": [

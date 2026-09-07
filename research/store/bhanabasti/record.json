@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
-    "accepted": 1,
+    "accepted": 3,
     "context": 4,
-    "review": 2,
+    "review": 0,
     "rejected": 0,
     "duplicates": 0,
     "claims": 10
@@ -377,36 +377,7 @@
       }
     ]
   },
-  "manual_review": [
-    {
-      "id": "src_3badbe17d887",
-      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html",
-      "title": "Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Bhanabasti",
-        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
-      ]
-    },
-    {
-      "id": "src_b27fa43b7bd0",
-      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
-      "title": "List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Bhanabasti",
-        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
-      ]
-    }
-  ],
+  "manual_review": [],
   "sources": {
     "src_b27fa43b7bd0": {
       "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
@@ -417,12 +388,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 79,
+        "score": 83,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 12,
           "credibility": 10,
           "primary": 0,
           "corroboration": 3,
@@ -435,16 +406,16 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.8,
         "reasons": [
           "primary name match: Bhanabasti",
           "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-          "district/nearby/clan context: ['Bikaner']",
-          "agent: village not directly named"
+          "district/nearby/clan context: ['Bikaner']"
         ],
         "matched_names": [
-          "Bhanabasti"
+          "Bhanabasti",
+          "भानाबस्ती"
         ],
         "geo_hits": [
           "Lunkaransar",
@@ -525,12 +496,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 71,
+        "score": 75,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 12,
           "credibility": 7,
           "primary": 0,
           "corroboration": 0,
@@ -543,16 +514,16 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.8,
         "reasons": [
           "primary name match: Bhanabasti",
           "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
-          "district/nearby/clan context: ['Bikaner']",
-          "agent: village not directly named"
+          "district/nearby/clan context: ['Bikaner']"
         ],
         "matched_names": [
-          "Bhanabasti"
+          "Bhanabasti",
+          "भानाबस्ती"
         ],
         "geo_hits": [
           "Mahajan",

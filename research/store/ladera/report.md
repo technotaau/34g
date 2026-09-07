@@ -2,22 +2,22 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 0, पृष्ठभूमि (context) 0, समीक्षा हेतु 7, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 8
+स्रोत: कुल 7, स्वीकृत 4, पृष्ठभूमि (context) 0, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 8
 
 > Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified.
 
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 82 · समीक्षा हेतु)
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 84)
   - A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
   - Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
-  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
   - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
-- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 68 · समीक्षा हेतु)
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
+  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
+- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70)
   - POSSIBLE STRONG LEAD: a village named 'Lalera Patta Mahajan' (लालेरा पट्टा महाजन) sits in Lunkaransar tehsil, ~50km from Lunkaransar HQ and near Mahajan/Suratgarh — matching the research brief's expected sub_tehsil (Mahajan) far better than the Bikaner-tehsil 'Ladera' above. Gram Panchayat Baladesar
 - [Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram](https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/) (census_mirror · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Secondary directory listing corroborating the same Lalera Patta Mahajan village data (Lunkaransar tehsil, pincode 334604) found on villageinfo.in; page itself returned 403 on direct fetch, URL recorded from search results only.
@@ -25,15 +25,15 @@
   - Confirms the same Bikaner-tehsil Ladera via a Google-Maps-linked village directory listing; no additional demographic or historical content available on this page.
 
 ### यह कहां स्थित है?
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 82 · समीक्षा हेतु)
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 84)
   - A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
   - Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
-  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
   - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
-- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 68 · समीक्षा हेतु)
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
+  - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
+- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70)
   - POSSIBLE STRONG LEAD: a village named 'Lalera Patta Mahajan' (लालेरा पट्टा महाजन) sits in Lunkaransar tehsil, ~50km from Lunkaransar HQ and near Mahajan/Suratgarh — matching the research brief's expected sub_tehsil (Mahajan) far better than the Bikaner-tehsil 'Ladera' above. Gram Panchayat Baladesar
 - [Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram](https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/) (census_mirror · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Secondary directory listing corroborating the same Lalera Patta Mahajan village data (Lunkaransar tehsil, pincode 334604) found on villageinfo.in; page itself returned 403 on direct fetch, URL recorded from search results only.
@@ -41,13 +41,13 @@
   - Confirms the same Bikaner-tehsil Ladera via a Google-Maps-linked village directory listing; no additional demographic or historical content available on this page.
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 82 · समीक्षा हेतु)
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 84)
   - A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
   - Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
   - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
   - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
@@ -77,17 +77,17 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### साक्षात्कार / ऑडियो (0)
 
 ### पुस्तकें व ऐतिहासिक संदर्भ (2)
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 82 · समीक्षा हेतु)
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 84)
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
 
 ### सार्वजनिक सोशल मीडिया स्रोत (0)
 
 ### सरकारी / कानूनी अभिलेख (6)
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 82 · समीक्षा हेतु)
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) (legal · document · 2025-12-04 · स्कोर 84)
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70 · समीक्षा हेतु)
-- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 68 · समीक्षा हेतु)
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
+- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 70)
 - [Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram](https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/) (census_mirror · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
 
 ### समाचार (0)
@@ -120,20 +120,16 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) · flags: resolution_review · primary name match: Ladera; strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) · flags: resolution_review · primary name match: Ladera; strong geo context: ['Mahajan', 'Lunkaransar']
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) · flags: resolution_review · primary name match: Ladera; strong geo context: ['Mahajan', 'Lunkaransar']
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) · flags: resolution_review · primary name match: Ladera; district/nearby/clan context: ['Bikaner']
-- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) · flags: resolution_review · variant match: Lalera; strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']
 - [Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram](https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/) · flags: resolution_review · variant match: Lalera; strong geo context: ['Mahajan', 'Lunkaransar']
 - [Ladera Village Map | Bikaner Tehsil, Bikaner District, Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/bikaner/ladera.html) · flags: resolution_review · primary name match: Ladera; district/nearby/clan context: ['Bikaner']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
-- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) · indiankanoon · legal · स्कोर 82 · रिज़ॉल्यूशन review (0.55) · खोज: "Ladera" Bikaner indiankanoon OR "High Court" OR gazette
+- [Kana Ram vs State Of Rajasthan](https://indiankanoon.org/doc/96063995/) · indiankanoon · legal · स्कोर 84 · रिज़ॉल्यूशन accept (0.65) · खोज: "Ladera" Bikaner indiankanoon OR "High Court" OR gazette
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) · indiankanoon · legal · स्कोर 80 · रिज़ॉल्यूशन review (0.4) · खोज: "Ladera" Bikaner indiankanoon OR "High Court" OR gazette
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) · census_mirror · census_mirror · स्कोर 70 · रिज़ॉल्यूशन review (0.55) · खोज: Ladera village Bikaner Rajasthan
-- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) · census_mirror · census_mirror · स्कोर 70 · रिज़ॉल्यूशन review (0.55) · खोज: "Ladera" Lunkaransar census village code Bikaner
-- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) · census_mirror · census_mirror · स्कोर 68 · रिज़ॉल्यूशन review (0.55) · खोज: "Lalera Patta Mahajan" village Lunkaransar
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) · census_mirror · census_mirror · स्कोर 72 · रिज़ॉल्यूशन accept (0.65) · खोज: Ladera village Bikaner Rajasthan
+- [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) · census_mirror · census_mirror · स्कोर 72 · रिज़ॉल्यूशन accept (0.65) · खोज: "Ladera" Lunkaransar census village code Bikaner
+- [Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html) · census_mirror · census_mirror · स्कोर 70 · रिज़ॉल्यूशन accept (0.65) · खोज: "Lalera Patta Mahajan" village Lunkaransar
 - [Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604, Map & Weather | Villagegram](https://villagegram.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan/) · villagegram.in · census_mirror · स्कोर 61 · रिज़ॉल्यूशन review (0.55) · खोज: "Lalera Patta Mahajan" village Lunkaransar
 - [Ladera Village Map | Bikaner Tehsil, Bikaner District, Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/bikaner/ladera.html) · mapsofindia.com · website · स्कोर 59 · रिज़ॉल्यूशन review (0.4) · खोज: Ladera village Bikaner Rajasthan

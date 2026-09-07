@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 1, पृष्ठभूमि (context) 4, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
 
 > Named in Patrika 2022.
 
@@ -11,10 +11,10 @@
 ### यह गांव क्या है?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 94)
   - पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की सूची में खानीसर का सीधा उल्लेख करती है। लेख में विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटन और मंदिरों/मेलों के जरिए पुरानी यादें ताजा करने का जिक्र है।
+- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 73)
+  - Mapcarta/OpenStreetMap की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज को लूणकरणसर, बीकानेर में एक सैन्य प्रतिष्ठान (landuse=military) के रूप में दर्शाती है। एक खोज-सारांश में 'Khanisar Tank firing range' नामक उप-सुविधा का उल्लेख मिला था, पर यह प्रत्यक्ष फ़ेच से पुष्ट नहीं हो सका।
 - [Khanisar](http://wikimapia.org/10938506/Khanisar) (community_wiki · map · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - Wikimapia की यह प्रविष्टि 'Khanisar' नामक स्थान को सूरतगढ़/बीकानेर क्षेत्र में लगभग 28°56'40"N 73°43'48"E निर्देशांक पर दिखाती है। पेज सामग्री सीधे फ़ेच नहीं हो सकी (JS-आधारित), केवल शीर्षक और निर्देशांक खोज परिणाम से मिले।
-- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 69 · समीक्षा हेतु)
-  - Mapcarta/OpenStreetMap की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज को लूणकरणसर, बीकानेर में एक सैन्य प्रतिष्ठान (landuse=military) के रूप में दर्शाती है। एक खोज-सारांश में 'Khanisar Tank firing range' नामक उप-सुविधा का उल्लेख मिला था, पर यह प्रत्यक्ष फ़ेच से पुष्ट नहीं हो सका।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
   - Sansad e-library की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज (राजस्थान) से संबंधित संसदीय रिकॉर्ड है, जिसमें रेंज को 1982 में अधिग्रहित और 3.37 लाख एकड़ में फैला बताया गया है; यह देश की दूसरी सबसे बड़ी रेंज है जहाँ सालाना लगभग 600 यूनिट/2.3 लाख सैनिक अभ्यास करते हैं। पेज की पूरी सामग्री फ़ेच नहीं हो पा
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 51 · पृष्ठभूमि स्रोत)
@@ -25,10 +25,10 @@
   - यह पेज महाजन गांव (लूणकरणसर तहसील, बीकानेर) की सामान्य जनगणना-शैली जानकारी देता है - जनसंख्या 7,397, लूणकरणसर मुख्यालय से लगभग 39 किमी और बीकानेर से लगभग 111 किमी दूर। यह उप-तहसील मुख्यालय (महाजन) के लिए भौगोलिक संदर्भ स्रोत है, खानीसर का प्रत्यक्ष उल्लेख नहीं करता।
 
 ### यह कहां स्थित है?
+- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 73)
+  - Mapcarta/OpenStreetMap की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज को लूणकरणसर, बीकानेर में एक सैन्य प्रतिष्ठान (landuse=military) के रूप में दर्शाती है। एक खोज-सारांश में 'Khanisar Tank firing range' नामक उप-सुविधा का उल्लेख मिला था, पर यह प्रत्यक्ष फ़ेच से पुष्ट नहीं हो सका।
 - [Khanisar](http://wikimapia.org/10938506/Khanisar) (community_wiki · map · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - Wikimapia की यह प्रविष्टि 'Khanisar' नामक स्थान को सूरतगढ़/बीकानेर क्षेत्र में लगभग 28°56'40"N 73°43'48"E निर्देशांक पर दिखाती है। पेज सामग्री सीधे फ़ेच नहीं हो सकी (JS-आधारित), केवल शीर्षक और निर्देशांक खोज परिणाम से मिले।
-- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 69 · समीक्षा हेतु)
-  - Mapcarta/OpenStreetMap की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज को लूणकरणसर, बीकानेर में एक सैन्य प्रतिष्ठान (landuse=military) के रूप में दर्शाती है। एक खोज-सारांश में 'Khanisar Tank firing range' नामक उप-सुविधा का उल्लेख मिला था, पर यह प्रत्यक्ष फ़ेच से पुष्ट नहीं हो सका।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
   - Sansad e-library की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज (राजस्थान) से संबंधित संसदीय रिकॉर्ड है, जिसमें रेंज को 1982 में अधिग्रहित और 3.37 लाख एकड़ में फैला बताया गया है; यह देश की दूसरी सबसे बड़ी रेंज है जहाँ सालाना लगभग 600 यूनिट/2.3 लाख सैनिक अभ्यास करते हैं। पेज की पूरी सामग्री फ़ेच नहीं हो पा
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) (website · text · तिथि अज्ञात · स्कोर 38 · पृष्ठभूमि स्रोत)
@@ -37,7 +37,7 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 94)
   - पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की सूची में खानीसर का सीधा उल्लेख करती है। लेख में विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटन और मंदिरों/मेलों के जरिए पुरानी यादें ताजा करने का जिक्र है।
-- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 69 · समीक्षा हेतु)
+- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 73)
   - Mapcarta/OpenStreetMap की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज को लूणकरणसर, बीकानेर में एक सैन्य प्रतिष्ठान (landuse=military) के रूप में दर्शाती है। एक खोज-सारांश में 'Khanisar Tank firing range' नामक उप-सुविधा का उल्लेख मिला था, पर यह प्रत्यक्ष फ़ेच से पुष्ट नहीं हो सका।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
   - Sansad e-library की यह प्रविष्टि महाजन फील्ड फायरिंग रेंज (राजस्थान) से संबंधित संसदीय रिकॉर्ड है, जिसमें रेंज को 1982 में अधिग्रहित और 3.37 लाख एकड़ में फैला बताया गया है; यह देश की दूसरी सबसे बड़ी रेंज है जहाँ सालाना लगभग 600 यूनिट/2.3 लाख सैनिक अभ्यास करते हैं। पेज की पूरी सामग्री फ़ेच नहीं हो पा
@@ -131,14 +131,13 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
 - [Khanisar](http://wikimapia.org/10938506/Khanisar) · flags: resolution_review · primary name match: Khanisar; district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Suratgarh']
-- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) · flags: resolution_review · primary name match: Khanisar; strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) · flags: low_relevance · village name not found in captured text; strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 94 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव खानीसर महाजन
+- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) · mapcarta.com · website · स्कोर 73 · रिज़ॉल्यूशन accept (0.8) · खोज: Khanisar "Mahajan Field Firing Range"
 - [Khanisar](http://wikimapia.org/10938506/Khanisar) · wikimapia.org · community_wiki · स्कोर 71 · रिज़ॉल्यूशन review (0.55) · खोज: Khanisar village Bikaner Rajasthan
-- [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) · mapcarta.com · website · स्कोर 69 · रिज़ॉल्यूशन review (0.55) · खोज: Khanisar "Mahajan Field Firing Range"
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 64 · रिज़ॉल्यूशन context (0.5) · खोज: Khanisar "Mahajan Field Firing Range"
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) · patrika · news · स्कोर 51 · रिज़ॉल्यूशन context (0.5) · खोज: खानीसर महाजन फायरिंग रेंज विस्थापित
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) · patrika · news · स्कोर 44 · रिज़ॉल्यूशन context (0.5) · खोज: खानीसर महाजन फायरिंग रेंज विस्थापित

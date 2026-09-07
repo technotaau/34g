@@ -960,7 +960,7 @@
     ],
     "period": "pre_1900",
     "geo_mentions": [],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Khiyana",
     "evidence_snippets": [
       "Khiyana Community page with 859 likes"
@@ -991,8 +991,7 @@
       "decision": "review",
       "confidence": 0.35,
       "reasons": [
-        "primary name match: Khiyana",
-        "agent: village not directly named"
+        "primary name match: Khiyana"
       ],
       "matched_names": [
         "Khiyana"
@@ -1480,7 +1479,7 @@
     ],
     "period": "2016_present",
     "geo_mentions": [],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "Title: Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.",
@@ -1509,13 +1508,12 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.7,
       "reasons": [
         "variant match: Khiana",
         "strong geo context: ['Mahajan', 'Loonkaransar', 'Mahajan Field Firing Range']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner']"
       ],
       "matched_names": [
         "Khiana",
@@ -1533,12 +1531,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 84,
+      "score": 86,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 6,
         "primary": 8,
         "corroboration": 0,
@@ -1552,9 +1550,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260907T085214Z"
     ],
@@ -1584,7 +1580,7 @@
     ],
     "period": "2016_present",
     "geo_mentions": [],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
@@ -1613,12 +1609,11 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.6,
       "reasons": [
         "variant match: Kheyana",
-        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']",
-        "agent: village not directly named"
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']"
       ],
       "matched_names": [
         "Kheyana",
@@ -1633,12 +1628,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 84,
+      "score": 85,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 9,
         "credibility": 6,
         "primary": 8,
         "corroboration": 0,
@@ -1652,9 +1647,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260907T085218Z"
     ],
@@ -1687,7 +1680,7 @@
     "geo_mentions": [
       "नाथू दादा मंदिर"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "Title: Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.",
@@ -1717,12 +1710,11 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.6,
       "reasons": [
         "variant match: Kheyana",
-        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']",
-        "agent: village not directly named"
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']"
       ],
       "matched_names": [
         "Kheyana",
@@ -1738,12 +1730,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 86,
+      "score": 87,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 9,
         "credibility": 6,
         "primary": 8,
         "corroboration": 0,
@@ -1757,9 +1749,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260907T085222Z"
     ],

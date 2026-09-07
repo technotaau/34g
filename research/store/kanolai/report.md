@@ -15,10 +15,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
-- [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) (video · video · 2025-01-13 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी' (24:52) by Rssuthar Jaisalmer. Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 म
+- [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) (video · video · 2025-01-30 · स्कोर 80) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था' (36:01) by Rssuthar Jaisalmer. Kanolai 20190128_142338
 - [अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥](https://www.youtube.com/watch?v=rI1mLJ5oPDQ) (video · video · 2026-07-03 · स्कोर 61 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted

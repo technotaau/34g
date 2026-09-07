@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
-    "accepted": 1,
+    "accepted": 2,
     "context": 4,
-    "review": 2,
+    "review": 1,
     "rejected": 0,
     "duplicates": 0,
     "claims": 6
@@ -27,8 +27,8 @@
       "label": "यह गांव क्या है?",
       "source_ids": [
         "src_a5150b8b1d53",
-        "src_dae2abcced95",
         "src_25b95f39918e",
+        "src_dae2abcced95",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72",
         "src_c37d5179aabc",
@@ -38,8 +38,8 @@
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_dae2abcced95",
         "src_25b95f39918e",
+        "src_dae2abcced95",
         "src_4fb2da84d5a4",
         "src_e9f089cdc38c"
       ]
@@ -324,20 +324,6 @@
       ]
     },
     {
-      "id": "src_25b95f39918e",
-      "url": "https://mapcarta.com/W412765540",
-      "title": "Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Khanisar",
-        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "agent: village not directly named"
-      ]
-    },
-    {
       "id": "src_e9f089cdc38c",
       "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
       "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan",
@@ -421,6 +407,66 @@
       "attribution": "Rajasthan Patrika, Hari Singh, 29 नवंबर 2022",
       "is_primary": true
     },
+    "src_25b95f39918e": {
+      "url": "https://mapcarta.com/W412765540",
+      "title": "Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India",
+      "platform": "mapcarta.com",
+      "source_type": "website",
+      "media_type": "map",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 73,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Khanisar",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+        ],
+        "matched_names": [
+          "Khanisar"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "OpenStreetMap contributors / Mapcarta",
+      "is_primary": false
+    },
     "src_dae2abcced95": {
       "url": "http://wikimapia.org/10938506/Khanisar",
       "title": "Khanisar",
@@ -473,67 +519,6 @@
       ],
       "license": "",
       "attribution": "Wikimapia contributors",
-      "is_primary": false
-    },
-    "src_25b95f39918e": {
-      "url": "https://mapcarta.com/W412765540",
-      "title": "Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India",
-      "platform": "mapcarta.com",
-      "source_type": "website",
-      "media_type": "map",
-      "published_date": "",
-      "language": "en",
-      "relevance": {
-        "score": 69,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 8,
-          "credibility": 7,
-          "primary": 0,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 2,
-          "claims": 0,
-          "recency": 0,
-          "media": 0,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
-        "reasons": [
-          "primary name match: Khanisar",
-          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
-          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "agent: village not directly named"
-        ],
-        "matched_names": [
-          "Khanisar"
-        ],
-        "geo_hits": [
-          "Mahajan",
-          "महाजन",
-          "Lunkaransar",
-          "लूणकरणसर",
-          "Mahajan Field Firing Range",
-          "महाजन फील्ड फायरिंग रेंज",
-          "फायरिंग रेंज",
-          "Bikaner",
-          "बीकानेर",
-          "Rajasthan"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "census_admin",
-        "displacement",
-        "military_range"
-      ],
-      "license": "",
-      "attribution": "OpenStreetMap contributors / Mapcarta",
       "is_primary": false
     },
     "src_4fb2da84d5a4": {

@@ -27,7 +27,7 @@
       "Jasrasar tehsil",
       "Rajasthan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Meusar",
     "evidence_snippets": [
       "Meusar is a village in Jasrasar Tehsil of Bikaner District, Rajasthan"
@@ -73,17 +73,17 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Jasrasar', 'जसरासर']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Jasrasar', 'जसरासर']"
       ],
       "matched_names": [
-        "Meusar"
+        "Meusar",
+        "मेऊसर"
       ],
       "geo_hits": [
         "महाजन",
@@ -103,12 +103,12 @@
       ]
     },
     "relevance": {
-      "score": 67,
+      "score": 69,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 9,
         "primary": 0,
         "corroboration": 0,
@@ -122,9 +122,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175437Z"
     ],
@@ -157,7 +155,7 @@
       "Nokha tehsil",
       "Rajasthan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Meusar",
     "evidence_snippets": [
       "Meusar Village Population - Nokha - Bikaner, Rajasthan"
@@ -203,17 +201,17 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']"
       ],
       "matched_names": [
-        "Meusar"
+        "Meusar",
+        "मेऊसर"
       ],
       "geo_hits": [
         "महाजन",
@@ -230,12 +228,12 @@
       ]
     },
     "relevance": {
-      "score": 69,
+      "score": 71,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -249,9 +247,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175437Z"
     ],
@@ -284,7 +280,7 @@
       "Bikaner",
       "Nokha tehsil"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Meusar",
     "evidence_snippets": [
       "Meusar Village (Pincode: 334803), Nokha, Bikaner"
@@ -315,17 +311,17 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Nokha', 'नोखा']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Nokha', 'नोखा']"
       ],
       "matched_names": [
-        "Meusar"
+        "Meusar",
+        "मेऊसर"
       ],
       "geo_hits": [
         "महाजन",
@@ -342,12 +338,12 @@
       ]
     },
     "relevance": {
-      "score": 65,
+      "score": 67,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -361,9 +357,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175437Z"
     ],

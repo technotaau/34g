@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
-    "accepted": 0,
+    "accepted": 4,
     "context": 0,
-    "review": 7,
+    "review": 3,
     "rejected": 0,
     "duplicates": 0,
     "claims": 8
@@ -28,8 +28,8 @@
       "source_ids": [
         "src_6c3af2e6feef",
         "src_d3b8463e062e",
-        "src_a2d2a4035eb8",
         "src_64e5e1430c8e",
+        "src_a2d2a4035eb8",
         "src_717f7c0d0947",
         "src_bccc82b19805",
         "src_3a4f0d2ee2d3"
@@ -40,8 +40,8 @@
       "source_ids": [
         "src_6c3af2e6feef",
         "src_d3b8463e062e",
-        "src_a2d2a4035eb8",
         "src_64e5e1430c8e",
+        "src_a2d2a4035eb8",
         "src_717f7c0d0947",
         "src_bccc82b19805",
         "src_3a4f0d2ee2d3"
@@ -304,51 +304,6 @@
   },
   "manual_review": [
     {
-      "id": "src_64e5e1430c8e",
-      "url": "https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/",
-      "title": "Ladera Village in Bikaner, Rajasthan | VillageInfo.in",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Ladera",
-        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
-      ]
-    },
-    {
-      "id": "src_a2d2a4035eb8",
-      "url": "https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html",
-      "title": "Ladera Village Population - Census 2011",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Ladera",
-        "strong geo context: ['Mahajan', 'Lunkaransar']",
-        "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-        "agent: village not directly named"
-      ]
-    },
-    {
-      "id": "src_6c3af2e6feef",
-      "url": "https://indiankanoon.org/doc/96063995/",
-      "title": "Kana Ram vs State Of Rajasthan",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Ladera",
-        "strong geo context: ['Mahajan', 'Lunkaransar']",
-        "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
-      ]
-    },
-    {
       "id": "src_d3b8463e062e",
       "url": "https://indiankanoon.org/doc/147633919/",
       "title": "Sunita vs State Of Rajasthan",
@@ -358,23 +313,7 @@
       "reasons": [
         "primary name match: Ladera",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Jamsar']",
-        "agent: village not directly named"
-      ]
-    },
-    {
-      "id": "src_717f7c0d0947",
-      "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/lalera-patta-mahajan.html",
-      "title": "Lalera Patta Mahajan Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "variant match: Lalera",
-        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
-        "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Jamsar']"
       ]
     },
     {
@@ -388,8 +327,7 @@
         "variant match: Lalera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['tehsil Bikaner']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['tehsil Bikaner']"
       ]
     },
     {
@@ -402,8 +340,7 @@
       "reasons": [
         "primary name match: Ladera",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
       ]
     }
   ],
@@ -417,12 +354,12 @@
       "published_date": "2025-12-04",
       "language": "en",
       "relevance": {
-        "score": 82,
+        "score": 84,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 10,
           "credibility": 14,
           "primary": 8,
           "corroboration": 0,
@@ -435,14 +372,13 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.65,
         "reasons": [
           "primary name match: Ladera",
           "strong geo context: ['Mahajan', 'Lunkaransar']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
         ],
         "matched_names": [
           "Ladera"
@@ -499,11 +435,11 @@
         "reasons": [
           "primary name match: Ladera",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Jamsar']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Jamsar']"
         ],
         "matched_names": [
-          "Ladera"
+          "Ladera",
+          "लाडेरा"
         ],
         "geo_hits": [
           "Bikaner",
@@ -530,12 +466,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 70,
+        "score": 72,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 10,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -548,17 +484,18 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.65,
         "reasons": [
           "primary name match: Ladera",
           "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
           "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
         ],
         "matched_names": [
-          "Ladera"
+          "Ladera",
+          "लाडेरा",
+          "लाडेरा बीकानेर"
         ],
         "geo_hits": [
           "Mahajan",
@@ -593,12 +530,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 70,
+        "score": 72,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 10,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -611,14 +548,13 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.65,
         "reasons": [
           "primary name match: Ladera",
           "strong geo context: ['Mahajan', 'Lunkaransar']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
         ],
         "matched_names": [
           "Ladera"
@@ -653,12 +589,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 68,
+        "score": 70,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 10,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -671,16 +607,17 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.65,
         "reasons": [
-          "variant match: Lalera",
+          "primary name match: Ladera",
           "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
           "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
-          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']"
         ],
         "matched_names": [
+          "Ladera",
+          "लाडेरा",
           "Lalera",
           "लालेरा",
           "Lalera Patta Mahajan",
@@ -740,8 +677,7 @@
           "variant match: Lalera",
           "strong geo context: ['Mahajan', 'Lunkaransar']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['tehsil Bikaner']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['tehsil Bikaner']"
         ],
         "matched_names": [
           "Lalera",
@@ -796,8 +732,7 @@
         "reasons": [
           "primary name match: Ladera",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-          "agent: village not directly named"
+          "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
         ],
         "matched_names": [
           "Ladera"

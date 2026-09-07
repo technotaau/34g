@@ -2,18 +2,18 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 1, पृष्ठभूमि (context) 4, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
+स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
 
 > Dhatarwal community history.
 
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 79 · समीक्षा हेतु)
+- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
   - Census2011.co.in की लूणकरणसर तहसील की आधिकारिक 125 गांवों/कस्बों की सूची में 'भानाबस्ती' नाम नहीं है। निकटतम मिलता-जुलता नाम 'Chak Bhanwariya' (क्रम संख्या 26) है, जो अलग गांव है। यह मैपऑफइंडिया के निष्कर्ष की पुष्टि करता है कि भानाबस्ती एक अलग जनगणना गांव के रूप में दर्ज नहीं है।
 - [Lunkaransar - Jatland Wiki](https://www.jatland.com/home/Lunkaransar) (community_wiki · text · तिथि अज्ञात · स्कोर 77)
   - Search-engine summary of Jatland content on Lunkaransar/Mahajan states that Bhanabasti was founded by/named after a person called Bhana, who was the tau (paternal uncle) of Nathu Dhatarwal. Direct fetch of the page was blocked (403/bot-check), so this could not be independently verified against the 
-- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
+- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 75)
   - MapsOfIndia की लूणकरणसर तहसील गांव सूची में 'भानाबस्ती'/'Bhanabasti' नाम नहीं मिला (सूची में 'Mahajan Fieldfiring Range' को स्वयं एक अलग प्रविष्टि के रूप में दिखाया गया है)। इससे संकेत मिलता है कि भानाबस्ती संभवतः एक स्वतंत्र राजस्व गांव नहीं बल्कि किसी अन्य गांव के अंतर्गत एक छोटी बस्ती/ढाणी है।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliamentary e-library catalog entry titled 'Mahajan Field Firing Range in Rajasthan' — likely a Lok Sabha/Rajya Sabha question or answer on the range. Full document body could not be retrieved via automated fetch (only the catalog title was accessible); it may contain a village-wise acquisition li
@@ -25,9 +25,9 @@
   - यह पेज बीकानेर जिले की तहसीलों का सारांश तालिका देता है, जिसमें लूनकरनसर तहसील में 139 गांव बताए गए हैं — जो विकिपीडिया/जनगणना के 125 के आंकड़े से भिन्न है। व्यक्तिगत गांवों के नाम इस पेज पर नहीं दिए गए (केवल सारांश तालिका)।
 
 ### यह कहां स्थित है?
-- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 79 · समीक्षा हेतु)
+- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
   - Census2011.co.in की लूणकरणसर तहसील की आधिकारिक 125 गांवों/कस्बों की सूची में 'भानाबस्ती' नाम नहीं है। निकटतम मिलता-जुलता नाम 'Chak Bhanwariya' (क्रम संख्या 26) है, जो अलग गांव है। यह मैपऑफइंडिया के निष्कर्ष की पुष्टि करता है कि भानाबस्ती एक अलग जनगणना गांव के रूप में दर्ज नहीं है।
-- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
+- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 75)
   - MapsOfIndia की लूणकरणसर तहसील गांव सूची में 'भानाबस्ती'/'Bhanabasti' नाम नहीं मिला (सूची में 'Mahajan Fieldfiring Range' को स्वयं एक अलग प्रविष्टि के रूप में दिखाया गया है)। इससे संकेत मिलता है कि भानाबस्ती संभवतः एक स्वतंत्र राजस्व गांव नहीं बल्कि किसी अन्य गांव के अंतर्गत एक छोटी बस्ती/ढाणी है।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliamentary e-library catalog entry titled 'Mahajan Field Firing Range in Rajasthan' — likely a Lok Sabha/Rajya Sabha question or answer on the range. Full document body could not be retrieved via automated fetch (only the catalog title was accessible); it may contain a village-wise acquisition li
@@ -39,7 +39,7 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Lunkaransar - Jatland Wiki](https://www.jatland.com/home/Lunkaransar) (community_wiki · text · तिथि अज्ञात · स्कोर 77)
   - Search-engine summary of Jatland content on Lunkaransar/Mahajan states that Bhanabasti was founded by/named after a person called Bhana, who was the tau (paternal uncle) of Nathu Dhatarwal. Direct fetch of the page was blocked (403/bot-check), so this could not be independently verified against the 
-- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
+- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) (website · dataset · तिथि अज्ञात · स्कोर 75)
   - MapsOfIndia की लूणकरणसर तहसील गांव सूची में 'भानाबस्ती'/'Bhanabasti' नाम नहीं मिला (सूची में 'Mahajan Fieldfiring Range' को स्वयं एक अलग प्रविष्टि के रूप में दिखाया गया है)। इससे संकेत मिलता है कि भानाबस्ती संभवतः एक स्वतंत्र राजस्व गांव नहीं बल्कि किसी अन्य गांव के अंतर्गत एक छोटी बस्ती/ढाणी है।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliamentary e-library catalog entry titled 'Mahajan Field Firing Range in Rajasthan' — likely a Lok Sabha/Rajya Sabha question or answer on the range. Full document body could not be retrieved via automated fetch (only the catalog title was accessible); it may contain a village-wise acquisition li
@@ -95,7 +95,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### सार्वजनिक सोशल मीडिया स्रोत (0)
 
 ### सरकारी / कानूनी अभिलेख (2)
-- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 79 · समीक्षा हेतु)
+- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
 
 ### समाचार (1)
@@ -131,14 +131,13 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
-- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) · flags: resolution_review · primary name match: Bhanabasti; strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']
-- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · flags: resolution_review · primary name match: Bhanabasti; strong geo context: ['Lunkaransar', 'लूणकरणसर']
+_कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
-- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · census_mirror · census_mirror · स्कोर 79 · रिज़ॉल्यूशन review (0.55) · खोज: Bhanabasti Lunkaransar Mahajan census village code panchayat
+- [List of all towns and Villages in Lunkaransar Tehsil of Bikaner district, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · census_mirror · census_mirror · स्कोर 83 · रिज़ॉल्यूशन accept (0.8) · खोज: Bhanabasti Lunkaransar Mahajan census village code panchayat
 - [Lunkaransar - Jatland Wiki](https://www.jatland.com/home/Lunkaransar) · jatland · community_wiki · स्कोर 77 · रिज़ॉल्यूशन accept (0.8) · खोज: Bhanabasti Lunkaransar Mahajan
-- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) · mapsofindia.com · website · स्कोर 71 · रिज़ॉल्यूशन review (0.55) · खोज: Bhanabasti Lunkaransar Mahajan
+- [Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html) · mapsofindia.com · website · स्कोर 75 · रिज़ॉल्यूशन accept (0.8) · खोज: Bhanabasti Lunkaransar Mahajan
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 55 · रिज़ॉल्यूशन context (0.5) · खोज: Bhanabasti "Mahajan Field Firing Range"
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 50 · रिज़ॉल्यूशन context (0.5) · खोज: Bhanabasti "Mahajan Field Firing Range"
 - [Lunkaransar](https://en.wikipedia.org/wiki/Lunkaransar) · wikipedia · encyclopedia · स्कोर 48 · रिज़ॉल्यूशन context (0.5) · खोज: Bhanabasti jatland OR wikipedia Lunkaransar

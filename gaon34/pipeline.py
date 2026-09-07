@@ -7,7 +7,7 @@ import re
 
 from .classify import LEXICON, classify_platform, classify_source_type, classify_media, classify_topics, classify_period, detect_language
 from .dedup import find_duplicates
-from .normalize import canonical_url
+from .normalize import canonical_url, contains_term
 from .registry import get_village
 from .resolve import resolve
 from .schema import SourceRecord, source_id, validate_agent_record, AGENT_OPTIONAL
@@ -121,6 +121,8 @@ def rebuild(slug: str, sources: dict | None = None) -> dict:
     for r in recs:  # re-run resolution so registry edits (new variants/negatives) take effect
         for c in r.get("claims", []):
             c["claim_key"] = canonical_claim_key(c.get("claim_key"))
+        if r.get("direct_mention") is False and any(contains_term(_strict_text(r), n) for n in village["all_names"]):
+            r["direct_mention"] = True  # a spelling added to the registry later now matches the title/evidence
         r["resolution"] = resolve(village, _text_of(r), r.get("direct_mention"), r.get("geo_mentions"), _strict_text(r))
         privacy_check(r)
     find_duplicates(recs)

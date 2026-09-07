@@ -679,7 +679,7 @@
       "Bikaner",
       "Rajasthan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "list of 125 villages documented... Kolana does not appear in this comprehensive census data"
@@ -715,16 +715,16 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Kolana",
         "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
       ],
       "matched_names": [
-        "Kolana"
+        "Kolana",
+        "कोलाणा"
       ],
       "geo_hits": [
         "Lunkaransar",
@@ -736,12 +736,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 75,
+      "score": 79,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -755,9 +755,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175504Z"
     ],
@@ -788,7 +786,7 @@
       "Kota district",
       "Pipalda"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Kolana (surname)",
     "evidence_snippets": [
       "a member of the 16th Rajasthan Assembly from Pipalda Assembly constituency of the Kota district"
@@ -823,16 +821,16 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Kolana",
         "strong geo context: ['लूणकरणसर']",
-        "district/nearby/clan context: ['बीकानेर']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['बीकानेर']"
       ],
       "matched_names": [
-        "Kolana"
+        "Kolana",
+        "कोलाणा"
       ],
       "geo_hits": [
         "लूणकरणसर",
@@ -843,12 +841,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 71,
+      "score": 75,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 9,
         "primary": 0,
         "corroboration": 0,
@@ -862,9 +860,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175504Z"
     ],

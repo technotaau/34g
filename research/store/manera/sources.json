@@ -683,7 +683,7 @@
       "Bikaner",
       "Mahajan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "The complete alphabetical listing spans from '1 LKD' through 'Udeshiyan' - no entry for Manera or Maneran."
@@ -721,17 +721,18 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Manera",
         "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner']"
       ],
       "matched_names": [
         "Manera",
-        "Maneran"
+        "मणेरां",
+        "Maneran",
+        "मणेरा"
       ],
       "geo_hits": [
         "Mahajan",
@@ -743,12 +744,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 75,
+      "score": 79,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -762,9 +763,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175424Z"
     ],

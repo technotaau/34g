@@ -932,7 +932,7 @@
       "Sardarshahar",
       "Churu"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Bhojrasar",
     "evidence_snippets": [
       "Bhojrasar is a village in Sardarshahar, Churu... total population of 2,063 people"
@@ -965,8 +965,7 @@
       "reasons": [
         "primary name match: Bhojrasar",
         "state-level context only",
-        "negative/other-place signals: ['Churu', 'Sardarshahar', 'Churu']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Churu', 'Sardarshahar', 'Churu']"
       ],
       "matched_names": [
         "Bhojrasar"

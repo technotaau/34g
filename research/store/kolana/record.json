@@ -15,9 +15,9 @@
   "built": "2026-09-07",
   "counts": {
     "sources_total": 7,
-    "accepted": 2,
+    "accepted": 4,
     "context": 3,
-    "review": 2,
+    "review": 0,
     "rejected": 0,
     "duplicates": 0,
     "claims": 10
@@ -378,36 +378,7 @@
       }
     ]
   },
-  "manual_review": [
-    {
-      "id": "src_b27fa43b7bd0",
-      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
-      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Kolana",
-        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "agent: village not directly named"
-      ]
-    },
-    {
-      "id": "src_9c7b2263ad6b",
-      "url": "https://en.wikipedia.org/wiki/Chetan_Patel_Kolana",
-      "title": "Chetan Patel Kolana",
-      "flags": [
-        "resolution_review"
-      ],
-      "reasons": [
-        "primary name match: Kolana",
-        "strong geo context: ['लूणकरणसर']",
-        "district/nearby/clan context: ['बीकानेर']",
-        "agent: village not directly named"
-      ]
-    }
-  ],
+  "manual_review": [],
   "sources": {
     "src_f525760f12bd": {
       "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
@@ -475,6 +446,62 @@
       "attribution": "Hindi Wikipedia user page, धतरवाल जाट, 2024",
       "is_primary": false
     },
+    "src_b27fa43b7bd0": {
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 79,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Kolana",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+        ],
+        "matched_names": [
+          "Kolana",
+          "कोलाणा"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
+      "is_primary": false
+    },
     "src_e6b1f74cf8ca": {
       "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html",
       "title": "Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
@@ -531,62 +558,6 @@
       "attribution": "MapsOfIndia.com",
       "is_primary": false
     },
-    "src_b27fa43b7bd0": {
-      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
-      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
-      "platform": "census_mirror",
-      "source_type": "census_mirror",
-      "media_type": "dataset",
-      "published_date": "2011",
-      "language": "en",
-      "relevance": {
-        "score": 75,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 8,
-          "credibility": 10,
-          "primary": 0,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 2,
-          "claims": 2,
-          "recency": 1,
-          "media": 0,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
-        "reasons": [
-          "primary name match: Kolana",
-          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "agent: village not directly named"
-        ],
-        "matched_names": [
-          "Kolana"
-        ],
-        "geo_hits": [
-          "Lunkaransar",
-          "लूणकरणसर",
-          "Bikaner",
-          "बीकानेर",
-          "Rajasthan"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "census_admin",
-        "displacement",
-        "military_range"
-      ],
-      "license": "",
-      "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
-      "is_primary": false
-    },
     "src_9c7b2263ad6b": {
       "url": "https://en.wikipedia.org/wiki/Chetan_Patel_Kolana",
       "title": "Chetan Patel Kolana",
@@ -596,12 +567,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 71,
+        "score": 75,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 8,
+          "resolution_conf": 12,
           "credibility": 9,
           "primary": 0,
           "corroboration": 0,
@@ -614,16 +585,16 @@
         }
       },
       "resolution": {
-        "decision": "review",
-        "confidence": 0.55,
+        "decision": "accept",
+        "confidence": 0.8,
         "reasons": [
           "primary name match: Kolana",
           "strong geo context: ['लूणकरणसर']",
-          "district/nearby/clan context: ['बीकानेर']",
-          "agent: village not directly named"
+          "district/nearby/clan context: ['बीकानेर']"
         ],
         "matched_names": [
-          "Kolana"
+          "Kolana",
+          "कोलाणा"
         ],
         "geo_hits": [
           "लूणकरणसर",

@@ -27,7 +27,7 @@
       "Bikaner district",
       "Lunkaransar Vidhan Sabha constituency"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Ladera",
     "evidence_snippets": [
       "village code of Ladera is 069062",
@@ -74,17 +74,18 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
       ],
       "matched_names": [
-        "Ladera"
+        "Ladera",
+        "लाडेरा",
+        "लाडेरा बीकानेर"
       ],
       "geo_hits": [
         "Mahajan",
@@ -103,12 +104,12 @@
       ]
     },
     "relevance": {
-      "score": 70,
+      "score": 72,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -122,9 +123,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -158,7 +157,7 @@
       "Bikaner district",
       "Rajasthan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Ladera",
     "evidence_snippets": [
       "Tehsil: Bikaner",
@@ -202,14 +201,13 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
       ],
       "matched_names": [
         "Ladera"
@@ -227,12 +225,12 @@
       ]
     },
     "relevance": {
-      "score": 70,
+      "score": 72,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -246,9 +244,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -280,7 +276,7 @@
       "Malasar",
       "Bikaner"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Village Ladera, Malasar, Bikaner",
     "evidence_snippets": [
       "Village Ladera, Malasar, Bikaner, (Raj)."
@@ -315,14 +311,13 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
       ],
       "matched_names": [
         "Ladera"
@@ -340,12 +335,12 @@
       ]
     },
     "relevance": {
-      "score": 82,
+      "score": 84,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 14,
         "primary": 8,
         "corroboration": 0,
@@ -359,9 +354,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -393,7 +386,7 @@
       "Jamsar",
       "Bikaner"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Ladera, Jamsar, Bikaner",
     "evidence_snippets": [
       "Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner"
@@ -441,11 +434,11 @@
       "reasons": [
         "primary name match: Ladera",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Jamsar']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Jamsar']"
       ],
       "matched_names": [
-        "Ladera"
+        "Ladera",
+        "लाडेरा"
       ],
       "geo_hits": [
         "Bikaner",
@@ -511,7 +504,7 @@
       "Suratgarh",
       "Bikaner district"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Lalera Patta Mahajan (लालेरा पट्टा महाजन)",
     "evidence_snippets": [
       "Lalera Patta Mahajan is a village in Lunkaransar tehsil",
@@ -552,16 +545,17 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.65,
       "reasons": [
-        "variant match: Lalera",
+        "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']"
       ],
       "matched_names": [
+        "Ladera",
+        "लाडेरा",
         "Lalera",
         "लालेरा",
         "Lalera Patta Mahajan",
@@ -582,12 +576,12 @@
       ]
     },
     "relevance": {
-      "score": 68,
+      "score": 70,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 10,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -601,9 +595,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -634,7 +626,7 @@
       "Lunkaransar tehsil",
       "Bikaner district"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Lalera Patta Mahajan",
     "evidence_snippets": [
       "Lalera Patta Mahajan Village (Lunkaransar, Bikaner, Rajasthan) – Population 2011, Pincode 334604"
@@ -668,8 +660,7 @@
         "variant match: Lalera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['tehsil Bikaner']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['tehsil Bikaner']"
       ],
       "matched_names": [
         "Lalera",
@@ -738,7 +729,7 @@
       "Bikaner tehsil",
       "Bikaner district"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "Ladera",
     "evidence_snippets": [
       "Ladera Google map shows the location of Ladera village under Bikaner, Bikaner of Rajasthan state"
@@ -771,8 +762,7 @@
       "reasons": [
         "primary name match: Ladera",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
-        "agent: village not directly named"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
       ],
       "matched_names": [
         "Ladera"

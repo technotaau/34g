@@ -33,20 +33,20 @@
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 82)
   - रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि अधिग्रहित की; घर, पेड़, कृषि भूमि का मुआवजा; खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में कृषि भूमि आवंटन।
-- [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
-  - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 80)
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
+- [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
+  - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
 - [State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71](https://indiankanoon.org/doc/38464/) (legal · document · 1997-01-06 · स्कोर 74)
   - 1985 की अधिसूचना: बारानी भूमि 300 रुपये प्रति बीघा, IGNP कमांड भूमि आरक्षित मूल्य के दोगुने पर; 2 बीघा बारानी = 1 बीघा कमांड।
 - [Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017](https://indiankanoon.org/doc/174753246/) (legal · document · 2017-01-24 · स्कोर 71)
   - भूमि 1982 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित; अवार्ड पारित; भारत सरकार के नाम दर्ज।
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
   - महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) (news · text · 2025-02-14 · स्कोर 53 · समीक्षा हेतु)
   - 148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।
 - [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) (community_wiki · text · तिथि अज्ञात · स्कोर 51)

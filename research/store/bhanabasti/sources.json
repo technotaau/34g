@@ -527,7 +527,7 @@
       "Mahajan",
       "Mahajan Field Firing Range"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "'Bhanabasti' does not appear on this list."
@@ -565,16 +565,16 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Bhanabasti",
         "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner']"
       ],
       "matched_names": [
-        "Bhanabasti"
+        "Bhanabasti",
+        "भानाबस्ती"
       ],
       "geo_hits": [
         "Mahajan",
@@ -587,12 +587,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 71,
+      "score": 75,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 7,
         "primary": 0,
         "corroboration": 0,
@@ -606,9 +606,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175559Z"
     ],
@@ -639,7 +637,7 @@
       "Lunkaransar",
       "Bikaner"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "A thorough review of all village names from entry #1 through #125 shows no mention of Bhanabasti."
@@ -682,16 +680,16 @@
       }
     ],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Bhanabasti",
         "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
-        "district/nearby/clan context: ['Bikaner']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner']"
       ],
       "matched_names": [
-        "Bhanabasti"
+        "Bhanabasti",
+        "भानाबस्ती"
       ],
       "geo_hits": [
         "Lunkaransar",
@@ -702,12 +700,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 79,
+      "score": 83,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 10,
         "primary": 0,
         "corroboration": 3,
@@ -721,9 +719,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175559Z"
     ],

@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 1, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 19
+स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 19
 
 > Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude. Family in the Akshay Godara vlog now lives at Sherpura (Lunkaransar tehsil); video tags use 'Berwala' too.
 
@@ -11,13 +11,13 @@
 ### यह गांव क्या है?
 - [My family visited Berawala Village, Mahajan Firing Field Range (MFFR) (Vlog 0)](https://www.youtube.com/watch?v=a37vCzQOq4o) (video · video · 2022-02-18 · स्कोर 94) · लाइसेंस: Standard YouTube licence (all rights reserved by uploader); embed permitted via YouTube player
   - अक्षय गोदारा का 7:37 मिनट का पारिवारिक व्लॉग: परिवार महाजन फील्ड फायरिंग रेंज के अंदर अपने पैतृक गांव बेरावाला के खंडहर देखने गया। विवरण में बेरावाला को रेंज के 34 गांवों में से एक बताया गया है; रेंज का अधिग्रहण 1984 और क्षेत्रफल 3.37 लाख एकड़ लिखा है। दर्शकों के अनुसार वीडियो में नानी की भावुक यादे
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 75 · समीक्षा हेतु)
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
   - इस पृष्ठ पर लूणकरणसर तहसील, बीकानेर के सभी 125 गांवों की सूची है (जनगणना 2011 आधारित)। इस सूची में 'Berawala' या 'Berwala' नाम का कोई गांव नहीं मिला, जो इस बात का संकेत हो सकता है कि यह अब एक स्वतंत्र जनगणना गांव के रूप में सूचीबद्ध नहीं है।
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 42 · पृष्ठभूमि स्रोत)
   - 'Mahajan Fieldfiring Range' is itself registered as a distinct revenue/census village (also seen as village code 69202 on localbodydata.com and mapped on mapsofindia.com and geoiq.io) within Lunkaransar tehsil, Bikaner. This administrative entity likely covers land that once held Berawala and other 
 
 ### यह कहां स्थित है?
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 75 · समीक्षा हेतु)
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
   - इस पृष्ठ पर लूणकरणसर तहसील, बीकानेर के सभी 125 गांवों की सूची है (जनगणना 2011 आधारित)। इस सूची में 'Berawala' या 'Berwala' नाम का कोई गांव नहीं मिला, जो इस बात का संकेत हो सकता है कि यह अब एक स्वतंत्र जनगणना गांव के रूप में सूचीबद्ध नहीं है।
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 42 · पृष्ठभूमि स्रोत)
   - 'Mahajan Fieldfiring Range' is itself registered as a distinct revenue/census village (also seen as village code 69202 on localbodydata.com and mapped on mapsofindia.com and geoiq.io) within Lunkaransar tehsil, Bikaner. This administrative entity likely covers land that once held Berawala and other 
@@ -80,7 +80,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### सार्वजनिक सोशल मीडिया स्रोत (0)
 
 ### सरकारी / कानूनी अभिलेख (2)
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 75 · समीक्षा हेतु)
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 42 · पृष्ठभूमि स्रोत)
 
 ### समाचार (2)
@@ -122,13 +122,12 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · flags: resolution_review · primary name match: Berawala; strong geo context: ['Lunkaransar', 'लूणकरणसर']
 - [Sherpura Bikaner - शेरपुरा बीकानेर](https://www.jatland.com/home/Sherpura_Bikaner) · flags: low_relevance · village name not found in captured text; strong geo context: ['Mahajan', 'Lunkaransar']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [My family visited Berawala Village, Mahajan Firing Field Range (MFFR) (Vlog 0)](https://www.youtube.com/watch?v=a37vCzQOq4o) · youtube · video · स्कोर 94 · रिज़ॉल्यूशन accept (0.8) · खोज: Berawala Village Mahajan Firing Range (YouTube search)
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · census_mirror · census_mirror · स्कोर 75 · रिज़ॉल्यूशन review (0.55) · खोज: Berawala Lunkaransar census village code panchayat
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) · census_mirror · census_mirror · स्कोर 79 · रिज़ॉल्यूशन accept (0.8) · खोज: Berawala Lunkaransar census village code panchayat
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 46 · रिज़ॉल्यूशन context (0.5) · खोज: बेरावाला महाजन फायरिंग रेंज विस्थापित
 - [बीकानेर : फायरिंग रेंज में जाना पड़ा महंगा, ग्वाला गोली से घायल](https://www.patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913) · patrika · news · स्कोर 44 · रिज़ॉल्यूशन context (0.5) · खोज: बेरावाला महाजन फायरिंग रेंज विस्थापित
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) · census_mirror · census_mirror · स्कोर 42 · रिज़ॉल्यूशन context (0.5) · खोज: Akshay Godara Berawala Mahajan firing range vlog village

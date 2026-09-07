@@ -684,7 +684,7 @@
       "Bikaner",
       "Mahajan"
     ],
-    "direct_mention": false,
+    "direct_mention": true,
     "name_form_matched": "",
     "evidence_snippets": [
       "Khanisar Tank firing range is listed among the facilities and areas within the Mahajan Field Firing Range complex"
@@ -716,13 +716,12 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "review",
-      "confidence": 0.55,
+      "decision": "accept",
+      "confidence": 0.8,
       "reasons": [
         "primary name match: Khanisar",
         "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
-        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
       ],
       "matched_names": [
         "Khanisar"
@@ -742,12 +741,12 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 69,
+      "score": 73,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 8,
+        "resolution_conf": 12,
         "credibility": 7,
         "primary": 0,
         "corroboration": 0,
@@ -761,9 +760,7 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [
-      "resolution_review"
-    ],
+    "review_flags": [],
     "runs": [
       "run_20260905T175448Z"
     ],

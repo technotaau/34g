@@ -374,8 +374,7 @@
       ],
       "reasons": [
         "primary name match: Kumbhana",
-        "district/nearby/clan context: ['Rathore']",
-        "agent: village not directly named"
+        "district/nearby/clan context: ['Rathore']"
       ]
     }
   ],
@@ -587,11 +586,11 @@
         "confidence": 0.55,
         "reasons": [
           "primary name match: Kumbhana",
-          "district/nearby/clan context: ['Rathore']",
-          "agent: village not directly named"
+          "district/nearby/clan context: ['Rathore']"
         ],
         "matched_names": [
-          "Kumbhana"
+          "Kumbhana",
+          "Kumbhana thikana"
         ],
         "geo_hits": [
           "Rathore",
