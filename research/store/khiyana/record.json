@@ -20,7 +20,7 @@
     "review": 1,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 12
+    "claims": 18
   },
   "questions": {
     "what": {
@@ -60,6 +60,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_bf43bd9c771a",
         "src_587f45f5d5d9",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -79,10 +80,10 @@
       "source_ids": [
         "src_d816c2b00dd1",
         "src_f8ed99a1785c",
-        "src_bf43bd9c771a",
+        "src_da33d836896a",
         "src_654585ebcb8b",
         "src_58181afd64a7",
-        "src_da33d836896a",
+        "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
         "src_a6f66da51d72",
@@ -94,10 +95,10 @@
       "source_ids": [
         "src_d816c2b00dd1",
         "src_f8ed99a1785c",
-        "src_bf43bd9c771a",
+        "src_da33d836896a",
         "src_654585ebcb8b",
         "src_58181afd64a7",
-        "src_da33d836896a",
+        "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
         "src_a6f66da51d72",
@@ -107,6 +108,7 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
+        "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_a5150b8b1d53",
         "src_c37d5179aabc"
@@ -125,12 +127,12 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
-        "src_bf43bd9c771a",
         "src_f8ed99a1785c",
         "src_d816c2b00dd1",
         "src_da33d836896a",
         "src_58181afd64a7",
         "src_654585ebcb8b",
+        "src_bf43bd9c771a",
         "src_12fb097b02c4",
         "src_a30396979513"
       ]
@@ -174,10 +176,14 @@
       "Bajrang Lal Lakhotia",
       "Bhinya Ram Roj",
       "Kalu Dhatarwal",
+      "Kanu (Muslim chief of the 12 villages, legend)",
+      "Karni Mata (in the legend)",
       "Kola",
       "Malu",
+      "Nathu Dada (Dhatarwal folk deity)",
       "Nathu Dhatarwal",
       "Raju Ram Sharma",
+      "temple pujari (narrator, in yellow)",
       "खिंया जी (Khiyaji)",
       "नाथू दादा (Nathu Dada)"
     ],
@@ -190,10 +196,12 @@
       "Duder",
       "Khajuwala",
       "Khanisar",
+      "Kharbara",
       "Kheenyera",
       "Khinyera",
       "Khinyera Gram Panchayat",
       "Khiyana",
+      "Khiyana Dham / Nathu Dada temple",
       "Kolana",
       "Kumbhana",
       "Lunkaransar",
@@ -203,15 +211,21 @@
       "Mohangarh",
       "Motlai",
       "Nachna",
+      "Nathu Dada samadhi",
       "Pugal",
       "Rajasthan",
-      "Thoiyan"
+      "Soolera (start of the drive)",
+      "Takhtpura (visitor's village)",
+      "Thoiyan",
+      "lime pond of Nathu Dada's time"
     ],
     "events": [
       "1984-85 land acquisition",
+      "Annual Nathu Dada fair with night jagran (Sept 2024)",
       "Census 2011",
       "Mahajan Field Firing Range creation",
       "annual Nathu Dada memorial festival",
+      "bike stunt challenge on the dune (morning after)",
       "joint exercises with USA, France, Russia, UK, Oman",
       "नाथूदादा का देहावसान (VS 1444 / 1387 CE)"
     ],
@@ -482,6 +496,132 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_fair_frequency_e8b46534",
+        "claim_key": "fair_frequency",
+        "value": "once a year",
+        "statement_hi": "नाथू दादा का मेला खिंयाणा धाम में साल में एक बार लगता है और 34 गांवों के लोग आते हैं",
+        "statement_en": "The Nathu Dada fair at Khiyana Dham is held once a year and people of the 34 villages attend",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "A fair is held here only once a year ... there were 34 villages in this area, come here in large numbers"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_status_b63e517f",
+        "claim_key": "village_status",
+        "value": "demolished; only scattered ruins of mud houses",
+        "statement_hi": "खिंयाणा गांव आज नहीं है, कहीं-कहीं मिट्टी के घरों के अवशेष दिखते हैं",
+        "statement_en": "Khiyana village no longer exists; scattered ruins of mud houses remain",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "Khiyana village doesn't exist today, it's all been demolished"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_nathu_dada_legend_e79380b5",
+        "claim_key": "nathu_dada_legend",
+        "value": "well found overnight by Karni Mata's grace; horse ride bounded the 12 villages; Kanu fled to Kharbara; samadhi where his bier stopped",
+        "statement_hi": "पुजारी की कथा: करणी माता के स्वप्न से रातों-रात कुआँ; घोड़े की रात-भर की दौड़ से 12 गांवों की सीमा; कानू खारबारा चला गया; जहाँ शव-वाहन रुका वहीं समाधि",
+        "statement_en": "Priest's telling: overnight well by Karni Mata's grace; a night's horse ride bounded the 12 villages; Kanu fled to Kharbara; samadhi where his bier stopped",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "wherever my vehicle stops that is my samadhi ... the samadhi of Nathu Dada is here"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_nathu_dada_water_works_119ff307",
+        "claim_key": "nathu_dada_water_works",
+        "value": "well dug at Khiyana in Nathu Dada's time; lime-built pond survives",
+        "statement_hi": "नाथू दादा के समय का कुआँ और चूने से बना बड़ा तालाब आज भी है",
+        "statement_en": "A well from Nathu Dada's time and a large lime-built pond survive",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "a huge pond made of lime from Nathu Dada's time"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_distance_soolera_to_temple_km_0ade7c2c",
+        "claim_key": "distance_soolera_to_temple_km",
+        "value": "9",
+        "statement_hi": "सुलेरा से कच्चे रास्ते से मंदिर लगभग 9 किमी",
+        "statement_en": "About 9 km of dirt road from the Soolera side to the temple",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "9 kilometres from here Nathu Dada temple"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_fair_night_jagran_bce5cb59",
+        "claim_key": "fair_night_jagran",
+        "value": "yes, with bhandara and devotees sleeping on the dunes",
+        "statement_hi": "मेले में रात्रि जागरण और भंडारा होता है; श्रद्धालु धोरों पर सोते हैं",
+        "statement_en": "The fair has a night jagran and free food; devotees sleep on the dunes",
+        "sources": [
+          "src_bf43bd9c771a"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_bf43bd9c771a",
+            "text": "preparations are underway for the jagran ... we'll sleep here on top of a high sand dune and watch the jagran"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -499,65 +639,6 @@
     }
   ],
   "sources": {
-    "src_bf43bd9c771a": {
-      "url": "https://www.youtube.com/watch?v=YGDc75dU39g",
-      "title": "Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2024-09-27",
-      "language": "hi",
-      "relevance": {
-        "score": 88,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 6,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "primary name match: खिंयाणा",
-          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']"
-        ],
-        "matched_names": [
-          "खिंयाणा",
-          "खिंयाणा धाम",
-          "खियाणा"
-        ],
-        "geo_hits": [
-          "Mahajan",
-          "महाजन",
-          "Lunkaransar",
-          "Nathu Dada",
-          "नाथू दादा",
-          "खिंयाणा धाम",
-          "Rajasthan",
-          "राजस्थान"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "culture",
-        "media_visual",
-        "religion_temple"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "Shubh Journey, YouTube, 2024, https://www.youtube.com/watch?v=YGDc75dU39g",
-      "is_primary": true
-    },
     "src_f8ed99a1785c": {
       "url": "https://www.youtube.com/watch?v=S3RMmydQupE",
       "title": "Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926",
@@ -837,6 +918,79 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=gTBzm76BYSE",
+      "is_primary": true
+    },
+    "src_bf43bd9c771a": {
+      "url": "https://www.youtube.com/watch?v=YGDc75dU39g",
+      "title": "Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-27",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 6,
+          "recency": 3,
+          "media": 3,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.65,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Soolera', 'सुलेरा', 'Godara']",
+          "negative/other-place signals: ['Jodhpur']"
+        ],
+        "matched_names": [
+          "Khiyana",
+          "खिंयाणा",
+          "खिंयाणा धाम",
+          "खियाणा",
+          "Khiyana Dham"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Nathu Dada",
+          "नाथू दादा",
+          "Khiyana Dham",
+          "खिंयाणा धाम",
+          "Soolera",
+          "सुलेरा",
+          "Godara",
+          "Rajasthan",
+          "राजस्थान"
+        ],
+        "negative_hits": [
+          "Jodhpur"
+        ]
+      },
+      "topics": [
+        "culture",
+        "land_agriculture",
+        "media_visual",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Shubh Journey, YouTube, 2024, https://www.youtube.com/watch?v=YGDc75dU39g",
       "is_primary": true
     },
     "src_12fb097b02c4": {
@@ -1694,6 +1848,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 18,
       "at": "2026-09-07T14:02:17.573977+00:00"
+    },
+    {
+      "run_id": "run_20260907T150009Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_YGDc75dU39g.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-07T15:00:09.655403+00:00"
+    },
+    {
+      "run_id": "run_20260907T150546Z",
+      "file": "research/inbox/khiyana/video_YGDc75dU39g.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YGDc75dU39g on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-07T15:05:47.479223+00:00"
     }
   ]
 }

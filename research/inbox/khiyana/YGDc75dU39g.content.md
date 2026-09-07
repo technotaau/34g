@@ -1,0 +1,303 @@
+# Video content notes: YGDc75dU39g.mp4
+Duration: 26:15
+
+## Burned-in subtitles (OCR)
+_none detected_
+
+## Speech (Whisper)
+Language: hi (1)
+- [00:00–00:30] तो भ्रोच, आपनेद आपनी अप्रुच, दुओ़ को विलग, मैं नत्मथा दुछ थी ईदेते है. उन गँए ना इ सांब है, फ्रेदी, आपनिदा दॊच, बरद आपनाह, आपनाद को आपनी चाछाच काछाच के जानने भाल में उप्रुच, दिनिस मैं फ़ुद वों�
+- [00:30–00:32] भिलग अउड़िस, आल्ची ज़़ चिन्जा ज़नात आीत नहीं ज़़ना सूँ च्यए नहीं,.
+- [00:32–00:35] टो लोग या वत विलग क्या, और भी भी, आो से च्यागगा लए च्रित, जी सब छितए वो ज़ा,
+- [00:35–00:36] तो साचो लेगे लगे ज़ा मेंक सनेंचा अजदीजा खदा.
+- [00:36–00:41] आप और तो भीट मैं और दरे हैं यत मैंगा।
+- [00:41–00:53] अप से ध्लान स stitched on the back of it there used to be a village called
+- [00:53–01:03] कि आन आND बिक्नेद नpool
+- [01:03–01:10] भे और रोगा वे нीणी भास दि Fazh lane rah Term 곧ल थ bare
+- [01:10–01:19] मैंगे मेंगन्यार्य अगर जी मगरेत गादा कीना कीना पीदवोंगा अगर से नीग़ा लगेपिनार्य ख़ेद कादा कीना भीसे आगर थो आपकोंगी लिएक हैं।
+- [01:19–01:24] तुछ क्यान अदाम नाथु ड़ईईईईईईईईईईईईईईईईईईई.
+- [01:24–01:29] तूफ वो आझा, वो अगर लगा स्बनावन पादन लगा नाथ, वो और नहीं गगे जब कईगाशी न ँद्जर के और दे,
+- [01:29–01:32] You don't make the clay for making pots.
+- [01:32–01:35] Do potters make it or do you get it from our homes?
+- [01:35–01:37] How do you know we're not kumars?
+- [01:37–01:40] No, you don't think you make pots.
+- [01:40–01:43] Well, I think the clay here was very famous in the past.
+- [01:43–01:47] For making pots, it's very cold, the water is very cold.
+- [01:47–01:50] Even today, moneylenders and others take it from the site.
+- [01:50–01:52] Where do they get the clay from?
+- [01:52–01:56] There's a nearby village called Kodli, called Kodia village.
+- [01:56–01:58] दन मेंलात, मैसकilyn देत् пиш scenario clear
+- [01:58–02:10] गो � now there's not enough clay, if we take it, there won't be any left ,there won't be any rainwater won't collect in the pond here
+- [02:10–02:13] क हैनिनएी जाँ फ़डी, और में जार सेे जोगे बनने के मी च् bean pool are there in the village
+- [02:16–02:19] बब़ा meeskayah
+- [02:19–02:23] पूट़़ देखिर की मुतारटोकी विलेज, और चलतुब यह आनावारी बयूज.
+- [02:23–02:24] विलेझ की में शाकना का लाई माँत.
+- [02:24–02:30] आदलोट की माँत, विलेज की विलोटे अगा माँत से चूलाचाड.
+- [02:30–02:34] वो आदलोट देखि़ की विल तेरीभ गृ Sleepd to Dont So, friends, look at this beautiful village pond where the animals are drinking water.
+- [02:34–02:38] कहदीच कादा कि सबकेत है, लिुग को क्श्र होगे आप सबते ह।
+- [02:40–02:43] लगी मुनही की आप सब कि आप जाँचा यापूसे है, रव सब लगी आप सब कोगे जाचात सब कोगे नास के home.
+- [02:43–03:32] ಎಮೋಾಁಮ್ನುಳುಶ ಠ್ರೂಟಿ ಬಾಡಿಕಿ ಮಿಕು ಑ಲ್ನೆ ಕ್ತಿ ಕ್ತೆರ ವುಕ್ಮಿಟ್ತಾ ಎಶ ರ್ದಾನು ಕ೗ರನಿ ಬಾತೆ ರವರಿಲಿರಿರಿ ಬವರಿಕ್ ಸನೇಾಕ್ತಾರಿ ನು ರವರಿಲಲಿ ಪಲಯಗಿಲಿವರರೂ ಬ�
+- [03:32–03:35] ुश्भाए बिक्नर ।
+- [03:35–03:40] ।
+- [03:40–03:41] ।
+- [03:41–03:46] ।
+- [03:46–03:48] ॥।
+- [03:48–03:50] ।
+- [03:50–03:52] ।
+- [03:52–03:55] ।
+- [03:55–03:56] ।
+- [03:56–03:59] ।
+- [03:59–04:00] ।
+- [04:00–04:01] ।
+- [04:01–04:03] ।
+- [04:03–04:04] ।
+- [04:04–04:05] ।
+- [04:05–04:09] आप लोग of cows, brother, animal husbandry is very prevalent in these villages.
+- [04:10–04:11] What is this?
+- [04:11–04:13] The village cows are coming into the area.
+- [04:13–04:15] We are also going ahead on this side.
+- [04:15–04:16] Attention, attention.
+- [04:16–04:17] What is that thing there?
+- [04:17–04:19] Virgy, this is the first time I have seen this.
+- [04:19–04:20] So, attention.
+- [04:20–04:22] Why is it tied like this, brother?
+- [04:24–04:25] It is you.
+- [04:25–04:26] Who knows?
+- [04:26–04:28] It is tied like this with wood.
+- [04:33–04:36] Finally, we crossed the dirt road and reached the road.
+- [04:36–04:39] And look, there are so many keeps on both sides.
+- [04:39–04:42] There are so many keeps, brother, 9 kilometers from here.
+- [04:42–04:44] नाथु धाडा तेमपल is being told.
+- [04:44–04:46] And which village is this?
+- [04:47–04:48] कियाना, कियाना.
+- [04:48–04:50] So, papa is going to कियाना डाम.
+- [04:50–04:52] We are going to कियाना डाम.
+- [04:52–04:54] Let me share a story with you.
+- [04:54–04:57] When I was a child, I was barely 5 or 6 years old.
+- [04:57–05:01] At that time, my maternal grandparents house was गोसे सार.
+- [05:01–05:03] From there, we went to Rainer.
+- [05:03–05:05] Rainer means Chattar Gar side.
+- [05:05–05:08] Then my maternal uncle took me there on a camel cart.
+- [05:09–05:11] We went through this area on a camel cart.
+- [05:13–05:15] This would be from the middle of the elevated village.
+- [05:15–05:20] I don't know, around 1996 or 97 or 95, yes, 95.
+- [05:20–05:22] Let's say it was around that time.
+- [05:22–05:25] So I saw this area then.
+- [05:26–05:29] We went on a camel cart after walking all day and night.
+- [05:30–05:42] Look, we've reached कियाना village, but कियाना village doesn't exist today.
+- [05:42–05:43] It's all been demolished.
+- [05:43–05:45] Roons of the village can be seen somewhere.
+- [05:45–05:49] But in earlier times, there were mud houses and even those are rare.
+- [05:49–05:52] See, village isn't like this.
+- [05:52–05:55] Look, there are so many shops going around the fair.
+- [05:55–05:58] And we're probably the first customers of this brother on the way.
+- [05:58–06:00] Yes, sir, brother, you're the first customer.
+- [06:00–06:03] Yes, brother, where are you from to set up shop?
+- [06:03–06:05] Brother, from Hanumangarh, from Hanumangarh.
+- [06:05–06:09] Jainathu Dada, Jainathu, we're drinking, phalluda.
+- [06:09–06:13] That's what we're all about.
+- [06:13–06:15] We're a little educated.
+- [06:15–06:18] Yes, in the past, there were mud houses.
+- [06:18–06:21] Where do the remains of mud houses stand?
+- [06:21–06:24] A fair is held here only once a year.
+- [06:24–06:26] Today, I'm fortunate to see it.
+- [06:26–06:30] Brother, Nathu Dada Baba Temple is Nathu Baba.
+- [06:30–06:33] Yes, Dada, Baba, right Dada.
+- [06:34–06:36] This is the fair ground in the temple.
+- [06:36–06:39] And on this side, the Nathu Dada Temple.
+- [06:40–06:42] We reached Nathu Dada Temple.
+- [06:42–06:44] The water tankers are full.
+- [06:44–06:46] The water arrangements are excellent.
+- [06:46–06:49] There's also a pond here, filled with water from the rains.
+- [06:49–06:51] A lot of pedestrians have come.
+- [06:51–06:54] There's going to be a lot of food distribution here at night.
+- [06:54–06:57] Preparations are underway for the jagran as well.
+- [06:57–07:00] There are specialists, food distribution specialists.
+- [07:00–07:02] We both are food distribution specialists.
+- [07:02–07:05] We can tell you exactly which one is the best.
+- [07:05–07:07] What's there?
+- [07:07–07:10] People from the villages around Lankhur and Sur.
+- [07:10–07:12] And especially the villages here.
+- [07:12–07:14] There were 34 villages in this area.
+- [07:14–07:16] Come here in large numbers to visit.
+- [07:16–07:21] One rupee.
+- [07:22–07:24] Oh, Ram Ram.
+- [07:24–07:26] Okay, will you watch the video?
+- [07:26–07:28] Okay, which village did you come to?
+- [07:28–07:29] Badwa Badwa?
+- [07:29–07:31] Yes, I went to Badwa last year.
+- [07:31–07:33] 2 or 3 years ago.
+- [07:33–07:36] Brother, preparations are underway for this Nathu Dada G temple fair.
+- [07:36–07:40] People from the surrounding villages, especially most of them, are farmers.
+- [07:40–07:42] So, there are a lot of farmer related shops inside the fair.
+- [07:42–07:45] Let's take a look at the entire fair and see all the shops around here.
+- [07:45–07:49] We are thinking of placing our vehicle on top of this Rayat's compartment, brother.
+- [07:49–07:52] The entire view of the night vigil will be visible from here.
+- [07:52–07:55] The shops have started getting decorated inside the fair.
+- [07:55–07:58] Brother, this is Pethakachori.
+- [07:59–08:01] Ruwat sir, ruwat sir.
+- [08:01–08:05] एक सोच बावा क़ी नहीं दवी खनणेए पहली लिए चान के ज़ी ड़़ी है वो आग्रने बनगभा आग्रने ज़ी विलगाी च़ाँ फाप inspecting ,
+- [08:05–08:07] ु.
+- [08:07–08:09] ु.
+- [08:09–08:21] ।.
+- [08:21–08:23] ।.
+- [08:23–08:25] ।.
+- [08:25–08:27] ।.
+- [08:27–08:29] ।.
+- [08:29–08:31] ।.
+- [08:31–08:33] ।.
+- [08:33–08:42] time is ready, 38 years, it was around 80 to 90, from
+- [08:42–08:46] where I started the video, Salera was a nearby village
+- [08:46–08:51] and people from 34 villages are coming here, especially to the fair
+- [08:51–08:54] as we're learning, I'm here for the first time
+- [08:54–08:59] we're going inside the temple to have Darshan brother, Jay
+- [08:59–09:04] nathu.a jai ho
+- [09:04–09:07] ram ram ram ram
+- [09:07–09:09] you have reached the village of Atka Kadila
+- [09:09–09:13] which village is Baawala Baawala look he also had a village here
+- [09:13–09:16] one of the 34 villages in this area he has a house till now but the
+- [09:16–09:21] remains of the mud house are not visible there might be no remains
+- [09:21–09:24] there are remains of the house in the village go and see sometime
+- [09:24–09:37] see you have just come on which road was the time of my birth jay nathu.a jai
+- [09:37–09:42] look it was his duty to protect the cows he protected the cows
+- [09:42–09:46] yes but here there was a problem of water
+- [09:46–09:52] yes he solved the problem of water well with the help of his favorite goddess
+- [09:52–09:55] karni yes karni mata he built a well overnight
+- [09:55–10:01] a well was built overnight well there was a huge shortage of water well
+- [10:01–10:05] and here a muslim named kanu lived well
+- [10:05–10:08] which means that he had control over the 12 villages that were settled
+- [10:08–10:13] here again and again well at that time there was the rule of kings
+- [10:13–10:16] there was rule and taxes had to be paid yes
+- [10:16–10:20] and they used to appoint a chieftain to collect taxes but you used to raise us
+- [10:20–10:24] and make us a good farmer there was a man named Gadara in the village
+- [10:24–10:29] yes he was given this priority well now he wasn't given anything
+- [10:29–10:33] okay when we reached there dotry had come from the village right yes
+- [10:33–10:37] yes i had come along with him okay and gradually we reached the forest
+- [10:37–10:41] village okay there was a scarcity of water there and there was only one well for
+- [10:41–10:46] drinking water okay there was only one well okay and the entire forest village in
+- [10:46–10:50] that too their thirst was not quenched by one well
+- [10:50–10:54] okay and with them there were many people yes there were many animals and
+- [10:54–10:59] everyone was thirsty for water they all came to the well with pots of water
+- [10:59–11:03] when they reached the well the forest villagers sent them all back
+- [11:03–11:07] there was no water then nathu dada took out water from there
+- [11:07–11:11] okay now they all went to him and said you have brought it yes
+- [11:11–11:15] now we will die after 30 days okay so he said it's no problem
+- [11:15–11:19] you go to sleep okay no problem okay now after sleeping
+- [11:19–11:22] i told him that while he was sleeping at night this goddess
+- [11:22–11:26] karni motto appeared to him yeah karni motto probably indicated
+- [11:26–11:30] that there is a well below where he was sleeping okay so
+- [11:30–11:35] he gathered everyone together and holding hands though well was dubbed
+- [11:35–11:39] everyone extracted water like this and when they woke up in the morning
+- [11:39–11:43] just like when a well is plowed then a voice comes
+- [11:43–11:50] shaw okay come let come let come let come loud noises were coming like this
+- [11:50–11:53] now the villagers heard this then everyone went there and said what's
+- [11:53–11:56] the matter they saw there the water was running black it was running
+- [11:56–12:02] black now everyone was there that band village also came to bear in village to get
+- [12:02–12:06] water now ghadar was there he thought this man is very accomplished
+- [12:06–12:13] so how can i get him to join me so he told him that i have a daughter
+- [12:13–12:17] i will marry my daughter to you so he said that when the daughter studies
+- [12:17–12:20] there will be a place to sit okay there is no place to sit
+- [12:20–12:25] the place is good so they had a mayor they had a
+- [12:25–12:30] mayor they told him that whatever area your mayor goes in during the night
+- [12:30–12:36] that area is yours okay
+- [12:36–12:40] that area is yours and this side was said that this is the side so he ran his
+- [12:40–12:43] horse this was the 12 bha a full round of 12 bha
+- [12:43–12:47] in that this kanuka area that which was there has also come back
+- [12:47–12:50] this entire nathu dad as entirety has come back well
+- [12:50–12:56] now it has come back completely so kanu's mother yes that mother got the hint
+- [12:56–13:00] she was also a good one meaning she was a saint
+- [13:00–13:04] she got the hint that now her kingdom is gone so
+- [13:04–13:09] she told her son son hurry up take all your belongings and run away from here
+- [13:09–13:13] well now your work is not going to be done here so when she
+- [13:13–13:18] saw them and heard their publicity that is discussion kanu also ran away
+- [13:18–13:22] from here and after running away she started
+- [13:22–13:26] settling in karbhura village in karbhura what is there in karbhura
+- [13:26–13:30] we did darum shalla with them then there was a war we did darum shalla
+- [13:30–13:33] we did darum shalla well we did darum shalla after the darum
+- [13:33–13:37] shalla it was my daughter's wedding i invited them to the wedding
+- [13:37–13:40] well now when he started going to the wedding neither were his companions
+- [13:40–13:43] present nor did he so he told them that i'm leaving but i will not come
+- [13:43–13:47] back nathu dadas said i will not come back but if i do
+- [13:47–13:50] not come back yes then my body is here
+- [13:50–13:54] yes it will stay on my vehicle and wherever my vehicle returns
+- [13:54–13:57] yes yes and wherever my vehicle stop that is my samadhi
+- [13:57–14:06] that is the samadhi here the samadhi of nath dadas here
+- [14:06–14:16] okay thank you and okay i have just come back after having
+- [14:16–14:19] darshan the priest told me a very good thing that because this is code
+- [14:19–14:23] it is a complete desert there is only sand there was a problem of water
+- [14:23–14:30] here earlier and nathu dadas showed mercy and water came out here in the well
+- [14:30–14:34] after that the canal came now mostly the water is for drinking the rest was
+- [14:34–14:38] collected during the first rains that was enough otherwise there was no water
+- [14:38–14:43] now whenever we bring our vehicle here we will park it here on this box of sand
+- [14:43–14:47] okay that's it friend so that's it later someone else came to his place
+- [14:47–14:50] it's been a long time two and a half years i saw you i will not look into it
+- [14:50–14:55] okay did you know about the village of sada kajwal in the final
+- [14:55–14:58] yes yes was your village here among the 34 villages
+- [14:58–15:02] yes it was my village our village was one of the 34
+- [15:02–15:06] i have seen two the first one and i had to go there
+- [15:06–15:10] they are sitting there right mommy g and she had to go okay i've been
+- [15:10–15:14] watching you for three or four years by the way sir you know your full name
+- [15:14–15:16] you know the full details earlier you used to live somewhere around dandy
+- [15:16–15:19] okay the whole family has come with a car you must be coming every year
+- [15:20–15:29] car comes again every year sir you have come from jodhpur
+- [15:29–15:33] the whole family has come with your car brother we want to drink water from this
+- [15:33–15:39] pond please drink water brother it's a
+- [15:39–15:43] huge pond made of lime from nathu dad as time
+- [15:43–15:47] the water is during the rainy season or there are no tankers
+- [15:47–15:53] there are no tankers the water is scarce but the rainy season
+- [15:53–15:57] brother we are going to take this route driving the vehicle on the sand bins
+- [15:57–16:20] on the unpaved road so look so many vehicles are parked behind
+- [16:22–16:25] a few big vehicles have come and one of our vehicles has come
+- [16:27–16:31] now friend what's the matter the queen of sand the queen of mountains my alto
+- [16:32–16:35] the car is completely stuck now it'll be hard to get out of here
+- [16:36–16:39] it's not coming we've tried our best only if
+- [16:39–16:44] someone comes and pushes it out i once took my grandmother to tamil nathu
+- [16:44–16:48] for the first time in a plane yes that also started in the video so
+- [16:48–16:54] your village my village takpura let's go brother thank you it's a wonderful place to visit
+- [16:56–17:04] surrounded by sand dunes and on this side these sand dunes are ready for the fair
+- [17:05–17:08] they look so beautiful we're going to visit these sand dunes like this
+- [17:09–17:14] while the fair is being organized on this side look how beautiful the sunset is
+- [17:14–17:19] brother the fair seems similar to the kali nadhi fair it was a little bigger inside kali nadhi
+- [17:19–17:24] a lot of people were coming but i don't know about this one i only found out a few days ago last year
+- [17:24–17:29] i couldn't make it here then there is no natural construction absolutely natural location
+- [17:30–17:37] so it is very high keep walking on such high sand dunes keep walking it is fun trekking
+- [17:37–17:42] wow it is amazing amazing brother amazing
+- [17:44–17:47] look we are showing you the view of the temple and the fair from right near the cap
+- [17:49–17:54] the fair of nathu dada ji's temple is happening on this side it is sunset
+- [17:56–18:05] yes yes we have to open it we have come from all over the world look ram ram ram ram
+- [18:06–18:12] look many of these people who are subscribers of our shub journey all of them are roaming on the sand dunes
+- [18:12–18:17] they are old friends like this they have seen the entire channel they have seen all the videos
+- [18:19–18:27] well ram ram ram ram and right there in the village sonia all of them are in the same group
+- [18:27–18:35] yes one group was daughter walla thada so out of 34 villages which village was
+- [18:35–18:41] kiana kiana kiana must be a very big village kiana otherwise brother look friends we have come to the
+- [18:41–18:47] high and low sand dunes we can see far and wide from here and the fair is visible from here the entire
+- [18:47–18:54] view of the fair is absolutely amazing now it's slowly getting dark and as evening approaches
+- [18:54–18:58] all the devotees who listen to the jagran slowly start sitting on this sand dune
+- [18:58–19:04] and we're coming back after another round the entire fair is set up there are lots of shops selling
+- [19:04–19:08] toys and the like i'm leaving and it's night we're wandering around in the darkness looking at the
+- [19:08–19:12] fair look the lines of devotees waiting to see the darshan are getting longer as the night
+- [19:12–19:29] progresses more people start coming let me share it on facebook ladak ladak was on the pakistan
+- [19:29–19:47] border the village after the accident the entire journey brother you guys have seen it for a long time
+- [19:49–19:58] your mother had made me paraglide okay brother it's okay the kids party it's okay the jagran is
+- [19:58–20:05] about to start after nightfall and there are many other food distribution places we brought food
+- [20:05–20:15] with us but we won't use it because now we'll eat here i brought some food with us too by the way
+- [20:15–20:21] we have yogurt and the like and we'll sleep here on top of a high sand dune and watch the jagran
+- [20:21–20:33] jay didaja maharaj go he's fine thank you for the road abroad moukesh kalia well we've joined 34
+- [20:33–20:39] villages here but the family isn't fine nene nene brother now we're here to eat sweet
+- [20:39–20:44] rice as it's 10 o'clock it's 11 o'clock at night many people are gathering
+- [20:46–20:53] gradually people are coming from the surrounding villages to listen to the jagran the jagran has begun
+- [20:53–21:01] brother and all the great people after that a lot of people have gathered for the jagran
+- [21:01–21:08] you see it's already started we were just listening we wandered around the fair and the
+- [21:08–21:15] jagran for a long time after that we went to sleep around one o'clock in the night and woke up at
+- [21:15–21:21] five o'clock in the morning we slept very well amidst the many clothes and blankets we had a small
+- [21:21–21:28] tarpaulin with us the jagran was wonderful and then there was the camp so many of us here early
+- [21:28–21:36] in the morning we went to the open toilets everywhere it was a great experience absolutely
+- [21:36–21:41] amazing look the jagran is over it's five thirty or six o'clock in the morning the jagran was
+- [21:41–21:46] really good at night it was over most of the people have already gone and once there was such a huge
+- [21:46–21:53] crowd it was amazing locals come from nearby villages and after dinner they came back and went back
+- [21:54–22:04] hey brother this is our morning breakfast we're eating matira it grows in abundance in the
+- [22:04–22:09] fields around here so people brought it here from their fields to sell what's so special
+- [22:09–22:13] about this early morning so many people have gathered on the sand dunes and are showing off their
+- [22:13–22:22] bikes the challenge is to ride the bikes up this sand dune brother look how many people are standing
+- [22:22–22:48] just to watch this stunt the rest of the stuntmen are local villagers look okay now the flight
+- [22:52–23:57] is it's gone it's
