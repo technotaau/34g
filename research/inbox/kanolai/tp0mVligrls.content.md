@@ -5,6 +5,8 @@ Duration: 36:00
 _none detected_
 
 ## Speech (Whisper)
+QUALITY NOTE: Marwari conversation; Whisper output mostly garbled. Reliable fragments: 04:54 (1986), 10:50-11:01 (shrine name, vishal jagran), 13:17/18:05 (nanaji ro ghar), 03:58 (Suthar family house). Needs a Marwari listener.
+
 Language: hi (1)
 - [00:01–00:04] एक बागे राँ बागो लोग
 - [00:07–00:08] बालागे

@@ -44,8 +44,8 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
+        "src_d816c2b00dd1",
         "src_da33d836896a",
         "src_12fb097b02c4",
         "src_a30396979513",
@@ -78,11 +78,11 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
+        "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_654585ebcb8b",
         "src_58181afd64a7",
+        "src_654585ebcb8b",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -93,11 +93,11 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
+        "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_654585ebcb8b",
         "src_58181afd64a7",
+        "src_654585ebcb8b",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",

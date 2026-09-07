@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 7
+स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 8
 
 > Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel).
 
@@ -66,7 +66,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) (video · video · 2025-01-13 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 2 public comments; 175 views; hashtags: Bikaner Kanolai Lunkaransar Mahajanfieldfiringrange Village
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) (video · video · 2025-01-30 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 435 in tp0mVligrls.content.json · timestamps: 4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer
+  - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: Whisper small (forced hi, beam 5): 435 segments in tp0mVligrls.content.json, but the speech is Marwari conversation and most segments are garbled; only fragment · timestamps: 4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer
 - [आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।](https://www.youtube.com/watch?v=1Trtx9oNsOs) (video · video · 2025-01-30 · स्कोर 72 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 175 views; hashtags: 
 - [ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो](https://www.youtube.com/watch?v=boOPyrBQxBU) (video · video · 2024-12-09 · स्कोर 63 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -106,6 +106,7 @@ _कोई नहीं_
 - **shrine_heer_ji_madhi** = white madhi under a large tree · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['masonry samadhi with red flag, visited by elders'] · स्रोत: src_ae6977b947db
 - **house_ruins_material** = lime-plastered platforms and walls · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
 - **village_well_exists** = yes (lime-built well or tanka) · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
+- **family_link_to_kanolai** = uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

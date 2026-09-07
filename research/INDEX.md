@@ -19,4 +19,4 @@
 | भानाबस्ती (Bhanabasti) | 7 | 3 | 0 | 10 | 10 | [report](store/bhanabasti/report.md) |
 | नाथौर (Nathor) | 6 | 4 | 0 | 9 | 9 | [report](store/nathor/report.md) |
 | बेरावाला (Berawala) | 7 | 2 | 0 | 19 | 19 | [report](store/berawala/report.md) |
-| कानोलाई (Kanolai) | 9 | 3 | 4 | 7 | 7 | [report](store/kanolai/report.md) |
+| कानोलाई (Kanolai) | 9 | 3 | 4 | 8 | 8 | [report](store/kanolai/report.md) |

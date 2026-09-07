@@ -153,5 +153,26 @@
       }
     ],
     "competing": []
+  },
+  "clm_family_link_to_kanolai_a323b3c9": {
+    "id": "clm_family_link_to_kanolai_a323b3c9",
+    "claim_key": "family_link_to_kanolai",
+    "value": "uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai",
+    "statement_hi": "व्लॉगर के नानाजी का घर कानोलाई में था; उसके खंडहर आज भी हैं (ट्रांसक्रिप्ट अंश, असत्यापित)",
+    "statement_en": "The uploader's nanaji's house stood at Kanolai; its ruins remain (transcript fragment, unverified)",
+    "sources": [
+      "src_7e0f76030fe8"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_7e0f76030fe8",
+        "text": "नानाजी रो घर ... नानाजी रे घरे आई हूं"
+      }
+    ],
+    "competing": []
   }
 }

@@ -36,7 +36,12 @@
     "Frames 17:00-22:00: lime-plastered platforms and wall stubs of the old houses; an elder stands in the ruin of his own house",
     "Frames 22:00-26:00: lime-built well or tanka examined by the elders",
     "Frames 27:30-32:00: small masonry samadhi with red cloth and flag (Heer ji ki Madhi per channel tags); the elders pay respects and talk",
-    "Frames 02:00, 14:30, 35:30: elderly former residents of Kanolai travel in and out by jeep"
+    "Frames 02:00, 14:30, 35:30: elderly former residents of Kanolai travel in and out by jeep",
+    "Speech 04:54 (fragment): 'उणीस सौ छियासी में' [in 1986]",
+    "Speech 10:50-11:01 (fragment): 'पीरजी महाराज कानोलाई धाम ... विशाल जागरण ... जागरण लागतो' [the shrine's name and that a big jagran is held]",
+    "Speech 13:17 and 18:05-18:12 (fragment): 'नानाजी रो घर ... नानाजी रे घरे आई हूं' [this is my maternal grandfather's house; I have come to nanaji's house]",
+    "Speech 03:58 (fragment, name uncertain): 'उपमाराम जी सुथार रो घर' [house of a Suthar family member]",
+    "Speech 13:46 (fragment): 'दस साल पहले आयो' [came ten years ago], i.e. an earlier visit around 2009"
    ],
    "entities": {
     "people": [],
@@ -96,16 +101,23 @@
      "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
      "statement_en": "The village's lime-built well or tanka survives",
      "snippet": "frames 22:00-26:00"
+    },
+    {
+     "claim_key": "family_link_to_kanolai",
+     "value": "uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai",
+     "statement_hi": "व्लॉगर के नानाजी का घर कानोलाई में था; उसके खंडहर आज भी हैं (ट्रांसक्रिप्ट अंश, असत्यापित)",
+     "statement_en": "The uploader's nanaji's house stood at Kanolai; its ruins remain (transcript fragment, unverified)",
+     "snippet": "नानाजी रो घर ... नानाजी रे घरे आई हूं"
     }
    ],
    "media": {
     "channel": "Rssuthar Jaisalmer",
     "uploader": "@RssutharJaisalmer",
-    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 435 in tp0mVligrls.content.json",
+    "transcript_available": "Whisper small (forced hi, beam 5): 435 segments in tp0mVligrls.content.json, but the speech is Marwari conversation and most segments are garbled; only fragments are reliable. A Marwari speaker should listen to 03:50-06:30 (family house narration), 10:20-11:30 (shrine and jagran), 13:00-19:30 (nanaji's house, walls, names). No caption tracks.",
     "timestamps": "4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer",
     "frames": "72 stills in research/media/kanolai/tp0mVligrls/ (manifest.json, contact_sheet.png)"
    },
-   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing. Transcript quality low (Marwari); fragments above are unverified readings of Whisper output, not verbatim."
   }
  ]
 }

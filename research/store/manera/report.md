@@ -29,10 +29,10 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 84)
   - 1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों की भूमि अधिग्रहित की गई थी, जिनमें भोजासर, कुम्हाना, मोतलाई, खानीसर, थोइया, मणेरां (Manera), डूडेर आदि शामिल हैं। विस्थापित परिवारों को खाजूवाला व पूगल क्षेत्र में सिंचित भूमि देकर मुआवजा दिया गया, लेकिन लगभग 37 साल बाद 
-- [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 79)
-  - जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के ब
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
   - Census2011 mirror lists all 125 villages of Lunkaransar tehsil with population figures; Manera/Maneran does not appear as an independent entry. Closest name matches are unrelated villages 'Manafarsar' and 'Manohariya'. This absence is consistent with Manera having been vacated for military use and f
+- [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 79)
+  - जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के ब
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliament e-library (Sansad) catalog entry titled 'Mahajan Field Firing Range in Rajasthan', almost certainly a Lok Sabha/Rajya Sabha starred/unstarred question-and-answer on the range's history, land acquisition, or compensation. Automated fetch only returned the title; the underlying PDF/answer t
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
