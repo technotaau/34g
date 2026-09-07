@@ -47,9 +47,9 @@
         "src_38f66d790796",
         "src_064a2acb392d",
         "src_dc27e87bee50",
+        "src_7f98544507e3",
         "src_56bd5f269706",
-        "src_0e0757dd116a",
-        "src_7f98544507e3"
+        "src_0e0757dd116a"
       ]
     },
     "people": {
@@ -1014,6 +1014,56 @@
       "attribution": "",
       "is_primary": false
     },
+    "src_7f98544507e3": {
+      "url": "https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+      "title": "Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-01-29",
+      "language": "hi",
+      "relevance": {
+        "score": 56,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Lunkaransar', 'Mahadeowali']"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Lunkaransar",
+          "Mahadeowali"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
+      "is_primary": true
+    },
     "src_aaf7222a0629": {
       "url": "https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html",
       "title": "Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011",
@@ -1213,55 +1263,6 @@
       "license": "ODbL, (c) OpenStreetMap contributors",
       "attribution": "OpenStreetMap contributors",
       "is_primary": false
-    },
-    "src_7f98544507e3": {
-      "url": "https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
-      "title": "Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.",
-      "platform": "youtube",
-      "source_type": "video",
-      "media_type": "video",
-      "published_date": "2025-01-29",
-      "language": "hi",
-      "relevance": {
-        "score": 46,
-        "band": "medium",
-        "factors": {
-          "name_match": 0,
-          "geo_match": 10,
-          "resolution_conf": 8,
-          "credibility": 6,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 6,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "context",
-        "confidence": 0.5,
-        "reasons": [
-          "village name not found in captured text",
-          "strong geo context: ['Lunkaransar']"
-        ],
-        "matched_names": [],
-        "geo_hits": [
-          "Lunkaransar"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "displacement",
-        "media_visual",
-        "military_range",
-        "religion_temple"
-      ],
-      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=20Dj1Nd3Gyw",
-      "is_primary": true
     }
   },
   "shared_umbrella_sources": [],

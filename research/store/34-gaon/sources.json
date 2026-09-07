@@ -1292,20 +1292,21 @@
       "confidence": 0.5,
       "reasons": [
         "village name not found in captured text",
-        "strong geo context: ['Lunkaransar']"
+        "strong geo context: ['Lunkaransar', 'Mahadeowali']"
       ],
       "matched_names": [],
       "geo_hits": [
-        "Lunkaransar"
+        "Lunkaransar",
+        "Mahadeowali"
       ],
       "negative_hits": []
     },
     "relevance": {
-      "score": 46,
+      "score": 56,
       "band": "medium",
       "factors": {
         "name_match": 0,
-        "geo_match": 10,
+        "geo_match": 20,
         "resolution_conf": 8,
         "credibility": 6,
         "primary": 8,

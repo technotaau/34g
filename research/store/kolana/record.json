@@ -27,15 +27,15 @@
       "label": "यह गांव क्या है?",
       "source_ids": [
         "src_f525760f12bd",
-        "src_e6b1f74cf8ca",
-        "src_b27fa43b7bd0"
+        "src_b27fa43b7bd0",
+        "src_e6b1f74cf8ca"
       ]
     },
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_e6b1f74cf8ca",
-        "src_b27fa43b7bd0"
+        "src_b27fa43b7bd0",
+        "src_e6b1f74cf8ca"
       ]
     },
     "history": {

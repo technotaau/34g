@@ -100,7 +100,7 @@
       "confidence": 0.65,
       "reasons": [
         "primary name match: Khiyana",
-        "strong geo context: ['Lunkaransar']",
+        "strong geo context: ['Lunkaransar', 'Nathu Dada']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Dhatarwal']",
         "negative/other-place signals: ['Haryana', 'हरियाणा', 'Punjab']"
       ],
@@ -110,6 +110,7 @@
       ],
       "geo_hits": [
         "Lunkaransar",
+        "Nathu Dada",
         "Bikaner",
         "बीकानेर",
         "Dhatarwal",
@@ -247,7 +248,7 @@
       "confidence": 0.65,
       "reasons": [
         "primary name match: Khiyana",
-        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर', 'Nathu Dada']",
         "district/nearby/clan context: ['Bikaner', 'कालू', 'Baderan']",
         "negative/other-place signals: ['Churu']"
       ],
@@ -258,6 +259,8 @@
       "geo_hits": [
         "Lunkaransar",
         "लूणकरणसर",
+        "Nathu Dada",
+        "नाथू दादा",
         "Bikaner",
         "कालू",
         "Baderan",
@@ -1314,6 +1317,9 @@
         "Mahajan",
         "महाजन",
         "Lunkaransar",
+        "Nathu Dada",
+        "नाथू दादा",
+        "खिंयाणा धाम",
         "Rajasthan",
         "राजस्थान"
       ],
@@ -1408,7 +1414,7 @@
       "confidence": 0.7,
       "reasons": [
         "primary name match: Khiyana",
-        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']"
       ],
       "matched_names": [
         "Khiyana",
@@ -1417,7 +1423,10 @@
       ],
       "geo_hits": [
         "Mahajan",
-        "Mahajan Field Firing Range"
+        "Mahajan Field Firing Range",
+        "Nathu Dada Dhora",
+        "Nathu Dada",
+        "नाथू दादा"
       ],
       "negative_hits": []
     },
@@ -1517,6 +1526,8 @@
         "Mahajan",
         "Loonkaransar",
         "Mahajan Field Firing Range",
+        "Nathu Dada Dhora",
+        "Nathu Dada",
         "Bikaner"
       ],
       "negative_hits": []
@@ -1606,7 +1617,7 @@
       "confidence": 0.55,
       "reasons": [
         "variant match: Kheyana",
-        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']",
         "agent: village not directly named"
       ],
       "matched_names": [
@@ -1615,7 +1626,9 @@
       ],
       "geo_hits": [
         "Mahajan",
-        "Mahajan Field Firing Range"
+        "Mahajan Field Firing Range",
+        "Nathu Dada Dhora",
+        "Nathu Dada"
       ],
       "negative_hits": []
     },
@@ -1708,7 +1721,7 @@
       "confidence": 0.55,
       "reasons": [
         "variant match: Kheyana",
-        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range', 'Nathu Dada Dhora']",
         "agent: village not directly named"
       ],
       "matched_names": [
@@ -1717,7 +1730,10 @@
       ],
       "geo_hits": [
         "Mahajan",
-        "Mahajan Field Firing Range"
+        "Mahajan Field Firing Range",
+        "Nathu Dada Dhora",
+        "Nathu Dada",
+        "नाथू दादा"
       ],
       "negative_hits": []
     },
@@ -1821,7 +1837,10 @@
       "geo_hits": [
         "Mahajan",
         "Loonkaransar",
-        "Mahajan Field Firing Range"
+        "Mahajan Field Firing Range",
+        "Nathu Dada Dhora",
+        "Nathu Dada",
+        "नाथू दादा"
       ],
       "negative_hits": []
     },
@@ -1906,10 +1925,11 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "reject",
-      "confidence": 0.25,
+      "decision": "accept",
+      "confidence": 0.6,
       "reasons": [
-        "variant match: खींयाणा"
+        "variant match: खींयाणा",
+        "strong geo context: ['Nathu Dada Dhora', 'नाथू दादा धोरा', 'Nathu Dada']"
       ],
       "matched_names": [
         "खींयाणा",
@@ -1917,16 +1937,21 @@
         "Nathu Dada Dhora",
         "नाथू दादा धोरा"
       ],
-      "geo_hits": [],
+      "geo_hits": [
+        "Nathu Dada Dhora",
+        "नाथू दादा धोरा",
+        "Nathu Dada",
+        "नाथू दादा"
+      ],
       "negative_hits": []
     },
     "relevance": {
-      "score": 62,
-      "band": "medium",
+      "score": 87,
+      "band": "high",
       "factors": {
         "name_match": 30,
-        "geo_match": 0,
-        "resolution_conf": 4,
+        "geo_match": 20,
+        "resolution_conf": 9,
         "credibility": 6,
         "primary": 8,
         "corroboration": 0,
@@ -2001,10 +2026,11 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "reject",
-      "confidence": 0.25,
+      "decision": "accept",
+      "confidence": 0.6,
       "reasons": [
-        "variant match: खींयाणा"
+        "variant match: खींयाणा",
+        "strong geo context: ['Nathu Dada Dhora', 'नाथू दादा धोरा', 'Nathu Dada']"
       ],
       "matched_names": [
         "खींयाणा",
@@ -2012,16 +2038,21 @@
         "Nathu Dada Dhora",
         "नाथू दादा धोरा"
       ],
-      "geo_hits": [],
+      "geo_hits": [
+        "Nathu Dada Dhora",
+        "नाथू दादा धोरा",
+        "Nathu Dada",
+        "नाथू दादा"
+      ],
       "negative_hits": []
     },
     "relevance": {
-      "score": 62,
-      "band": "medium",
+      "score": 87,
+      "band": "high",
       "factors": {
         "name_match": 30,
-        "geo_match": 0,
-        "resolution_conf": 4,
+        "geo_match": 20,
+        "resolution_conf": 9,
         "credibility": 6,
         "primary": 8,
         "corroboration": 0,

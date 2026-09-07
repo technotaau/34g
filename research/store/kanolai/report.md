@@ -4,7 +4,7 @@
 
 स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 0
 
-> Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved.
+> Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel).
 
 ## मुख्य प्रश्न
 
