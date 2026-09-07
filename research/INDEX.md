@@ -12,11 +12,11 @@
 | दुदेर (Duder) | 5 | 2 | 0 | 6 | 6 | [report](store/duder/report.md) |
 | चिड़ासर (Chidasar) | 8 | 1 | 0 | 3 | 3 | [report](store/chidasar/report.md) |
 | मेऊसर (Meusar) | 10 | 0 | 3 | 10 | 10 | [report](store/meusar/report.md) |
-| खिंयाणा (Khiyana) | 11 | 5 | 1 | 12 | 11 | [report](store/khiyana/report.md) |
+| खिंयाणा (Khiyana) | 12 | 6 | 1 | 12 | 11 | [report](store/khiyana/report.md) |
 | कोलाणा (Kolana) | 7 | 2 | 2 | 10 | 10 | [report](store/kolana/report.md) |
 | अजीतवाणा (Ajeetwana) | 9 | 5 | 0 | 10 | 9 | [report](store/ajeetwana/report.md) |
 | लाडेरा (Ladera) | 7 | 0 | 7 | 8 | 8 | [report](store/ladera/report.md) |
 | भानाबस्ती (Bhanabasti) | 7 | 1 | 2 | 10 | 10 | [report](store/bhanabasti/report.md) |
 | नाथौर (Nathor) | 6 | 3 | 1 | 9 | 9 | [report](store/nathor/report.md) |
 | बेरावाला (Berawala) | 7 | 1 | 1 | 19 | 19 | [report](store/berawala/report.md) |
-| कानोलाई (Kanolai) | 1 | 1 | 0 | 0 | 0 | [report](store/kanolai/report.md) |
+| कानोलाई (Kanolai) | 2 | 2 | 0 | 0 | 0 | [report](store/kanolai/report.md) |

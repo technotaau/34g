@@ -112,5 +112,101 @@
       "run_20260907T082736Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_ae6977b947db": {
+    "id": "src_ae6977b947db",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=z3ILa3-NyU0",
+    "url_key": "https://www.youtube.com/watch?v=z3ILa3-NyU0",
+    "title": "Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2025-02-26",
+    "discovered_date": "2026-09-07",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+      "Description: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+      "Viewer comment: हमारा ननिहाल कितना अच्छा है। 😊",
+      "Viewer comment: Bahla village se ho kya ap"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 123 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Kanolai",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
+      ],
+      "matched_names": [
+        "Kanolai"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260907T085020Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
   }
 }

@@ -147,14 +147,25 @@ def extract_frames(media: Path, out_dir: Path, every: int, vid: str, source_url:
     return manifest
 
 
-def run_ocr(media: Path, out_json: Path, band: float, lang: str, whisper: str | None) -> None:
+def run_ocr(media: Path, out_json: Path, band: float, lang: str, whisper: str | None, speech_lang: str = "hi") -> None:
     cmd = [sys.executable, str(ROOT / "scripts" / "video_extract.py"), str(media), "--out", str(out_json), "--lang", lang, "--band", str(band), "--every", "1.0"]
-    cmd += ["--whisper", whisper] if whisper else ["--no-whisper"]
+    cmd += ["--whisper", whisper, "--language", speech_lang] if whisper else ["--no-whisper"]
     subprocess.run(cmd, check=False)
 
 
+def local_meta(media: Path, title: str, credit: str, source_url: str) -> dict:
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(media)],
+                               capture_output=True, text=True).stdout.strip() or 0)
+    return {"id": re.sub(r"[^A-Za-z0-9_-]", "_", media.stem)[:40], "title": title, "channel": credit, "uploader_id": "", "upload_date": "",
+            "duration": int(dur), "description": "", "tags": [], "location": None, "view_count": None, "comments_public": [],
+            "webpage_url": source_url, "_note": "Local/Drive media, not a YouTube video; metadata from the file only."}
+
+
 def ingest_video(slug: str, url: str, related=None, media: Path | None = None, drive_id: str | None = None, every: int = 20,
-                 ocr_band: float = 0.88, ocr_lang: str = "hin+eng", whisper: str | None = None, village_names=None) -> dict:
+                 ocr_band: float = 0.88, ocr_lang: str = "hin+eng", whisper: str | None = None, village_names=None,
+                 title: str | None = None, credit: str | None = None) -> dict:
+    if not re.search(r"youtube\.com|youtu\.be", url):
+        return ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title or "", credit or "")
     vid = video_id(url)
     inbox = INBOX_DIR / slug
     inbox.mkdir(parents=True, exist_ok=True)
@@ -181,10 +192,48 @@ def ingest_video(slug: str, url: str, related=None, media: Path | None = None, d
         if cj.exists():
             c = json.loads(cj.read_text(encoding="utf-8"))
             lines = c.get("ocr_subtitles") or []
-            rec["media"]["transcript_available"] += f"; burned-in subtitle OCR: {len(lines)} lines in {cj.name}"
+            segs = ((c.get("speech") or {}).get("segments")) or []
+            rec["media"]["transcript_available"] += f"; burned-in subtitle OCR: {len(lines)} lines; speech segments: {len(segs)} in {cj.name}"
+            result["speech_segments"] = len(segs)
             rec["evidence_snippets"] += [f"On-screen text {l['start']:.0f}s: {_snip(l['text'], 30)}" for l in lines[:12]]
             result["ocr_lines"] = len(lines)
     payload = {"village": slug, "agent_notes": f"gaon34.video ingest of {url} on {date.today().isoformat()}", "searches_used": 0, "sources": [rec]}
+    (inbox / f"video_{vid}.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    result["inbox_file"] = str(inbox / f"video_{vid}.json")
+    return result
+
+
+def ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title, credit) -> dict:
+    """A video that exists only as a file (e.g. a family clip shared via Drive). url = where it came from (Drive view URL)."""
+    inbox = INBOX_DIR / slug
+    inbox.mkdir(parents=True, exist_ok=True)
+    scratch = Path("/tmp") / "gaon34_video" / re.sub(r"[^A-Za-z0-9]", "_", url)[-40:]
+    scratch.mkdir(parents=True, exist_ok=True)
+    if drive_id and not media:
+        media = download_drive(drive_id, scratch / "media.mp4")
+    if not media:
+        raise ValueError("local ingest needs --media or --drive-id")
+    media = Path(media)
+    meta = local_meta(media, title or media.stem, credit or "unknown (supplied by TechnoTaau Team)", url)
+    vid = meta["id"]
+    (inbox / f"local_{vid}.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    rec = build_record(slug, meta, {}, list(related or []), village_names or [])
+    rec.update({"url": url, "platform": "google_drive" if "drive.google" in url else "local_file", "source_type": "video",
+                "attribution": f"{meta['channel']}, video file '{media.name}'", "license": "unknown; obtain from the person who shot it",
+                "found_by_query": "video file supplied by TechnoTaau Team", "notes": "Non-YouTube media; provenance recorded from file name and supplier."})
+    man = extract_frames(media, MEDIA_DIR / slug / vid, every, vid, url, meta["channel"])
+    run_ocr(media, inbox / f"{vid}.content.json", ocr_band, ocr_lang, whisper)
+    rec["media"]["frames"] = f"{man['count']} stills in research/media/{slug}/{vid}/ (manifest.json, contact_sheet.png)"
+    cj = inbox / f"{vid}.content.json"
+    result = {"video_id": vid, "title": meta["title"], "captions": [], "comments": 0, "frames": man["count"]}
+    if cj.exists():
+        c = json.loads(cj.read_text(encoding="utf-8"))
+        lines = c.get("ocr_subtitles") or []
+        segs = ((c.get("speech") or {}).get("segments")) or []
+        rec["media"]["transcript_available"] = f"OCR lines: {len(lines)}; speech segments: {len(segs)} in {cj.name}"
+        rec["evidence_snippets"] += [f"On-screen text {l['start']:.0f}s: {_snip(l['text'], 30)}" for l in lines[:12]]
+        result.update({"ocr_lines": len(lines), "speech_segments": len(segs)})
+    payload = {"village": slug, "agent_notes": f"gaon34.video local ingest of {media.name} on {date.today().isoformat()}", "searches_used": 0, "sources": [rec]}
     (inbox / f"video_{vid}.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
     result["inbox_file"] = str(inbox / f"video_{vid}.json")
     return result

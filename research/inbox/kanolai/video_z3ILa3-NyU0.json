@@ -1,0 +1,55 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=z3ILa3-NyU0 on 2026-09-07",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=z3ILa3-NyU0",
+   "title": "Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2025-02-26",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Kanolai",
+   "evidence_snippets": [
+    "Title: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+    "Description: Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+    "Viewer comment: हमारा ननिहाल कितना अच्छा है। 😊",
+    "Viewer comment: Bahla village se ho kya ap"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "3 public comments; 123 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

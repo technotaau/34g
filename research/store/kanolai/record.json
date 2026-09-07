@@ -14,8 +14,8 @@
   },
   "built": "2026-09-07",
   "counts": {
-    "sources_total": 1,
-    "accepted": 1,
+    "sources_total": 2,
+    "accepted": 2,
     "context": 0,
     "review": 0,
     "rejected": 0,
@@ -34,6 +34,7 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_ae6977b947db",
         "src_7e0f76030fe8"
       ]
     },
@@ -72,6 +73,7 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
+        "src_ae6977b947db",
         "src_7e0f76030fe8"
       ]
     },
@@ -110,6 +112,57 @@
   },
   "manual_review": [],
   "sources": {
+    "src_ae6977b947db": {
+      "url": "https://www.youtube.com/watch?v=z3ILa3-NyU0",
+      "title": "Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-02-26",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Kanolai",
+          "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']"
+        ],
+        "matched_names": [
+          "Kanolai"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Mahajan Field Firing Range"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
+      "is_primary": true
+    },
     "src_7e0f76030fe8": {
       "url": "https://www.youtube.com/watch?v=tp0mVligrls",
       "title": "खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था",
@@ -190,6 +243,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 1,
       "at": "2026-09-07T08:27:36.823942+00:00"
+    },
+    {
+      "run_id": "run_20260907T085020Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_z3ILa3-NyU0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=z3ILa3-NyU0 on 2026-09-07",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 2,
+      "at": "2026-09-07T08:50:20.578158+00:00"
     }
   ]
 }

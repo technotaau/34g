@@ -12,5 +12,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 1,
     "at": "2026-09-07T08:27:36.823942+00:00"
+  },
+  {
+    "run_id": "run_20260907T085020Z",
+    "file": "/home/user/34g/research/inbox/kanolai/video_z3ILa3-NyU0.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=z3ILa3-NyU0 on 2026-09-07",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 2,
+    "at": "2026-09-07T08:50:20.578158+00:00"
   }
 ]
