@@ -1287,5 +1287,111 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_591f6ed5aefb": {
+    "id": "src_591f6ed5aefb",
+    "village": "berawala",
+    "url": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+    "url_key": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+    "title": "Chhaganlal Jakhar on Reels",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels (pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl)",
+    "published_date": "2025-07-25",
+    "discovered_date": "2026-09-17",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video 'Chhaganlal Jakhar on Reels' (1:42) by 1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels. ",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "mixed:pre_1900+2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Chhaganlal Jakhar on Reels",
+      "Video 1:43, monsoon 2025: slow panorama of the whole Berawala site from the pond embankment: full pond with cattle, green plain, low house mounds, a red flag on one mound (a than or memorial), the domed Thakurji Mandir standing alone, tyre track; Chhaganlal Jakhar on the embankment"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels, Facebook, , https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "channel": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels",
+      "uploader": "pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl",
+      "transcript_available": "no usable speech (wind)",
+      "timestamps": "0 public comments; 991 views; hashtags: ",
+      "frames": "26 stills in research/media/berawala/fb655816430875515/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [
+      {
+        "claim_key": "than_flag_on_mound",
+        "value": "a red flag marks a mound on the village ground (2025)",
+        "statement_hi": "गांव की जगह पर एक टीले पर लाल ध्वज लगा है, संभवतः कोई थान या स्मृति स्थल (असत्यापित)",
+        "statement_en": "A red flag marks a mound on the village ground, possibly a than or memorial (unverified)",
+        "snippet": "frames 0:56-1:12"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Berawala",
+        "district/nearby/clan context: ['Jakhar']"
+      ],
+      "matched_names": [
+        "Berawala"
+      ],
+      "geo_hits": [
+        "Jakhar"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 8,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "src_4c878a83d405",
+    "syndicate_group": "",
+    "review_flags": [
+      "duplicate",
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260917T182519Z",
+      "run_20260917T182546Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

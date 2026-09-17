@@ -1,0 +1,63 @@
+{
+ "village": "berawala",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515 on 2026-09-17",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "berawala",
+   "url": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+   "title": "Chhaganlal Jakhar on Reels",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels (pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl)",
+   "published_date": "2025-07-25",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video 'Chhaganlal Jakhar on Reels' (1:42) by 1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: Chhaganlal Jakhar on Reels",
+    "Video 1:43, monsoon 2025: slow panorama of the whole Berawala site from the pond embankment: full pond with cattle, green plain, low house mounds, a red flag on one mound (a than or memorial), the domed Thakurji Mandir standing alone, tyre track; Chhaganlal Jakhar on the embankment"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels, Facebook, , https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [
+    {
+     "claim_key": "than_flag_on_mound",
+     "value": "a red flag marks a mound on the village ground (2025)",
+     "statement_hi": "गांव की जगह पर एक टीले पर लाल ध्वज लगा है, संभवतः कोई थान या स्मृति स्थल (असत्यापित)",
+     "statement_en": "A red flag marks a mound on the village ground, possibly a than or memorial (unverified)",
+     "snippet": "frames 0:56-1:12"
+    }
+   ],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "1.6K views &#xb7; 176 reactions | Chhaganlal Jakhar on Reels",
+    "uploader": "pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl",
+    "transcript_available": "no usable speech (wind)",
+    "timestamps": "0 public comments; 991 views; hashtags: ",
+    "frames": "26 stills in research/media/berawala/fb655816430875515/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Part of Chhaganlal Jakhar's 25 Jul 2025 post; supplied by TechnoTaau Team with permission."
+  }
+ ]
+}

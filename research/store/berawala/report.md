@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 10, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 3, डुप्लिकेट 1 · दावे: 22
+स्रोत: कुल 11, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 3, डुप्लिकेट 2 · दावे: 22
 
 > Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude. Family in the Akshay Godara vlog now lives at Sherpura (Lunkaransar tehsil); video tags use 'Berwala' too.
 

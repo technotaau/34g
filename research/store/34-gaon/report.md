@@ -47,10 +47,10 @@
   - भूमि 1982 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित; अवार्ड पारित; भारत सरकार के नाम दर्ज।
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
   - महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) (news · text · 2025-02-14 · स्कोर 53 · समीक्षा हेतु)
   - 148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।
 - [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) (community_wiki · text · तिथि अज्ञात · स्कोर 51)
@@ -79,10 +79,10 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 
 ### त्योहार व परंपराएं
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -91,10 +91,10 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 
 ### भूमि, खेती, पशुपालन, नहर
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
