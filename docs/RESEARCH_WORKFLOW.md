@@ -111,3 +111,11 @@ python3 -m gaon34 video <slug> "<youtube url>" [--related 34-gaon other-slug] \
 What it does, in order: pulls public metadata, description, tags, location, caption tracks (manual and auto, if any) and public comments with yt-dlp (mobile-web client, no media); writes `research/inbox/<slug>/yt_<id>.meta.json`, `video_<id>.json` (a source record in the agent schema) and any `yt_<id>.captions.<lang>.txt`; if media is supplied, extracts a still every N seconds into `research/media/<slug>/<id>/frames/` with `manifest.json` and a timestamped `contact_sheet.png`, OCRs burned-in subtitles into `<id>.content.json/.md`, optionally runs Whisper; then ingests, rebuilds the report and index.
 
 Notes: YouTube blocks media downloads from this environment, so frames and OCR need a Drive upload shared as "Anyone with the link" (`--drive-id`), or a local file. Frame descriptions in the manifest are blank until a person (or the orchestrating session, by viewing `contact_sheet.png`) annotates them, as was done for Berawala. Claims are not auto-generated from a video; add them by editing `video_<id>.json` after viewing, then re-run `ingest`. Add the village first if it is new (`add-village` or `research/villages.json`); the resolver decides accept/context/review from the title, description and comments.
+
+## 8. Facebook and other social posts
+
+Facebook blocks automated reads of post pages (HTTP 400 even for public posts), and we do not work around it. Procedure:
+1. Record the post from its link with whatever the page preview exposes (usually the title only) so the URL and poster are in the store.
+2. A team member opens the post in a browser, notes the date and full text, and downloads the photos (Facebook photo viewer > Download) into the shared Drive folder, named `<village>_fb_<poster>_<n>.jpg`.
+3. Add the text, date and photo file names to the inbox record and re-run `ingest`; photos go under `research/media/<village>/facebook/` with a manifest, same as video stills.
+4. Website use of the photos needs the poster's permission; mark the record `consent: pending` until obtained.

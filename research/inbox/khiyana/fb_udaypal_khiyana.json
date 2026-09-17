@@ -1,0 +1,58 @@
+{
+ "village": "khiyana",
+ "agent_notes": "Facebook public post supplied by TechnoTaau Team on 2026-09-17. Direct fetch returns HTTP 400 (bot block); only the og:title was readable via page preview. Photos, date and comments not retrievable automatically.",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl",
+   "title": "महाजन फील्ड फायरिंग रेंज खिंयाना (Facebook post)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "Uday Pal Choudhary Rlp (public profile)",
+   "published_date": "",
+   "language": "hi",
+   "found_by_query": "link supplied by TechnoTaau Team",
+   "summary": "उदय पाल चौधरी की सार्वजनिक फेसबुक पोस्ट, शीर्षक 'महाजन फील्ड फायरिंग रेंज खिंयाना'। पोस्ट में फोटो और संदेश हैं (टीम के अनुसार), पर स्वचालित रूप से केवल शीर्षक पढ़ा जा सका।",
+   "topics": [
+    "media_visual",
+    "military_range"
+   ],
+   "geo_mentions": [
+    "Mahajan Field Firing Range",
+    "Khiyana"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खिंयाना",
+   "evidence_snippets": [
+    "og:title: 'महाजन फील्ड फायरिंग रेंज खिंयाना'"
+   ],
+   "entities": {
+    "people": [
+     "Uday Pal Choudhary Rlp"
+    ],
+    "places": [
+     "Khiyana",
+     "Mahajan Field Firing Range"
+    ],
+    "events": [],
+    "organizations": []
+   },
+   "license": "Facebook post; poster's copyright. Permission needed before reusing photos.",
+   "attribution": "Uday Pal Choudhary Rlp, Facebook",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [],
+   "media": {
+    "caption": "",
+    "creator": "Uday Pal Choudhary Rlp",
+    "transcript_available": "",
+    "timestamps": "photos and message not captured; manual download needed"
+   },
+   "notes": "MANUAL FOLLOW-UP: open in a browser, note post date and text, download photos to Drive folder as khiyana_fb_udaypal_<n>.jpg, then re-ingest. Ask poster for permission before website use."
+  }
+ ]
+}

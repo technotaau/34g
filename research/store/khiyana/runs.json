@@ -179,5 +179,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 18,
     "at": "2026-09-07T15:05:47.479223+00:00"
+  },
+  {
+    "run_id": "run_20260917T174250Z",
+    "file": "research/inbox/khiyana/fb_udaypal_khiyana.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "Facebook public post supplied by TechnoTaau Team on 2026-09-17. Direct fetch returns HTTP 400 (bot block); only the og:title was readable via page preview. Photos, date and comments not retrievable automatically.",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 19,
+    "at": "2026-09-17T17:42:50.514483+00:00"
   }
 ]

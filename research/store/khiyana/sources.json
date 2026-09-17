@@ -2147,5 +2147,107 @@
       "run_20260907T085233Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_5ef31983c7f1": {
+    "id": "src_5ef31983c7f1",
+    "village": "khiyana",
+    "url": "https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl",
+    "url_key": "https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl",
+    "title": "महाजन फील्ड फायरिंग रेंज खिंयाना (Facebook post)",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "Uday Pal Choudhary Rlp (public profile)",
+    "published_date": "",
+    "discovered_date": "2026-09-17",
+    "language": "hi",
+    "found_by_query": [
+      "link supplied by TechnoTaau Team"
+    ],
+    "summary": "उदय पाल चौधरी की सार्वजनिक फेसबुक पोस्ट, शीर्षक 'महाजन फील्ड फायरिंग रेंज खिंयाना'। पोस्ट में फोटो और संदेश हैं (टीम के अनुसार), पर स्वचालित रूप से केवल शीर्षक पढ़ा जा सका।",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Khiyana"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाना",
+    "evidence_snippets": [
+      "og:title: 'महाजन फील्ड फायरिंग रेंज खिंयाना'"
+    ],
+    "entities": {
+      "people": [
+        "Uday Pal Choudhary Rlp"
+      ],
+      "places": [
+        "Khiyana",
+        "Mahajan Field Firing Range"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Facebook post; poster's copyright. Permission needed before reusing photos.",
+    "attribution": "Uday Pal Choudhary Rlp, Facebook",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [
+      "34-gaon"
+    ],
+    "media": {
+      "caption": "",
+      "creator": "Uday Pal Choudhary Rlp",
+      "transcript_available": "",
+      "timestamps": "photos and message not captured; manual download needed"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']"
+      ],
+      "matched_names": [
+        "Khiyana"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 77,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260917T174250Z"
+    ],
+    "notes": "MANUAL FOLLOW-UP: open in a browser, note post date and text, download photos to Drive folder as khiyana_fb_udaypal_<n>.jpg, then re-ingest. Ask poster for permission before website use."
   }
 }

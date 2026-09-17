@@ -12,10 +12,10 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-07",
+  "built": "2026-09-17",
   "counts": {
-    "sources_total": 18,
-    "accepted": 12,
+    "sources_total": 19,
+    "accepted": 13,
     "context": 5,
     "review": 1,
     "rejected": 0,
@@ -49,12 +49,13 @@
         "src_da33d836896a",
         "src_12fb097b02c4",
         "src_a30396979513",
+        "src_5ef31983c7f1",
         "src_f525760f12bd",
         "src_7da0e757971f",
         "src_4fb2da84d5a4",
         "src_a5150b8b1d53",
-        "src_a6f66da51d72",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a6f66da51d72"
       ]
     },
     "people": {
@@ -81,8 +82,8 @@
         "src_f8ed99a1785c",
         "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_58181afd64a7",
         "src_654585ebcb8b",
+        "src_58181afd64a7",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -96,8 +97,8 @@
         "src_f8ed99a1785c",
         "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_58181afd64a7",
         "src_654585ebcb8b",
+        "src_58181afd64a7",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -150,6 +151,7 @@
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
+        "src_5ef31983c7f1",
         "src_e725e5c87313"
       ]
     },
@@ -183,6 +185,7 @@
       "Nathu Dada (Dhatarwal folk deity)",
       "Nathu Dhatarwal",
       "Raju Ram Sharma",
+      "Uday Pal Choudhary Rlp",
       "temple pujari (narrator, in yellow)",
       "खिंया जी (Khiyaji)",
       "नाथू दादा (Nathu Dada)"
@@ -1162,6 +1165,60 @@
       "attribution": "villageinfo.in, Census 2011 data mirror",
       "is_primary": false
     },
+    "src_5ef31983c7f1": {
+      "url": "https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl",
+      "title": "महाजन फील्ड फायरिंग रेंज खिंयाना (Facebook post)",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 77,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']"
+        ],
+        "matched_names": [
+          "Khiyana"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Facebook post; poster's copyright. Permission needed before reusing photos.",
+      "attribution": "Uday Pal Choudhary Rlp, Facebook",
+      "is_primary": true
+    },
     "src_f525760f12bd": {
       "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
       "title": "सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)",
@@ -1876,6 +1933,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 18,
       "at": "2026-09-07T15:05:47.479223+00:00"
+    },
+    {
+      "run_id": "run_20260917T174250Z",
+      "file": "research/inbox/khiyana/fb_udaypal_khiyana.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook public post supplied by TechnoTaau Team on 2026-09-17. Direct fetch returns HTTP 400 (bot block); only the og:title was readable via page preview. Photos, date and comments not retrievable automatically.",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-17T17:42:50.514483+00:00"
     }
   ]
 }
