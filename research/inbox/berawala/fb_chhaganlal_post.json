@@ -1,0 +1,99 @@
+{
+ "village": "berawala",
+ "agent_notes": "Facebook post supplied by TechnoTaau Team as screenshot + component links, 17 Sep 2026. Post page itself blocked to automated reads; text transcribed from the screenshot; the three videos ingested separately via their links; three photos exist but their pages return no metadata (screenshot shows them).",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "berawala",
+   "url": "https://www.facebook.com/100034161858536/posts/pcb.1444806556668059",
+   "title": "छगनलाल जाखड़: पैतृक गांव बेरावाला (महाजन फील्ड फायरिंग रेंज) की यात्रा, 25 जुलाई 2025 (Facebook post)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "Chhaganlal Jakhar (public profile 100034161858536)",
+   "published_date": "2025-07-25",
+   "language": "hi",
+   "found_by_query": "post screenshot and links supplied by TechnoTaau Team",
+   "summary": "छगनलाल जाखड़ लिखते हैं कि दो दिन पहले सपने में पैतृक गांव बेरावाला का दृश्य दिल में उतरा, इसलिए साथियों के साथ गांव पहुंचे; खंडहर हो चुके अपने घर और उस आंगन को नमन किया जहां खेल-कूद कर बड़े हुए; घर की मिट्टी का तिलक लगाया और मिट्टी पूजा घर में सजाने के लिए लाए। पोस्ट में 3 फोटो (ठाकुरजी मंदिर के गुंबद के सामने चार लोग; मिट्टी की दीवारों के खंडहर पर एक व्यक्ति) और 3 वीडियो (मंदिर और मैदान; तालाब पर गायों का झुंड) हैं।",
+   "topics": [
+    "displacement",
+    "people_family",
+    "religion_temple",
+    "culture",
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "बेरावाला",
+    "महाजन फील्ड फायरिंग रेंज"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "बेरावाला",
+   "evidence_snippets": [
+    "Post text (from screenshot): 'साथियों दो दिन पहले सपने में अपने पैतृक गांव बेरावाला (महाजन फील्ड फायरिंग रेंज) का वो दृश्य इस कदर दिल में उतरा कि आज अपने पैतृक गांव जाऊंगा, गांव की मिट्टी उठा के लाऊंगा, लाकर पूजा घर में सजाऊंगा ... अपने कुछ साथियों को लेकर पैतृक गांव बेरावाला की पावन धरा पर पधारने का सौभाग्य मिला। सबसे पहले अपने खंडहर हो चुके घर पर जाकर, जिन आंगन में खेल कूद कर बड़े हुए उसको नमन किया, वह घर की मिट्टी का तिलक लगाकर दिल को सुकून दिया। साथियों पैतृक गांव वह जगह ह... (See more)'",
+    "Photo 1 and 2 (screenshot): four men in white before the domed Thakurji Mandir ruin, brick shrine with red-painted door frame; the same dome seen in the Akshay Godara vlog (2022)",
+    "Photo 3 (screenshot): a man in white standing in the mud-wall ruin of a house under a large khejri tree",
+    "Video thumbnail (screenshot): the domed shrine across a green plain after rains; another video shows a herd of cows at the village pond with a herder"
+   ],
+   "entities": {
+    "people": [
+     "Chhaganlal Jakhar (poster, Berawala native)"
+    ],
+    "places": [
+     "Berawala",
+     "Thakurji Mandir (domed shrine)",
+     "Berawala pond",
+     "ruined family house"
+    ],
+    "events": [
+     "Return visit with companions, 25 Jul 2025; soil tilak and taking village soil to the home puja room"
+    ],
+    "organizations": []
+   },
+   "license": "Facebook post; poster's copyright",
+   "attribution": "Chhaganlal Jakhar, Facebook, 25 Jul 2025",
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [
+    {
+     "claim_key": "temple_name",
+     "value": "Thakurji Mandir",
+     "statement_hi": "बेरावाला में गुंबद वाला ठाकुरजी मंदिर आज भी खड़ा है (2025 की फोटो)",
+     "statement_en": "The domed Thakurji Mandir still stands at Berawala (2025 photos)",
+     "snippet": "photos 1-2"
+    },
+    {
+     "claim_key": "return_visit_tradition",
+     "value": "natives return to the ruins, take soil as tilak and for home puja",
+     "statement_hi": "बेरावाला के लोग खंडहरों पर लौटते हैं, घर की मिट्टी का तिलक लगाते हैं और मिट्टी पूजा घर के लिए ले जाते हैं",
+     "statement_en": "Berawala natives return to the ruins, apply the house soil as tilak and take soil for the home puja room",
+     "snippet": "गांव की मिट्टी उठा के लाऊंगा, लाकर पूजा घर में सजाऊंगा ... मिट्टी का तिलक लगाकर"
+    },
+    {
+     "claim_key": "village_pond_exists",
+     "value": "yes; used by cattle herds (2025)",
+     "statement_hi": "गांव का तालाब 2025 में भी पानी से भरा और पशुओं के काम आता है",
+     "statement_en": "The village pond held water in 2025 and is used by cattle herds",
+     "snippet": "video thumbnail: herd of cows at the pond"
+    },
+    {
+     "claim_key": "diaspora_family_berawala",
+     "value": "Jakhar family (Chhaganlal Jakhar)",
+     "statement_hi": "छगनलाल जाखड़ का परिवार बेरावाला का मूल निवासी है",
+     "statement_en": "Chhaganlal Jakhar's family is native to Berawala",
+     "snippet": "अपने पैतृक गांव बेरावाला"
+    }
+   ],
+   "media": {
+    "caption": "",
+    "creator": "Chhaganlal Jakhar",
+    "transcript_available": "",
+    "timestamps": "3 photos (pages blocked; visible in screenshot), 3 videos ingested as separate records"
+   },
+   "notes": "Post text is cut at 'See more' in the screenshot; the full text would add more. Chhaganlal Jakhar is the second Berawala family on record (after the Godara family of the 2022 vlog) and confirms the Jakhar surname seen in that vlog's comments."
+  }
+ ]
+}

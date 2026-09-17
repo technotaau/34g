@@ -123,15 +123,40 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "conflicting",
+    "confidence": 0.55,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "taking water from the pond"
       }
     ],
-    "competing": []
+    "competing": [
+      "yes; used by cattle herds (2025)"
+    ]
+  },
+  "clm_village_pond_exists_a2218b3b": {
+    "id": "clm_village_pond_exists_a2218b3b",
+    "claim_key": "village_pond_exists",
+    "value": "yes; used by cattle herds (2025)",
+    "statement_hi": "गांव का तालाब 2025 में भी पानी से भरा और पशुओं के काम आता है",
+    "statement_en": "The village pond held water in 2025 and is used by cattle herds",
+    "sources": [
+      "src_220a169304bf"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_220a169304bf",
+        "text": "video thumbnail: herd of cows at the pond"
+      }
+    ],
+    "competing": [
+      "yes (ruins, pond still holds water)"
+    ]
   },
   "clm_return_visit_tradition_8a2e4747": {
     "id": "clm_return_visit_tradition_8a2e4747",
@@ -144,15 +169,40 @@
     ],
     "independent_sources": 1,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "conflicting",
+    "confidence": 0.55,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "My family visited Berawala Village"
       }
     ],
-    "competing": []
+    "competing": [
+      "natives return to the ruins, take soil as tilak and for home puja"
+    ]
+  },
+  "clm_return_visit_tradition_ba0fede6": {
+    "id": "clm_return_visit_tradition_ba0fede6",
+    "claim_key": "return_visit_tradition",
+    "value": "natives return to the ruins, take soil as tilak and for home puja",
+    "statement_hi": "बेरावाला के लोग खंडहरों पर लौटते हैं, घर की मिट्टी का तिलक लगाते हैं और मिट्टी पूजा घर के लिए ले जाते हैं",
+    "statement_en": "Berawala natives return to the ruins, apply the house soil as tilak and take soil for the home puja room",
+    "sources": [
+      "src_220a169304bf"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "conflicting",
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_220a169304bf",
+        "text": "गांव की मिट्टी उठा के लाऊंगा, लाकर पूजा घर में सजाऊंगा ... मिट्टी का तिलक लगाकर"
+      }
+    ],
+    "competing": [
+      "family visits to ancestral ruins inside range"
+    ]
   },
   "clm_evacuation_date_25abef77": {
     "id": "clm_evacuation_date_25abef77",
@@ -182,16 +232,21 @@
     "statement_hi": "गांव में ठाकुरजी मंदिर के खंडहर मौजूद हैं",
     "statement_en": "Ruins of a Thakurji temple stand in the village",
     "sources": [
-      "src_02fff109d15c"
+      "src_02fff109d15c",
+      "src_220a169304bf"
     ],
-    "independent_sources": 1,
+    "independent_sources": 2,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "verified",
+    "confidence": 0.9,
     "evidence": [
       {
         "source": "src_02fff109d15c",
         "text": "Thakurji Mandir (on-screen label)"
+      },
+      {
+        "source": "src_220a169304bf",
+        "text": "photos 1-2"
       }
     ],
     "competing": []
@@ -402,6 +457,27 @@
       {
         "source": "src_8c5b127adbe8",
         "text": "Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan, village code 69202."
+      }
+    ],
+    "competing": []
+  },
+  "clm_diaspora_family_berawala_92ab190b": {
+    "id": "clm_diaspora_family_berawala_92ab190b",
+    "claim_key": "diaspora_family_berawala",
+    "value": "Jakhar family (Chhaganlal Jakhar)",
+    "statement_hi": "छगनलाल जाखड़ का परिवार बेरावाला का मूल निवासी है",
+    "statement_en": "Chhaganlal Jakhar's family is native to Berawala",
+    "sources": [
+      "src_220a169304bf"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_220a169304bf",
+        "text": "अपने पैतृक गांव बेरावाला"
       }
     ],
     "competing": []

@@ -21,7 +21,7 @@ YTDLP_ARGS = ["--skip-download", "--no-warnings", "--ignore-no-formats-error",
 
 
 def video_id(url: str) -> str:
-    m = re.search(r"facebook\.com/(?:reel/|watch/?\?v=|[^/]+/videos/)(\d+)", url)
+    m = re.search(r"facebook\.com/(?:reel/|watch/?\?v=|[^/]+/videos/(?:pcb\.\d+/)?)(\d+)", url)
     if m:
         return "fb" + m.group(1)
     m = re.search(r"(?:v=|/shorts/|youtu\.be/)([A-Za-z0-9_-]{11})", url)

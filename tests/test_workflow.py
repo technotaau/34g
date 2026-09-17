@@ -256,3 +256,4 @@ def test_facebook_video_id():
     assert vmod.video_id("https://www.facebook.com/reel/866810769709842") == "fb866810769709842"
     assert vmod.video_id("https://m.facebook.com/watch/?v=866810769709842&_rdr") == "fb866810769709842"
     assert vmod.is_facebook("https://fb.watch/abc/") and not vmod.is_facebook("https://youtu.be/x")
+    assert vmod.video_id("https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/2884290418425839") == "fb2884290418425839"
