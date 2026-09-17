@@ -21,6 +21,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `research/inbox/<slug>/` | Raw agent output per unit (discovery.json, verdicts.json). |
 | `research/store/<slug>/` | Processed store per unit: sources.json, claims.json, record.json, report.md (Hindi), runs.json. |
 | `research/media/<slug>/` | Reference stills extracted from videos, with `manifest.json` (timestamp, description, rights note). Not for publication without creator and family consent. |
+| `research/FOLLOWUPS.md` | Running list of what each source left incomplete (cut text, missing photos, unresolved names, contacts, offline records). Add to it whenever something is skipped. |
 | `research/INDEX.md` | Coverage index across all units. |
 | `python -m gaon34 video <slug> <url>` | One-command YouTube ingest: metadata, captions, comments, and (with a supplied media file) frames plus subtitle OCR. |
 | `scripts/video_extract.py` | OCR burned-in subtitles and transcribe speech from a locally supplied video into timestamped notes. |
