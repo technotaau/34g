@@ -4,7 +4,7 @@
     "name_en": "Motlai",
     "name_hi": "मोटलाई",
     "status": "acquired",
-    "notes": "Named in Patrika 2022.",
+    "notes": "Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -14,13 +14,13 @@
   },
   "built": "2026-09-17",
   "counts": {
-    "sources_total": 6,
-    "accepted": 1,
+    "sources_total": 7,
+    "accepted": 2,
     "context": 4,
     "review": 0,
     "rejected": 1,
     "duplicates": 0,
-    "claims": 5
+    "claims": 9
   },
   "questions": {
     "what": {
@@ -43,6 +43,7 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_2651a62df53d",
         "src_4fb2da84d5a4",
         "src_c37d5179aabc",
         "src_a6f66da51d72",
@@ -53,6 +54,7 @@
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_2651a62df53d",
         "src_c37d5179aabc"
       ]
     },
@@ -72,6 +74,7 @@
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_2651a62df53d",
         "src_a6f66da51d72",
         "src_c37d5179aabc"
       ]
@@ -102,7 +105,9 @@
     },
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
-      "source_ids": []
+      "source_ids": [
+        "src_2651a62df53d"
+      ]
     },
     "gov": {
       "label": "सरकारी / कानूनी अभिलेख",
@@ -123,6 +128,8 @@
   "entities": {
     "people": [
       "Bajranglal Lakhotiya",
+      "Farsaram Jakhar Surnana (tagged; Surnana is a Lunkaransar-area village)",
+      "Mahavir Gat (poster, maternal grandson of Motlai)",
       "Rajuram Sharma"
     ],
     "places": [
@@ -136,6 +143,7 @@
       "Mahajan",
       "Manera",
       "Mohangarh",
+      "Motlai ruins",
       "Nachna",
       "Pugal",
       "Thoiya"
@@ -146,6 +154,7 @@
       "Ajeya Warrior (India-UK)",
       "India-Russia and India-Oman joint exercises",
       "Shakti (India-France)",
+      "Visit to ninhal, 5 Apr 2018",
       "Yudh Abhyas (India-US)"
     ],
     "organizations": [
@@ -227,6 +236,27 @@
         "competing": []
       },
       {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
+      },
+      {
         "id": "clm_total_area_acquired_792fcc92",
         "claim_key": "total_area_acquired",
         "value": "3.37 lakh acres",
@@ -264,6 +294,69 @@
           {
             "source": "src_b27fa43b7bd0",
             "text": "no village matching Motlai, Motlayi, or Motla appears in the provided document"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_house_ruins_material_9d8f7483",
+        "claim_key": "house_ruins_material",
+        "value": "low walls of mud and lime with brick courses",
+        "statement_hi": "मुटलाई में मिट्टी-चूने और ईंट की दीवारों के अवशेष हैं (2018 फोटो)",
+        "statement_en": "Low walls of mud, lime and brick remain at Motlai (2018 photos)",
+        "sources": [
+          "src_2651a62df53d"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2651a62df53d",
+            "text": "photos"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_diaspora_family_motlai_1b621e26",
+        "claim_key": "diaspora_family_motlai",
+        "value": "Gat family (maternal side) and Jakhar family of Surnana",
+        "statement_hi": "महावीर गाट का ननिहाल मुटलाई में; फरसाराम जाखड़ (सुरनाणा) साथ",
+        "statement_en": "Mahavir Gat's maternal family is from Motlai; Farsaram Jakhar of Surnana accompanied",
+        "sources": [
+          "src_2651a62df53d"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2651a62df53d",
+            "text": "मुटलाई मेरे ननिहाल"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_in_34_gaon_fb360f9c",
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "मुटलाई रेंज के 34 विस्थापित गांवों में से एक",
+        "statement_en": "Motlai is one of the 34 displaced villages",
+        "sources": [
+          "src_2651a62df53d"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2651a62df53d",
+            "text": "विस्तापित गांव मुटलाई"
           }
         ],
         "competing": []
@@ -338,6 +431,67 @@
       ],
       "license": "",
       "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+      "is_primary": true
+    },
+    "src_2651a62df53d": {
+      "url": "https://www.facebook.com/ (Mahavir Gat, post of 5 Apr 2018 with Farsaram Jakhar Surnana and 7 others; URL not captured)",
+      "title": "महावीर गाट: विस्थापित गांव मुटलाई, मेरा ननिहाल (Facebook post, 5 Apr 2018)",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "2018-04-05",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 6,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Motlai",
+          "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Jakhar', 'जाखड़']"
+        ],
+        "matched_names": [
+          "Motlai",
+          "मुटलाई"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Jakhar",
+          "जाखड़"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "media_visual",
+        "military_range",
+        "people_family"
+      ],
+      "license": "Facebook post; poster's copyright",
+      "attribution": "Mahavir Gat, Facebook, 5 Apr 2018",
       "is_primary": true
     },
     "src_4fb2da84d5a4": {
@@ -572,6 +726,11 @@
       "id": "src_a5150b8b1d53",
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
       "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द"
+    },
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
     }
   ],
   "runs": [
@@ -585,6 +744,20 @@
       "errors": [],
       "total_after": 6,
       "at": "2026-09-05T17:54:08.332472+00:00"
+    },
+    {
+      "run_id": "run_20260917T183000Z",
+      "file": "research/inbox/motlai/fb_mahavir_gat_2018.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 7,
+      "at": "2026-09-17T18:30:00.478078+00:00"
     }
   ]
 }

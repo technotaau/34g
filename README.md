@@ -28,7 +28,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 
 ## Research status (first pass, 5 Sep 2026)
 
-All 15 known units researched (umbrella + 14 villages): 122 source records, 62 unique URLs. Units flagged `budget_starved` in `runs.json` (Kolana, Ladera, Bhanabasti, Nathor) had fewer than 12 searches because the session search quota ran out and should be rerun first. Meusar and Ladera each have a same-name village elsewhere in Bikaner district; those hits are held in review, not accepted.
+First pass: 15 units researched (umbrella + 14 villages). 17 Sep 2026: a community-shared list of 32 of the 34 village names (see docs/34-village-list-reconciliation.md) added 21 new units, now 37 villages + umbrella; the new ones await discovery runs: 122 source records, 62 unique URLs. Units flagged `budget_starved` in `runs.json` (Kolana, Ladera, Bhanabasti, Nathor) had fewer than 12 searches because the session search quota ran out and should be rerun first. Meusar and Ladera each have a same-name village elsewhere in Bikaner district; those hits are held in review, not accepted.
 
 ## Confidence tags
 

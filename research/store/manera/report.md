@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 8
+स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
-> Dhatarwal village.
+> Dhatarwal village. Listed as 'मणेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -29,10 +29,10 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 84)
   - 1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों की भूमि अधिग्रहित की गई थी, जिनमें भोजासर, कुम्हाना, मोतलाई, खानीसर, थोइया, मणेरां (Manera), डूडेर आदि शामिल हैं। विस्थापित परिवारों को खाजूवाला व पूगल क्षेत्र में सिंचित भूमि देकर मुआवजा दिया गया, लेकिन लगभग 37 साल बाद 
-- [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 79)
-  - जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के ब
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
   - Census2011 mirror lists all 125 villages of Lunkaransar tehsil with population figures; Manera/Maneran does not appear as an independent entry. Closest name matches are unrelated villages 'Manafarsar' and 'Manohariya'. This absence is consistent with Manera having been vacated for military use and f
+- [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 79)
+  - जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के ब
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliament e-library (Sansad) catalog entry titled 'Mahajan Field Firing Range in Rajasthan', almost certainly a Lok Sabha/Rajya Sabha starred/unstarred question-and-answer on the range's history, land acquisition, or compensation. Automated fetch only returned the title; the underlying PDF/answer t
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
@@ -118,6 +118,7 @@ _कोई नहीं_
 - **resettlement_sites** = Khajuwala, Dantor, Pugal, Mohangadh, Nachna · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['Khajuwala / Pugal (canal-irrigated land)'] · स्रोत: src_c37d5179aabc
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **founding_clan** = Dhatarwal Jat · unverified · विश्वास 0.3 · स्रोत: src_7da0e757971f
 - **founder_name** = Mena (son of Asu) · unverified · विश्वास 0.3 · स्रोत: src_7da0e757971f
 - **post_acquisition_census_status** = no independent census entry · unverified · विश्वास 0.3 · स्रोत: src_b27fa43b7bd0
@@ -126,6 +127,7 @@ _कोई नहीं_
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463)
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

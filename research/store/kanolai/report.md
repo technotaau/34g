@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 8
+स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 9
 
-> Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel).
+> Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel). Listed as 'कनलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -99,6 +99,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 _कोई नहीं_
 
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **evacuation_period** = 1986 · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
 - **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['Peer ji Maharaj Kanolai Dham shrine stands and is visited'] · स्रोत: src_7e0f76030fe8
 - **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held'] · स्रोत: src_ae6977b947db
@@ -107,6 +108,10 @@ _कोई नहीं_
 - **house_ruins_material** = lime-plastered platforms and walls · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
 - **village_well_exists** = yes (lime-built well or tanka) · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
 - **family_link_to_kanolai** = uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
+
+## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
+
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

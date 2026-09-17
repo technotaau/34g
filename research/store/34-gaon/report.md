@@ -2,7 +2,7 @@
 
 **स्थिति:** umbrella · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 14, स्वीकृत 10, पृष्ठभूमि (context) 1, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 20
+स्रोत: कुल 16, स्वीकृत 11, पृष्ठभूमि (context) 1, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 22
 
 > Umbrella research unit for the whole displacement; sources here are shared by all villages.
 
@@ -13,6 +13,8 @@
   - रामेश्वर गोदारा की 43 सेकंड की reel (21 जून 2026), 'Part 1'। हिंदी narration: 1984-85 में लूणकरणसर तहसील के 34 गांव, जिनका मुख्य व्यवसाय खेती और पशुपालन था, को रक्षा मंत्रालय से गांव खाली करने का आदेश आया; गांव वालों को विश्वास नहीं हुआ, पर देश के लिए गांव छोड़ना पड़ा; चौपालें और खेत वीरान हो गए, गल
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
   - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
+  - पेज ने पूछा कि क्या किसी को 34 गांवों के पूरे नाम याद हैं। comments में एक सूची-image आई, '34 गाँवों के नाम', जिसमें 32 नाम भरे हैं और 33-34 खाली: बेरांवाला, धन्नासर, मुटलाई, मणेरा, रिणा, मोटासर, भुंवाला, लाडेरा, कुम्भाणा, कनलाई, चकड़ो, देवासर, माच्छरांवाली, भोजरासर, दुदेर, कंकरालियो, मेहुसर, खानीसर
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011](https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 54)
@@ -25,6 +27,8 @@
 ### यह कहां स्थित है?
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
   - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
+  - पेज ने पूछा कि क्या किसी को 34 गांवों के पूरे नाम याद हैं। comments में एक सूची-image आई, '34 गाँवों के नाम', जिसमें 32 नाम भरे हैं और 33-34 खाली: बेरांवाला, धन्नासर, मुटलाई, मणेरा, रिणा, मोटासर, भुंवाला, लाडेरा, कुम्भाणा, कनलाई, चकड़ो, देवासर, माच्छरांवाली, भोजरासर, दुदेर, कंकरालियो, मेहुसर, खानीसर
 - [Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011](https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 54)
   - पूरा अधिग्रहित क्षेत्र एक ही जनगणना गांव के रूप में दर्ज: क्षेत्रफल 1,36,406 हेक्टेयर, जनसंख्या 2, ग्राम पंचायत महाजन, पिन 334604।
 - [Mahajan Field Firing Ranges polygon (OpenStreetMap way 412765540)](https://www.openstreetmap.org/way/412765540) (website · map · तिथि अज्ञात · स्कोर 49 · समीक्षा हेतु) · लाइसेंस: ODbL, (c) OpenStreetMap contributors
@@ -41,20 +45,20 @@
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 80)
   - रक्षा मंत्रालय का उत्तर: महाजन फील्ड फायरिंग रेंज के लिए 33 गांव हटाए गए; 3,12,649 बीघा 05 बिस्वा निजी भूमि; 64.11 करोड़ रुपये मुआवजा; चिड़ासर में 83 और मेऊसर में 192 व्यक्तियों को आवासीय भूखंड का मुआवजा; सार्वजनिक संपत्ति का मुआवजा पंचायत समिति लूणकरणसर को।
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
+  - पेज ने पूछा कि क्या किसी को 34 गांवों के पूरे नाम याद हैं। comments में एक सूची-image आई, '34 गाँवों के नाम', जिसमें 32 नाम भरे हैं और 33-34 खाली: बेरांवाला, धन्नासर, मुटलाई, मणेरा, रिणा, मोटासर, भुंवाला, लाडेरा, कुम्भाणा, कनलाई, चकड़ो, देवासर, माच्छरांवाली, भोजरासर, दुदेर, कंकरालियो, मेहुसर, खानीसर
 - [State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71](https://indiankanoon.org/doc/38464/) (legal · document · 1997-01-06 · स्कोर 74)
   - 1985 की अधिसूचना: बारानी भूमि 300 रुपये प्रति बीघा, IGNP कमांड भूमि आरक्षित मूल्य के दोगुने पर; 2 बीघा बारानी = 1 बीघा कमांड।
 - [Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017](https://indiankanoon.org/doc/174753246/) (legal · document · 2017-01-24 · स्कोर 71)
   - भूमि 1982 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित; अवार्ड पारित; भारत सरकार के नाम दर्ज।
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
   - महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
+  - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
-- [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) (news · text · 2025-02-14 · स्कोर 53 · समीक्षा हेतु)
-  - 148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।
-- [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) (community_wiki · text · तिथि अज्ञात · स्कोर 51)
-  - कुम्भाणा ठिकाना: महाराजा अनूप सिंह द्वारा ठाकुर केसरी सिंह को जागीर; रतनसिंहोत शाखा; महाजन के बाद दूसरा प्रमुख ठिकाना।
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 83)
@@ -71,6 +75,8 @@
   - रामेश्वर गोदारा की 43 सेकंड की reel (21 जून 2026), 'Part 1'। हिंदी narration: 1984-85 में लूणकरणसर तहसील के 34 गांव, जिनका मुख्य व्यवसाय खेती और पशुपालन था, को रक्षा मंत्रालय से गांव खाली करने का आदेश आया; गांव वालों को विश्वास नहीं हुआ, पर देश के लिए गांव छोड़ना पड़ा; चौपालें और खेत वीरान हो गए, गल
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 83)
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
+  - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
 
 ### मंदिर, लोक देवता, स्थल
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -91,6 +97,8 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
+  - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
@@ -111,6 +119,8 @@
   - भूमि 1982 में महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित; अवार्ड पारित; भारत सरकार के नाम दर्ज।
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
   - महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
+  - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) (news · text · 2025-02-14 · स्कोर 53 · समीक्षा हेतु)
@@ -139,9 +149,13 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
 
-### सार्वजनिक सोशल मीडिया स्रोत (1)
+### सार्वजनिक सोशल मीडिया स्रोत (3)
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Rameshwer Godara · uploader: 100011596120309 · transcript_available: Hindi narration, Whisper small readable (14 segments, cleaned reading in evidence) · timestamps: 0 public comments; 1442 views; hashtags: 
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
+  - creator: unnamed commenter · timestamps: 2 images; file not retained
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
+  - creator: R K Parihar · timestamps: 1 photo; file not retained
 
 ### सरकारी / कानूनी अभिलेख (6)
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
@@ -158,10 +172,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ## निकाले गए नाम (entities)
 
-- **people:** Manphool Singh Chaudhary, Rameshwer Godara (narrator/poster), Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
-- **places:** Chidasar, Lunkaransar, Meusar, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
+- **people:** Manphool Singh Chaudhary, R K Parihar (poster), Rameshwer Godara (narrator/poster), Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
+- **places:** Chidasar, Lunkaransar, Meusar, all 32 listed villages, villages around MFFR, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
 - **events:** होलिका दहन कुम्भाणा
-- **organizations:** District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rameshwer Godara, Rssuthar Jaisalmer
+- **organizations:** Bharat Speaks (Facebook page), District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rameshwer Godara, Rssuthar Jaisalmer
 
 ## तथ्य / दावे
 
@@ -188,12 +202,15 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **pending_allotment_cases_2025** = 148 · unverified · विश्वास 0.3 · स्रोत: src_56bd5f269706
 - **main_occupation** = farming and animal husbandry · single-source · विश्वास 0.5 · स्रोत: src_25c0bae37a23
 - **evacuation_order_source** = Ministry of Defence order to vacate · single-source · विश्वास 0.5 · स्रोत: src_25c0bae37a23
+- **periphery_living_conditions** = many peripheral villagers still live in thatched mud huts (jhopra) · single-source · विश्वास 0.5 · स्रोत: src_a12fca6eb70b
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) · flags: resolution_review · agent reports direct mention (name not found in captured text); strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) · flags: resolution_review · agent reports direct mention (name not found in captured text); district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']
 - [Mahajan Field Firing Ranges polygon (OpenStreetMap way 412765540)](https://www.openstreetmap.org/way/412765540) · flags: resolution_review · agent reports direct mention (name not found in captured text); strong geo context: ['Mahajan', 'Lunkaransar']
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) · flags: resolution_review · agent reports direct mention (name not found in captured text); strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
@@ -202,9 +219,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 83 · रिज़ॉल्यूशन accept (0.7) · खोज: महाजन फील्ड फायरिंग रेंज विस्थापित
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) · indiankanoon · legal · स्कोर 83 · रिज़ॉल्यूशन accept (0.6) · खोज: "Mahajan Field Firing Range" indiankanoon
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 80 · रिज़ॉल्यूशन accept (0.6) · खोज: Mahajan Field Firing Range Lok Sabha
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) · facebook · social · स्कोर 75 · रिज़ॉल्यूशन accept (0.6) · खोज: screenshot supplied by TechnoTaau Team
 - [State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71](https://indiankanoon.org/doc/38464/) · indiankanoon · legal · स्कोर 74 · रिज़ॉल्यूशन accept (0.6) · खोज: Mahajan Field Firing Range displaced allotment
 - [Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017](https://indiankanoon.org/doc/174753246/) · indiankanoon · legal · स्कोर 71 · रिज़ॉल्यूशन accept (0.6) · खोज: "Mahajan Field Firing Range" indiankanoon
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) · indiankanoon · legal · स्कोर 68 · रिज़ॉल्यूशन review (0.5) · खोज: Rule 20B Mahajan Field Firing Range
+- [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) · facebook · social · स्कोर 62 · रिज़ॉल्यूशन review (0.5) · खोज: screenshot supplied by TechnoTaau Team
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) · wikipedia · encyclopedia · स्कोर 56 · रिज़ॉल्यूशन accept (0.6) · खोज: धतरवाल कुंभाणा ठोईया मनेरा
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) · youtube · video · स्कोर 56 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
 - [Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011](https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html) · census_mirror · census_mirror · स्कोर 54 · रिज़ॉल्यूशन accept (0.6) · खोज: Mahajan Fieldfiring Range census village

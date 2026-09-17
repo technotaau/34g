@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 1, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 1 · दावे: 7
+स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 1, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 1 · दावे: 8
 
-> Dhatarwal village named after Thoili.
+> Dhatarwal village named after Thoili. Listed as 'ठोइयाँ' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -99,6 +99,7 @@ _कोई नहीं_
 - **displacement_status** = displaced_1984_85 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **founding_clan** = Dhatarwal · single-source · विश्वास 0.5 · स्रोत: src_07585bc5b0e8, src_7da0e757971f
 - **eponym** = Thoili (daughter of Nathu Dhatarwal) · single-source · विश्वास 0.5 · स्रोत: src_07585bc5b0e8
 - **clan_migration_origin** = Dhatri to Baderan · unverified · विश्वास 0.3 · स्रोत: src_7da0e757971f
@@ -107,6 +108,7 @@ _कोई नहीं_
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463)
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

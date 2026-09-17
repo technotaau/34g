@@ -4,7 +4,7 @@
     "name_en": "Kolana",
     "name_hi": "कोलाणा",
     "status": "acquired",
-    "notes": "Dhatarwal community history.",
+    "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved).",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -62,8 +62,8 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_9c7b2263ad6b",
         "src_e6b1f74cf8ca",
+        "src_9c7b2263ad6b",
         "src_a6f66da51d72",
         "src_a5150b8b1d53"
       ]
@@ -71,8 +71,8 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_9c7b2263ad6b",
         "src_e6b1f74cf8ca",
+        "src_9c7b2263ad6b",
         "src_a6f66da51d72",
         "src_a5150b8b1d53"
       ]

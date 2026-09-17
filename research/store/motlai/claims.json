@@ -67,6 +67,27 @@
     ],
     "competing": []
   },
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
   "clm_total_area_acquired_792fcc92": {
     "id": "clm_total_area_acquired_792fcc92",
     "claim_key": "total_area_acquired",
@@ -105,6 +126,69 @@
       {
         "source": "src_b27fa43b7bd0",
         "text": "no village matching Motlai, Motlayi, or Motla appears in the provided document"
+      }
+    ],
+    "competing": []
+  },
+  "clm_house_ruins_material_9d8f7483": {
+    "id": "clm_house_ruins_material_9d8f7483",
+    "claim_key": "house_ruins_material",
+    "value": "low walls of mud and lime with brick courses",
+    "statement_hi": "मुटलाई में मिट्टी-चूने और ईंट की दीवारों के अवशेष हैं (2018 फोटो)",
+    "statement_en": "Low walls of mud, lime and brick remain at Motlai (2018 photos)",
+    "sources": [
+      "src_2651a62df53d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2651a62df53d",
+        "text": "photos"
+      }
+    ],
+    "competing": []
+  },
+  "clm_diaspora_family_motlai_1b621e26": {
+    "id": "clm_diaspora_family_motlai_1b621e26",
+    "claim_key": "diaspora_family_motlai",
+    "value": "Gat family (maternal side) and Jakhar family of Surnana",
+    "statement_hi": "महावीर गाट का ननिहाल मुटलाई में; फरसाराम जाखड़ (सुरनाणा) साथ",
+    "statement_en": "Mahavir Gat's maternal family is from Motlai; Farsaram Jakhar of Surnana accompanied",
+    "sources": [
+      "src_2651a62df53d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2651a62df53d",
+        "text": "मुटलाई मेरे ननिहाल"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "मुटलाई रेंज के 34 विस्थापित गांवों में से एक",
+    "statement_en": "Motlai is one of the 34 displaced villages",
+    "sources": [
+      "src_2651a62df53d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2651a62df53d",
+        "text": "विस्तापित गांव मुटलाई"
       }
     ],
     "competing": []

@@ -4,7 +4,7 @@
     "name_en": "Kumbhana",
     "name_hi": "कुम्भाणा",
     "status": "acquired",
-    "notes": "Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site.",
+    "notes": "Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site. Listed as 'कुम्भाणा' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -14,13 +14,13 @@
   },
   "built": "2026-09-17",
   "counts": {
-    "sources_total": 6,
-    "accepted": 4,
+    "sources_total": 7,
+    "accepted": 5,
     "context": 1,
     "review": 1,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 11
+    "claims": 15
   },
   "questions": {
     "what": {
@@ -41,6 +41,7 @@
       "source_ids": [
         "src_99ea53c3e2c8",
         "src_a5150b8b1d53",
+        "src_8afca068e2a6",
         "src_31f3ca85e9a1",
         "src_da93acd53623",
         "src_698a84e4ebfa",
@@ -50,6 +51,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_8afca068e2a6",
         "src_31f3ca85e9a1",
         "src_da93acd53623",
         "src_698a84e4ebfa"
@@ -58,7 +60,8 @@
     "culture": {
       "label": "सांस्कृतिक जानकारी",
       "source_ids": [
-        "src_a5150b8b1d53"
+        "src_a5150b8b1d53",
+        "src_8afca068e2a6"
       ]
     },
     "temples": {
@@ -73,6 +76,7 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_8afca068e2a6",
         "src_31f3ca85e9a1",
         "src_a6f66da51d72"
       ]
@@ -81,6 +85,7 @@
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_8afca068e2a6",
         "src_698a84e4ebfa"
       ]
     },
@@ -111,6 +116,7 @@
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
+        "src_8afca068e2a6",
         "src_da93acd53623"
       ]
     },
@@ -133,7 +139,9 @@
       "Kumbha",
       "Maharaja Anup Singh",
       "Maharaja Ganga Singh",
+      "Mahender Soni (tagged, likely the father)",
       "Nathu Dhatarwal",
+      "Pradeep Soni (poster)",
       "Pradyuman Singh Bika Kumbhana",
       "Rao Bahadur Thakur Daulat Singh",
       "Rao Lunkaran",
@@ -145,8 +153,10 @@
     "places": [
       "Bikaner",
       "Dhatri",
+      "Field Firing Range Mahajan (Facebook location)",
       "Kumbhana",
       "Kumbhana garh (fort) ruins",
+      "Kumbhana ruins",
       "Mahajan",
       "Mahajan Field Firing Range",
       "Sujangarh"
@@ -154,6 +164,7 @@
     "events": [
       "Accession to India 1956",
       "Court of Wards (1896-97)",
+      "Father-son return visit, 31 Jan 2021",
       "Holika Dahan",
       "Rajasthan Land Reforms Act 1952",
       "Rajasthan Land Reforms and Resumption of Jagirs Act, 1952",
@@ -257,6 +268,27 @@
         "status": "unverified",
         "confidence": 0.3,
         "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
         "competing": []
       },
       {
@@ -381,6 +413,69 @@
           {
             "source": "src_99ea53c3e2c8",
             "text": "'कुम्हाणा गढ़' overlay; frames 00:02-00:14"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_house_ruins_material_d49c3481",
+        "claim_key": "house_ruins_material",
+        "value": "tall stumps of thick mud walls",
+        "statement_hi": "कुम्भाणा में मोटी मिट्टी की दीवारों के ऊंचे ठूंठ खड़े हैं (2021 फोटो)",
+        "statement_en": "Tall stumps of thick mud walls stand at Kumbhana (2021 photos)",
+        "sources": [
+          "src_8afca068e2a6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_8afca068e2a6",
+            "text": "photos"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_diaspora_family_kumbhana_a9832c56",
+        "claim_key": "diaspora_family_kumbhana",
+        "value": "Soni family (Pradeep and Mahender Soni)",
+        "statement_hi": "सोनी परिवार कुम्भाणा का मूल निवासी है",
+        "statement_en": "The Soni family is native to Kumbhana",
+        "sources": [
+          "src_8afca068e2a6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_8afca068e2a6",
+            "text": "अपने पुश्तैनी गांव कुम्भाणा"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_in_34_gaon_fb360f9c",
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "कुम्भाणा 34 विस्थापित गांवों में से एक",
+        "statement_en": "Kumbhana is one of the 34 displaced villages",
+        "sources": [
+          "src_8afca068e2a6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_8afca068e2a6",
+            "text": "कुम्भाणा उन 34 गांवों में से एक है"
           }
         ],
         "competing": []
@@ -521,6 +616,69 @@
       ],
       "license": "",
       "attribution": "Rajasthan Patrika, Loonaram Verma, 2022-11-29",
+      "is_primary": true
+    },
+    "src_8afca068e2a6": {
+      "url": "https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at 'Field Firing Range Mahajan', with Mahender Soni and 16 others; URL not captured)",
+      "title": "प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "2021-01-31",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 6,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Kumbhana",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner']"
+        ],
+        "matched_names": [
+          "Kumbhana",
+          "कुम्भाणा",
+          "कुम्भाणा महाजन"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "land_agriculture",
+        "media_visual",
+        "military_range",
+        "people_family"
+      ],
+      "license": "Facebook post; poster's copyright",
+      "attribution": "Pradeep Soni, Facebook, 31 Jan 2021",
       "is_primary": true
     },
     "src_31f3ca85e9a1": {
@@ -770,6 +928,11 @@
       "id": "src_0e0757dd116a",
       "url": "https://rajputs.net/view/kumbhana",
       "title": "Kumbhana thikana (rajputs.net)"
+    },
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
     }
   ],
   "runs": [
@@ -825,6 +988,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 6,
       "at": "2026-09-07T09:08:44.128372+00:00"
+    },
+    {
+      "run_id": "run_20260917T182959Z",
+      "file": "research/inbox/kumbhana/fb_pradeep_soni_2021.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 7,
+      "at": "2026-09-17T18:30:00.072637+00:00"
     }
   ]
 }

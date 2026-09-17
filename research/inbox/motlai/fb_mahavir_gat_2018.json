@@ -1,0 +1,86 @@
+{
+ "village": "motlai",
+ "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "motlai",
+   "url": "https://www.facebook.com/ (Mahavir Gat, post of 5 Apr 2018 with Farsaram Jakhar Surnana and 7 others; URL not captured)",
+   "title": "महावीर गाट: विस्थापित गांव मुटलाई, मेरा ननिहाल (Facebook post, 5 Apr 2018)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "Mahavir Gat (with Farsaram Jakhar Surnana)",
+   "published_date": "2018-04-05",
+   "language": "hi",
+   "found_by_query": "screenshot supplied by TechnoTaau Team",
+   "summary": "महावीर गाट अपने ननिहाल, विस्थापित गांव मुटलाई, गए और 34 गांव वालों को सलाम किया। पांच फोटो: खंडहर दीवारों के बीच चार-पांच पुरुष; मिट्टी-चूने की दीवारों के अवशेष; धुंधला आकाश।",
+   "topics": [
+    "displacement",
+    "people_family",
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "मुटलाई",
+    "महाजन फील्ड फायरिंग रेंज"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "मुटलाई",
+   "evidence_snippets": [
+    "Post text: 'आज महाजन फिल्ड फायरिंग रेंज में विस्तापित गांव मुटलाई मेरे ननिहाल में जाने का मौका मिला। भारतीय सेना के लिए जन्म भूमि कर्म भूमि देने वाले महाजन फील्ड फयरिंग रेज के सभी 34 गांव वालो को दिल से सेल्यूट।'",
+    "Photos (visual): four men (white kurta with safa, pink shirt, white shirt, peach shirt) standing among low ruined walls; walls of mud and lime with brick courses; a man walking past a cracked wall; hazy dust-storm sky"
+   ],
+   "entities": {
+    "people": [
+     "Mahavir Gat (poster, maternal grandson of Motlai)",
+     "Farsaram Jakhar Surnana (tagged; Surnana is a Lunkaransar-area village)"
+    ],
+    "places": [
+     "Motlai ruins"
+    ],
+    "events": [
+     "Visit to ninhal, 5 Apr 2018"
+    ],
+    "organizations": []
+   },
+   "license": "Facebook post; poster's copyright",
+   "attribution": "Mahavir Gat, Facebook, 5 Apr 2018",
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [
+    {
+     "claim_key": "house_ruins_material",
+     "value": "low walls of mud and lime with brick courses",
+     "statement_hi": "मुटलाई में मिट्टी-चूने और ईंट की दीवारों के अवशेष हैं (2018 फोटो)",
+     "statement_en": "Low walls of mud, lime and brick remain at Motlai (2018 photos)",
+     "snippet": "photos"
+    },
+    {
+     "claim_key": "diaspora_family_motlai",
+     "value": "Gat family (maternal side) and Jakhar family of Surnana",
+     "statement_hi": "महावीर गाट का ननिहाल मुटलाई में; फरसाराम जाखड़ (सुरनाणा) साथ",
+     "statement_en": "Mahavir Gat's maternal family is from Motlai; Farsaram Jakhar of Surnana accompanied",
+     "snippet": "मुटलाई मेरे ननिहाल"
+    },
+    {
+     "claim_key": "village_in_34_gaon",
+     "value": "yes",
+     "statement_hi": "मुटलाई रेंज के 34 विस्थापित गांवों में से एक",
+     "statement_en": "Motlai is one of the 34 displaced villages",
+     "snippet": "विस्तापित गांव मुटलाई"
+    }
+   ],
+   "media": {
+    "caption": "",
+    "creator": "Mahavir Gat",
+    "transcript_available": "",
+    "timestamps": "5 photos; file not retained"
+   },
+   "notes": "Spelling 'मुटलाई' (Mutlai) vs Patrika 'मोटलाई'; both now registered as variants."
+  }
+ ]
+}

@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 5, स्वीकृत 2, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 5, स्वीकृत 2, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 7
 
-> Named in Patrika 2022.
+> Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -103,6 +103,7 @@ _कोई नहीं_
 - **acquisition_year** = 1984-85 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **resettlement_sites** = Khajuwala, Dantur, Pugal, Mohangadh · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **village_status_present** = abandoned, temples still visited on fair days · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **range_area_ha** = 3.37 lakh acres · unverified · विश्वास 0.3 · स्रोत: src_a6f66da51d72
 - **abandoned_structures_use** = used as simulated military targets · unverified · विश्वास 0.3 · स्रोत: src_a6f66da51d72
 - **founding_clan** = Tarad (Tard) Jat gotra · unverified · विश्वास 0.3 · स्रोत: src_7f2edd77a900
@@ -110,6 +111,7 @@ _कोई नहीं_
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

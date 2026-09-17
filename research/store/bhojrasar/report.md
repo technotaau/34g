@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 10, स्वीकृत 1, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 3, डुप्लिकेट 1 · दावे: 5
+स्रोत: कुल 10, स्वीकृत 1, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 3, डुप्लिकेट 1 · दावे: 6
 
-> Named in Patrika 2022; Sharma family resettled in Mahajan town.
+> Named in Patrika 2022; Sharma family resettled in Mahajan town. Listed as 'भोजरासर' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -15,10 +15,10 @@
   - Parliamentary e-library catalogue entry titled 'Mahajan Field Firing Range in Rajasthan'. Page content could not be fully retrieved (only the title rendered); likely a Lok Sabha/Rajya Sabha question-and-answer or committee document about the range, potentially containing the list of the 34 acquired 
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) के लिए करीब चार दशक पहले उजाड़े गए 34 गांवों की सामान्य पृष्ठभूमि देती है — घर, तालाब, मंदिर आज भी खंडहर के रूप में मौजूद हैं। भोजरासर का नाम इस विशेष लेख में सीधे नहीं आया, केवल सामान्य '34 गांव' संदर्भ में शामिल माना जा सकता है।
-- [Bhojoosar Village in Bikaner, Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
-  - Census-derived listing for a village spelled 'Bhojoosar' — 40 km from Bikaner city, in Bikaner TEHSIL (not Lunkaransar), gram panchayat Swaroopdesar, population 493 (2011). This is very likely a DIFFERENT village from the 34-gaon Bhojrasar near Mahajan/Lunkaransar, since it is a currently-populated 
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - Census of India recognises 'Mahajan Fieldfiring Range' itself as a distinct revenue/census village (code 69202) inside Lunkaransar tehsil, Bikaner — i.e., the acquired land of the 34 villages, including Bhojrasar's former site, was consolidated into this single military-use census unit after acquisi
+- [Bhojoosar Village in Bikaner, Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
+  - Census-derived listing for a village spelled 'Bhojoosar' — 40 km from Bikaner city, in Bikaner TEHSIL (not Lunkaransar), gram panchayat Swaroopdesar, population 493 (2011). This is very likely a DIFFERENT village from the 34-gaon Bhojrasar near Mahajan/Lunkaransar, since it is a currently-populated 
 - [Mahajan - महाजन (Jatland Wiki)](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 37 · पृष्ठभूमि स्रोत)
   - Jatland wiki page for Mahajan village (Lunkaransar tehsil, Bikaner) — the sub-tehsil town after which the firing range and this displaced-villages cluster are named. Page could not be fetched (403 Forbidden on WebFetch); only appeared as a search result. Likely to contain clan/gotra and settlement-h
 
@@ -39,10 +39,10 @@
   - Parliamentary e-library catalogue entry titled 'Mahajan Field Firing Range in Rajasthan'. Page content could not be fully retrieved (only the title rendered); likely a Lok Sabha/Rajya Sabha question-and-answer or committee document about the range, potentially containing the list of the 34 acquired 
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) के लिए करीब चार दशक पहले उजाड़े गए 34 गांवों की सामान्य पृष्ठभूमि देती है — घर, तालाब, मंदिर आज भी खंडहर के रूप में मौजूद हैं। भोजरासर का नाम इस विशेष लेख में सीधे नहीं आया, केवल सामान्य '34 गांव' संदर्भ में शामिल माना जा सकता है।
-- [Bhojoosar Village in Bikaner, Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
-  - Census-derived listing for a village spelled 'Bhojoosar' — 40 km from Bikaner city, in Bikaner TEHSIL (not Lunkaransar), gram panchayat Swaroopdesar, population 493 (2011). This is very likely a DIFFERENT village from the 34-gaon Bhojrasar near Mahajan/Lunkaransar, since it is a currently-populated 
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - Census of India recognises 'Mahajan Fieldfiring Range' itself as a distinct revenue/census village (code 69202) inside Lunkaransar tehsil, Bikaner — i.e., the acquired land of the 34 villages, including Bhojrasar's former site, was consolidated into this single military-use census unit after acquisi
+- [Bhojoosar Village in Bikaner, Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/bhojoosar.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
+  - Census-derived listing for a village spelled 'Bhojoosar' — 40 km from Bikaner city, in Bikaner TEHSIL (not Lunkaransar), gram panchayat Swaroopdesar, population 493 (2011). This is very likely a DIFFERENT village from the 34-gaon Bhojrasar near Mahajan/Lunkaransar, since it is a currently-populated 
 - [Mahajan - महाजन (Jatland Wiki)](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 37 · पृष्ठभूमि स्रोत)
   - Jatland wiki page for Mahajan village (Lunkaransar tehsil, Bikaner) — the sub-tehsil town after which the firing range and this displaced-villages cluster are named. Page could not be fetched (403 Forbidden on WebFetch); only appeared as a search result. Likely to contain clan/gotra and settlement-h
 
@@ -112,12 +112,14 @@ _कोई नहीं_
 - **acquisition_year** = 1984-85 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **resettlement_sites** = Mahajan town · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **resettlement_land_areas** = Khajuwala, Dantaur, Pugal, Mohangarh, Nachna · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **total_acquired_area** = 3.37 lakh acres · unverified · विश्वास 0.3 · स्रोत: src_a6f66da51d72
 - **post_acquisition_administrative_status** = merged into 'Mahajan Fieldfiring Range' census village (code 69202), Lunkaransar tehsil · unverified · विश्वास 0.3 · स्रोत: src_8c5b127adbe8
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 10, स्वीकृत 3, पृष्ठभूमि (context) 7, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
+स्रोत: कुल 10, स्वीकृत 3, पृष्ठभूमि (context) 7, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 11
 
-> Lok Sabha 1987: 192 persons paid for residential plots. Hindi spelling unverified.
+> Lok Sabha 1987: 192 persons paid for residential plots. Hindi spelling unverified. Community list spells it 'मेहुसर' (Mehusar), which fits the Lok Sabha 'Meusar'.
 
 ## मुख्य प्रश्न
 
@@ -19,10 +19,10 @@
   - यह रिपोर्ट महाजन फील्ड फायरिंग रेंज में अमेरिका, ब्रिटेन, रूस और फ्रांस की सेनाओं के संयुक्त अभ्यासों का वर्णन करती है और उल्लेख करती है कि लगभग चार दशक पहले विस्थापित 34 गांवों के मकान, तालाब और मंदिर आज भी रेंज में मौजूद हैं तथा सैन्य अभ्यास में लक्ष्य के रूप में प्रयुक्त होते हैं। मेऊसर का नाम नह
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - लूणकरणसर तहसील, बीकानेर में महाजन गांव का जनगणना पृष्ठ, जो 34-गांव परियोजना के केंद्रीय संदर्भ बिंदु और उप-तहसील मुख्यालय के रूप में उपयोगी है। मेऊसर का उल्लेख नहीं, परंतु सटीक तहसील/जिला संदर्भ के लिए सहायक।
-- [Mahajan - महाजन](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
-  - जाटलैंड विकि पृष्ठ महाजन को लूणकरणसर तहसील, बीकानेर के एक गांव के रूप में वर्णित करता है, जहां कस्तूरबा गांधी महिला विद्यापीठ 1953 में स्थापित हुई थी। पृष्ठ प्रत्यक्ष रूप से नहीं खुल सका (403), केवल खोज परिणाम से जानकारी ली गई; मेऊसर या 34 गांवों की कोई सूची नहीं मिली।
 - [विधानसभा क्षेत्र लूणकरणसर के महाजन मण्डल की कार्यकारिणी घोषित](https://www.lionexpress.in/executive-committee-of-mahajan-mandal-declared/) (news · text · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
   - स्थानीय समाचार पोर्टल की खबर, जो लूणकरणसर विधानसभा क्षेत्र के महाजन मण्डल (संगठनात्मक इकाई) की नई कार्यकारिणी की घोषणा से संबंधित है। मेऊसर का सीधा उल्लेख नहीं, परन्तु सही तहसील/विधानसभा क्षेत्र की पुष्टि करती है।
+- [Mahajan - महाजन](https://www.jatland.com/home/Mahajan) (community_wiki · text · तिथि अज्ञात · स्कोर 39 · पृष्ठभूमि स्रोत)
+  - जाटलैंड विकि पृष्ठ महाजन को लूणकरणसर तहसील, बीकानेर के एक गांव के रूप में वर्णित करता है, जहां कस्तूरबा गांधी महिला विद्यापीठ 1953 में स्थापित हुई थी। पृष्ठ प्रत्यक्ष रूप से नहीं खुल सका (403), केवल खोज परिणाम से जानकारी ली गई; मेऊसर या 34 गांवों की कोई सूची नहीं मिली।
 
 ### यह कहां स्थित है?
 - [Meusar Village Population - Nokha - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69596-meusar-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 71)
@@ -125,6 +125,7 @@ _कोई नहीं_
 - **villages_acquired_count** = 33 · single-source · विश्वास 0.5 · स्रोत: src_4fb2da84d5a4
 - **private_land_acquired_bighas** = 312649 · single-source · विश्वास 0.5 · स्रोत: src_4fb2da84d5a4
 - **compensation_total_crore** = 64.11 · single-source · विश्वास 0.5 · स्रोत: src_4fb2da84d5a4
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **current_tehsil_namesake** = Jasrasar tehsil, Bikaner · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['Nokha tehsil, Bikaner (per this mirror)'] · स्रोत: src_87a784fff1e4
 - **current_tehsil_namesake** = Nokha tehsil, Bikaner (per this mirror) · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['Jasrasar tehsil, Bikaner'] · स्रोत: src_3f9653572870
 - **population_2011** = 1313 · unverified · विश्वास 0.3 · स्रोत: src_87a784fff1e4
@@ -136,6 +137,7 @@ _कोई नहीं_
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

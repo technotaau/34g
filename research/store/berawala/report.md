@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 11, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 3, डुप्लिकेट 2 · दावे: 22
+स्रोत: कुल 11, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 3, डुप्लिकेट 2 · दावे: 23
 
-> Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude. Family in the Akshay Godara vlog now lives at Sherpura (Lunkaransar tehsil); video tags use 'Berwala' too.
+> Added 5 Sep 2026 from a YouTube lead: 'My family visited Berawala Village, Mahajan Firing Range' (Akshay Godara, 19 Feb 2022). Google auto-corrects to 'Barwala' (Haryana); exclude. Family in the Akshay Godara vlog now lives at Sherpura (Lunkaransar tehsil); video tags use 'Berwala' too. Listed as 'बेरांवाला' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -114,6 +114,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **temple_name** = Thakurji Mandir · verified (2 स्वतंत्र स्रोत) · गांव में ठाकुरजी मंदिर के खंडहर मौजूद हैं
 
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
 - **acquisition_year** = 1984 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-85'] · स्रोत: src_02fff109d15c
 - **acquisition_year** = 1984-85 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['1984'] · स्रोत: src_a5150b8b1d53
@@ -135,6 +136,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **current_census_status** = not_independently_listed · unverified · विश्वास 0.3 · स्रोत: src_b27fa43b7bd0
 - **administrative_status** = absorbed_under_firing_range_census_entity · unverified · विश्वास 0.3 · स्रोत: src_8c5b127adbe8
 - **diaspora_family_berawala** = Jakhar family (Chhaganlal Jakhar) · single-source · विश्वास 0.5 · स्रोत: src_220a169304bf
+
+## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
+
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

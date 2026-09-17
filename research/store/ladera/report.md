@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 4, पृष्ठभूमि (context) 0, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 8
+स्रोत: कुल 7, स्वीकृत 4, पृष्ठभूमि (context) 0, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
-> Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified.
+> Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified. Listed as 'लाडेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -45,10 +45,10 @@
   - A 2025 criminal writ petition (frozen bank account dispute) identifies the petitioner Kana Ram as a resident of 'Village Ladera, Malasar, Bikaner'. Confirms Ladera's continued association with Malasar (Bikaner tehsil), not Lunkaransar/Mahajan.
 - [Sunita vs State Of Rajasthan](https://indiankanoon.org/doc/147633919/) (legal · document · 2021-01-18 · स्कोर 80 · समीक्षा हेतु)
   - Civil writ petition naming a respondent, 'Shakantula Devi, Female Health Worker At Sub Health Center, Ladera, Jamsar, Bikaner', confirming a government sub-health-centre at Ladera near Jamsar (a coal-belt village close to Bikaner city).
-- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
-  - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
 - [Ladera Village Population - Census 2011](https://www.census2011.co.in/data/village/69062-ladera-rajasthan.html) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
   - Confirms the same Bikaner-tehsil Ladera (village code 069062): population 475, 75 households, literacy 69.38% (male 86.02%, female 52.46%), Scheduled Caste population 18.74%, 147 workers of whom 92 are cultivators. No mention of Lunkaransar tehsil, Mahajan, firing range, or displacement.
+- [Ladera Village in Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/bikaner/ladera/) (census_mirror · text · तिथि अज्ञात · स्कोर 72)
+  - Census-derived directory page for a village named Ladera, but places it in Bikaner tehsil (not Lunkaransar/Mahajan), 43 km from Bikaner city, Gram Panchayat Malasar, pincode 334402, population 475 (2011). Falls in Lunkaransar Vidhan Sabha (assembly) constituency but Bikaner Lok Sabha seat and Bikane
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
@@ -107,6 +107,7 @@ _कोई नहीं_
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **tehsil_admin** = Bikaner tehsil (per this source) vs. Lunkaransar tehsil (per research brief) · unverified · विश्वास 0.3 · स्रोत: src_64e5e1430c8e
 - **population_2011** = 475 (235 male, 240 female), 75 households · unverified · विश्वास 0.3 · स्रोत: src_64e5e1430c8e
 - **literacy_rate_2011** = 69.38% overall, male 86.02%, female 52.46% · unverified · विश्वास 0.3 · स्रोत: src_a2d2a4035eb8
@@ -117,6 +118,7 @@ _कोई नहीं_
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

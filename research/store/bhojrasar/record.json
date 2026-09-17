@@ -4,7 +4,7 @@
     "name_en": "Bhojrasar",
     "name_hi": "भोजरासर",
     "status": "acquired",
-    "notes": "Named in Patrika 2022; Sharma family resettled in Mahajan town.",
+    "notes": "Named in Patrika 2022; Sharma family resettled in Mahajan town. Listed as 'भोजरासर' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -20,7 +20,7 @@
     "review": 0,
     "rejected": 3,
     "duplicates": 1,
-    "claims": 5
+    "claims": 6
   },
   "questions": {
     "what": {
@@ -29,8 +29,8 @@
         "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72",
-        "src_4649c3381476",
         "src_8c5b127adbe8",
+        "src_4649c3381476",
         "src_f07a8c256ae6"
       ]
     },
@@ -49,8 +49,8 @@
         "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72",
-        "src_4649c3381476",
         "src_8c5b127adbe8",
+        "src_4649c3381476",
         "src_f07a8c256ae6"
       ]
     },
@@ -216,6 +216,27 @@
           {
             "source": "src_a5150b8b1d53",
             "text": "विस्थापित किसानों को खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना क्षेत्र में जमीन आवंटित की गई"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
           }
         ],
         "competing": []
@@ -636,6 +657,11 @@
       "id": "src_a5150b8b1d53",
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
       "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द"
+    },
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
     }
   ],
   "runs": [

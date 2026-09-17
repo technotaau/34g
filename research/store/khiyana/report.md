@@ -2,9 +2,9 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 19, स्वीकृत 13, पृष्ठभूमि (context) 5, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 18
+स्रोत: कुल 19, स्वीकृत 13, पृष्ठभूमि (context) 5, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 19
 
-> Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024).
+> Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024). Listed as 'खियाणों' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
 ## मुख्य प्रश्न
 
@@ -79,12 +79,12 @@
   - YouTube video 'Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.' (5:50) by Rssuthar Jaisalmer. Mahajan Field Firing Range Nathu Dada Temple Village Khiyana Loonkaransar 20 Darasingh Dewasi 20190924_072226
 - [Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926](https://www.youtube.com/watch?v=S3RMmydQupE) (video · video · 2024-09-08 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926' (0:22) by Rssuthar Jaisalmer. Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926
-- [Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.](https://www.youtube.com/watch?v=viNoX1PP5cc) (video · video · 2024-09-06 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640
 - [Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.](https://www.youtube.com/watch?v=gTBzm76BYSE) (video · video · 2024-08-13 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.' (6:40) by Rssuthar Jaisalmer. नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511
 - [जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.](https://www.youtube.com/watch?v=-H5a5iNsxyM) (video · video · 2024-08-29 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.' (3:54) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana 19 20190924_071304 جيٿرام پهلوان جي جرئت ۽ جذبي کي سلام. ناٿو دادا ڍورا ڪيانا ريسلنگ ڊانس
+- [Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.](https://www.youtube.com/watch?v=viNoX1PP5cc) (video · video · 2024-09-06 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640
 - [Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan](https://www.youtube.com/watch?v=YGDc75dU39g) (video · video · 2024-09-27 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan' (26:15) by Shubh Journey. Shubh Journey 1475 राजस्थान की रेगिस्तानी धरती पर स्थित एक अद्भुत मंदिर है, जो अपनी अनोखी भव्यता और संस्कृति के लिए जाना जाता है। यह मंदिर, जो रेत के धोरों के बीच स्थि
 - [सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · तिथि अज्ञात · स्कोर 74)
@@ -101,12 +101,12 @@
   - YouTube video 'Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.' (5:50) by Rssuthar Jaisalmer. Mahajan Field Firing Range Nathu Dada Temple Village Khiyana Loonkaransar 20 Darasingh Dewasi 20190924_072226
 - [Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926](https://www.youtube.com/watch?v=S3RMmydQupE) (video · video · 2024-09-08 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926' (0:22) by Rssuthar Jaisalmer. Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926
-- [Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.](https://www.youtube.com/watch?v=viNoX1PP5cc) (video · video · 2024-09-06 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640
 - [Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.](https://www.youtube.com/watch?v=gTBzm76BYSE) (video · video · 2024-08-13 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.' (6:40) by Rssuthar Jaisalmer. नाथू दादा धोरा खींयाणा कुश्ती दंगल Date _18 20190924_070511
 - [जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.](https://www.youtube.com/watch?v=-H5a5iNsxyM) (video · video · 2024-08-29 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.' (3:54) by Rssuthar Jaisalmer. Nathu Dada Dhora Kheyana 19 20190924_071304 جيٿرام پهلوان جي جرئت ۽ جذبي کي سلام. ناٿو دادا ڍورا ڪيانا ريسلنگ ڊانس
+- [Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.](https://www.youtube.com/watch?v=viNoX1PP5cc) (video · video · 2024-09-06 · स्कोर 87) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.' (4:08) by Rssuthar Jaisalmer. Nathu Dada Dhora Khiyaana Mahajan field firing range Date _23 20190924_084640
 - [Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan](https://www.youtube.com/watch?v=YGDc75dU39g) (video · video · 2024-09-27 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan' (26:15) by Shubh Journey. Shubh Journey 1475 राजस्थान की रेगिस्तानी धरती पर स्थित एक अद्भुत मंदिर है, जो अपनी अनोखी भव्यता और संस्कृति के लिए जाना जाता है। यह मंदिर, जो रेत के धोरों के बीच स्थि
 - [सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · तिथि अज्ञात · स्कोर 74)
@@ -189,6 +189,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
 - **evacuation_period** = 1981-1986 · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
 - **founding_person** = Nathu Dhatarwal · unverified · विश्वास 0.3 · स्रोत: src_dc27e87bee50
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **temple_name** = नाथूदादा मंदिर / Nathu Dada Temple · unverified · विश्वास 0.3 · स्रोत: src_f525760f12bd
 - **founder_name** = खिंयाजी (Khiyaji, 2nd son of Nathu Dada) · unverified · विश्वास 0.3 · स्रोत: src_f525760f12bd
 - **fair_name** = नाथू दादा मेला (annual Nathu Dada fair) · unverified · विश्वास 0.3 · स्रोत: src_7da0e757971f
@@ -208,6 +209,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट)
+- [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured))
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 

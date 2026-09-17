@@ -365,5 +365,47 @@
       }
     ],
     "competing": []
+  },
+  "clm_periphery_living_conditions_be750335": {
+    "id": "clm_periphery_living_conditions_be750335",
+    "claim_key": "periphery_living_conditions",
+    "value": "many peripheral villagers still live in thatched mud huts (jhopra)",
+    "statement_hi": "रेंज के आस-पास के गांवों में आज भी बहुत लोग छप्पर वाली मिट्टी की झोंपड़ियों में रहते हैं",
+    "statement_en": "Many people in villages around the range still live in thatched mud huts",
+    "sources": [
+      "src_a12fca6eb70b"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_a12fca6eb70b",
+        "text": "ज्यादातर लोग आज भी इन झोपड़ पटियो में"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
   }
 }

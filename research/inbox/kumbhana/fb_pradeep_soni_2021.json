@@ -1,0 +1,89 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at 'Field Firing Range Mahajan', with Mahender Soni and 16 others; URL not captured)",
+   "title": "प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "Pradeep Soni (with Mahender Soni)",
+   "published_date": "2021-01-31",
+   "language": "hi",
+   "found_by_query": "screenshot supplied by TechnoTaau Team",
+   "summary": "प्रदीप सोनी अपने पिता के साथ पुश्तैनी गांव कुम्भाणा गए। पिता उंगलियों के इशारों से रसोई, बरामदे बताते रहे; चेहरे पर बचपन उतर आया। चार फोटो: मिट्टी की मोटी दीवारों के ऊंचे ठूंठ (खंडहर), और पिता (महेंद्र सोनी?) खंडहर और खेजड़ी के पास खड़े।",
+   "topics": [
+    "displacement",
+    "people_family",
+    "culture",
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "कुम्भाणा",
+    "महाजन फील्ड फायरिंग रेंज",
+    "Bikaner"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "कुम्भाणा",
+   "evidence_snippets": [
+    "Post text: 'तस्वीरों में दिख रहे ये खंडहर कभी भरे-पूरे घर हुआ करते थे। यहां भी चहल-पहल हुआ करती थी। आज पापा के साथ अपने पुश्तैनी गांव कुम्भाणा जाना हुआ। कुम्भाणा उन 34 गांवों में से एक है जो महाजन फील्ड फायरिंग रेंज की वजह से विस्थापित हो गए थे। पापा उंगलियों के इशारों से रसोई, बरामदे आदि के बारे में बता रहे थे। उनके चेहरे और आँखों में जैसे उनका सारा बचपन उतर आया हो। ... मनुष्य कितनी भी तरक्की करले लेकिन उसे अतीत से सुनहरा कुछ नहीं लगता।'",
+    "Photos (visual): a field of tall mud-wall stumps, the eroded remains of thick-walled houses, on bare sandy ground with khejri trees; a man in white shirt and dark waistcoat (the father) pointing at the ruins; a khejri tree beside a ruin"
+   ],
+   "entities": {
+    "people": [
+     "Pradeep Soni (poster)",
+     "Mahender Soni (tagged, likely the father)"
+    ],
+    "places": [
+     "Kumbhana ruins",
+     "Field Firing Range Mahajan (Facebook location)"
+    ],
+    "events": [
+     "Father-son return visit, 31 Jan 2021"
+    ],
+    "organizations": []
+   },
+   "license": "Facebook post; poster's copyright",
+   "attribution": "Pradeep Soni, Facebook, 31 Jan 2021",
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [
+    {
+     "claim_key": "house_ruins_material",
+     "value": "tall stumps of thick mud walls",
+     "statement_hi": "कुम्भाणा में मोटी मिट्टी की दीवारों के ऊंचे ठूंठ खड़े हैं (2021 फोटो)",
+     "statement_en": "Tall stumps of thick mud walls stand at Kumbhana (2021 photos)",
+     "snippet": "photos"
+    },
+    {
+     "claim_key": "diaspora_family_kumbhana",
+     "value": "Soni family (Pradeep and Mahender Soni)",
+     "statement_hi": "सोनी परिवार कुम्भाणा का मूल निवासी है",
+     "statement_en": "The Soni family is native to Kumbhana",
+     "snippet": "अपने पुश्तैनी गांव कुम्भाणा"
+    },
+    {
+     "claim_key": "village_in_34_gaon",
+     "value": "yes",
+     "statement_hi": "कुम्भाणा 34 विस्थापित गांवों में से एक",
+     "statement_en": "Kumbhana is one of the 34 displaced villages",
+     "snippet": "कुम्भाणा उन 34 गांवों में से एक है"
+    }
+   ],
+   "media": {
+    "caption": "",
+    "creator": "Pradeep Soni",
+    "transcript_available": "",
+    "timestamps": "4 photos; file not retained"
+   },
+   "notes": "Post URL not captured; ask the team for the link. Soni (goldsmith) family adds a non-Jat, non-Rajput community to Kumbhana's profile."
+  }
+ ]
+}

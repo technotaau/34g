@@ -1,0 +1,66 @@
+{
+ "village": "34-gaon",
+ "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "34-gaon",
+   "url": "https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)",
+   "title": "आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "R K Parihar",
+   "published_date": "2026-05-28",
+   "language": "hi",
+   "found_by_query": "screenshot supplied by TechnoTaau Team",
+   "summary": "रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।",
+   "topics": [
+    "land_agriculture",
+    "culture",
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "महाजन फील्ड फायरिंग रेंज"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "महाजन फील्ड फायरिंग रेंज",
+   "evidence_snippets": [
+    "Post text: 'महाजन फील्ड फायरिंग रेंज के आस पास के गांव जो आज भी बहुत पिछड़े हुए है। यहां पर ज्यादातर लोग आज भी इन झोपड़ पटियो में अपना जीवन यापन कर रहे हैं'",
+    "Photo (visual): two thatched-roof mud huts (jhopra) with a mud compound wall on sand, a cow, khejri and scrub, a pucca house in the distance; year not shown in screenshot (assumed 2026)"
+   ],
+   "entities": {
+    "people": [
+     "R K Parihar (poster)"
+    ],
+    "places": [
+     "villages around MFFR"
+    ],
+    "events": [],
+    "organizations": []
+   },
+   "license": "Facebook post; poster's copyright",
+   "attribution": "R K Parihar, Facebook, 28 May",
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "periphery_living_conditions",
+     "value": "many peripheral villagers still live in thatched mud huts (jhopra)",
+     "statement_hi": "रेंज के आस-पास के गांवों में आज भी बहुत लोग छप्पर वाली मिट्टी की झोंपड़ियों में रहते हैं",
+     "statement_en": "Many people in villages around the range still live in thatched mud huts",
+     "snippet": "ज्यादातर लोग आज भी इन झोपड़ पटियो में"
+    }
+   ],
+   "media": {
+    "caption": "",
+    "creator": "R K Parihar",
+    "transcript_available": "",
+    "timestamps": "1 photo; file not retained"
+   },
+   "notes": "Year of post not visible; village not named. Useful for the 'today's context' section and for the traditional jhopra dwelling type."
+  }
+ ]
+}

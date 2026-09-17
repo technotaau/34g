@@ -9,13 +9,13 @@
   },
   "built": "2026-09-17",
   "counts": {
-    "sources_total": 14,
-    "accepted": 10,
+    "sources_total": 16,
+    "accepted": 11,
     "context": 1,
-    "review": 3,
+    "review": 4,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 20
+    "claims": 22
   },
   "questions": {
     "what": {
@@ -23,6 +23,7 @@
       "source_ids": [
         "src_25c0bae37a23",
         "src_4fb2da84d5a4",
+        "src_967773b5f1ff",
         "src_dc27e87bee50",
         "src_aaf7222a0629",
         "src_0e0757dd116a",
@@ -33,6 +34,7 @@
       "label": "यह कहां स्थित है?",
       "source_ids": [
         "src_4fb2da84d5a4",
+        "src_967773b5f1ff",
         "src_aaf7222a0629",
         "src_187ce13936fa"
       ]
@@ -45,9 +47,11 @@
         "src_a5150b8b1d53",
         "src_d159880ed58d",
         "src_4fb2da84d5a4",
+        "src_967773b5f1ff",
         "src_6606deafe9c7",
         "src_38f66d790796",
         "src_064a2acb392d",
+        "src_a12fca6eb70b",
         "src_7f98544507e3",
         "src_dc27e87bee50",
         "src_56bd5f269706",
@@ -67,7 +71,8 @@
       "label": "सांस्कृतिक जानकारी",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_a5150b8b1d53"
+        "src_a5150b8b1d53",
+        "src_a12fca6eb70b"
       ]
     },
     "temples": {
@@ -86,6 +91,7 @@
         "src_25c0bae37a23",
         "src_a5150b8b1d53",
         "src_d159880ed58d",
+        "src_a12fca6eb70b",
         "src_7f98544507e3",
         "src_dc27e87bee50"
       ]
@@ -100,6 +106,7 @@
         "src_6606deafe9c7",
         "src_38f66d790796",
         "src_064a2acb392d",
+        "src_a12fca6eb70b",
         "src_dc27e87bee50",
         "src_56bd5f269706"
       ]
@@ -139,7 +146,9 @@
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
-        "src_25c0bae37a23"
+        "src_25c0bae37a23",
+        "src_967773b5f1ff",
+        "src_a12fca6eb70b"
       ]
     },
     "gov": {
@@ -165,6 +174,7 @@
   "entities": {
     "people": [
       "Manphool Singh Chaudhary",
+      "R K Parihar (poster)",
       "Rameshwer Godara (narrator/poster)",
       "Shivraj V. Patil",
       "नाथू धतरवाल",
@@ -176,6 +186,8 @@
       "Chidasar",
       "Lunkaransar",
       "Meusar",
+      "all 32 listed villages",
+      "villages around MFFR",
       "करणीसर",
       "कुम्भाणा",
       "कृष्णनगर",
@@ -201,6 +213,7 @@
       "होलिका दहन कुम्भाणा"
     ],
     "organizations": [
+      "Bharat Speaks (Facebook page)",
       "District Collector Bikaner",
       "Ministry of Defence",
       "Panchayat Samiti Lunkaransar",
@@ -578,6 +591,48 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_periphery_living_conditions_be750335",
+        "claim_key": "periphery_living_conditions",
+        "value": "many peripheral villagers still live in thatched mud huts (jhopra)",
+        "statement_hi": "रेंज के आस-पास के गांवों में आज भी बहुत लोग छप्पर वाली मिट्टी की झोंपड़ियों में रहते हैं",
+        "statement_en": "Many people in villages around the range still live in thatched mud huts",
+        "sources": [
+          "src_a12fca6eb70b"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_a12fca6eb70b",
+            "text": "ज्यादातर लोग आज भी इन झोपड़ पटियो में"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -616,6 +671,18 @@
       "reasons": [
         "agent reports direct mention (name not found in captured text)",
         "strong geo context: ['Mahajan', 'Lunkaransar']"
+      ]
+    },
+    {
+      "id": "src_a12fca6eb70b",
+      "url": "https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)",
+      "title": "आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
       ]
     }
   ],
@@ -917,6 +984,63 @@
       "attribution": "Lok Sabha Secretariat, e-library",
       "is_primary": true
     },
+    "src_967773b5f1ff": {
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "2025-08-31",
+      "language": "hi",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 5,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 3,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['महाजन', '34 गांव', '34 गाँव']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "displacement",
+        "history",
+        "military_range"
+      ],
+      "license": "Facebook post; page's copyright",
+      "attribution": "Bharat Speaks, Facebook, 31 Aug 2025; list by an unnamed commenter",
+      "is_primary": false
+    },
     "src_6606deafe9c7": {
       "url": "https://indiankanoon.org/doc/38464/",
       "title": "State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71",
@@ -1078,6 +1202,58 @@
       ],
       "license": "",
       "attribution": "",
+      "is_primary": true
+    },
+    "src_a12fca6eb70b": {
+      "url": "https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)",
+      "title": "आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "2026-05-28",
+      "language": "hi",
+      "relevance": {
+        "score": 62,
+        "band": "medium",
+        "factors": {
+          "name_match": 10,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 3,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.5,
+        "reasons": [
+          "agent reports direct mention (name not found in captured text)",
+          "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "land_agriculture",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Facebook post; poster's copyright",
+      "attribution": "R K Parihar, Facebook, 28 May",
       "is_primary": true
     },
     "src_dc27e87bee50": {
@@ -1447,6 +1623,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 14,
       "at": "2026-09-17T18:02:49.590382+00:00"
+    },
+    {
+      "run_id": "run_20260917T183000Z",
+      "file": "research/inbox/34-gaon/fb_rk_parihar_periphery.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 15,
+      "at": "2026-09-17T18:30:00.290315+00:00"
+    },
+    {
+      "run_id": "run_20260917T183000Z",
+      "file": "research/inbox/34-gaon/fb_bharat_speaks_list.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 16,
+      "at": "2026-09-17T18:30:00.743843+00:00"
     }
   ]
 }

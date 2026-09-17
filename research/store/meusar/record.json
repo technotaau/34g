@@ -4,7 +4,7 @@
     "name_en": "Meusar",
     "name_hi": "मेऊसर",
     "status": "acquired",
-    "notes": "Lok Sabha 1987: 192 persons paid for residential plots. Hindi spelling unverified.",
+    "notes": "Lok Sabha 1987: 192 persons paid for residential plots. Hindi spelling unverified. Community list spells it 'मेहुसर' (Mehusar), which fits the Lok Sabha 'Meusar'.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -20,7 +20,7 @@
     "review": 0,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 10
+    "claims": 11
   },
   "questions": {
     "what": {
@@ -31,8 +31,8 @@
         "src_582d75746257",
         "src_a6f66da51d72",
         "src_e9f089cdc38c",
-        "src_f07a8c256ae6",
-        "src_8110c7f8b13f"
+        "src_8110c7f8b13f",
+        "src_f07a8c256ae6"
       ]
     },
     "where": {
@@ -237,6 +237,27 @@
         "status": "single-source",
         "confidence": 0.5,
         "evidence": [],
+        "competing": []
+      },
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
         "competing": []
       },
       {
@@ -1037,6 +1058,11 @@
       "id": "src_4fb2da84d5a4",
       "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
       "title": "Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan"
+    },
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
     }
   ],
   "runs": [

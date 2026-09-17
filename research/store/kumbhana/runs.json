@@ -51,5 +51,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 6,
     "at": "2026-09-07T09:08:44.128372+00:00"
+  },
+  {
+    "run_id": "run_20260917T182959Z",
+    "file": "research/inbox/kumbhana/fb_pradeep_soni_2021.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "Facebook post supplied as screenshot by TechnoTaau Team, 17 Sep 2026; text transcribed from the screenshot; photos described visually (screenshot not retained as a file).",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-17T18:30:00.072637+00:00"
   }
 ]

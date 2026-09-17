@@ -1468,5 +1468,257 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_a12fca6eb70b": {
+    "id": "src_a12fca6eb70b",
+    "village": "34-gaon",
+    "url": "https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)",
+    "url_key": "https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)",
+    "title": "आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "R K Parihar",
+    "published_date": "2026-05-28",
+    "discovered_date": "2026-09-17",
+    "language": "hi",
+    "found_by_query": [
+      "screenshot supplied by TechnoTaau Team"
+    ],
+    "summary": "रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "महाजन फील्ड फायरिंग रेंज"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "महाजन फील्ड फायरिंग रेंज",
+    "evidence_snippets": [
+      "Post text: 'महाजन फील्ड फायरिंग रेंज के आस पास के गांव जो आज भी बहुत पिछड़े हुए है। यहां पर ज्यादातर लोग आज भी इन झोपड़ पटियो में अपना जीवन यापन कर रहे हैं'",
+      "Photo (visual): two thatched-roof mud huts (jhopra) with a mud compound wall on sand, a cow, khejri and scrub, a pucca house in the distance; year not shown in screenshot (assumed 2026)"
+    ],
+    "entities": {
+      "people": [
+        "R K Parihar (poster)"
+      ],
+      "places": [
+        "villages around MFFR"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Facebook post; poster's copyright",
+    "attribution": "R K Parihar, Facebook, 28 May",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "caption": "",
+      "creator": "R K Parihar",
+      "transcript_available": "",
+      "timestamps": "1 photo; file not retained"
+    },
+    "claims": [
+      {
+        "claim_key": "periphery_living_conditions",
+        "value": "many peripheral villagers still live in thatched mud huts (jhopra)",
+        "statement_hi": "रेंज के आस-पास के गांवों में आज भी बहुत लोग छप्पर वाली मिट्टी की झोंपड़ियों में रहते हैं",
+        "statement_en": "Many people in villages around the range still live in thatched mud huts",
+        "snippet": "ज्यादातर लोग आज भी इन झोपड़ पटियो में"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.5,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 62,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260917T183000Z"
+    ],
+    "notes": "Year of post not visible; village not named. Useful for the 'today's context' section and for the traditional jhopra dwelling type.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)"
+  },
+  "src_967773b5f1ff": {
+    "id": "src_967773b5f1ff",
+    "village": "34-gaon",
+    "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+    "url_key": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025",
+    "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "Bharat Speaks (page); list image posted by a commenter (name not captured)",
+    "published_date": "2025-08-31",
+    "discovered_date": "2026-09-17",
+    "language": "hi",
+    "found_by_query": [
+      "screenshot supplied by TechnoTaau Team"
+    ],
+    "summary": "पेज ने पूछा कि क्या किसी को 34 गांवों के पूरे नाम याद हैं। comments में एक सूची-image आई, '34 गाँवों के नाम', जिसमें 32 नाम भरे हैं और 33-34 खाली: बेरांवाला, धन्नासर, मुटलाई, मणेरा, रिणा, मोटासर, भुंवाला, लाडेरा, कुम्भाणा, कनलाई, चकड़ो, देवासर, माच्छरांवाली, भोजरासर, दुदेर, कंकरालियो, मेहुसर, खानीसर, लखोर छोटी, लखोर मोटी, जागोर, रामपुरा, दुदेरिया, ठोइयाँ, हाथूसर, हिन्दोर, टिडासर, बिरमाणा, लिखमीसर, खियाणों, कुम्भासर, कचराणा।",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "महाजन फील्ड फायरिंग रेंज"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गाँव",
+    "evidence_snippets": [
+      "Post image text: 'महाजन फील्ड फायरिंग रेंज के लिए जो 34 गाँव विस्थापित हुए थे, क्या किसी को पूरे नाम याद है? जितने याद है कमेंट में लिखो' (AI-generated dune image, Meta AI watermark)",
+      "Comment image '34 गाँवों के नाम': 32 names listed, positions 33 and 34 blank (full list in summary)"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "all 32 listed villages"
+      ],
+      "events": [],
+      "organizations": [
+        "Bharat Speaks (Facebook page)"
+      ]
+    },
+    "license": "Facebook post; page's copyright",
+    "attribution": "Bharat Speaks, Facebook, 31 Aug 2025; list by an unnamed commenter",
+    "is_primary": false,
+    "reliability": 0.35,
+    "related_villages": [
+      "berawala",
+      "dhannasar",
+      "motlai",
+      "manera",
+      "rina",
+      "motasar",
+      "bhunwala",
+      "ladera",
+      "kumbhana",
+      "kanolai",
+      "chakdo",
+      "dewasar",
+      "machhranwali",
+      "bhojrasar",
+      "duder",
+      "kankraliyo",
+      "meusar",
+      "khanisar",
+      "lakhor-chhoti",
+      "lakhor-moti",
+      "jagor",
+      "rampura",
+      "duderiya",
+      "thoiya",
+      "hathusar",
+      "hindor",
+      "tidasar",
+      "birmana",
+      "likhmisar",
+      "khiyana",
+      "kumbhasar",
+      "kachrana"
+    ],
+    "media": {
+      "caption": "",
+      "creator": "unnamed commenter",
+      "transcript_available": "",
+      "timestamps": "2 images; file not retained"
+    },
+    "claims": [
+      {
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "snippet": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['महाजन', '34 गांव', '34 गाँव']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 5,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260917T183000Z"
+    ],
+    "notes": "This is the first full-ish list of the 34 found anywhere. It is community memory, not an official record: cross-check each name against the 1981 census handbook / acquisition notifications. Names absent from our earlier registry: 21 new; names in our registry but absent from the list: Chidasar, Meusar (probably = मेहुसर), Kolana (probably = कनलाई?), Ajeetwana, Bhanabasti, Nathor. Kolana vs Kanolai: the list has only कनलाई, supporting the earlier guess that they are one village.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)"
   }
 }
