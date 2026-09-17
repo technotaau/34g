@@ -7,20 +7,21 @@
     "notes": "Umbrella research unit for the whole displacement; sources here are shared by all villages.",
     "location": {}
   },
-  "built": "2026-09-07",
+  "built": "2026-09-17",
   "counts": {
-    "sources_total": 13,
-    "accepted": 9,
+    "sources_total": 14,
+    "accepted": 10,
     "context": 1,
     "review": 3,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 18
+    "claims": 20
   },
   "questions": {
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
+        "src_25c0bae37a23",
         "src_4fb2da84d5a4",
         "src_dc27e87bee50",
         "src_aaf7222a0629",
@@ -39,9 +40,10 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_d159880ed58d",
+        "src_25c0bae37a23",
         "src_c37d5179aabc",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_4fb2da84d5a4",
         "src_6606deafe9c7",
         "src_38f66d790796",
@@ -64,14 +66,16 @@
     "culture": {
       "label": "सांस्कृतिक जानकारी",
       "source_ids": [
+        "src_25c0bae37a23",
         "src_a5150b8b1d53"
       ]
     },
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_d159880ed58d",
+        "src_25c0bae37a23",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_dc27e87bee50",
         "src_7f98544507e3"
       ]
@@ -79,8 +83,9 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_d159880ed58d",
+        "src_25c0bae37a23",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_dc27e87bee50",
         "src_7f98544507e3"
       ]
@@ -88,8 +93,9 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
-        "src_d159880ed58d",
+        "src_25c0bae37a23",
         "src_c37d5179aabc",
+        "src_d159880ed58d",
         "src_4fb2da84d5a4",
         "src_6606deafe9c7",
         "src_38f66d790796",
@@ -111,6 +117,7 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
+        "src_25c0bae37a23",
         "src_7f98544507e3"
       ]
     },
@@ -131,7 +138,9 @@
     },
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
-      "source_ids": []
+      "source_ids": [
+        "src_25c0bae37a23"
+      ]
     },
     "gov": {
       "label": "सरकारी / कानूनी अभिलेख",
@@ -154,6 +163,15 @@
     }
   },
   "entities": {
+    "people": [
+      "Manphool Singh Chaudhary",
+      "Rameshwer Godara (narrator/poster)",
+      "Shivraj V. Patil",
+      "नाथू धतरवाल",
+      "बजरंगलाल लखोटिया",
+      "राजूराम शर्मा",
+      "रूपा गोदारा"
+    ],
     "places": [
       "Chidasar",
       "Lunkaransar",
@@ -179,22 +197,15 @@
       "संसारदेसर",
       "सामरथा"
     ],
-    "people": [
-      "Manphool Singh Chaudhary",
-      "Shivraj V. Patil",
-      "नाथू धतरवाल",
-      "बजरंगलाल लखोटिया",
-      "राजूराम शर्मा",
-      "रूपा गोदारा"
+    "events": [
+      "होलिका दहन कुम्भाणा"
     ],
     "organizations": [
       "District Collector Bikaner",
       "Ministry of Defence",
       "Panchayat Samiti Lunkaransar",
+      "Rameshwer Godara",
       "Rssuthar Jaisalmer"
-    ],
-    "events": [
-      "होलिका दहन कुम्भाणा"
     ]
   },
   "claims": {
@@ -249,14 +260,20 @@
         "statement_hi": "पत्रिका के अनुसार 34 गांव विस्थापित हुए",
         "statement_en": "",
         "sources": [
+          "src_25c0bae37a23",
           "src_a5150b8b1d53",
           "src_c37d5179aabc"
         ],
-        "independent_sources": 1,
-        "has_strong_source": false,
+        "independent_sources": 2,
+        "has_strong_source": true,
         "status": "conflicting",
-        "confidence": 0.4,
-        "evidence": [],
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_25c0bae37a23",
+            "text": "लूणकरणसर तहसील के चौंतीस गांव"
+          }
+        ],
         "competing": [
           "33"
         ]
@@ -316,13 +333,19 @@
         "statement_hi": "पत्रिका: अधिग्रहण 1984-85 में",
         "statement_en": "",
         "sources": [
+          "src_25c0bae37a23",
           "src_c37d5179aabc"
         ],
-        "independent_sources": 1,
-        "has_strong_source": false,
+        "independent_sources": 2,
+        "has_strong_source": true,
         "status": "conflicting",
-        "confidence": 0.4,
-        "evidence": [],
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_25c0bae37a23",
+            "text": "overlay '1984-85'; narration 'साल था उन्नीस सौ चौरासी-पचासी'"
+          }
+        ],
         "competing": [
           "1983-84",
           "1982"
@@ -513,6 +536,48 @@
         "confidence": 0.3,
         "evidence": [],
         "competing": []
+      },
+      {
+        "id": "clm_main_occupation_51a560e1",
+        "claim_key": "main_occupation",
+        "value": "farming and animal husbandry",
+        "statement_hi": "गांवों का प्रमुख व्यवसाय खेती और पशुपालन था",
+        "statement_en": "The villages' main occupations were farming and animal husbandry",
+        "sources": [
+          "src_25c0bae37a23"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_25c0bae37a23",
+            "text": "उनका प्रमुख व्यवसाय खेती और पशुपालन था"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_evacuation_order_source_2a6afa68",
+        "claim_key": "evacuation_order_source",
+        "value": "Ministry of Defence order to vacate",
+        "statement_hi": "रक्षा मंत्रालय से गांव खाली करने का आदेश आया",
+        "statement_en": "The order to vacate came from the Ministry of Defence",
+        "sources": [
+          "src_25c0bae37a23"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_25c0bae37a23",
+            "text": "रक्षा मंत्रालय से चौंतीस गांवों को गांव खाली करने का आदेश आया"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -555,6 +620,189 @@
     }
   ],
   "sources": {
+    "src_25c0bae37a23": {
+      "url": "https://m.facebook.com/watch/?v=3265653753626828&_rdr",
+      "title": "34 village story",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2026-06-21",
+      "language": "hi",
+      "relevance": {
+        "score": 99,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 6,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 6,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['गोदारा']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव",
+          "चौंतीस गांव"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "34 गांव",
+          "34 गाँव",
+          "चौंतीस गांव",
+          "गोदारा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "history",
+        "land_agriculture",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Rameshwer Godara, Facebook, 2026, https://m.facebook.com/watch/?v=3265653753626828&_rdr",
+      "is_primary": true
+    },
+    "src_c37d5179aabc": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2018-11-05",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 6,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 6,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, 5 Nov 2018",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 83,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['Mahajan', '34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Bikaner']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Loonaram Verma, 29 Nov 2022",
+      "is_primary": false
+    },
     "src_d159880ed58d": {
       "url": "https://indiankanoon.org/doc/26436710/",
       "title": "Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024",
@@ -609,67 +857,6 @@
       "license": "",
       "attribution": "Rajasthan High Court via indiankanoon.org",
       "is_primary": true
-    },
-    "src_c37d5179aabc": {
-      "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
-      "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)",
-      "platform": "patrika",
-      "source_type": "news",
-      "media_type": "text",
-      "published_date": "2018-11-05",
-      "language": "hi",
-      "relevance": {
-        "score": 82,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 11,
-          "primary": 0,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 2,
-          "claims": 6,
-          "recency": 1,
-          "media": 0,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "variant match: 34 गांव",
-          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
-          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']"
-        ],
-        "matched_names": [
-          "34 गांव",
-          "34 गाँव"
-        ],
-        "geo_hits": [
-          "Mahajan",
-          "महाजन",
-          "34 गांव",
-          "34 गाँव",
-          "विस्थापित",
-          "Bikaner",
-          "Khajuwala",
-          "खाजूवाला",
-          "Pugal",
-          "पूगल"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "displacement",
-        "land_agriculture",
-        "military_range"
-      ],
-      "license": "",
-      "attribution": "Rajasthan Patrika, 5 Nov 2018",
-      "is_primary": false
     },
     "src_4fb2da84d5a4": {
       "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
@@ -729,65 +916,6 @@
       "license": "",
       "attribution": "Lok Sabha Secretariat, e-library",
       "is_primary": true
-    },
-    "src_a5150b8b1d53": {
-      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
-      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
-      "platform": "patrika",
-      "source_type": "news",
-      "media_type": "text",
-      "published_date": "2022-11-29",
-      "language": "hi",
-      "relevance": {
-        "score": 80,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 11,
-          "primary": 0,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 2,
-          "claims": 4,
-          "recency": 1,
-          "media": 0,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "variant match: 34 गांव",
-          "strong geo context: ['Mahajan', '34 गांव', '34 गाँव']",
-          "district/nearby/clan context: ['Bikaner']"
-        ],
-        "matched_names": [
-          "34 गांव",
-          "34 गाँव"
-        ],
-        "geo_hits": [
-          "Mahajan",
-          "34 गांव",
-          "34 गाँव",
-          "Mahajan Field Firing Range",
-          "विस्थापित",
-          "Bikaner"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "culture",
-        "displacement",
-        "military_range",
-        "people_family",
-        "religion_temple"
-      ],
-      "license": "",
-      "attribution": "Rajasthan Patrika, Loonaram Verma, 29 Nov 2022",
-      "is_primary": false
     },
     "src_6606deafe9c7": {
       "url": "https://indiankanoon.org/doc/38464/",
@@ -1291,6 +1419,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 13,
       "at": "2026-09-07T08:52:11.057459+00:00"
+    },
+    {
+      "run_id": "run_20260917T180201Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_fb3265653753626828.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/3265653753626828 on 2026-09-17",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 14,
+      "at": "2026-09-17T18:02:01.841303+00:00"
+    },
+    {
+      "run_id": "run_20260917T180249Z",
+      "file": "research/inbox/34-gaon/video_fb3265653753626828.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/3265653753626828 on 2026-09-17",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 14,
+      "at": "2026-09-17T18:02:49.590382+00:00"
     }
   ]
 }

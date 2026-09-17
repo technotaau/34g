@@ -234,7 +234,7 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 80,
+      "score": 83,
       "band": "high",
       "factors": {
         "name_match": 30,
@@ -242,7 +242,7 @@
         "resolution_conf": 10,
         "credibility": 11,
         "primary": 0,
-        "corroboration": 0,
+        "corroboration": 3,
         "queries": 2,
         "evidence": 2,
         "claims": 4,
@@ -353,7 +353,7 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 82,
+      "score": 88,
       "band": "high",
       "factors": {
         "name_match": 30,
@@ -361,7 +361,7 @@
         "resolution_conf": 10,
         "credibility": 11,
         "primary": 0,
-        "corroboration": 0,
+        "corroboration": 6,
         "queries": 2,
         "evidence": 2,
         "claims": 6,
@@ -1326,5 +1326,147 @@
       "run_20260907T085210Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  },
+  "src_25c0bae37a23": {
+    "id": "src_25c0bae37a23",
+    "village": "34-gaon",
+    "url": "https://m.facebook.com/watch/?v=3265653753626828&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=3265653753626828",
+    "title": "34 village story",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Rameshwer Godara (100011596120309)",
+    "published_date": "2026-06-21",
+    "discovered_date": "2026-09-17",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "रामेश्वर गोदारा की 43 सेकंड की reel (21 जून 2026), 'Part 1'। हिंदी narration: 1984-85 में लूणकरणसर तहसील के 34 गांव, जिनका मुख्य व्यवसाय खेती और पशुपालन था, को रक्षा मंत्रालय से गांव खाली करने का आदेश आया; गांव वालों को विश्वास नहीं हुआ, पर देश के लिए गांव छोड़ना पड़ा; चौपालें और खेत वीरान हो गए, गलियों में सन्नाटा। श्वेत-श्याम फुटेज में खंडहर और एक सफेद मंदिर। 'Part 2 coming soon'।",
+    "topics": [
+      "culture",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Description: 34 village story",
+      "Narration (Whisper, cleaned): 'लूणकरणसर तहसील के चौंतीस गांव, जो कभी हंसी-खुशी अपना जीवन व्यतीत कर रहे थे, उनका प्रमुख व्यवसाय खेती और पशुपालन था। तभी अचानक एक दिन रक्षा मंत्रालय से चौंतीस गांवों को गांव खाली करने का आदेश आया। सभी गांव वालों को इस बात पर विश्वास ही नहीं हुआ, पर उनको अपने देश के लिए गांव छोड़ना पड़ा। जिन गांवों की चौपालों में कभी बैठकें हुआ करती थीं, खेतों में हरियाली हुआ करती थी, वो अचानक वीरान हो गए; जिन गलियों में बच्चों के खेल-कूद और किलकारियां सुनाई देती थीं, उन गलियों में सन्नाटे के अलावा कुछ नहीं था।'",
+      "On-screen text 25s: ve 34० OT जल 777... Se तक पल bhai ०5४८ ८.० Bae Os Saw rent Ne gee १५५४-८० ai ep OS eee ee ee ्यनक at: 3.50 50४२८ की Tr …",
+      "On-screen text 6s: Peet ogee 323 0272० कब aNd पे SO il बस 53 ey Pe eae Sa टी 202 nea है ws पं वि. है OSes, So tee rer Sia 204: epee …",
+      "Overlay: 'STORY OF MAHAJAN FILD FIRING RANG', '1984-85', closing 'PART-2 COMING SOON'",
+      "Title: 34 village story"
+    ],
+    "entities": {
+      "people": [
+        "Rameshwer Godara (narrator/poster)"
+      ],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rameshwer Godara"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Rameshwer Godara, Facebook, 2026, https://m.facebook.com/watch/?v=3265653753626828&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Rameshwer Godara",
+      "uploader": "100011596120309",
+      "transcript_available": "Hindi narration, Whisper small readable (14 segments, cleaned reading in evidence)",
+      "timestamps": "0 public comments; 1442 views; hashtags: ",
+      "frames": "11 stills in research/media/34-gaon/fb3265653753626828/"
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "reel: 34 गांव 1984-85 में खाली कराए गए",
+        "statement_en": "Reel: the 34 villages were vacated in 1984-85",
+        "snippet": "overlay '1984-85'; narration 'साल था उन्नीस सौ चौरासी-पचासी'"
+      },
+      {
+        "claim_key": "villages_acquired_count",
+        "value": "34",
+        "statement_hi": "reel: लूणकरणसर तहसील के 34 गांव",
+        "statement_en": "Reel: 34 villages of Lunkaransar tehsil",
+        "snippet": "लूणकरणसर तहसील के चौंतीस गांव"
+      },
+      {
+        "claim_key": "main_occupation",
+        "value": "farming and animal husbandry",
+        "statement_hi": "गांवों का प्रमुख व्यवसाय खेती और पशुपालन था",
+        "statement_en": "The villages' main occupations were farming and animal husbandry",
+        "snippet": "उनका प्रमुख व्यवसाय खेती और पशुपालन था"
+      },
+      {
+        "claim_key": "evacuation_order_source",
+        "value": "Ministry of Defence order to vacate",
+        "statement_hi": "रक्षा मंत्रालय से गांव खाली करने का आदेश आया",
+        "statement_en": "The order to vacate came from the Ministry of Defence",
+        "snippet": "रक्षा मंत्रालय से चौंतीस गांवों को गांव खाली करने का आदेश आया"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['गोदारा']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव",
+        "चौंतीस गांव"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "34 गांव",
+        "34 गाँव",
+        "चौंतीस गांव",
+        "गोदारा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 99,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 6,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 6,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260917T180201Z",
+      "run_20260917T180249Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

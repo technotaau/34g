@@ -30,14 +30,20 @@
     "statement_hi": "पत्रिका के अनुसार 34 गांव विस्थापित हुए",
     "statement_en": "",
     "sources": [
+      "src_25c0bae37a23",
       "src_a5150b8b1d53",
       "src_c37d5179aabc"
     ],
-    "independent_sources": 1,
-    "has_strong_source": false,
+    "independent_sources": 2,
+    "has_strong_source": true,
     "status": "conflicting",
-    "confidence": 0.4,
-    "evidence": [],
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_25c0bae37a23",
+        "text": "लूणकरणसर तहसील के चौंतीस गांव"
+      }
+    ],
     "competing": [
       "33"
     ]
@@ -97,13 +103,19 @@
     "statement_hi": "पत्रिका: अधिग्रहण 1984-85 में",
     "statement_en": "",
     "sources": [
+      "src_25c0bae37a23",
       "src_c37d5179aabc"
     ],
-    "independent_sources": 1,
-    "has_strong_source": false,
+    "independent_sources": 2,
+    "has_strong_source": true,
     "status": "conflicting",
-    "confidence": 0.4,
-    "evidence": [],
+    "confidence": 0.55,
+    "evidence": [
+      {
+        "source": "src_25c0bae37a23",
+        "text": "overlay '1984-85'; narration 'साल था उन्नीस सौ चौरासी-पचासी'"
+      }
+    ],
     "competing": [
       "1983-84",
       "1982"
@@ -310,6 +322,48 @@
     "status": "unverified",
     "confidence": 0.3,
     "evidence": [],
+    "competing": []
+  },
+  "clm_main_occupation_51a560e1": {
+    "id": "clm_main_occupation_51a560e1",
+    "claim_key": "main_occupation",
+    "value": "farming and animal husbandry",
+    "statement_hi": "गांवों का प्रमुख व्यवसाय खेती और पशुपालन था",
+    "statement_en": "The villages' main occupations were farming and animal husbandry",
+    "sources": [
+      "src_25c0bae37a23"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_25c0bae37a23",
+        "text": "उनका प्रमुख व्यवसाय खेती और पशुपालन था"
+      }
+    ],
+    "competing": []
+  },
+  "clm_evacuation_order_source_2a6afa68": {
+    "id": "clm_evacuation_order_source_2a6afa68",
+    "claim_key": "evacuation_order_source",
+    "value": "Ministry of Defence order to vacate",
+    "statement_hi": "रक्षा मंत्रालय से गांव खाली करने का आदेश आया",
+    "statement_en": "The order to vacate came from the Ministry of Defence",
+    "sources": [
+      "src_25c0bae37a23"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_25c0bae37a23",
+        "text": "रक्षा मंत्रालय से चौंतीस गांवों को गांव खाली करने का आदेश आया"
+      }
+    ],
     "competing": []
   }
 }
