@@ -249,3 +249,10 @@ def test_video_id_and_record_builder():
     rec = vmod.build_record("kumbhana", meta, {}, ["34-gaon"], ["Kumbhana", "कुम्हाणा"])
     assert rec["direct_mention"] and rec["name_form_matched"] == "कुम्हाणा" and rec["published_date"] == "2025-10-27"
     assert rec["media_type"] == "video" and "chhatargarh" in rec["media"]["timestamps"]
+
+
+def test_facebook_video_id():
+    from gaon34 import video as vmod
+    assert vmod.video_id("https://www.facebook.com/reel/866810769709842") == "fb866810769709842"
+    assert vmod.video_id("https://m.facebook.com/watch/?v=866810769709842&_rdr") == "fb866810769709842"
+    assert vmod.is_facebook("https://fb.watch/abc/") and not vmod.is_facebook("https://youtu.be/x")

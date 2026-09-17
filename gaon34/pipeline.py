@@ -54,7 +54,7 @@ def normalise_record(raw: dict, village: dict, run_id: str) -> SourceRecord:
         license=raw.get("license", "") or "", attribution=raw.get("attribution", "") or "",
         is_primary=bool(raw.get("is_primary")) or primary_by_host, reliability=reliability,
         related_villages=list(raw.get("related_villages") or []), media=dict(raw.get("media") or {}),
-        claims=list(raw.get("claims") or []), notes=raw.get("notes", "") or "", runs=[run_id],
+        claims=list(raw.get("claims") or []), notes=raw.get("notes", "") or "", consent=raw.get("consent", "") or "", runs=[run_id],
     )
     rec.resolution = resolve(village, text, rec.direct_mention, rec.geo_mentions, _strict_text(raw))
     return rec

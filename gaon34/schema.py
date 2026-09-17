@@ -17,7 +17,7 @@ AGENT_OPTIONAL = {
     "platform": "", "source_type": "", "media_type": "", "author": "", "published_date": "", "language": "",
     "found_by_query": "", "summary": "", "topics": [], "period": "", "geo_mentions": [], "direct_mention": None,
     "name_form_matched": "", "evidence_snippets": [], "entities": {}, "license": "", "attribution": "",
-    "is_primary": None, "related_villages": [], "claims": [], "media": {}, "notes": "",
+    "is_primary": None, "related_villages": [], "claims": [], "media": {}, "notes": "", "consent": "",
 }
 
 
@@ -62,6 +62,7 @@ class SourceRecord:
     review_flags: list = field(default_factory=list)
     runs: list = field(default_factory=list)
     notes: str = ""
+    consent: str = ""
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)

@@ -6,7 +6,7 @@
 | भोजरासर (Bhojrasar) | 10 | 1 | 0 | 5 | 5 | [report](store/bhojrasar/report.md) |
 | कुम्भाणा (Kumbhana) | 6 | 4 | 1 | 11 | 11 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 6 | 1 | 0 | 5 | 5 | [report](store/motlai/report.md) |
-| खानीसर (Khanisar) | 7 | 2 | 1 | 6 | 5 | [report](store/khanisar/report.md) |
+| खानीसर (Khanisar) | 8 | 3 | 1 | 10 | 9 | [report](store/khanisar/report.md) |
 | ठोईयां (Thoiya) | 6 | 4 | 0 | 7 | 7 | [report](store/thoiya/report.md) |
 | मणेरां (Manera) | 7 | 3 | 0 | 8 | 8 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 6 | 6 | [report](store/duder/report.md) |

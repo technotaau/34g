@@ -1,8 +1,8 @@
 # खानीसर (Khanisar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-07 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 8, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
 
 > Named in Patrika 2022.
 
@@ -35,6 +35,8 @@
   - यह पेज महाजन गांव (लूणकरणसर तहसील, बीकानेर) की सामान्य जनगणना-शैली जानकारी देता है - जनसंख्या 7,397, लूणकरणसर मुख्यालय से लगभग 39 किमी और बीकानेर से लगभग 111 किमी दूर। यह उप-तहसील मुख्यालय (महाजन) के लिए भौगोलिक संदर्भ स्रोत है, खानीसर का प्रत्यक्ष उल्लेख नहीं करता।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) (social · video · 2026-04-01 · स्कोर 95) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - Facebook video 'हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #' (0:44) by Mukesh jaat Phalwan. हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 94)
   - पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की सूची में खानीसर का सीधा उल्लेख करती है। लेख में विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटन और मंदिरों/मेलों के जरिए पुरानी यादें ताजा करने का जिक्र है।
 - [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) (website · map · तिथि अज्ञात · स्कोर 73)
@@ -47,6 +49,8 @@
   - 2018 का यह लेख भी 1984-85 में 34 गांवों के अधिग्रहण की बात करता है और पुनर्वास स्थलों (खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना) का नाम लेता है, लेकिन विस्थापित 34 गांवों में से खानीसर का नाम अलग से नहीं देता।
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) (social · video · 2026-04-01 · स्कोर 95) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - Facebook video 'हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #' (0:44) by Mukesh jaat Phalwan. हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 94)
   - पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की सूची में खानीसर का सीधा उल्लेख करती है। लेख में विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटन और मंदिरों/मेलों के जरिए पुरानी यादें ताजा करने का जिक्र है।
 
@@ -74,6 +78,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - यह लेख महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) पर अमेरिका, ब्रिटेन, रूस, फ्रांस सहित विदेशी सेनाओं के साझा अभ्यासों पर केंद्रित है और लगभग चार दशक पहले 34 गांवों के विस्थापन का सामान्य उल्लेख करता है, लेकिन खानीसर का नाम अलग से नहीं लेता। गांवों के पुराने मकान, तालाब, मंदिर आज भी आतंकवाद-रोधी अभ्या
 
 ### भूमि, खेती, पशुपालन, नहर
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) (social · video · 2026-04-01 · स्कोर 95) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - Facebook video 'हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #' (0:44) by Mukesh jaat Phalwan. हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 94)
   - पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की सूची में खानीसर का सीधा उल्लेख करती है। लेख में विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटन और मंदिरों/मेलों के जरिए पुरानी यादें ताजा करने का जिक्र है।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
@@ -88,14 +94,18 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) (social · video · 2026-04-01 · स्कोर 95) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Mukesh jaat Phalwan · uploader: 100066628007686 · transcript_available: No speech (music track); on-screen overlay read visually · timestamps: 0 public comments; 5160 views; hashtags: reel
 
 ### साक्षात्कार / ऑडियो (0)
 
 ### पुस्तकें व ऐतिहासिक संदर्भ (1)
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
 
-### सार्वजनिक सोशल मीडिया स्रोत (0)
+### सार्वजनिक सोशल मीडिया स्रोत (1)
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) (social · video · 2026-04-01 · स्कोर 95) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Mukesh jaat Phalwan · uploader: 100066628007686 · transcript_available: No speech (music track); on-screen overlay read visually · timestamps: 0 public comments; 5160 views; hashtags: reel
 
 ### सरकारी / कानूनी अभिलेख (1)
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 64 · पृष्ठभूमि स्रोत)
@@ -107,10 +117,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ## निकाले गए नाम (entities)
 
-- **people:** Dinesh Kumar Swami, Hari Singh, Jay Kumar Bhati
-- **places:** Bikaner, Dantaur, Khajuwala, Khanisar, Lunkaransar, Mahajan, Mohangadh, Nachna, Pugal, Suratgarh
+- **people:** @RAJESH_SARSWAT001 (original videographer, Instagram), Dinesh Kumar Swami, Hari Singh, Jay Kumar Bhati, Mukesh Jaat Phalwan (poster, claims Khanisar as 'हमारा पुराना गांव')
+- **places:** Bikaner, Dantaur, Khajuwala, Khanisar, Khanisar village site (inside MFFR), Lunkaransar, Mahajan, Mohangadh, Nachna, Pugal, Suratgarh
 - **events:** MFFR international joint exercises, MFFR land acquisition, MFFR land acquisition 1984-85, Mahajan Field Firing Range land acquisition 1984-85
-- **organizations:** British Army, French Army, Gram Panchayat Mahajan, Indian Army, Ministry of Defence, Parliament of India, Russian Army, US Army, भारतीय सेना (Indian Army)
+- **organizations:** British Army, French Army, Gram Panchayat Mahajan, Indian Army, Ministry of Defence, Mukesh jaat Phalwan, Parliament of India, Russian Army, US Army, भारतीय सेना (Indian Army)
 
 ## तथ्य / दावे
 
@@ -123,6 +133,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **resettlement_sites** = Khajuwala, Dantaur, Pugal, Mohangadh, Nachna · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **mffr_total_villages** = 34 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
 - **coordinates** = 28°56'40"N 73°43'48"E · unverified · विश्वास 0.3 · स्रोत: src_dae2abcced95
+- **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
+- **village_status** = open land; no standing ruins visible · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
+- **khanisar_oldest_village_claim** = 'सबसे पुराना गांव' per overlay (unverified community claim) · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
+- **diaspora_family_khanisar** = Mukesh Jaat Phalwan's family is from Khanisar · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
@@ -135,6 +149,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
+- [हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #](https://m.facebook.com/watch/?v=866810769709842&_rdr) · facebook · social · स्कोर 95 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 94 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव खानीसर महाजन
 - [Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India](https://mapcarta.com/W412765540) · mapcarta.com · website · स्कोर 73 · रिज़ॉल्यूशन accept (0.8) · खोज: Khanisar "Mahajan Field Firing Range"
 - [Khanisar](http://wikimapia.org/10938506/Khanisar) · wikimapia.org · community_wiki · स्कोर 71 · रिज़ॉल्यूशन review (0.55) · खोज: Khanisar village Bikaner Rajasthan

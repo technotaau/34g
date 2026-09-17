@@ -21,14 +21,22 @@ YTDLP_ARGS = ["--skip-download", "--no-warnings", "--ignore-no-formats-error",
 
 
 def video_id(url: str) -> str:
+    m = re.search(r"facebook\.com/(?:reel/|watch/?\?v=|[^/]+/videos/)(\d+)", url)
+    if m:
+        return "fb" + m.group(1)
     m = re.search(r"(?:v=|/shorts/|youtu\.be/)([A-Za-z0-9_-]{11})", url)
-    if not m:
-        raise ValueError(f"not a YouTube video URL: {url}")
-    return m.group(1)
+    if m:
+        return m.group(1)
+    raise ValueError(f"not a supported video URL: {url}")
+
+
+def is_facebook(url: str) -> bool:
+    return "facebook.com" in url or "fb.watch" in url
 
 
 def fetch_meta(url: str) -> dict:
-    out = subprocess.run(["yt-dlp", *YTDLP_ARGS, "-J", url], capture_output=True, text=True)
+    args = ["--skip-download", "--no-warnings"] if is_facebook(url) else YTDLP_ARGS
+    out = subprocess.run(["yt-dlp", *args, "-J", url], capture_output=True, text=True)
     if out.returncode != 0 or not out.stdout.strip():
         raise RuntimeError("yt-dlp metadata failed: " + out.stderr.strip()[-300:])
     return json.loads(out.stdout)
@@ -75,7 +83,9 @@ def _snip(text: str, n: int = 40) -> str:
 
 def build_record(slug: str, meta: dict, captions: dict, related: list[str], village_names: list[str]) -> dict:
     vid = meta["id"]
-    url = f"https://www.youtube.com/watch?v={vid}"
+    url = meta.get("webpage_url") or f"https://www.youtube.com/watch?v={vid}"
+    if not is_facebook(url):
+        url = f"https://www.youtube.com/watch?v={vid}"
     desc = meta.get("description") or ""
     text_all = " ".join([meta.get("title", ""), desc, " ".join(meta.get("tags") or []), " ".join(c["text"] for c in meta["comments_public"])])
     matched = [n for n in village_names if n.lower() in text_all.lower()]
@@ -93,19 +103,22 @@ def build_record(slug: str, meta: dict, captions: dict, related: list[str], vill
             seen.add(c["text"])
             snippets.append("Viewer comment: " + _snip(c["text"], 30))
     hashtags = sorted(set(re.findall(r"#([\wऀ-ॿ]+)", desc + " " + " ".join(meta.get("tags") or []))))
-    dur = meta.get("duration") or 0
+    dur = int(meta.get("duration") or 0)
+    site = "Facebook" if is_facebook(url) else "YouTube"
     return {
-        "village": slug, "url": url, "title": meta.get("title", ""), "platform": "youtube", "source_type": "video", "media_type": "video",
+        "village": slug, "url": url, "title": meta.get("title", ""), "platform": "facebook" if is_facebook(url) else "youtube", "source_type": "video", "media_type": "video",
         "author": f"{meta.get('channel', '')} ({meta.get('uploader_id', '')})", "published_date": f"{ud[:4]}-{ud[4:6]}-{ud[6:]}" if len(ud) == 8 else ud,
         "language": "hi", "found_by_query": "video supplied by TechnoTaau Team",
-        "summary": f"YouTube video '{meta.get('title', '')}' ({dur // 60}:{dur % 60:02d}) by {meta.get('channel', '')}. " + _snip(desc, 60),
+        "summary": f"{site} video '{meta.get('title', '')}' ({dur // 60}:{dur % 60:02d}) by {meta.get('channel', '')}. " + _snip(desc, 60),
         "topics": ["media_visual"], "period": "2016_present" if ud >= "2016" else "",
         "geo_mentions": [meta.get("location")] if meta.get("location") else [], "direct_mention": bool(matched),
         "name_form_matched": matched[0] if matched else "", "evidence_snippets": snippets,
         "entities": {"people": [], "places": [], "events": [], "organizations": [meta.get("channel", "")]},
-        "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
-        "attribution": f"{meta.get('channel', '')}, YouTube, {ud[:4] if ud else ''}, {url}",
+        "license": ("Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material" if is_facebook(url)
+                    else "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted"),
+        "attribution": f"{meta.get('channel', '')}, {'Facebook' if is_facebook(url) else 'YouTube'}, {ud[:4] if ud else ''}, {url}",
         "is_primary": True, "related_villages": related, "claims": [],
+        "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
         "media": {"channel": meta.get("channel", ""), "uploader": meta.get("uploader_id", ""),
                   "transcript_available": ("captions: " + ", ".join(captions)) if captions else "no caption tracks (manual or auto)",
                   "timestamps": f"{len(meta['comments_public'])} public comments; {meta.get('view_count')} views; hashtags: {' '.join(hashtags)[:200]}"},
@@ -166,7 +179,7 @@ def local_meta(media: Path, title: str, credit: str, source_url: str) -> dict:
 def ingest_video(slug: str, url: str, related=None, media: Path | None = None, drive_id: str | None = None, every: int = 20,
                  ocr_band: float = 0.88, ocr_lang: str = "hin+eng", whisper: str | None = None, village_names=None,
                  title: str | None = None, credit: str | None = None, ocr_every: float = 1.0) -> dict:
-    if not re.search(r"youtube\.com|youtu\.be", url):
+    if not re.search(r"youtube\.com|youtu\.be|facebook\.com|fb\.watch", url):
         return ingest_local(slug, url, related, media, drive_id, every, ocr_band, ocr_lang, whisper, village_names, title or "", credit or "", ocr_every)
     vid = video_id(url)
     inbox = INBOX_DIR / slug
@@ -175,6 +188,17 @@ def ingest_video(slug: str, url: str, related=None, media: Path | None = None, d
     scratch.mkdir(parents=True, exist_ok=True)
     raw = fetch_meta(url)
     meta = trim_meta(raw)
+    if is_facebook(url):
+        meta["channel"] = meta.get("channel") or raw.get("uploader") or ""
+        meta["uploader_id"] = raw.get("uploader_id") or ""
+        meta["title"] = re.sub(r"^[\d.,K]+ views · [\d.,K]+ reactions \| ", "", meta.get("title") or "").rsplit(" | ", 1)[0]
+        if media is None and drive_id is None:  # Facebook usually serves the file; use it for frames/OCR/speech
+            try:
+                subprocess.run(["yt-dlp", "--no-warnings", "-f", "b[height<=720]/b", "-o", str(scratch / f"{vid}.%(ext)s"), url], check=True, capture_output=True)
+                found = sorted(scratch.glob(f"{vid}.*"))
+                media = next((f for f in found if f.suffix in (".mp4", ".mkv", ".webm")), None)
+            except subprocess.CalledProcessError:
+                media = None
     captions = fetch_captions(url, scratch / "caps") if (raw.get("subtitles") or raw.get("automatic_captions")) else {}
     (inbox / f"yt_{vid}.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
     if captions:

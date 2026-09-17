@@ -1,0 +1,92 @@
+{
+ "village": "khanisar",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/866810769709842 on 2026-09-17",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khanisar",
+   "url": "https://m.facebook.com/watch/?v=866810769709842&_rdr",
+   "title": "हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Mukesh jaat Phalwan (100066628007686)",
+   "published_date": "2026-04-01",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video 'हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #' (0:44) by Mukesh jaat Phalwan. हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #",
+    "Description: हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #",
+    "On-screen overlay (visual reading, all frames): 'खानीसर: यह गांव 50-60 साल पहले था, सबसे पुराना गांव है!!'",
+    "Watermark @RAJESH_SARSWAT001 with Instagram logo: the clip originates from that Instagram account",
+    "Post text: 'हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था'",
+    "Visual: no built ruins in frame; open sand with grass and scattered trees, i.e. the site is now bare land"
+   ],
+   "entities": {
+    "people": [
+     "Mukesh Jaat Phalwan (poster, claims Khanisar as 'हमारा पुराना गांव')",
+     "@RAJESH_SARSWAT001 (original videographer, Instagram)"
+    ],
+    "places": [
+     "Khanisar village site (inside MFFR)"
+    ],
+    "events": [],
+    "organizations": [
+     "Mukesh jaat Phalwan"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "Mukesh jaat Phalwan, Facebook, 2026, https://m.facebook.com/watch/?v=866810769709842&_rdr",
+   "is_primary": true,
+   "related_villages": [
+    "34-gaon"
+   ],
+   "claims": [
+    {
+     "claim_key": "village_in_34_gaon",
+     "value": "yes",
+     "statement_hi": "पोस्ट: खानीसर 34 गांवों में से एक था जो महाजन फील्ड फायरिंग रेंज में गया",
+     "statement_en": "Post: Khanisar was one of the 34 villages taken into MFFR",
+     "snippet": "34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था"
+    },
+    {
+     "claim_key": "village_status",
+     "value": "open land; no standing ruins visible",
+     "statement_hi": "खानीसर की जगह अब खुली रेतीली ज़मीन है, फ्रेम में कोई खंडहर नहीं",
+     "statement_en": "The Khanisar site is now open sandy land; no ruins visible in the clip",
+     "snippet": "visual, frames 0-44 s"
+    },
+    {
+     "claim_key": "khanisar_oldest_village_claim",
+     "value": "'सबसे पुराना गांव' per overlay (unverified community claim)",
+     "statement_hi": "ओवरले का दावा: खानीसर 34 गांवों में सबसे पुराना गांव था (असत्यापित)",
+     "statement_en": "Overlay claims Khanisar was the oldest of the villages (unverified)",
+     "snippet": "सबसे पुराना गांव है!!"
+    },
+    {
+     "claim_key": "diaspora_family_khanisar",
+     "value": "Mukesh Jaat Phalwan's family is from Khanisar",
+     "statement_hi": "पोस्ट करने वाले मुकेश जाट पहलवान का परिवार खानीसर का है",
+     "statement_en": "The poster Mukesh Jaat Phalwan's family is from Khanisar",
+     "snippet": "हमारा पुराना गांव"
+    }
+   ],
+   "media": {
+    "channel": "Mukesh jaat Phalwan",
+    "uploader": "100066628007686",
+    "transcript_available": "No speech (music track); on-screen overlay read visually",
+    "timestamps": "0 public comments; 5160 views; hashtags: reel",
+    "frames": "11 stills in research/media/khanisar/fb866810769709842/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Supplied by TechnoTaau Team with permission to use. Original footage credited to @RAJESH_SARSWAT001 (Instagram); the Facebook poster reshared it. Contact both for Khanisar family oral history."
+  }
+ ]
+}

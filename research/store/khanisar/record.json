@@ -12,15 +12,15 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-07",
+  "built": "2026-09-17",
   "counts": {
-    "sources_total": 7,
-    "accepted": 2,
+    "sources_total": 8,
+    "accepted": 3,
     "context": 4,
     "review": 1,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 6
+    "claims": 10
   },
   "questions": {
     "what": {
@@ -47,6 +47,7 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_d0c67cfdca73",
         "src_a5150b8b1d53",
         "src_25b95f39918e",
         "src_4fb2da84d5a4",
@@ -57,6 +58,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_d0c67cfdca73",
         "src_a5150b8b1d53"
       ]
     },
@@ -85,6 +87,7 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
+        "src_d0c67cfdca73",
         "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_a6f66da51d72"
@@ -102,7 +105,9 @@
     },
     "videos": {
       "label": "वीडियो",
-      "source_ids": []
+      "source_ids": [
+        "src_d0c67cfdca73"
+      ]
     },
     "audio": {
       "label": "साक्षात्कार / ऑडियो",
@@ -116,7 +121,9 @@
     },
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
-      "source_ids": []
+      "source_ids": [
+        "src_d0c67cfdca73"
+      ]
     },
     "gov": {
       "label": "सरकारी / कानूनी अभिलेख",
@@ -135,15 +142,18 @@
   },
   "entities": {
     "people": [
+      "@RAJESH_SARSWAT001 (original videographer, Instagram)",
       "Dinesh Kumar Swami",
       "Hari Singh",
-      "Jay Kumar Bhati"
+      "Jay Kumar Bhati",
+      "Mukesh Jaat Phalwan (poster, claims Khanisar as 'हमारा पुराना गांव')"
     ],
     "places": [
       "Bikaner",
       "Dantaur",
       "Khajuwala",
       "Khanisar",
+      "Khanisar village site (inside MFFR)",
       "Lunkaransar",
       "Mahajan",
       "Mohangadh",
@@ -163,6 +173,7 @@
       "Gram Panchayat Mahajan",
       "Indian Army",
       "Ministry of Defence",
+      "Mukesh jaat Phalwan",
       "Parliament of India",
       "Russian Army",
       "US Army",
@@ -307,6 +318,90 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_village_in_34_gaon_fb360f9c",
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "पोस्ट: खानीसर 34 गांवों में से एक था जो महाजन फील्ड फायरिंग रेंज में गया",
+        "statement_en": "Post: Khanisar was one of the 34 villages taken into MFFR",
+        "sources": [
+          "src_d0c67cfdca73"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_d0c67cfdca73",
+            "text": "34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_status_0ce6c6c5",
+        "claim_key": "village_status",
+        "value": "open land; no standing ruins visible",
+        "statement_hi": "खानीसर की जगह अब खुली रेतीली ज़मीन है, फ्रेम में कोई खंडहर नहीं",
+        "statement_en": "The Khanisar site is now open sandy land; no ruins visible in the clip",
+        "sources": [
+          "src_d0c67cfdca73"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_d0c67cfdca73",
+            "text": "visual, frames 0-44 s"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_khanisar_oldest_village_claim_1892f87f",
+        "claim_key": "khanisar_oldest_village_claim",
+        "value": "'सबसे पुराना गांव' per overlay (unverified community claim)",
+        "statement_hi": "ओवरले का दावा: खानीसर 34 गांवों में सबसे पुराना गांव था (असत्यापित)",
+        "statement_en": "Overlay claims Khanisar was the oldest of the villages (unverified)",
+        "sources": [
+          "src_d0c67cfdca73"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_d0c67cfdca73",
+            "text": "सबसे पुराना गांव है!!"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_diaspora_family_khanisar_9d98270f",
+        "claim_key": "diaspora_family_khanisar",
+        "value": "Mukesh Jaat Phalwan's family is from Khanisar",
+        "statement_hi": "पोस्ट करने वाले मुकेश जाट पहलवान का परिवार खानीसर का है",
+        "statement_en": "The poster Mukesh Jaat Phalwan's family is from Khanisar",
+        "sources": [
+          "src_d0c67cfdca73"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_d0c67cfdca73",
+            "text": "हमारा पुराना गांव"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -339,6 +434,66 @@
     }
   ],
   "sources": {
+    "src_d0c67cfdca73": {
+      "url": "https://m.facebook.com/watch/?v=866810769709842&_rdr",
+      "title": "हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2026-04-01",
+      "language": "hi",
+      "relevance": {
+        "score": 95,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 6,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Khanisar",
+          "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['जाट']"
+        ],
+        "matched_names": [
+          "Khanisar",
+          "खानीसर"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "MFFR",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "media_visual",
+        "military_range",
+        "people_family"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Mukesh jaat Phalwan, Facebook, 2026, https://m.facebook.com/watch/?v=866810769709842&_rdr",
+      "is_primary": true
+    },
     "src_a5150b8b1d53": {
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
       "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
@@ -774,6 +929,34 @@
       "errors": [],
       "total_after": 7,
       "at": "2026-09-05T17:54:48.420965+00:00"
+    },
+    {
+      "run_id": "run_20260917T175722Z",
+      "file": "/home/user/34g/research/inbox/khanisar/video_fb866810769709842.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/866810769709842 on 2026-09-17",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-17T17:57:22.684402+00:00"
+    },
+    {
+      "run_id": "run_20260917T175805Z",
+      "file": "research/inbox/khanisar/video_fb866810769709842.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/866810769709842 on 2026-09-17",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-17T17:58:05.745493+00:00"
     }
   ]
 }

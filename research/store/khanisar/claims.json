@@ -133,5 +133,89 @@
       }
     ],
     "competing": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "पोस्ट: खानीसर 34 गांवों में से एक था जो महाजन फील्ड फायरिंग रेंज में गया",
+    "statement_en": "Post: Khanisar was one of the 34 villages taken into MFFR",
+    "sources": [
+      "src_d0c67cfdca73"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_d0c67cfdca73",
+        "text": "34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_status_0ce6c6c5": {
+    "id": "clm_village_status_0ce6c6c5",
+    "claim_key": "village_status",
+    "value": "open land; no standing ruins visible",
+    "statement_hi": "खानीसर की जगह अब खुली रेतीली ज़मीन है, फ्रेम में कोई खंडहर नहीं",
+    "statement_en": "The Khanisar site is now open sandy land; no ruins visible in the clip",
+    "sources": [
+      "src_d0c67cfdca73"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_d0c67cfdca73",
+        "text": "visual, frames 0-44 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_khanisar_oldest_village_claim_1892f87f": {
+    "id": "clm_khanisar_oldest_village_claim_1892f87f",
+    "claim_key": "khanisar_oldest_village_claim",
+    "value": "'सबसे पुराना गांव' per overlay (unverified community claim)",
+    "statement_hi": "ओवरले का दावा: खानीसर 34 गांवों में सबसे पुराना गांव था (असत्यापित)",
+    "statement_en": "Overlay claims Khanisar was the oldest of the villages (unverified)",
+    "sources": [
+      "src_d0c67cfdca73"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_d0c67cfdca73",
+        "text": "सबसे पुराना गांव है!!"
+      }
+    ],
+    "competing": []
+  },
+  "clm_diaspora_family_khanisar_9d98270f": {
+    "id": "clm_diaspora_family_khanisar_9d98270f",
+    "claim_key": "diaspora_family_khanisar",
+    "value": "Mukesh Jaat Phalwan's family is from Khanisar",
+    "statement_hi": "पोस्ट करने वाले मुकेश जाट पहलवान का परिवार खानीसर का है",
+    "statement_en": "The poster Mukesh Jaat Phalwan's family is from Khanisar",
+    "sources": [
+      "src_d0c67cfdca73"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_d0c67cfdca73",
+        "text": "हमारा पुराना गांव"
+      }
+    ],
+    "competing": []
   }
 }

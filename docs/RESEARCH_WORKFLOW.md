@@ -119,3 +119,9 @@ Facebook blocks automated reads of post pages (HTTP 400 even for public posts), 
 2. A team member opens the post in a browser, notes the date and full text, and downloads the photos (Facebook photo viewer > Download) into the shared Drive folder, named `<village>_fb_<poster>_<n>.jpg`.
 3. Add the text, date and photo file names to the inbox record and re-run `ingest`; photos go under `research/media/<village>/facebook/` with a manifest, same as video stills.
 4. Website use of the photos needs the poster's permission; mark the record `consent: pending` until obtained.
+
+### Facebook videos and reels
+`python3 -m gaon34 video <slug> "https://www.facebook.com/reel/<id>"` works directly: yt-dlp reads public Facebook video pages (unlike post pages), fetches metadata and the file, and the full frames/OCR/speech workflow runs without a Drive upload. Reels typically have music, no speech, and an on-screen overlay that must be read visually from the contact sheet. Facebook post pages (photos + text) still need the manual step in section 8.
+
+### Consent
+Material supplied by TechnoTaau Team carries `consent: granted by TechnoTaau Team`; third-party creators are still credited in `attribution` and any visible watermark is recorded as the original source.
