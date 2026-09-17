@@ -1094,7 +1094,7 @@
     "source_type": "social",
     "media_type": "video",
     "author": "3.5K views &#xb7; 39 reactions | Chhaganlal Jakhar on Reels (pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl)",
-    "published_date": "",
+    "published_date": "2025-07-25",
     "discovered_date": "2026-09-17",
     "language": "hi",
     "found_by_query": [
@@ -1104,12 +1104,13 @@
     "topics": [
       "media_visual"
     ],
-    "period": "pre_1900",
+    "period": "mixed:pre_1900+2016_present",
     "geo_mentions": [],
     "direct_mention": false,
     "name_form_matched": "",
     "evidence_snippets": [
-      "Title: Chhaganlal Jakhar on Reels"
+      "Title: Chhaganlal Jakhar on Reels",
+      "Video 0:38, monsoon 2025: Chhaganlal Jakhar stands on the mud stump of his ruined house with folded hands; the plain is green; circular floor traces of houses visible; the domed Thakurji Mandir stands at the edge; companions arrived by SUV"
     ],
     "entities": {
       "people": [],
@@ -1129,11 +1130,19 @@
     "media": {
       "channel": "3.5K views &#xb7; 39 reactions | Chhaganlal Jakhar on Reels",
       "uploader": "pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl",
-      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb2884290418425839.content.json",
+      "transcript_available": "no usable speech (wind/music)",
       "timestamps": "0 public comments; 1911 views; hashtags: ",
       "frames": "10 stills in research/media/berawala/fb2884290418425839/ (manifest.json, contact_sheet.png)"
     },
-    "claims": [],
+    "claims": [
+      {
+        "claim_key": "house_ruins_material",
+        "value": "mud-wall stumps and circular floor traces",
+        "statement_hi": "बेरावाला में घरों के मिट्टी के ठूंठ और गोल फर्श के निशान बचे हैं",
+        "statement_en": "Mud-wall stumps and circular floor traces of houses remain at Berawala",
+        "snippet": "video frames 0-36 s"
+      }
+    ],
     "resolution": {
       "decision": "reject",
       "confidence": 0.2,
@@ -1149,8 +1158,8 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 33,
-      "band": "low",
+      "score": 40,
+      "band": "medium",
       "factors": {
         "name_match": 0,
         "geo_match": 10,
@@ -1159,9 +1168,9 @@
         "primary": 8,
         "corroboration": 0,
         "queries": 2,
-        "evidence": 2,
-        "claims": 0,
-        "recency": 0,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
         "media": 3,
         "negative": 0
       }
@@ -1170,7 +1179,8 @@
     "syndicate_group": "",
     "review_flags": [],
     "runs": [
-      "run_20260917T181551Z"
+      "run_20260917T181551Z",
+      "run_20260917T182230Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
@@ -1185,7 +1195,7 @@
     "source_type": "social",
     "media_type": "video",
     "author": "1.4K views &#xb7; 38 reactions | Chhaganlal Jakhar on Reels (pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl)",
-    "published_date": "",
+    "published_date": "2025-07-25",
     "discovered_date": "2026-09-17",
     "language": "hi",
     "found_by_query": [
@@ -1195,12 +1205,13 @@
     "topics": [
       "media_visual"
     ],
-    "period": "pre_1900",
+    "period": "mixed:pre_1900+2016_present",
     "geo_mentions": [],
     "direct_mention": false,
     "name_form_matched": "",
     "evidence_snippets": [
-      "Title: Chhaganlal Jakhar on Reels"
+      "Title: Chhaganlal Jakhar on Reels",
+      "Video 0:09, monsoon 2025: a large herd of cows driven along the full village pond by a herder; a boy and a man in white also present"
     ],
     "entities": {
       "people": [],
@@ -1220,11 +1231,19 @@
     "media": {
       "channel": "1.4K views &#xb7; 38 reactions | Chhaganlal Jakhar on Reels",
       "uploader": "pfbid02SNtz9aRgMmRv8c5dV8fKtBMLLc6YvxjYXkQ4TRCXGj48n57kszvxs4vjRgvQjsGXl",
-      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 1 in fb745079231440066.content.json",
+      "transcript_available": "no usable speech (wind/music)",
       "timestamps": "0 public comments; 482 views; hashtags: ",
       "frames": "2 stills in research/media/berawala/fb745079231440066/ (manifest.json, contact_sheet.png)"
     },
-    "claims": [],
+    "claims": [
+      {
+        "claim_key": "pond_used_by_herders",
+        "value": "cattle herds watered at the Berawala pond (2025)",
+        "statement_hi": "2025 में भी चरवाहे गायों के झुंड बेरावाला के तालाब पर पानी पिलाते हैं",
+        "statement_en": "Herders still water cattle herds at the Berawala pond (2025)",
+        "snippet": "video 0-9 s"
+      }
+    ],
     "resolution": {
       "decision": "reject",
       "confidence": 0.2,
@@ -1240,8 +1259,8 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 33,
-      "band": "low",
+      "score": 40,
+      "band": "medium",
       "factors": {
         "name_match": 0,
         "geo_match": 10,
@@ -1250,9 +1269,9 @@
         "primary": 8,
         "corroboration": 0,
         "queries": 2,
-        "evidence": 2,
-        "claims": 0,
-        "recency": 0,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
         "media": 3,
         "negative": 0
       }
@@ -1263,7 +1282,8 @@
       "duplicate"
     ],
     "runs": [
-      "run_20260917T181812Z"
+      "run_20260917T181812Z",
+      "run_20260917T182230Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"

@@ -1,25 +1,33 @@
 {
  "video_id": "fb745079231440066",
  "source_url": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/745079231440066",
- "credit": "1.4K views &#xb7; 38 reactions | Chhaganlal Jakhar on Reels (YouTube fb745079231440066)",
+ "credit": "Chhaganlal Jakhar (Facebook), post of 25 Jul 2025",
  "extracted": "2026-09-17",
  "every_s": 4,
- "rights": "Stills from a third-party video for research reference. Creator's copyright; consent of identifiable people needed before publication.",
+ "rights": "Supplied by TechnoTaau Team with permission to use.",
  "count": 2,
  "frames": [
   {
    "file": "frames/0002s.jpg",
    "timestamp_s": 2,
    "timestamp": "00:02",
-   "description": "",
-   "tags": []
+   "description": "Herd of cows being driven along the shore of the Berawala pond by a herder; the pond full after rains",
+   "tags": [
+    "water",
+    "livestock",
+    "people"
+   ]
   },
   {
    "file": "frames/0006s.jpg",
    "timestamp_s": 6,
    "timestamp": "00:06",
-   "description": "",
-   "tags": []
+   "description": "Herd of cows being driven along the shore of the Berawala pond by a herder; the pond full after rains",
+   "tags": [
+    "water",
+    "livestock",
+    "people"
+   ]
   }
  ]
 }

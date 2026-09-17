@@ -1,81 +1,110 @@
 {
  "video_id": "fb2884290418425839",
  "source_url": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/2884290418425839",
- "credit": "3.5K views &#xb7; 39 reactions | Chhaganlal Jakhar on Reels (YouTube fb2884290418425839)",
+ "credit": "Chhaganlal Jakhar (Facebook), post of 25 Jul 2025",
  "extracted": "2026-09-17",
  "every_s": 4,
- "rights": "Stills from a third-party video for research reference. Creator's copyright; consent of identifiable people needed before publication.",
+ "rights": "Supplied by TechnoTaau Team with permission to use.",
  "count": 10,
  "frames": [
   {
    "file": "frames/0002s.jpg",
    "timestamp_s": 2,
    "timestamp": "00:02",
-   "description": "",
-   "tags": []
+   "description": "Chhaganlal Jakhar in white standing on the mud stump of his ruined house, hands folded, green plain after rains",
+   "tags": [
+    "people",
+    "ruins",
+    "oral-history"
+   ]
   },
   {
    "file": "frames/0006s.jpg",
    "timestamp_s": 6,
    "timestamp": "00:06",
-   "description": "",
-   "tags": []
+   "description": "Open plain of Berawala after monsoon: grass, khejri and jaal trees",
+   "tags": [
+    "landscape"
+   ]
   },
   {
    "file": "frames/0010s.jpg",
    "timestamp_s": 10,
    "timestamp": "00:10",
-   "description": "",
-   "tags": []
+   "description": "Companions under a large khejri tree; SUV parked on the plain",
+   "tags": [
+    "people",
+    "landscape"
+   ]
   },
   {
    "file": "frames/0014s.jpg",
    "timestamp_s": 14,
    "timestamp": "00:14",
-   "description": "",
-   "tags": []
+   "description": "Companions under a large khejri tree; SUV parked on the plain",
+   "tags": [
+    "people",
+    "landscape"
+   ]
   },
   {
    "file": "frames/0018s.jpg",
    "timestamp_s": 18,
    "timestamp": "00:18",
-   "description": "",
-   "tags": []
+   "description": "Domed Thakurji Mandir ruin seen across the plain",
+   "tags": [
+    "temple",
+    "ruins"
+   ]
   },
   {
    "file": "frames/0022s.jpg",
    "timestamp_s": 22,
    "timestamp": "00:22",
-   "description": "",
-   "tags": []
+   "description": "Domed Thakurji Mandir ruin seen across the plain",
+   "tags": [
+    "temple",
+    "ruins"
+   ]
   },
   {
    "file": "frames/0026s.jpg",
    "timestamp_s": 26,
    "timestamp": "00:26",
-   "description": "",
-   "tags": []
+   "description": "Ground of the old village with circular traces (house floors) and low mounds; shrine at the edge",
+   "tags": [
+    "ruins",
+    "landscape"
+   ]
   },
   {
    "file": "frames/0030s.jpg",
    "timestamp_s": 30,
    "timestamp": "00:30",
-   "description": "",
-   "tags": []
+   "description": "Ground of the old village with circular traces (house floors) and low mounds; shrine at the edge",
+   "tags": [
+    "ruins",
+    "landscape"
+   ]
   },
   {
    "file": "frames/0034s.jpg",
    "timestamp_s": 34,
    "timestamp": "00:34",
-   "description": "",
-   "tags": []
+   "description": "Ground of the old village with circular traces (house floors) and low mounds; shrine at the edge",
+   "tags": [
+    "ruins",
+    "landscape"
+   ]
   },
   {
    "file": "frames/0038s.jpg",
    "timestamp_s": 38,
    "timestamp": "00:38",
-   "description": "",
-   "tags": []
+   "description": "Mud wall stump of a house with trees behind",
+   "tags": [
+    "ruins"
+   ]
   }
  ]
 }
