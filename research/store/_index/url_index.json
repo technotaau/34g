@@ -12,7 +12,8 @@
       "chakdo",
       "machhranwali",
       "bhunwala",
-      "lakhor-moti"
+      "lakhor-moti",
+      "lakhor-chhoti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -40,7 +41,8 @@
       "bhunwala",
       "dewasar",
       "kankraliyo",
-      "lakhor-moti"
+      "lakhor-moti",
+      "lakhor-chhoti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -62,7 +64,8 @@
       "dhannasar",
       "machhranwali",
       "kankraliyo",
-      "lakhor-moti"
+      "lakhor-moti",
+      "lakhor-chhoti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -140,7 +143,8 @@
       "machhranwali",
       "dewasar",
       "kankraliyo",
-      "lakhor-moti"
+      "lakhor-moti",
+      "lakhor-chhoti"
     ],
     "first_seen": "2026-09-05"
   },
@@ -727,6 +731,30 @@
   "https://jatland.com/home/Devasar_Churu": {
     "villages": [
       "dewasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://geonames.org/10009714": {
+    "villages": [
+      "lakhor-chhoti"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://weather.us/weather/10009714-lakhor-chhoti": {
+    "villages": [
+      "lakhor-chhoti"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://weather.us/weather/1332250-ramsara": {
+    "villages": [
+      "lakhor-chhoti"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://nregastrep.nic.in/netnrega/IndexFrame.aspx?District_Code=2703&Panchayat_Code=2703004236&Panchayat_name=Ramsara&block_code=2703004&block_name=LUNKARANSAR&check=1&district_name=BIKANER&fin_year=2024-2025&lflag=eng&state_Code=27&state_name=RAJASTHAN": {
+    "villages": [
+      "lakhor-chhoti"
     ],
     "first_seen": "2026-09-18"
   }

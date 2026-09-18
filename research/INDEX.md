@@ -28,7 +28,7 @@
 | देवासर (Dewasar) | 7 | 1 | 4 | 9 | 9 | [report](store/dewasar/report.md) |
 | माच्छरांवाली (Machhranwali) | 5 | 0 | 0 | 5 | 5 | [report](store/machhranwali/report.md) |
 | कंकरालियो (Kankraliyo) | 5 | 1 | 0 | 2 | 2 | [report](store/kankraliyo/report.md) |
-| लखोर छोटी (Lakhor Chhoti) | – | – | – | – | – | _अभी शोध नहीं_ |
+| लखोर छोटी (Lakhor Chhoti) | 8 | 2 | 1 | 5 | 5 | [report](store/lakhor-chhoti/report.md) |
 | लखोर मोटी (Lakhor Moti) | 6 | 0 | 0 | 2 | 2 | [report](store/lakhor-moti/report.md) |
 | जागोर (Jagor) | 0 | 0 | 0 | 1 | 1 | [report](store/jagor/report.md) |
 | रामपुरा (Rampura) | – | – | – | – | – | _अभी शोध नहीं_ |

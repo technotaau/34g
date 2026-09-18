@@ -807,7 +807,13 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. GeoNames 10009714 places Lakhor Chhoti at 29.00074 N 73.67697 E (Lunkaransar tehsil); point-in-polygon test against the OSM range boundary recorded above.",
+      "coordinates": {
+        "lat": 29.00074,
+        "lon": 73.67697,
+        "source": "GeoNames 10009714",
+        "inside_range_polygon": true
+      }
     },
     {
       "slug": "lakhor-moti",

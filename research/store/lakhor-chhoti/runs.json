@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T094027Z",
+    "file": "/home/user/34g/research/inbox/lakhor-chhoti/discovery.json",
+    "input": 8,
+    "invalid": 0,
+    "new": 8,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 21,
+    "agent_notes": "GeoNames (via weather.us mirror) confirms 'Lakhor Chhoti' is a real populated place (GeoNames ID 10009714, 29.00074N/73.67697E) explicitly located in Bīkāner District, Lunkaransar tehsil, Rajasthan — this is the strongest confirmation found and matches the research unit's geo context exactly. No dedicated news article, video, social post, book, or gazetteer text mentioning 'Lakhor Chhoti' by name was found despite ~21 web searches across Hindi and English spellings and all channels (news, video, social, image, book/archive, gov). The Rajasthan District Gazetteer (Bikaner, archive.org full text",
+    "total_after": 8,
+    "at": "2026-09-18T09:40:27.247375+00:00"
+  }
+]

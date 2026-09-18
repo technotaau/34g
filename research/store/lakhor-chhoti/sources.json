@@ -1,0 +1,962 @@
+{
+  "src_1319f0e2e4a5": {
+    "id": "src_1319f0e2e4a5",
+    "village": "lakhor-chhoti",
+    "url": "https://www.geonames.org/10009714",
+    "url_key": "https://geonames.org/10009714",
+    "title": "Lakhor Chhoti — GeoNames",
+    "platform": "geonames.org",
+    "source_type": "government",
+    "media_type": "dataset",
+    "author": "GeoNames.org",
+    "published_date": "2016-02-11",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Chhoti Lunkaransar census village code panchayat"
+    ],
+    "summary": "GeoNames की प्रविष्टि 'Lakhor Chhoti' को बीकानेर ज़िले, लूणकरणसर तहसील, राजस्थान में एक आबाद स्थान (populated place) के रूप में दर्ज करती है। यह अनुसंधान इकाई के भौगोलिक संदर्भ (बीकानेर/लूणकरणसर) से पूरी तरह मेल खाता है। निर्देशांक 29.00074N, 73.67697E, ऊँचाई लगभग 189 मीटर दर्ज है।",
+    "topics": [
+      "census_admin",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Bikaner District",
+      "Lunkaransar",
+      "Rajasthan",
+      "India"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Lakhor Chhoti",
+    "evidence_snippets": [
+      "Feature Class/Code: PPPL (Populated place); Admin1: Rajasthan; Admin2: Bīkāner District; Admin3: Lunkaransar"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lakhor Chhoti",
+        "Bikaner",
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": [
+        "GeoNames"
+      ]
+    },
+    "license": "GeoNames data, CC BY 4.0 (per GeoNames.org site policy, not directly visible on this page)",
+    "attribution": "GeoNames.org, geonameId 10009714",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "village_admin_location",
+        "value": "Bikaner District, Lunkaransar tehsil, Rajasthan",
+        "statement_hi": "लखोर छोटी बीकानेर ज़िले की लूणकरणसर तहसील में स्थित एक गांव है।",
+        "statement_en": "Lakhor Chhoti is a village located in Lunkaransar tehsil, Bikaner District, Rajasthan.",
+        "snippet": "Admin1 (State): Rajasthan; Admin2 (District): Bīkāner District; Admin3: Lunkaransar"
+      },
+      {
+        "claim_key": "coordinates",
+        "value": "29.00074 N, 73.67697 E",
+        "statement_hi": "लखोर छोटी के निर्देशांक लगभग 29.00074° उत्तर, 73.67697° पूर्व हैं।",
+        "statement_en": "Lakhor Chhoti's coordinates are approximately 29.00074N, 73.67697E.",
+        "snippet": "Coordinates: 29.00074, 73.67697"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Lakhor Chhoti",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+      ],
+      "matched_names": [
+        "Lakhor Chhoti",
+        "लखोर छोटी"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 78,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "No alternate spellings listed on the GeoNames record itself ('No alternate names yet'), so this does not resolve the Hindi स्पेलिंग variants; but district/tehsil match is a strong positive geographic confirmation.",
+    "consent": ""
+  },
+  "src_d434115293ff": {
+    "id": "src_d434115293ff",
+    "village": "lakhor-chhoti",
+    "url": "https://weather.us/weather/10009714-lakhor-chhoti",
+    "url_key": "https://weather.us/weather/10009714-lakhor-chhoti",
+    "title": "Lakhor Chhoti Weather Forecast — weather.us",
+    "platform": "weather.us",
+    "source_type": "government",
+    "media_type": "dataset",
+    "author": "weather.us (data from Geonames.org)",
+    "published_date": "2016-02-11",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Chhoti village Bikaner Rajasthan"
+    ],
+    "summary": "यह एक मौसम पूर्वानुमान पृष्ठ है जो GeoNames डेटा पर आधारित है और 'Lakhor Chhoti, Rajasthan, India' को सूचीबद्ध करता है, साथ ही आस-पास के स्थानों की सूची भी देता है (Rāmpura, Gopālsar, Shivnāthpura, Kumbhgarh, Phūleji, Hinjrāsar, Lālgarh, Ramsara, Hāthusar, Bakhtāwarpura)।",
+    "topics": [
+      "census_admin",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Rajasthan",
+      "Ramsara",
+      "Lalgarh"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Lakhor Chhoti",
+    "evidence_snippets": [
+      "Neighboring places around Lakhor Chhoti: Rāmpura, Gopālsar, Shivnāthpura, Kumbhgarh, Phūleji, Hinjrāsar, Lālgarh, Ramsara, Hāthusar, Bakhtāwarpura",
+      "The data set of Lakhor Chhoti was last changed on 02/11/2016"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lakhor Chhoti",
+        "Ramsara",
+        "Lalgarh",
+        "Kumbhgarh"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "weather.us / Geonames.org",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "neighboring_places",
+        "value": "Rampura, Gopalsar, Shivnathpura, Kumbhgarh, Phuleji, Hinjrasar, Lalgarh, Ramsara, Hathusar, Bakhtawarpura",
+        "statement_hi": "लखोर छोटी के निकटवर्ती स्थानों में रामपुरा, गोपालसर, शिवनाथपुरा, कुम्भगढ़, फूलेजी, हिंजरासर, लालगढ़, रामसरा, हाथूसर और बख्तावरपुरा शामिल हैं।",
+        "statement_en": "Lakhor Chhoti's listed neighboring places include Rampura, Gopalsar, Shivnathpura, Kumbhgarh, Phuleji, Hinjrasar, Lalgarh, Ramsara, Hathusar, and Bakhtawarpura.",
+        "snippet": "Neighboring places around Lakhor Chhoti: Rāmpura, Gopālsar, Shivnāthpura, Kumbhgarh, Phūleji, Hinjrāsar, Lālgarh, Ramsara, Hāthusar, Bakhtāwarpura"
+      }
+    ],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.4,
+      "reasons": [
+        "primary name match: Lakhor Chhoti",
+        "state-level context only"
+      ],
+      "matched_names": [
+        "Lakhor Chhoti",
+        "लखोर छोटी"
+      ],
+      "geo_hits": [
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 62,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 6,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "This is a GeoNames mirror, not an independent source, but useful because it lists neighboring hamlets which could cross-reference other 34-gaon units (Ramsara, Lalgarh, Kumbhgarh) — none of these neighbor names exactly match the research unit's own 'nearby' list, so worth checking against other units' slugs.",
+    "consent": ""
+  },
+  "src_f8dfd6a0c95f": {
+    "id": "src_f8dfd6a0c95f",
+    "village": "lakhor-chhoti",
+    "url": "https://weather.us/weather/1332250-ramsara",
+    "url_key": "https://weather.us/weather/1332250-ramsara",
+    "title": "Ramsara Weather Forecast — weather.us (lists Lakhor Chhoti as neighbor)",
+    "platform": "weather.us",
+    "source_type": "government",
+    "media_type": "dataset",
+    "author": "weather.us (data from Geonames.org)",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Chhoti village Bikaner Rajasthan"
+    ],
+    "summary": "रामसरा (Ramsara) के मौसम पृष्ठ पर पड़ोसी स्थानों की सूची में 'Lakhor Chhoti' का लिंक दिया गया है, जो दोनों स्थानों की भौगोलिक निकटता की पुष्टि करता है। रामसरा लूणकरणसर ब्लॉक की एक ग्राम पंचायत है (NREGA रिकॉर्ड के अनुसार)।",
+    "topics": [
+      "census_admin",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Ramsara",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Lakhor Chhoti",
+    "evidence_snippets": [
+      "[Lakhor Chhoti](https://weather.us/weather/10009714-lakhor-chhoti)"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Ramsara",
+        "Lakhor Chhoti"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "weather.us / Geonames.org",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Lakhor Chhoti",
+        "strong geo context: ['लूणकरणसर']"
+      ],
+      "matched_names": [
+        "Lakhor Chhoti"
+      ],
+      "geo_hits": [
+        "लूणकरणसर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 71,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "Weak/redundant confirmation of the GeoNames link; kept because it independently corroborates Lakhor Chhoti sitting near Ramsara, a known Lunkaransar-block panchayat (see NREGA source below).",
+    "consent": ""
+  },
+  "src_e07a6843edc7": {
+    "id": "src_e07a6843edc7",
+    "village": "lakhor-chhoti",
+    "url": "https://nregastrep.nic.in/netnrega/IndexFrame.aspx?lflag=eng&District_Code=2703&district_name=BIKANER&state_name=RAJASTHAN&state_Code=27&block_name=LUNKARANSAR&block_code=2703004&fin_year=2024-2025&check=1&Panchayat_name=Ramsara&Panchayat_Code=2703004236",
+    "url_key": "https://nregastrep.nic.in/netnrega/IndexFrame.aspx?District_Code=2703&Panchayat_Code=2703004236&Panchayat_name=Ramsara&block_code=2703004&block_name=LUNKARANSAR&check=1&district_name=BIKANER&fin_year=2024-2025&lflag=eng&state_Code=27&state_name=RAJASTHAN",
+    "title": "Ramsara Gram Panchayat — NREGA/MGNREGA public records, Lunkaransar block, Bikaner",
+    "platform": "nregastrep.nic.in",
+    "source_type": "government",
+    "media_type": "dataset",
+    "author": "Ministry of Rural Development, Govt. of India",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Chhoti Lunkaransar census village code panchayat"
+    ],
+    "summary": "यह सरकारी NREGA पोर्टल रामसरा ग्राम पंचायत (कोड 2703004236) को लूणकरणसर ब्लॉक (कोड 2703004), बीकानेर ज़िले (कोड 2703) के अंतर्गत दर्शाता है। लखोर छोटी का सीधा उल्लेख नहीं है, पर यह रामसरा की प्रशासनिक स्थिति की पुष्टि करता है जो लखोर छोटी के भौगोलिक संदर्भ को सत्यापित करने में सहायक है।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Ramsara",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Panchayat_name=Ramsara&Panchayat_Code=2703004236, block_name=LUNKARANSAR, district_name=BIKANER"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Ramsara",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Ministry of Rural Development"
+      ]
+    },
+    "license": "",
+    "attribution": "nrega.nic.in (Govt. of India public records)",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "Does not name Lakhor Chhoti directly; included only for cross-verification of the neighboring panchayat Ramsara's block/district, supporting the GeoNames placement. Panchayat-level MGNREGA job-card/worker lists for Lakhor Chhoti itself, if it is a revenue hamlet under a different panchayat, were not located — worth checking this NREGA portal's village dropdown under Lunkaransar block manually.",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "lakhor-chhoti",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan — Lok Sabha Unstarred Question No. 4236 (21 Aug 1987)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Lok Sabha Secretariat (askers: Shivraj V. Patil, Manphool Singh)",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "34 gaon Lakhor Chhoti Mahajan firing range"
+    ],
+    "summary": "8वीं लोकसभा में 21 अगस्त 1987 को महाजन फील्ड फायरिंग रेंज पर एक अतारांकित प्रश्न (क्रमांक 4236) पूछा गया था, जिसका पूर्ण उत्तर एक संलग्न PDF में है जिसे पढ़ा नहीं जा सका। इसमें अधिग्रहित गांवों की आधिकारिक सूची होने की संभावना है, जिसमें लखोर छोटी शामिल हो सकता है।",
+    "topics": [
+      "census_admin",
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: Mahajan Field Firing Range in Rajasthan; House: Lok Sabha (08); Question Number: 4236 (Unstarred); Date: 21-Aug-1987"
+    ],
+    "entities": {
+      "people": [
+        "Shivraj V. Patil",
+        "Manphool Singh"
+      ],
+      "places": [
+        "Mahajan"
+      ],
+      "events": [
+        "Mahajan Field Firing Range acquisition"
+      ],
+      "organizations": [
+        "Lok Sabha"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad eLibrary, Lok Sabha Secretariat, Govt. of India",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 58,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "BEST LEAD: this is a primary government document (parliamentary question) directly about the Mahajan Field Firing Range acquisition, close in date to the 1982-84 acquisition. Its PDF (~204 KB, linked from the item page) was not retrievable via WebFetch/text extraction and needs to be downloaded and read by a human researcher to check for a village list.",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "lakhor-chhoti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव लखोर छोटी महाजन फायरिंग रेंज"
+    ],
+    "summary": "राजस्थान पत्रिका का यह लेख 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों के अधिग्रहण और विस्थापन की पीड़ा का वर्णन करता है। इसमें भोजासर, कुम्हाना, मोतलाई, खानिसर, थोइया, मानेरा, डूडेर, खाजूवाला, डाँटौर, पुगल, मोहनगढ़ और नाचना जैसे गांवों के नाम लिए गए हैं, परंतु 'लखोर छोटी' का सीधा उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Bikaner",
+      "Bhojrasar",
+      "Kumhana",
+      "Motlai",
+      "Khaniser",
+      "Thoiya",
+      "Manera",
+      "Duder",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूमि पर महाजन फील्ड फायरिंग रेंज बनाई गई थी।"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Mahajan",
+        "Bhojrasar",
+        "Kumhana",
+        "Motlai",
+        "Khaniser",
+        "Thoiya",
+        "Manera",
+        "Duder",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumhana",
+      "motlai",
+      "khaniser",
+      "thoiya",
+      "manera",
+      "duder",
+      "khajuwala",
+      "dantaur",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिग्रहित की गई थी।",
+        "statement_en": "Land for the Mahajan Field Firing Range from 34 villages was acquired in 1984-85.",
+        "snippet": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूमि पर महाजन फील्ड फायरिंग रेंज बनाई गई थी।"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "Village name does not appear in this article's named list; recorded as context/background only per direct_mention:false rule — the acquisition_year claim is about the 34-gaon project generally, not specific to Lakhor Chhoti, so should be weighted low unless corroborated per-village.",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "lakhor-chhoti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव लखोर छोटी महाजन फायरिंग रेंज"
+    ],
+    "summary": "यह लेख महाजन फील्ड फायरिंग रेंज में अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त अभ्यासों का वर्णन करता है, और बताता है कि यह रेंज 34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूमि पर बनाई गई थी। 'लखोर छोटी' गांव का कोई सीधा उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूमि पर महाजन फील्ड फायरिंग रेंज बनाई गई थी"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [
+        "Mahajan"
+      ],
+      "events": [
+        "joint military exercises"
+      ],
+      "organizations": [
+        "Indian Army",
+        "US Army",
+        "British Army",
+        "Russian Army",
+        "French Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "General background on the firing range's current military use; no village-specific content for Lakhor Chhoti.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "lakhor-chhoti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "34 गांव लखोर छोटी महाजन फायरिंग रेंज"
+    ],
+    "summary": "यह पुराना पत्रिका लेख (2018) भी उसी विस्थापन कहानी को दोहराता है: 1984-85 में रक्षा मंत्रालय ने 34 गांवों की भूमि अधिग्रहीत की। खाजूवाला, डाँटौर, पुगल, मोहनगढ़ और नाचना नाम आते हैं, पर 'लखोर छोटी' नहीं।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि का अधिग्रहण महाजन फील्ड फायरिंग रेंज बनाने के लिए किया था।"
+    ],
+    "entities": {
+      "people": [
+        "Jay Kumar Bhati"
+      ],
+      "places": [
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "khajuwala",
+      "dantaur",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094027Z"
+    ],
+    "notes": "Earlier version/duplicate of the 2022 Hari Singh article's story angle; kept as a separate dated source since byline and date differ.",
+    "consent": ""
+  }
+}
