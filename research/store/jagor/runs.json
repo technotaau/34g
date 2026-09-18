@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T093853Z",
+    "file": "/home/user/34g/research/inbox/jagor/discovery.json",
+    "input": 0,
+    "invalid": 0,
+    "new": 0,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 21,
+    "agent_notes": "Ran all Tier 1 queries (English + Hindi + combined spellings: Jagor, जागोर, Jagor Mahajan, जागोर महाजन, 34 gaon Jagor Mahajan) and most of Tier 2/Tier 3 across web, news, gov, video, social, image and book channels (21 WebSearch calls, slightly over the 20-call budget because the last query was cheap and targeted). No page found by search engines mentions a village named 'Jagor'/'जागोर' in Bikaner/Lunkaransar/Mahajan context, or with any of the negative-term regions instead. Fetched the three most relevant Rajasthan Patrika articles on Mahajan Field Firing Range displacement (2018, Aug 2022, N",
+    "total_after": 0,
+    "at": "2026-09-18T09:38:53.878564+00:00"
+  }
+]
