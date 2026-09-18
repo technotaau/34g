@@ -27,7 +27,7 @@
 | चकड़ो (Chakdo) | 5 | 0 | 0 | 3 | 3 | [report](store/chakdo/report.md) |
 | देवासर (Dewasar) | 7 | 1 | 4 | 9 | 9 | [report](store/dewasar/report.md) |
 | माच्छरांवाली (Machhranwali) | 5 | 0 | 0 | 5 | 5 | [report](store/machhranwali/report.md) |
-| कंकरालियो (Kankraliyo) | – | – | – | – | – | _अभी शोध नहीं_ |
+| कंकरालियो (Kankraliyo) | 5 | 1 | 0 | 2 | 2 | [report](store/kankraliyo/report.md) |
 | लखोर छोटी (Lakhor Chhoti) | – | – | – | – | – | _अभी शोध नहीं_ |
 | लखोर मोटी (Lakhor Moti) | – | – | – | – | – | _अभी शोध नहीं_ |
 | जागोर (Jagor) | 0 | 0 | 0 | 1 | 1 | [report](store/jagor/report.md) |

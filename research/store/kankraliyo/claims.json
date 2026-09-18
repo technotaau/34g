@@ -1,0 +1,44 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_census_listing_status_47117cba": {
+    "id": "clm_census_listing_status_47117cba",
+    "claim_key": "census_listing_status",
+    "value": "not_found_as_separate_revenue_village_in_2011_census_list",
+    "statement_hi": "2011 जनगणना के लूणकरणसर तहसील गांव सूची में 'कंकरालियो' नाम का कोई गांव अलग से सूचीबद्ध नहीं है; निकटतम नाम 'कांकरवाला' है।",
+    "statement_en": "Kankraliyo does not appear as a separate village in the 2011-census list of ~125 Lunkaransar tehsil villages; the closest-sounding name is the distinct village Kankarwala.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "no village named Kankraliyo, Kankraliya, or any similar variant... closest match is 'Kankarwala'"
+      }
+    ],
+    "competing": []
+  }
+}

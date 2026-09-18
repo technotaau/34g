@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T093934Z",
+    "file": "/home/user/34g/research/inbox/kankraliyo/discovery.json",
+    "input": 5,
+    "invalid": 0,
+    "new": 5,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "No source found anywhere (web, news, gov, video, social, image, book/archive) that names 'Kankraliyo'/'कंकरालियो' or close spelling variants (Kankraliya/कंकरालिया, Kankralio) directly. Ran all 8 Tier-1 queries plus a wide Tier-2/3 sweep across channels (20 WebSearch calls, budget cap reached) and WebFetched 8 of the most promising pages. The census2011.co.in list of all 125 Lunkaransar-tehsil villages/towns does NOT contain Kankraliyo; the nearest-looking name is the unrelated village 'Kankarwala'. The 1972-era Rajasthan District Gazetteer (Bikaner) OCR text on archive.org also has no match. S",
+    "total_after": 5,
+    "at": "2026-09-18T09:39:34.503272+00:00"
+  }
+]
