@@ -1,0 +1,65 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_name_ambiguity_5d077364": {
+    "id": "clm_name_ambiguity_5d077364",
+    "claim_key": "name_ambiguity",
+    "value": "A distinct 'Motasar' village exists in Kolayat tehsil, Bikaner (pop. 443, gram panchayat Gadiyala) — not in Lunkaransar tehsil.",
+    "statement_hi": "बीकानेर की कोलायत तहसील में एक अलग 'मोटासर' गांव है, जो लूणकरणसर तहसील में नहीं है।",
+    "statement_en": "A separate Motasar village exists in Kolayat tehsil of Bikaner district, distinct from the Lunkaransar/Mahajan area.",
+    "sources": [
+      "src_f20739af3c1e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f20739af3c1e",
+        "text": "located in Kolayat Tehsil of Bikaner district... Gadiyala is the gram panchayat of Motasar village"
+      }
+    ],
+    "competing": []
+  },
+  "clm_current_administrative_status_edded88e": {
+    "id": "clm_current_administrative_status_edded88e",
+    "claim_key": "current_administrative_status",
+    "value": "Motasar is not a separate listed revenue village in the current Lunkaransar tehsil village directory.",
+    "statement_hi": "वर्तमान लूणकरणसर तहसील की गांवों की सूची में 'मोटासर' अलग से दर्ज नहीं है।",
+    "statement_en": "Motasar does not appear as an independent village in the present-day Lunkaransar tehsil village list; the area is covered by the single 'Mahajan Fieldfiring Range' census entry.",
+    "sources": [
+      "src_c0a313e97116"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_c0a313e97116",
+        "text": "list of Lunkaransar tehsil villages includes 'Mahajan' and 'Mahajan Fieldfiring Range' but no separate 'Motasar' entry"
+      }
+    ],
+    "competing": []
+  }
+}

@@ -673,7 +673,16 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours.",
+      "disambiguation": {
+        "negative_terms": [
+          "Kolayat",
+          "कोलायत",
+          "Gadiyala",
+          "गडियाला",
+          "Motasar Kolayat"
+        ]
+      }
     },
     {
       "slug": "bhunwala",
@@ -693,7 +702,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A cycling video names 'bhunwala' as a waypoint near Lunkaransar (Netadwas to Dugoli); check whether it is the old site or a namesake."
     },
     {
       "slug": "chakdo",

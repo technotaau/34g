@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T093725Z",
+    "file": "/home/user/34g/research/inbox/bhunwala/discovery.json",
+    "input": 6,
+    "invalid": 0,
+    "new": 6,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "No source directly confirms 'Bhunwala' as one of the acquired 34 villages except a YouTube cycling-trip video title naming it as a waypoint between Netadwas and Dugoli (near Lunkaransar) — the single strongest lead. Census2011 mirror confirms Bhunwala is absent from the current Lunkaransar tehsil village list, and the merged administrative entry 'Mahajan Fieldfiring Range' shows population 2, consistent with an acquired/depopulated village, but no source names Bhunwala specifically within that merger. Rajasthan District Gazetteer (Bikaner, K.K. Sehgal, 1960s, archive.org full text) does NOT me",
+    "total_after": 6,
+    "at": "2026-09-18T09:37:25.657298+00:00"
+  }
+]

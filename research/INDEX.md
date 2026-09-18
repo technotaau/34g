@@ -22,8 +22,8 @@
 | कानोलाई (Kanolai) | 9 | 3 | 4 | 9 | 9 | [report](store/kanolai/report.md) |
 | धन्नासर (Dhannasar) | 8 | 0 | 2 | 6 | 6 | [report](store/dhannasar/report.md) |
 | रिणा (Rina) | 0 | 0 | 0 | 1 | 1 | [report](store/rina/report.md) |
-| मोटासर (Motasar) | – | – | – | – | – | _अभी शोध नहीं_ |
-| भुंवाला (Bhunwala) | – | – | – | – | – | _अभी शोध नहीं_ |
+| मोटासर (Motasar) | 5 | 1 | 2 | 3 | 3 | [report](store/motasar/report.md) |
+| भुंवाला (Bhunwala) | 6 | 1 | 0 | 8 | 8 | [report](store/bhunwala/report.md) |
 | चकड़ो (Chakdo) | 5 | 0 | 0 | 3 | 3 | [report](store/chakdo/report.md) |
 | देवासर (Dewasar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | माच्छरांवाली (Machhranwali) | 5 | 0 | 0 | 5 | 5 | [report](store/machhranwali/report.md) |

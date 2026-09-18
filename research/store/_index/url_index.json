@@ -10,7 +10,8 @@
       "bhanabasti",
       "khiyana",
       "chakdo",
-      "machhranwali"
+      "machhranwali",
+      "bhunwala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -33,7 +34,9 @@
       "berawala",
       "chakdo",
       "dhannasar",
-      "machhranwali"
+      "machhranwali",
+      "motasar",
+      "bhunwala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -230,7 +233,8 @@
       "kolana",
       "ajeetwana",
       "bhanabasti",
-      "berawala"
+      "berawala",
+      "bhunwala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -239,7 +243,8 @@
       "motlai",
       "ajeetwana",
       "dhannasar",
-      "machhranwali"
+      "machhranwali",
+      "motasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -417,7 +422,8 @@
   },
   "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar": {
     "villages": [
-      "nathor"
+      "nathor",
+      "motasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -459,7 +465,8 @@
   },
   "https://patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913": {
     "villages": [
-      "berawala"
+      "berawala",
+      "bhunwala"
     ],
     "first_seen": "2026-09-05"
   },
@@ -658,6 +665,30 @@
   "https://indiankanoon.org/doc/171257844": {
     "villages": [
       "dhannasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://census2011.co.in/data/village/69475-motasar-rajasthan.html": {
+    "villages": [
+      "motasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://villagemaps.in/rajasthan/motasar-kolayat-bikaner-69475": {
+    "villages": [
+      "motasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://www.youtube.com/watch?v=v4DsZYvDii8": {
+    "villages": [
+      "bhunwala"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html": {
+    "villages": [
+      "bhunwala"
     ],
     "first_seen": "2026-09-18"
   }

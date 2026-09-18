@@ -1,0 +1,750 @@
+{
+  "src_e0845bbe3fd0": {
+    "id": "src_e0845bbe3fd0",
+    "village": "bhunwala",
+    "url": "https://www.youtube.com/watch?v=v4DsZYvDii8",
+    "url_key": "https://www.youtube.com/watch?v=v4DsZYvDii8",
+    "title": "Netadwas to dugoli via bhunwala, cycle visit, DPSV",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Bhunwala village Bikaner youtube"
+    ],
+    "summary": "एक साइकिल यात्रा वीडियो का शीर्षक 'Netadwas to dugoli via bhunwala' है, जो दर्शाता है कि भुंवाला नेतड़वास और डुगोली के बीच रास्ते में पड़ने वाला एक वास्तविक स्थान है। WebFetch इस पेज का विवरण, चैनल नाम या अपलोड तिथि नहीं निकाल सका (केवल YouTube का फुटर मिला); वीडियो को सीधे देखकर पुष्टि आवश्यक है।",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Netadwas",
+      "Dugoli",
+      "Bikaner (implied via Lunkaransar area cycling route)"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "bhunwala",
+    "evidence_snippets": [
+      "Netadwas to dugoli via bhunwala, cycle visit, DPSV"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Netadwas",
+        "Dugoli",
+        "Bhunwala"
+      ],
+      "events": [
+        "cycle visit"
+      ],
+      "organizations": [
+        "DPSV"
+      ]
+    },
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "unknown",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "bhunwala_route_reference",
+        "value": "Bhunwala is named as a place passed en route from Netadwas to Dugoli",
+        "statement_hi": "एक साइकिल यात्रा वीडियो शीर्षक के अनुसार भुंवाला, नेतड़वास से डुगोली के रास्ते में स्थित एक स्थान है।",
+        "statement_en": "A cycling-trip video title indicates Bhunwala is a location passed between Netadwas and Dugoli.",
+        "snippet": "Netadwas to dugoli via bhunwala, cycle visit, DPSV"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Bhunwala",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Bhunwala",
+        "भुंवाला"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 77,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "Only source found that uses the exact spelling 'bhunwala' as a real place. Could not confirm whether this is the same Bhunwala as the 34-gaon village, a different minor locality/dhani of the same name, or a remnant name within the firing range area. Needs manual viewing of the video, its description, comments, and any location tags to verify and geolocate. 'DPSV' abbreviation (possibly a school/club name) unexplained.",
+    "consent": ""
+  },
+  "src_b27fa43b7bd0": {
+    "id": "src_b27fa43b7bd0",
+    "village": "bhunwala",
+    "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Bhunwala Bikaner census village code panchayat"
+    ],
+    "summary": "यह पेज लूणकरणसर तहसील (बीकानेर) के सभी 125 गांवों/कस्बों की 2011 जनगणना सूची प्रस्तुत करता है। भुंवाला नाम की कोई प्रविष्टि सूची में नहीं है, लेकिन 'Mahajan Fieldfiring Range' नाम की एक प्रविष्टि है जिसकी जनसंख्या केवल 2 है — यह उस भूमि के सैन्य अधिग्रहण के बाद बचे मूल गांवों के विलय/निर्जनीकरण से मेल खाता है।",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Mahajan Fieldfiring Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "This village name does not appear in the list.",
+      "Mahajan Fieldfiring Range... population of just 2 residents"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar",
+        "Mahajan Fieldfiring Range"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Census2011.co.in (mirror of Census of India 2011 data)",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "village_status_2011",
+        "value": "absent from Lunkaransar tehsil village list",
+        "statement_hi": "2011 की जनगणना (मिरर) में लूणकरणसर तहसील की गांव सूची में भुंवाला नाम अनुपस्थित है।",
+        "statement_en": "Bhunwala does not appear in the Lunkaransar tehsil village list per this Census 2011 mirror.",
+        "snippet": "This village name does not appear in the list."
+      },
+      {
+        "claim_key": "mahajan_fieldfiring_range_population_2011",
+        "value": "2",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज नामक जनगणना इकाई (जिसमें अधिगृहीत गांव समाहित हैं) की 2011 जनसंख्या केवल 2 है।",
+        "statement_en": "The 'Mahajan Fieldfiring Range' census entry (which absorbed the acquired villages) shows a 2011 population of just 2.",
+        "snippet": "Mahajan Fieldfiring Range... population of just 2 residents"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 49,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "Negative/indirect evidence only: Bhunwala's absence is consistent with the village being merged into the firing-range land after 1982-84 acquisition, but this page does not name Bhunwala specifically among the absorbed villages.",
+    "consent": ""
+  },
+  "src_233aa081df9d": {
+    "id": "src_233aa081df9d",
+    "village": "bhunwala",
+    "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "url_key": "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html",
+    "title": "Mahajan Fieldfiring Range Village | Map of Mahajan Fieldfiring Range Village in Lunkaransar Tehsil, Bikaner of Rajasthan",
+    "platform": "mapsofindia.com",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range 34 villages list names displaced eLibrary Sansad"
+    ],
+    "summary": "मैप्सऑफइंडिया की गांव निर्देशिका लूणकरणसर तहसील में 'Mahajan Fieldfiring Range' नामक प्रविष्टि दिखाती है, जो मूल रूप से अधिगृहीत गांवों की भूमि को दर्शाती प्रतीत होती है। पेज पर आसपास के गांवों में महाजन, महाराणा, मकरासर व मलकीसर सूचीबद्ध हैं, भुंवाला का कोई उल्लेख नहीं है।",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Mahajan",
+      "Maharana",
+      "Makrasar",
+      "Malkisar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Other villages in the vicinity include Mahajan, Maharana, Makrasar, and Malkisar"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Maharana",
+        "Makrasar",
+        "Malkisar"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "MapsofIndia.com",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "mffr_nearby_villages",
+        "value": "Mahajan, Maharana, Makrasar, Malkisar",
+        "statement_hi": "इस निर्देशिका के अनुसार महाजन फील्ड फायरिंग रेंज के निकट महाजन, महाराणा, मकरासर व मलकीसर गांव स्थित हैं।",
+        "statement_en": "Per this directory, villages near Mahajan Fieldfiring Range include Mahajan, Maharana, Makrasar, and Malkisar.",
+        "snippet": "Other villages in the vicinity include Mahajan, Maharana, Makrasar, and Malkisar"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "General administrative directory entry; no direct link to Bhunwala found. Recorded for regional/administrative context only.",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "bhunwala",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "भुंवाला महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह पत्रिका फीचर रिपोर्ट 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिगृहीत 34 गांवों के विस्थापित परिवारों के दर्द को दर्शाती है। मुआवजा और सिंचित भूमि मिलने के बावजूद पुरखों के घर छोड़ने का दुख आज भी आंखों में झलकता है; वंशज त्योहारों पर पुराने मंदिरों पर लौटते हैं। लेख में भोजारासर, कुम्भाणा, मोतलाई, खानीसर, थोइया, मानेरा, दूदेर, खाजूवाला, दांतुर, पूगल, मोहनगढ़, नाचना गांवों का उल्लेख है; भुंवाला का नाम इसमें नहीं है।",
+    "topics": [
+      "culture",
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Bhojarasar",
+      "Kumbhana",
+      "Motlai",
+      "Khaniser",
+      "Thoiya",
+      "Manera",
+      "Duder",
+      "Khajuwala",
+      "Dantur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 villages displaced in 1984-85 for the Mahajan Field Firing Range"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Indian Army / Defence Ministry (implied)"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "mffr_acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई थी।",
+        "statement_en": "Land from 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "34 villages displaced in 1984-85 for the Mahajan Field Firing Range"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "Strong regional/background source for the 34-gaon displacement story but does not name Bhunwala among the villages it lists; kept for context per geo rules, direct_mention=false. Reporter Hari Singh may have written related follow-ups worth checking for a fuller village list.",
+    "consent": ""
+  },
+  "src_cd874a59e127": {
+    "id": "src_cd874a59e127",
+    "village": "bhunwala",
+    "url": "https://www.patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913",
+    "url_key": "https://patrika.com/bikaner-news/bikaner-news-mahajan-field-firing-range-5110913",
+    "title": "बीकानेर : फायरिंग रेंज में जाना पड़ा महंगा, ग्वाला गोली से घायल",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jai Prakash Gahlot",
+    "published_date": "2019-09-19",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "भुंवाला महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "बिना अनुमति महाजन फील्ड फायरिंग रेंज में घुसे एक ग्वाला (चरवाहा) को गोली लग गई और वह गंभीर रूप से घायल हो गया; उसे बीकानेर ट्रॉमा सेंटर ले जाया गया। लेख में मार्च 2019 में एक स्क्रैप ठेकेदार की मृत्यु और फरवरी 2019 में एक कर्नल के आकस्मिक गोलीबारी की घटनाओं का भी उल्लेख है। घायल व्यक्ति लूणकरणसर क्षेत्र के खोडाला गांव का निवासी था।",
+    "topics": [
+      "displacement",
+      "legal",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Khodala",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "फायरिंग रेंज में बिना अनुमति घुसा एक ग्वाला गोली लग जाने से गम्भीर रूप से घायल हो गया"
+    ],
+    "entities": {
+      "people": [
+        "Banwari Lal (injured herder)"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Khodala"
+      ],
+      "events": [
+        "shooting incident 2019"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jai Prakash Gahlot, 2019",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "mffr_safety_incidents",
+        "value": "unauthorized-entry shooting injury reported 2019, plus earlier fatal/accidental incidents",
+        "statement_hi": "फायरिंग रेंज में अनाधिकृत प्रवेश पर चरवाहे के घायल होने और पूर्व में अन्य दुर्घटनाओं की घटनाएं दर्ज हैं।",
+        "statement_en": "Unauthorized entry into the firing range has led to a shooting injury (2019) and other prior accidents.",
+        "snippet": "फायरिंग रेंज में बिना अनुमति घुसा एक ग्वाला गोली लग जाने से गम्भीर रूप से घायल हो गया"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "Weak relevance: general firing-range safety incident, no mention of Bhunwala; kept for regional context only per breadth guidance.",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "bhunwala",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Shivraj V. Patil; Manphool Singh (MPs who asked); Ministry of Defence (answered)",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Mahajan Field Firing Range 34 villages list names displaced eLibrary Sansad"
+    ],
+    "summary": "21 अगस्त 1987 को लोकसभा (8वीं लोकसभा, सत्र VIII) में महाजन फील्ड फायरिंग रेंज पर अतारांकित प्रश्न संख्या 4236 पूछा गया था, जिसका उत्तर रक्षा मंत्रालय ने दिया। दस्तावेज़ का पूर्ण पाठ एक PDF (लगभग 204 KB) के रूप में संसद डिजिटल लाइब्रेरी पर उपलब्ध है; इसकी विषयवस्तु (अधिगृहीत गांवों की सूची, मुआवज़ा विवरण आदि) WebFetch से नहीं निकाली जा सकी।",
+    "topics": [
+      "census_admin",
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan",
+      "Bikaner (implied)"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan Field Firing Range in Rajasthan",
+      "Unstarred Question Number 4236"
+    ],
+    "entities": {
+      "people": [
+        "Shivraj V. Patil",
+        "Manphool Singh"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "Lok Sabha Unstarred Question, 21 Aug 1987"
+      ],
+      "organizations": [
+        "Lok Sabha",
+        "Ministry of Defence"
+      ]
+    },
+    "license": "Parliament of India digital library — public government record",
+    "attribution": "Lok Sabha Secretariat / eLibrary Sansad, 21 August 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "parliamentary_question_1987",
+        "value": "Lok Sabha Unstarred Question No. 4236, 21 Aug 1987, on Mahajan Field Firing Range",
+        "statement_hi": "21 अगस्त 1987 को लोकसभा में महाजन फील्ड फायरिंग रेंज पर अतारांकित प्रश्न संख्या 4236 पूछा गया।",
+        "statement_en": "An unstarred question (No. 4236) on the Mahajan Field Firing Range was raised in the Lok Sabha on 21 August 1987.",
+        "snippet": "Mahajan Field Firing Range in Rajasthan"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 62,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093725Z"
+    ],
+    "notes": "HIGH-PRIORITY LEAD: this is a primary government record from close to the acquisition period (1987) and likely names the affected villages and/or gives acquisition/compensation figures in its answer text. The PDF itself was not retrievable via WebFetch (only metadata came through) — a human researcher should download the PDF from elibrary.sansad.in and search it directly for 'Bhunwala'/'भुंवाला' and other village names.",
+    "consent": ""
+  }
+}

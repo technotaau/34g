@@ -1,0 +1,519 @@
+{
+  "village": {
+    "slug": "motasar",
+    "name_en": "Motasar",
+    "name_hi": "मोटासर",
+    "status": "acquired",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-18",
+  "counts": {
+    "sources_total": 5,
+    "accepted": 1,
+    "context": 1,
+    "review": 2,
+    "rejected": 1,
+    "duplicates": 0,
+    "claims": 3
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_c0a313e97116",
+        "src_f20739af3c1e",
+        "src_49b960781773"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_c0a313e97116",
+        "src_f20739af3c1e",
+        "src_49b960781773"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_f20739af3c1e",
+        "src_a5150b8b1d53"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": []
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": []
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_f20739af3c1e",
+        "src_49b960781773"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Hari Singh"
+    ],
+    "places": [
+      "Bhojrasar",
+      "Bikaner",
+      "Dantur",
+      "Duder",
+      "Gadiyala",
+      "Khajuwala",
+      "Khaniser",
+      "Kolayat",
+      "Kumbhana",
+      "Manera",
+      "Mohangadh",
+      "Motlai",
+      "Nachna",
+      "Pugal",
+      "Thoiya"
+    ],
+    "events": [
+      "1984-85 land acquisition for Mahajan Field Firing Range"
+    ],
+    "organizations": [
+      "Ministry of Defence"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_name_ambiguity_5d077364",
+        "claim_key": "name_ambiguity",
+        "value": "A distinct 'Motasar' village exists in Kolayat tehsil, Bikaner (pop. 443, gram panchayat Gadiyala) — not in Lunkaransar tehsil.",
+        "statement_hi": "बीकानेर की कोलायत तहसील में एक अलग 'मोटासर' गांव है, जो लूणकरणसर तहसील में नहीं है।",
+        "statement_en": "A separate Motasar village exists in Kolayat tehsil of Bikaner district, distinct from the Lunkaransar/Mahajan area.",
+        "sources": [
+          "src_f20739af3c1e"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_f20739af3c1e",
+            "text": "located in Kolayat Tehsil of Bikaner district... Gadiyala is the gram panchayat of Motasar village"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_current_administrative_status_edded88e",
+        "claim_key": "current_administrative_status",
+        "value": "Motasar is not a separate listed revenue village in the current Lunkaransar tehsil village directory.",
+        "statement_hi": "वर्तमान लूणकरणसर तहसील की गांवों की सूची में 'मोटासर' अलग से दर्ज नहीं है।",
+        "statement_en": "Motasar does not appear as an independent village in the present-day Lunkaransar tehsil village list; the area is covered by the single 'Mahajan Fieldfiring Range' census entry.",
+        "sources": [
+          "src_c0a313e97116"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_c0a313e97116",
+            "text": "list of Lunkaransar tehsil villages includes 'Mahajan' and 'Mahajan Fieldfiring Range' but no separate 'Motasar' entry"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_f20739af3c1e",
+      "url": "https://www.census2011.co.in/data/village/69475-motasar-rajasthan.html",
+      "title": "Motasar Village Population - Kolayat - Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Motasar",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Kolayat', 'कोलायत', 'Gadiyala']",
+        "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+      ]
+    },
+    {
+      "id": "src_49b960781773",
+      "url": "https://www.villagemaps.in/rajasthan/motasar-kolayat-bikaner-69475/",
+      "title": "Motasar Village Map, PIN Code, Population | Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Motasar",
+        "strong geo context: ['महाजन', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Kolayat', 'कोलायत', 'Motasar Kolayat']",
+        "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+      ]
+    }
+  ],
+  "sources": {
+    "src_c0a313e97116": {
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/",
+      "title": "Villages in Lunkaransar Tehsil, Bikaner, Rajasthan",
+      "platform": "mapsofindia.com",
+      "source_type": "website",
+      "media_type": "dataset",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Motasar",
+          "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'Soolera', 'Kheenyera']"
+        ],
+        "matched_names": [
+          "Motasar",
+          "मोटासर"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Soolera",
+          "Kheenyera",
+          "Jaitpur",
+          "Sherpura",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "mapsofindia.com village directory",
+      "is_primary": false
+    },
+    "src_f20739af3c1e": {
+      "url": "https://www.census2011.co.in/data/village/69475-motasar-rajasthan.html",
+      "title": "Motasar Village Population - Kolayat - Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 67,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Motasar",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "negative/other-place signals: ['Kolayat', 'कोलायत', 'Gadiyala']",
+          "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+        ],
+        "matched_names": [
+          "Motasar",
+          "मोटासर",
+          "मोटासर गांव"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "34 गांव",
+          "34 गाँव",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Kolayat",
+          "कोलायत",
+          "Gadiyala",
+          "गडियाला"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "census2011.co.in (Census of India 2011 data mirror)",
+      "is_primary": false
+    },
+    "src_49b960781773": {
+      "url": "https://www.villagemaps.in/rajasthan/motasar-kolayat-bikaner-69475/",
+      "title": "Motasar Village Map, PIN Code, Population | Bikaner, Rajasthan",
+      "platform": "villagemaps.in",
+      "source_type": "census_mirror",
+      "media_type": "map",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Motasar",
+          "strong geo context: ['महाजन', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Kolayat', 'कोलायत', 'Motasar Kolayat']",
+          "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+        ],
+        "matched_names": [
+          "Motasar",
+          "मोटासर",
+          "मोटासर गांव"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Kolayat",
+          "कोलायत",
+          "Motasar Kolayat"
+        ]
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "villagemaps.in",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 44,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260918T093725Z",
+      "file": "/home/user/34g/research/inbox/motasar/discovery.json",
+      "input": 5,
+      "invalid": 0,
+      "new": 5,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 20,
+      "agent_notes": "20/20 web searches used; no source directly and unambiguously documents a 'Motasar' village inside Lunkaransar tehsil / Mahajan sub-tehsil / the Mahajan Field Firing Range. The only administratively documented 'Motasar' in Bikaner district is a separate village in Kolayat tehsil (gram panchayat Gadiyala, pop. 443 in 2011), ~90km from Mahajan — almost certainly a different place that merely shares the name. The official 2011-era village list for Lunkaransar tehsil (mapsofindia) does NOT contain a 'Motasar' entry, but it does contain the single merged entry 'Mahajan Fieldfiring Range' plus sever",
+      "total_after": 5,
+      "at": "2026-09-18T09:37:25.417079+00:00"
+    }
+  ]
+}

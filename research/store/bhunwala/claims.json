@@ -1,0 +1,170 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_bhunwala_route_reference_d1e575d4": {
+    "id": "clm_bhunwala_route_reference_d1e575d4",
+    "claim_key": "bhunwala_route_reference",
+    "value": "Bhunwala is named as a place passed en route from Netadwas to Dugoli",
+    "statement_hi": "एक साइकिल यात्रा वीडियो शीर्षक के अनुसार भुंवाला, नेतड़वास से डुगोली के रास्ते में स्थित एक स्थान है।",
+    "statement_en": "A cycling-trip video title indicates Bhunwala is a location passed between Netadwas and Dugoli.",
+    "sources": [
+      "src_e0845bbe3fd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_e0845bbe3fd0",
+        "text": "Netadwas to dugoli via bhunwala, cycle visit, DPSV"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_status_2011_738445f7": {
+    "id": "clm_village_status_2011_738445f7",
+    "claim_key": "village_status_2011",
+    "value": "absent from Lunkaransar tehsil village list",
+    "statement_hi": "2011 की जनगणना (मिरर) में लूणकरणसर तहसील की गांव सूची में भुंवाला नाम अनुपस्थित है।",
+    "statement_en": "Bhunwala does not appear in the Lunkaransar tehsil village list per this Census 2011 mirror.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "This village name does not appear in the list."
+      }
+    ],
+    "competing": []
+  },
+  "clm_mahajan_fieldfiring_range_population_2011_da4b9237": {
+    "id": "clm_mahajan_fieldfiring_range_population_2011_da4b9237",
+    "claim_key": "mahajan_fieldfiring_range_population_2011",
+    "value": "2",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज नामक जनगणना इकाई (जिसमें अधिगृहीत गांव समाहित हैं) की 2011 जनसंख्या केवल 2 है।",
+    "statement_en": "The 'Mahajan Fieldfiring Range' census entry (which absorbed the acquired villages) shows a 2011 population of just 2.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "Mahajan Fieldfiring Range... population of just 2 residents"
+      }
+    ],
+    "competing": []
+  },
+  "clm_mffr_nearby_villages_3e5cec59": {
+    "id": "clm_mffr_nearby_villages_3e5cec59",
+    "claim_key": "mffr_nearby_villages",
+    "value": "Mahajan, Maharana, Makrasar, Malkisar",
+    "statement_hi": "इस निर्देशिका के अनुसार महाजन फील्ड फायरिंग रेंज के निकट महाजन, महाराणा, मकरासर व मलकीसर गांव स्थित हैं।",
+    "statement_en": "Per this directory, villages near Mahajan Fieldfiring Range include Mahajan, Maharana, Makrasar, and Malkisar.",
+    "sources": [
+      "src_233aa081df9d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_233aa081df9d",
+        "text": "Other villages in the vicinity include Mahajan, Maharana, Makrasar, and Malkisar"
+      }
+    ],
+    "competing": []
+  },
+  "clm_mffr_acquisition_year_e389dc21": {
+    "id": "clm_mffr_acquisition_year_e389dc21",
+    "claim_key": "mffr_acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई थी।",
+    "statement_en": "Land from 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 villages displaced in 1984-85 for the Mahajan Field Firing Range"
+      }
+    ],
+    "competing": []
+  },
+  "clm_mffr_safety_incidents_0aee2752": {
+    "id": "clm_mffr_safety_incidents_0aee2752",
+    "claim_key": "mffr_safety_incidents",
+    "value": "unauthorized-entry shooting injury reported 2019, plus earlier fatal/accidental incidents",
+    "statement_hi": "फायरिंग रेंज में अनाधिकृत प्रवेश पर चरवाहे के घायल होने और पूर्व में अन्य दुर्घटनाओं की घटनाएं दर्ज हैं।",
+    "statement_en": "Unauthorized entry into the firing range has led to a shooting injury (2019) and other prior accidents.",
+    "sources": [
+      "src_cd874a59e127"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_cd874a59e127",
+        "text": "फायरिंग रेंज में बिना अनुमति घुसा एक ग्वाला गोली लग जाने से गम्भीर रूप से घायल हो गया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_parliamentary_question_1987_1493dbd5": {
+    "id": "clm_parliamentary_question_1987_1493dbd5",
+    "claim_key": "parliamentary_question_1987",
+    "value": "Lok Sabha Unstarred Question No. 4236, 21 Aug 1987, on Mahajan Field Firing Range",
+    "statement_hi": "21 अगस्त 1987 को लोकसभा में महाजन फील्ड फायरिंग रेंज पर अतारांकित प्रश्न संख्या 4236 पूछा गया।",
+    "statement_en": "An unstarred question (No. 4236) on the Mahajan Field Firing Range was raised in the Lok Sabha on 21 August 1987.",
+    "sources": [
+      "src_4fb2da84d5a4"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_4fb2da84d5a4",
+        "text": "Mahajan Field Firing Range in Rajasthan"
+      }
+    ],
+    "competing": []
+  }
+}
