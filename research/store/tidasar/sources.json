@@ -1,0 +1,509 @@
+{
+  "src_1b4fd83e0765": {
+    "id": "src_1b4fd83e0765",
+    "village": "tidasar",
+    "url": "https://www.jatland.com/home/Tidiyasar",
+    "url_key": "https://jatland.com/home/Tidiyasar",
+    "title": "Tidiyasar - Jatland Wiki",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "Jatland Wiki contributors",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"टिडासर\" राजस्थान"
+    ],
+    "summary": "Jatland Wiki के अनुसार टिडियासर (Tidiyasar) राजस्थान के चूरू जिले की रतनगढ़ तहसील में, बीरामसर पहाड़ी के उत्तर में, राष्ट्रीय राजमार्ग 11 पर स्थित एक गांव है। यह बीकानेर/लूणकरणसर/महाजन क्षेत्र से भिन्न जिला है, इसलिए संभवतः यह टिडासर (34 गांव सूची) से अलग गांव है।",
+    "topics": [
+      "census_admin",
+      "religion_temple"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Ratangarh",
+      "Churu",
+      "Biramsar Pahadi",
+      "National Highway 11"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Tidiyasar / टिडियासर",
+    "evidence_snippets": [
+      "Tidiyasar is a village in Ratangarh tehsil, Churu district in Rajasthan, located north of Biramsar Pahadi on National Highway 11."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Ratangarh",
+        "Churu"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.3,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['महाजन', 'लूणकरणसर', '34 गांव']",
+        "district/nearby/clan context: ['बीकानेर']",
+        "negative/other-place signals: ['Churu', 'चूरू', 'Tidiyasar']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "लूणकरणसर",
+        "34 गांव",
+        "34 गाँव",
+        "बीकानेर",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": [
+        "Churu",
+        "चूरू",
+        "Tidiyasar",
+        "टिडियासर",
+        "Ratangarh",
+        "रतनगढ़",
+        "Churu",
+        "चूरू"
+      ]
+    },
+    "relevance": {
+      "score": 27,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 4,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094122Z"
+    ],
+    "notes": "Likely a DIFFERENT village from this unit: same/near-identical name but in Churu district (a negative_term for this unit), not Bikaner/Lunkaransar/Mahajan. Recorded for disambiguation only, not as evidence for Tidasar (34 gaon).",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "tidasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "टिडासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह पत्रिका समाचार 1984-85 में रक्षा मंत्रालय द्वारा महाजन फील्ड फायरिंग रेंज के लिए अधिग्रहित 34 गांवों के विस्थापन पर केंद्रित है। लेख में भोजरासर, कुम्भाणा, मोतलाई, खानीसर, थोइया, मनेरा, दूदेर, खाजूवाला, दांतौर, पुगल, मोहनगढ़, नाचना गांवों के नाम हैं; टिडासर का नाम स्पष्ट रूप से सूचीबद्ध नहीं है।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bhojrasar",
+      "Kumbhana",
+      "Khajuwala",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने 1984-85 में महाजन फील्ड फायरिंग रेंज बनाने के लिए 34 गांवों की जमीन अधिग्रहित की।"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiya",
+        "Manera",
+        "Duder",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry / रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder",
+      "khajuwala",
+      "dantaur",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिगृहीत की गई।",
+        "statement_en": "Land for the Mahajan Field Firing Range from 34 villages was acquired in 1984-85.",
+        "snippet": "रक्षा मंत्रालय ने 1984-85 में महाजन फील्ड फायरिंग रेंज बनाने के लिए 34 गांवों की जमीन अधिग्रहित की।"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094122Z"
+    ],
+    "notes": "General background on the 34-village displacement (same topic as this unit) but Tidasar is not among the villages named in this particular article; useful as corroborating context for acquisition_year and general displacement narrative only.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "tidasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "टिडासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "2018 का पुराना पत्रिका लेख भी 1984-85 महाजन फील्ड फायरिंग रेंज अधिग्रहण और 34 गांवों के विस्थापन की पीड़ा पर है। इसमें खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना नाम हैं; टिडासर उल्लेखित नहीं।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan Field Firing Range",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों की जमीन अधिग्रहित कर महाजन फील्ड फायरिंग रेंज बनाई गई, मुआवजा और सिंचित भूमि मिलने पर भी पुरखों के घर छूटने का दर्द बना हुआ है।"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "khajuwala",
+      "dantor",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094122Z"
+    ],
+    "notes": "Duplicate/earlier version of the same recurring Patrika story theme; again does not name Tidasar specifically. Included only as general regional corroboration.",
+    "consent": ""
+  },
+  "src_600da135b78d": {
+    "id": "src_600da135b78d",
+    "village": "tidasar",
+    "url": "https://www.dvidshub.net/news/574832/us-indian-armies-open-yudh-abhyas-2026-training-mahajan-field-firing-range",
+    "url_key": "https://dvidshub.net/news/574832/us-indian-armies-open-yudh-abhyas-2026-training-mahajan-field-firing-range",
+    "title": "U.S., Indian armies open Yudh Abhyas 2026 training at Mahajan Field Firing Range",
+    "platform": "dvidshub.net",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Staff Sgt. Kalina Hyche",
+    "published_date": "2026-09-16",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Tidasar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "U.S. Army DVIDS release describing the opening ceremony of Yudh Abhyas 2026 held at the 'Chidasar Grand Stand', Mahajan Field Firing Range, Rajasthan, on 15 Sept 2026. 'Chidasar' is phonetically close to 'Tidasar' but spelled differently in the article; not confirmed as the same place/name.",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan",
+      "Lunkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "Chidasar (possible variant spelling, unconfirmed)",
+    "evidence_snippets": [
+      "at the Chidasar Grand Stand at Mahajan Field Firing Range, Rajasthan, India, Sept. 15, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Staff Sgt. Kalina Hyche"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Chidasar Grand Stand"
+      ],
+      "events": [
+        "Yudh Abhyas 2026"
+      ],
+      "organizations": [
+        "U.S. Army",
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "DVIDS, Staff Sgt. Kalina Hyche, 2026",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Lunkaransar', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 42,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094122Z"
+    ],
+    "notes": "Weak/speculative lead only: 'Chidasar' could be a transliteration variant of Tidasar (a ground feature/stand inside the now-military range may retain the original village name) or could be an entirely unrelated toponym. Needs on-the-ground or military-record verification before treating as evidence for this village.",
+    "consent": ""
+  }
+}

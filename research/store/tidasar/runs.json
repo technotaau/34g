@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T094122Z",
+    "file": "/home/user/34g/research/inbox/tidasar/discovery.json",
+    "input": 4,
+    "invalid": 0,
+    "new": 4,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "No source found across web, news, video, social, image, book/archive or legal channels that names 'Tidasar/टिडासर' directly in a Bikaner/Lunkaransar/Mahajan context. All direct-spelling searches ('Tidasar Bikaner', 'टिडासर गांव बीकानेर', 'टिडासर महाजन लूणकरणसर', etc.) returned unrelated villages, generic district directories, or the project's own GitHub repo. The only village with a near-identical name that search engines surface is 'Tidiyasar' (टिडियासर/टिडासर), which Jatland and AccuWeather place in Ratangarh tehsil, CHURU district -- not Bikaner/Lunkaransar -- so it is likely a different, u",
+    "total_after": 4,
+    "at": "2026-09-18T09:41:22.234984+00:00"
+  }
+]

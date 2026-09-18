@@ -1,0 +1,91 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_range_e389dc21": {
+    "id": "clm_acquisition_year_range_e389dc21",
+    "claim_key": "acquisition_year_range",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों का अधिग्रहण 1984-85 में हुआ।",
+    "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+    "sources": [
+      "src_a5150b8b1d53",
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 villages total were acquired in 1984-85 (per article summary, not verbatim)"
+      },
+      {
+        "source": "src_c37d5179aabc",
+        "text": "displaced families have not forgotten their destroyed homes (per article summary, not verbatim)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_area_acres_792fcc92": {
+    "id": "clm_area_acres_792fcc92",
+    "claim_key": "area_acres",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज का कुल क्षेत्रफल लगभग 3.37 लाख एकड़ है।",
+    "statement_en": "The Mahajan Field Firing Range covers approximately 3.37 lakh acres.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "competing": []
+  },
+  "clm_villages_displaced_count_f1f836cb": {
+    "id": "clm_villages_displaced_count_f1f836cb",
+    "claim_key": "villages_displaced_count",
+    "value": "34",
+    "statement_hi": "महाजन फायरिंग रेंज के लिए 34 गांवों को विस्थापित किया गया।",
+    "statement_en": "34 villages were displaced to create the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "करीब चार दशक पहले 34 गांवों को विस्थापित कर"
+      }
+    ],
+    "competing": []
+  }
+}

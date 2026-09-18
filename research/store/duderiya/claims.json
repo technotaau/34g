@@ -1,0 +1,149 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founding_clan_d35809c3": {
+    "id": "clm_founding_clan_d35809c3",
+    "claim_key": "founding_clan",
+    "value": "Tarad (founder: Dudo Ji Tarad)",
+    "statement_hi": "दुदेरिया गांव की स्थापना दूदो जी तरड़ ने की थी।",
+    "statement_en": "Duderiya village was founded by Dudo Ji Tarad of the Tarad clan.",
+    "sources": [
+      "src_7f2edd77a900"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_7f2edd77a900",
+        "text": "Dudo Ji Tarad founded the village."
+      }
+    ],
+    "competing": []
+  },
+  "clm_listed_among_34_villages_952d578a": {
+    "id": "clm_listed_among_34_villages_952d578a",
+    "claim_key": "listed_among_34_villages",
+    "value": "Duder named among villages acquired for Mahajan Field Firing Range",
+    "statement_hi": "'दुदेर' गांव का नाम महाजन फायरिंग रेंज के लिए अधिग्रहित गांवों की सूची में शामिल है।",
+    "statement_en": "The village 'Duder' is listed among those acquired for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "Bhojarsar, Kumbhana, Motlai, Khaniser, Thoiya, Manera, and Duder"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "रक्षा मंत्रालय ने 1984-85 में इन 34 गांवों की भूमि का अधिग्रहण किया।",
+    "statement_en": "The Defence Ministry acquired the land of these 34 villages in 1984-85.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "The Defense Ministry acquired land from these 34 villages during 1984-85"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_76f63f81": {
+    "id": "clm_resettlement_sites_76f63f81",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantur, Pugal, Mohangadh",
+    "statement_hi": "विस्थापित परिवारों को खाजूवाला, दंतौर, पूगल और मोहनगढ़ में भूमि दी गई।",
+    "statement_en": "Displaced families were allotted land in Khajuwala, Dantur, Pugal and Mohangadh.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "खाजूवाला, दंतौर, पूगल, मोहनगढ़"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_absent_from_2011_census_lunkaransar_list_5ffe533b": {
+    "id": "clm_village_absent_from_2011_census_lunkaransar_list_5ffe533b",
+    "claim_key": "village_absent_from_2011_census_lunkaransar_list",
+    "value": "true",
+    "statement_hi": "2011 जनगणना की लूणकरणसर तहसील सूची में दुदेरिया/दुदेर नाम का कोई गांव सूचीबद्ध नहीं है।",
+    "statement_en": "No village named Duderiya/Duder appears in the 2011 Census list of Lunkaransar tehsil villages.",
+    "sources": [
+      "src_b27fa43b7bd0"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_b27fa43b7bd0",
+        "text": "no village named Duderiya, Duderia, or similar spelling variants appears"
+      }
+    ],
+    "competing": []
+  },
+  "clm_present_day_site_name_d7bc815b": {
+    "id": "clm_present_day_site_name_d7bc815b",
+    "claim_key": "present_day_site_name",
+    "value": "Duder (East Camp), Mahajan Field Firing Range",
+    "statement_hi": "दुदेरिया/दुदेर अब महाजन फील्ड फायरिंग रेंज के भीतर 'ईस्ट कैंप' के नाम से सैन्य उपयोग में है।",
+    "statement_en": "The former village site (Duderiya/Duder) is now in military use as 'East Camp' within Mahajan Field Firing Range.",
+    "sources": [
+      "src_c4429ede7dec"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_c4429ede7dec",
+        "text": "At Duder ( East Camp ) Mahajan Field Firing Range"
+      }
+    ],
+    "competing": []
+  }
+}

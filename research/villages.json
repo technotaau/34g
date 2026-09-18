@@ -328,7 +328,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025). 2017 MoD tender: 'Reflex Shooting Range System at Duder (East Camp), Mahajan Field Firing Range' (tenderdetail.com): the village name survives as a range camp."
     },
     {
       "slug": "chidasar",
@@ -347,7 +347,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "Lok Sabha 1987: 83 persons paid for residential plots."
+      "notes": "Lok Sabha 1987: 83 persons paid for residential plots. A DVIDS article on Yudh Abhyas 2026 (Sept 2026) names a 'Chidasar Grand Stand' inside MFFR: the village name survives as a range feature (lead from the Tidasar run; source to be captured)."
     },
     {
       "slug": "meusar",
@@ -884,7 +884,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Sources for 'Duderiya' are the same as for Duder (Jatland 'Duderia', Patrika 'दुदेर'); the community list has both names at positions 15 and 23, so they may be two villages or one. A 2017 MoD tender names 'Duder (East Camp)' inside MFFR."
     },
     {
       "slug": "hathusar",
@@ -920,7 +920,16 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A well-documented Hindor exists in Suratgarh tehsil, Sri Ganganagar; not ours unless proven.",
+      "disambiguation": {
+        "negative_terms": [
+          "Suratgarh",
+          "सूरतगढ़",
+          "Sri Ganganagar",
+          "श्रीगंगानगर",
+          "Ganganagar"
+        ]
+      }
     },
     {
       "slug": "tidasar",
@@ -938,7 +947,17 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "disambiguation": {
+        "negative_terms": [
+          "Tidiyasar",
+          "टिडियासर",
+          "Ratangarh",
+          "रतनगढ़",
+          "Churu",
+          "चूरू"
+        ]
+      }
     },
     {
       "slug": "birmana",

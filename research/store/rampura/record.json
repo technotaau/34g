@@ -1,0 +1,598 @@
+{
+  "village": {
+    "slug": "rampura",
+    "name_en": "Rampura",
+    "name_hi": "रामपुरा",
+    "status": "acquired",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-18",
+  "counts": {
+    "sources_total": 6,
+    "accepted": 1,
+    "context": 4,
+    "review": 1,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 2
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_c818a97c39d5",
+        "src_a5150b8b1d53",
+        "src_b27fa43b7bd0",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_c818a97c39d5",
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_1bdf00f2f65e",
+        "src_c818a97c39d5",
+        "src_a5150b8b1d53",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_1e12806d4cc4",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": [
+        "src_1e12806d4cc4"
+      ]
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_1bdf00f2f65e",
+        "src_a5150b8b1d53",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_1bdf00f2f65e",
+        "src_1e12806d4cc4",
+        "src_a5150b8b1d53",
+        "src_f07a8c256ae6"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": []
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": [
+        "src_1e12806d4cc4",
+        "src_c818a97c39d5"
+      ]
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_b27fa43b7bd0"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_1bdf00f2f65e",
+        "src_a5150b8b1d53"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Hari Singh",
+      "K. K. Sehgal",
+      "Mukesh Vishnoi",
+      "Surjeet Rathore"
+    ],
+    "places": [
+      "Bhojrasar",
+      "Bikaner",
+      "Dantur",
+      "Duder",
+      "Khajuwala",
+      "Khanisar",
+      "Kumbhana",
+      "Lunkaransar",
+      "Mahajan",
+      "Maneran",
+      "Mohangadh",
+      "Motlai",
+      "Mukta Prasad",
+      "Nachna",
+      "Pugal",
+      "Rambagh",
+      "Ramsara",
+      "Ranisar",
+      "Thoiya"
+    ],
+    "events": [
+      "Mahajan Field Firing Range land acquisition 1984-85",
+      "firing/payment dispute incident"
+    ],
+    "organizations": [
+      "Bikaner Police",
+      "Census of India",
+      "Directorate of District Gazetteers, Rajasthan",
+      "Jatland",
+      "Ministry of Defence",
+      "Rajasthan Patrika"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_in_2011_census_lunkaransar_df0ff920",
+        "claim_key": "village_in_2011_census_lunkaransar",
+        "value": "not_listed",
+        "statement_hi": "रामपुरा नाम जनगणना 2011 की लूणकरणसर तहसील गांव सूची (125 गांव) में नहीं मिला।",
+        "statement_en": "Rampura does not appear among the 125 villages listed for Lunkaransar tehsil in this Census 2011 mirror.",
+        "sources": [
+          "src_b27fa43b7bd0"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_b27fa43b7bd0",
+            "text": "125 villages listed for Lunkaransar tehsil; Rampura absent, closest names Rambagh/Ramsara/Ranisar"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_1e12806d4cc4",
+      "url": "https://play.google.com/store/apps/details?id=com.surjeetrathore.rampura&hl=en_GB",
+      "title": "Rampura Gaon",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Rampura",
+        "district/nearby/clan context: ['Rathore', 'राठौड़', 'राठ']"
+      ]
+    },
+    {
+      "id": "src_f07a8c256ae6",
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - महाजन (Jatland Wiki)",
+      "flags": [
+        "low_relevance"
+      ],
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "agent: village not directly named"
+      ]
+    }
+  ],
+  "sources": {
+    "src_1bdf00f2f65e": {
+      "url": "https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/",
+      "title": "बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह",
+      "platform": "voiceofbikaner.com",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2026-09-18",
+      "language": "hi",
+      "relevance": {
+        "score": 76,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 3,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Rampura",
+          "strong geo context: ['फायरिंग रेंज']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+        ],
+        "matched_names": [
+          "Rampura",
+          "रामपुरा"
+        ],
+        "geo_hits": [
+          "फायरिंग रेंज",
+          "Bikaner",
+          "बीकानेर"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "legal",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Voice of Bikaner, 18 सितंबर 2026",
+      "is_primary": false
+    },
+    "src_1e12806d4cc4": {
+      "url": "https://play.google.com/store/apps/details?id=com.surjeetrathore.rampura&hl=en_GB",
+      "title": "Rampura Gaon",
+      "platform": "play.google.com",
+      "source_type": "website",
+      "media_type": "document",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 72,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Rampura",
+          "district/nearby/clan context: ['Rathore', 'राठौड़', 'राठ']"
+        ],
+        "matched_names": [
+          "Rampura",
+          "रामपुरा",
+          "रामपुरा गांव"
+        ],
+        "geo_hits": [
+          "Rathore",
+          "राठौड़",
+          "राठ"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "media_visual",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Google Play developer: Surjeet Rathore",
+      "is_primary": false
+    },
+    "src_c818a97c39d5": {
+      "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+      "title": "Rajasthan District Gazetteers: Bikaner",
+      "platform": "archive_org",
+      "source_type": "archive",
+      "media_type": "book",
+      "published_date": "1966",
+      "language": "en",
+      "relevance": {
+        "score": 54,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 12,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin",
+        "history"
+      ],
+      "license": "",
+      "attribution": "Directorate of District Gazetteers, Rajasthan (ed. K. K. Sehgal), 1966",
+      "is_primary": true
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 44,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "Khajuwala",
+          "Pugal",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 नवंबर 2022",
+      "is_primary": false
+    },
+    "src_b27fa43b7bd0": {
+      "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+      "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 42,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "census2011.co.in (Census of India 2011 data mirror)",
+      "is_primary": false
+    },
+    "src_f07a8c256ae6": {
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - महाजन (Jatland Wiki)",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 37,
+        "band": "low",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 0,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "history",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260918T094140Z",
+      "file": "/home/user/34g/research/inbox/rampura/discovery.json",
+      "input": 6,
+      "invalid": 0,
+      "new": 6,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 20,
+      "agent_notes": "Rampura is extremely hard to isolate: searches for 'Rampura'/'रामपुरा' + Bikaner overwhelmingly surface the unrelated Rampuria Havelis (a Bikaner city heritage site) and dozens of same-named villages elsewhere in India (Nagaur, Jalaun, Tonk, Sirohi, Neemuch, Jaipur, etc.), none of which are in Lunkaransar/Mahajan. The census2011.co.in mirror's list of all 125 Lunkaransar-tehsil villages does NOT include any 'Rampura' (closest names: Rambagh, Ramsara, Ranisar). The one solid 2022 Rajasthan Patrika feature on the 34-village Mahajan Field Firing Range displacement (by Hari Singh) names 12 specifi",
+      "total_after": 6,
+      "at": "2026-09-18T09:41:40.629100+00:00"
+    }
+  ]
+}

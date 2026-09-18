@@ -44,7 +44,11 @@
       "kankraliyo",
       "lakhor-moti",
       "lakhor-chhoti",
-      "hathusar"
+      "hathusar",
+      "tidasar",
+      "duderiya",
+      "hindor",
+      "rampura"
     ],
     "first_seen": "2026-09-05"
   },
@@ -68,7 +72,10 @@
       "kankraliyo",
       "lakhor-moti",
       "lakhor-chhoti",
-      "hathusar"
+      "hathusar",
+      "tidasar",
+      "duderiya",
+      "hindor"
     ],
     "first_seen": "2026-09-05"
   },
@@ -148,7 +155,8 @@
       "kankraliyo",
       "lakhor-moti",
       "lakhor-chhoti",
-      "hathusar"
+      "hathusar",
+      "hindor"
     ],
     "first_seen": "2026-09-05"
   },
@@ -158,7 +166,8 @@
       "meusar",
       "chidasar",
       "ajeetwana",
-      "dewasar"
+      "dewasar",
+      "rampura"
     ],
     "first_seen": "2026-09-05"
   },
@@ -218,7 +227,8 @@
   },
   "https://jatland.com/home/Duderia": {
     "villages": [
-      "duder"
+      "duder",
+      "duderiya"
     ],
     "first_seen": "2026-09-05"
   },
@@ -254,7 +264,9 @@
       "berawala",
       "bhunwala",
       "kankraliyo",
-      "lakhor-moti"
+      "lakhor-moti",
+      "duderiya",
+      "rampura"
     ],
     "first_seen": "2026-09-05"
   },
@@ -267,7 +279,8 @@
       "motasar",
       "kankraliyo",
       "lakhor-moti",
-      "hathusar"
+      "hathusar",
+      "rampura"
     ],
     "first_seen": "2026-09-05"
   },
@@ -766,6 +779,48 @@
   "https://wikimapia.org/33551695/Field-Firing-Range-Mahajan": {
     "villages": [
       "hathusar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://jatland.com/home/Tidiyasar": {
+    "villages": [
+      "tidasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://dvidshub.net/news/574832/us-indian-armies-open-yudh-abhyas-2026-training-mahajan-field-firing-range": {
+    "villages": [
+      "tidasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders": {
+    "villages": [
+      "duderiya"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://census2011.co.in/data/village/67098-hindor-rajasthan.html": {
+    "villages": [
+      "hindor"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://mapsofindia.com/villages/rajasthan/ganganagar/suratgarh/hindor.html": {
+    "villages": [
+      "hindor"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause": {
+    "villages": [
+      "rampura"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://play.google.com/store/apps/details?hl=en_GB&id=com.surjeetrathore.rampura": {
+    "villages": [
+      "rampura"
     ],
     "first_seen": "2026-09-18"
   }

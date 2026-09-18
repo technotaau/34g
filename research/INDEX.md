@@ -31,11 +31,11 @@
 | लखोर छोटी (Lakhor Chhoti) | 8 | 2 | 1 | 5 | 5 | [report](store/lakhor-chhoti/report.md) |
 | लखोर मोटी (Lakhor Moti) | 6 | 0 | 0 | 2 | 2 | [report](store/lakhor-moti/report.md) |
 | जागोर (Jagor) | 0 | 0 | 0 | 1 | 1 | [report](store/jagor/report.md) |
-| रामपुरा (Rampura) | – | – | – | – | – | _अभी शोध नहीं_ |
-| दुदेरिया (Duderiya) | – | – | – | – | – | _अभी शोध नहीं_ |
+| रामपुरा (Rampura) | 6 | 1 | 1 | 2 | 2 | [report](store/rampura/report.md) |
+| दुदेरिया (Duderiya) | 5 | 4 | 0 | 7 | 7 | [report](store/duderiya/report.md) |
 | हाथूसर (Hathusar) | 6 | 1 | 0 | 3 | 3 | [report](store/hathusar/report.md) |
-| हिन्दोर (Hindor) | – | – | – | – | – | _अभी शोध नहीं_ |
-| टिडासर (Tidasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| हिन्दोर (Hindor) | 5 | 0 | 2 | 4 | 4 | [report](store/hindor/report.md) |
+| टिडासर (Tidasar) | 4 | 0 | 0 | 2 | 2 | [report](store/tidasar/report.md) |
 | बिरमाणा (Birmana) | – | – | – | – | – | _अभी शोध नहीं_ |
 | लिखमीसर (Likhmisar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कुम्भासर (Kumbhasar) | – | – | – | – | – | _अभी शोध नहीं_ |

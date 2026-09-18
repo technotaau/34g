@@ -1,0 +1,679 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "rampura",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "रामपुरा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "राजस्थान पत्रिका की यह रिपोर्ट 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिगृहीत 34 गांवों के विस्थापन के दर्द पर केंद्रित है। लेख 12 गांवों के नाम गिनाता है (Bhojrasar, Kumbhana, Motlai, Khanisar, Thoiya, Maneran, Duder, Khajuwala, Dantur, Pugal, Mohangadh, Nachna) लेकिन 'रामपुरा' नाम कहीं नहीं आता।",
+    "topics": [
+      "displacement",
+      "history",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "Bikaner",
+      "Bhojrasar",
+      "Kumbhana",
+      "Motlai",
+      "Khanisar",
+      "Thoiya",
+      "Maneran",
+      "Duder",
+      "Khajuwala",
+      "Dantur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "वहां राम रमता था"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiya",
+        "Maneran",
+        "Duder",
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Rajasthan Patrika",
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 नवंबर 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "Pugal",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "रामपुरा का कोई उल्लेख नहीं। यह स्रोत केवल 34-गांव विस्थापन के व्यापक संदर्भ और अन्य गांवों (related_villages) के क्रॉस-रेफरेंस हेतु दर्ज किया गया है; इस गांव (रामपुरा) से सीधा संबंध सिद्ध नहीं होता।",
+    "consent": ""
+  },
+  "src_1bdf00f2f65e": {
+    "id": "src_1bdf00f2f65e",
+    "village": "rampura",
+    "url": "https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/",
+    "url_key": "https://voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause",
+    "title": "बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह",
+    "platform": "voiceofbikaner.com",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "",
+    "published_date": "2026-09-18",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "रामपुरा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "बीकानेर के मुक्ता प्रसाद थाना क्षेत्र में 'रामपुरा' में एक फायरिंग/गोलीबारी की घटना पर रिपोर्ट, जिसका कारण कैंपर वाहन को लेकर भुगतान विवाद बताया गया है। यह घटना सैन्य फायरिंग रेंज या विस्थापन से असंबंधित एक आपराधिक मामला है।",
+    "topics": [
+      "displacement",
+      "legal",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner",
+      "Mukta Prasad"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "रामपुरा",
+    "evidence_snippets": [
+      "मुक्ता प्रसाद थाना क्षेत्र"
+    ],
+    "entities": {
+      "people": [
+        "Mukesh Vishnoi"
+      ],
+      "places": [
+        "Mukta Prasad",
+        "Bikaner"
+      ],
+      "events": [
+        "firing/payment dispute incident"
+      ],
+      "organizations": [
+        "Bikaner Police"
+      ]
+    },
+    "license": "",
+    "attribution": "Voice of Bikaner, 18 सितंबर 2026",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Rampura",
+        "strong geo context: ['फायरिंग रेंज']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+      ],
+      "matched_names": [
+        "Rampura",
+        "रामपुरा"
+      ],
+      "geo_hits": [
+        "फायरिंग रेंज",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 76,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "संभवतः यह बीकानेर शहर के भीतर स्थित एक अलग 'रामपुरा' मोहल्ला/इलाका है (मुक्ता प्रसाद थाना क्षेत्र के पास), न कि लूणकरणसर/महाजन के निकट स्थित हमारा शोध गांव। भ्रम से बचने हेतु सावधानीपूर्वक कम-भरोसे के साथ दर्ज।",
+    "consent": ""
+  },
+  "src_1e12806d4cc4": {
+    "id": "src_1e12806d4cc4",
+    "village": "rampura",
+    "url": "https://play.google.com/store/apps/details?id=com.surjeetrathore.rampura&hl=en_GB",
+    "url_key": "https://play.google.com/store/apps/details?hl=en_GB&id=com.surjeetrathore.rampura",
+    "title": "Rampura Gaon",
+    "platform": "play.google.com",
+    "source_type": "website",
+    "media_type": "document",
+    "author": "Surjeet Rathore",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "34 gaon Rampura Mahajan"
+    ],
+    "summary": "Google Play पर 'Rampura Gaon' नामक एक ऐप, डेवलपर सरजीत राठौड़ (Surjeet Rathore)। ऐप विवरण पेज स्वतः पूरी तरह fetch नहीं हो सका, इसलिए यह किस राज्य/जिले के रामपुरा गांव हेतु है यह पुष्ट नहीं हो पाया।",
+    "topics": [
+      "culture",
+      "media_visual",
+      "people_family"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Rampura Gaon",
+    "evidence_snippets": [
+      "Rampura Gaon – Apps on Google Play"
+    ],
+    "entities": {
+      "people": [
+        "Surjeet Rathore"
+      ],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Google Play developer: Surjeet Rathore",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "Surjeet Rathore",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Rampura",
+        "district/nearby/clan context: ['Rathore', 'राठौड़', 'राठ']"
+      ],
+      "matched_names": [
+        "Rampura",
+        "रामपुरा",
+        "रामपुरा गांव"
+      ],
+      "geo_hits": [
+        "Rathore",
+        "राठौड़",
+        "राठ"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 72,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "राठौड़ (Rathore) हमारी क्लान सूची में शामिल है, इसलिए यह लीड जांचने योग्य है, परंतु ऐप का भौगोलिक संदर्भ (राज्य/जिला) स्वचालित रूप से सत्यापित नहीं हो सका (पेज पूरी तरह लोड नहीं हुआ)। मानव शोधकर्ता Play Store पर ऐप खोलकर/इंस्टॉल कर पुष्टि करें कि यह बीकानेर/लूणकरणसर के रामपुरा से संबंधित है या किसी अन्य राज्य के रामपुरा से।",
+    "consent": ""
+  },
+  "src_f07a8c256ae6": {
+    "id": "src_f07a8c256ae6",
+    "village": "rampura",
+    "url": "https://www.jatland.com/home/Mahajan",
+    "url_key": "https://jatland.com/home/Mahajan",
+    "title": "Mahajan - महाजन (Jatland Wiki)",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en+hi",
+    "found_by_query": [
+      "रामपुरा महाजन लूणकरणसर"
+    ],
+    "summary": "जाटलैंड विकी पर महाजन (लूणकरणसर, बीकानेर) का पेज मौजूद है। ऐसे पेजों में सामान्यतः निकटवर्ती गांवों, गोत्रों और स्थानीय इतिहास की जानकारी होती है, परंतु स्वचालित रूप से पेज एक्सेस नहीं हो सका।",
+    "topics": [
+      "history",
+      "people_family",
+      "religion_temple"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan"
+      ],
+      "events": [],
+      "organizations": [
+        "Jatland"
+      ]
+    },
+    "license": "",
+    "attribution": "Jatland Wiki",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "जाट"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 37,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "low_relevance"
+    ],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "WebFetch ने HTTP 403 Forbidden त्रुटि दी, अतः पृष्ठ की सामग्री (रामपुरा का उल्लेख है या नहीं) सत्यापित नहीं हो सकी। मानव शोधकर्ता को ब्राउज़र से सीधे जांचने की सलाह -- jatland की Mahajan/Lunkaransar प्रविष्टियों में अक्सर आसपास के गांवों व गोत्रों की सूची होती है।",
+    "consent": ""
+  },
+  "src_c818a97c39d5": {
+    "id": "src_c818a97c39d5",
+    "village": "rampura",
+    "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "url_key": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "title": "Rajasthan District Gazetteers: Bikaner",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K. K. Sehgal (Director, District Gazetteers, Rajasthan)",
+    "published_date": "1966",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Rampura\" Bikaner gazetteer archive.org book"
+    ],
+    "summary": "बीकानेर जिला गजेटियर (1965-66 के आंकड़ों पर आधारित, संपादक के.के. सहगल), archive.org पर उपलब्ध पूर्ण-पाठ। स्वचालित समीक्षा में जांचे गए अंश में 'Rampura' शब्द नहीं मिला, परंतु पूरा दस्तावेज़ (विशेषकर लूणकरणसर तहसील अनुभाग की गांव-सूची तालिकाएं) जांचा नहीं जा सका।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "K. K. Sehgal"
+      ],
+      "places": [
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Directorate of District Gazetteers, Rajasthan"
+      ]
+    },
+    "license": "",
+    "attribution": "Directorate of District Gazetteers, Rajasthan (ed. K. K. Sehgal), 1966",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "स्वचालित टूल ने संपूर्ण दस्तावेज़ की बजाय केवल एक अंश (excerpt) समीक्षा की। मानव शोधकर्ता को लूणकरणसर/महाजन उप-मंडल अनुभाग व गांव-सूची तालिकाओं में मैन्युअल रूप से Ctrl+F से 'Rampura'/'रामपुरा' खोजने की सिफारिश।",
+    "consent": ""
+  },
+  "src_b27fa43b7bd0": {
+    "id": "src_b27fa43b7bd0",
+    "village": "rampura",
+    "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Rampura Lunkaransar census village code panchayat"
+    ],
+    "summary": "इस पृष्ठ पर लूणकरणसर तहसील (बीकानेर) के 125 गांवों की जनगणना 2011 आधारित सूची दी गई है। 'Rampura' नाम इस सूची में नहीं मिला; निकटतम मिलते-जुलते नाम Rambagh, Ramsara, Ranisar हैं।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar",
+        "Rambagh",
+        "Ramsara",
+        "Ranisar"
+      ],
+      "events": [],
+      "organizations": [
+        "Census of India"
+      ]
+    },
+    "license": "",
+    "attribution": "census2011.co.in (Census of India 2011 data mirror)",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "village_in_2011_census_lunkaransar",
+        "value": "not_listed",
+        "statement_hi": "रामपुरा नाम जनगणना 2011 की लूणकरणसर तहसील गांव सूची (125 गांव) में नहीं मिला।",
+        "statement_en": "Rampura does not appear among the 125 villages listed for Lunkaransar tehsil in this Census 2011 mirror.",
+        "snippet": "125 villages listed for Lunkaransar tehsil; Rampura absent, closest names Rambagh/Ramsara/Ranisar"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 42,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094140Z"
+    ],
+    "notes": "नकारात्मक साक्ष्य: यदि रामपुरा वास्तव में लूणकरणसर तहसील का एक अलग राजस्व गांव था, तो यह 2011 की सूची में सूचीबद्ध नहीं दिखता — संभव है कि यह 1982-84 भूमि अधिग्रहण के बाद विलीन/विलुप्त हो गया हो, किसी अन्य नाम/तहसील में दर्ज हो, या मूल Facebook सूची में नाम गलत/मिश्रित हो (जैसा कि मूल नोट्स में पहले से संदेह जताया गया है)। मानव सत्यापन आवश्यक।",
+    "consent": ""
+  }
+}
