@@ -4,7 +4,7 @@
 
 स्रोत: कुल 8, स्वीकृत 1, पृष्ठभूमि (context) 7, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 3
 
-> Lok Sabha 1987: 83 persons paid for residential plots.
+> Lok Sabha 1987: 83 persons paid for residential plots. A DVIDS article on Yudh Abhyas 2026 (Sept 2026) names a 'Chidasar Grand Stand' inside MFFR: the village name survives as a range feature (lead from the Tidasar run; source to be captured).
 
 ## मुख्य प्रश्न
 

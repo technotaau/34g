@@ -21,10 +21,10 @@
   - यह पत्रिका लेख भी महाजन फायरिंग रेंज के लिए 1984-85 में अधिग्रहित 34 गांवों की चर्चा करता है, लेकिन इसमें दुदेरिया/दुदेर का नाम सीधे नहीं लिया गया; केवल खाजूवाला, डांटोर, पूगल, मोहनगढ़ व नाचना का उल्लेख है। सामान्य फायरिंग रेंज पृष्ठभूमि के लिए रखा गया है।
 
 ### यह कहां स्थित है?
-- [Tender For Installation Of Reflex Shooting Range System At Duder (East Camp) Mahajan Field Firing Range Under Station Headquarter Mahajan Field Firing Range](https://www.tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders) (government · document · 2017 · स्कोर 79)
-  - यह 2017 का एक रक्षा टेंडर सूची-पृष्ठ महाजन फील्ड फायरिंग रेंज के भीतर 'दुदेर (ईस्ट कैंप)' नामक स्थान पर रिफ्लेक्स शूटिंग रेंज सिस्टम लगाने का उल्लेख करता है (क्लोज़िंग डेट 17 जुलाई 2017)। यह दर्शाता है कि पूर्व गांव स्थल अब फायरिंग रेंज परिसर के भीतर एक नामित सैन्य शिविर/स्थान के रूप में मौजूद है।
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
   - यह 2011 जनगणना-आधारित सूची लूणकरणसर तहसील के 125 वर्तमान गांवों को सूचीबद्ध करती है। इसमें दुदेरिया/दुदेर/Duderia नाम का कोई गांव नहीं मिला — यह इस अनुमान का समर्थन करता है कि गांव 1982-84 के भूमि अधिग्रहण के बाद जनगणना सूची से हट गया या फायरिंग रेंज में मिल गया।
+- [Tender For Installation Of Reflex Shooting Range System At Duder (East Camp) Mahajan Field Firing Range Under Station Headquarter Mahajan Field Firing Range](https://www.tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders) (government · document · 2017 · स्कोर 79)
+  - यह 2017 का एक रक्षा टेंडर सूची-पृष्ठ महाजन फील्ड फायरिंग रेंज के भीतर 'दुदेर (ईस्ट कैंप)' नामक स्थान पर रिफ्लेक्स शूटिंग रेंज सिस्टम लगाने का उल्लेख करता है (क्लोज़िंग डेट 17 जुलाई 2017)। यह दर्शाता है कि पूर्व गांव स्थल अब फायरिंग रेंज परिसर के भीतर एक नामित सैन्य शिविर/स्थान के रूप में मौजूद है।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)

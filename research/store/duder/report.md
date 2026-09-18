@@ -4,7 +4,7 @@
 
 स्रोत: कुल 5, स्वीकृत 2, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 7
 
-> Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025).
+> Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025). 2017 MoD tender: 'Reflex Shooting Range System at Duder (East Camp), Mahajan Field Firing Range' (tenderdetail.com): the village name survives as a range camp.
 
 ## मुख्य प्रश्न
 
