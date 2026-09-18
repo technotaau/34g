@@ -1,0 +1,695 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "kachrana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कचराणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "राजस्थान पत्रिका की यह रिपोर्ट 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिगृहीत 34 गांवों के विस्थापन और मुआवजे पर केंद्रित है। इसमें भोजरासर, कुम्भाणा, मोटलाई, खानीसर, थोईया, मानेरन, दूदेड़, खाजूवाला, दांतूर, पूगल, मोहनगढ़ और नाचना गांवों के नाम दिए गए हैं, लेकिन कचराणा का उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner",
+      "Khajuwala",
+      "Dantur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna",
+      "Bhojrasar",
+      "Kumbhana",
+      "Motlai",
+      "Khaniser",
+      "Thoiya",
+      "Maneran",
+      "Duder"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "एक साथ 34 गांव उठाकर यहां के बाशिंदों को घर, पेड़, कृषि भूमि सहित अन्य सभी चीजों का मुआवजा वितरण किया गया था"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohangadh"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "Kachrana is not named in this article; recorded purely for regional/topical context (same 34-gaon displacement story) and because it names several sibling villages, useful for cross-checking the pipeline's other village units.",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "kachrana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कचराणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह लेख महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) के लिए लगभग चार दशक पहले विस्थापित किए गए 34 गांवों के परित्यक्त घरों, तालाबों और मंदिरों का वर्णन करता है, जिनका उपयोग अब सैन्य अभ्यासों के लिए नकली बस्तियों के रूप में होता है। इसमें अलग-अलग गांवों के नाम नहीं दिए गए हैं, इसलिए कचराणा का उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "displacement for firing range"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "No individual village names given; recorded only as regional/topical background on abandoned village structures within the range.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "kachrana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कचराणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "2018 का यह पत्रिका लेख 1984-85 में रक्षा मंत्रालय द्वारा महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहण और विस्थापित परिवारों के भावनात्मक दर्द पर है। इसमें खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना का उल्लेख है; कचराणा नाम नहीं आता।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने वर्ष १९८४-८५ में महाजन क्षेत्र के ३४ गांवों की भूमि को अधिग्रहित किया था"
+    ],
+    "entities": {
+      "people": [
+        "Jay Kumar Bhati"
+      ],
+      "places": [
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "khajuwala"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "Kachrana not named; kept for regional/topical context and because it is an earlier (2018) telling of the same displacement narrative by a different reporter.",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "kachrana",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan (Lok Sabha Unstarred Question No. 4236)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Ministry of Defence, Government of India",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Kachrana \"Mahajan Field Firing Range\""
+    ],
+    "summary": "यह 1987 की लोकसभा में पूछे गए एक अतारांकित प्रश्न (संख्या 4236) का दस्तावेज़ है, जिसका शीर्षक 'Mahajan Field Firing Range in Rajasthan' है। कैटलॉग पेज से केवल मेटाडेटा (शीर्षक, तिथि, मंत्रालय) पढ़ा जा सका; संलग्न PDF में अधिगृहीत गांवों की सूची हो सकती है, जिसे WebFetch से पूरा नहीं पढ़ा जा सका।",
+    "topics": [
+      "census_admin",
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: \"Mahajan Field Firing Range in Rajasthan\", Unstarred Question No. 4236, dated 21 August 1987"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "Parliamentary question on land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence",
+        "Lok Sabha"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad eLibrary (Lok Sabha), Unstarred Question 4236, 21 Aug 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": "PDF: 08_VIII_21-08-1987_p131_p131_u4236.pdf"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 58,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "TOP LEAD: a primary government document specifically about the Mahajan Field Firing Range land acquisition, close in time to the 1982-84 acquisition. Could not read the underlying PDF via WebFetch (only catalog metadata rendered) - a human researcher should open/download the PDF directly to check whether it lists the 34 acquired village names, which would confirm or rule out Kachrana.",
+    "consent": ""
+  },
+  "src_42f3fee70694": {
+    "id": "src_42f3fee70694",
+    "village": "kachrana",
+    "url": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "title": "Rajasthan District Gazetteers: Bikaner",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K. K. Sehgal",
+    "published_date": "1962",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Kachrana\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "बीकानेर जिले का 1962 का राजस्थान जिला गजेटियर है (K.K. Sehgal, 491 पृष्ठ), Internet Archive/Digital Library of India पर उपलब्ध। पूरे टेक्स्ट में 'Kachrana' या मिलती-जुलती वर्तनी नहीं मिली; लूणकरणसर तहसील में 111 आबाद गांवों का उल्लेख है पर पूरी सूची अंश में नहीं मिली।",
+    "topics": [
+      "census_admin",
+      "history",
+      "religion_temple"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner",
+      "Lonkaransar/Lunkaransar tahsil"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "four tahsils with 111 inhabited villages [in Lonkaransar tahsil, per excerpt checked]"
+    ],
+    "entities": {
+      "people": [
+        "K. K. Sehgal"
+      ],
+      "places": [
+        "Bikaner",
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": [
+        "Rajasthan State Archives / Directorate of District Gazetteers"
+      ]
+    },
+    "license": "Internet Archive / Digital Library of India - public domain government publication",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, K.K. Sehgal, 1962, Internet Archive (in.ernet.dli.2015.120386)",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": "~491 pages total; full village list for Lunkaransar tahsil not located in the excerpt checked"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "No direct Kachrana mention found in the full-text excerpt reviewed, but this gazetteer likely contains the complete pre-firing-range Lunkaransar tahsil village list somewhere in its ~491 pages; a human should download the full OCR text and search it directly, since only a partial excerpt was checked via WebFetch.",
+    "consent": ""
+  },
+  "src_cfc3c0cd8dea": {
+    "id": "src_cfc3c0cd8dea",
+    "village": "kachrana",
+    "url": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "title": "Gazetteer of the Bikaner State",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "P. W. Powlett",
+    "published_date": "1874",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Kachrana\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "बीकानेर रियासत का 1874 का ऐतिहासिक गजेटियर (P.W. Powlett)। पूरा पाठ पढ़ना संभव नहीं हुआ (केवल कैटलॉग/मेटाडेटा पेज दिखा), इसलिए कचराणा गांव के उल्लेख की पुष्टि या खंडन नहीं हो सका।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner State"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "P. W. Powlett"
+      ],
+      "places": [
+        "Bikaner State"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Internet Archive / Digital Library of India - public domain government publication",
+    "attribution": "Gazetteer of the Bikaner State, P.W. Powlett, 1874, Internet Archive (in.ernet.dli.2015.547015)",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Gazetteer of the Bikaner State",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 49,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 3,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100539Z"
+    ],
+    "notes": "Full text was not retrievable via WebFetch (only the Archive.org catalog page rendered); a human should open the downloadable full-text file and search directly for 'Kachrana'/कचराणा since this is the earliest (1874) village-level record available for the old Bikaner State and could predate any renaming.",
+    "consent": ""
+  }
+}

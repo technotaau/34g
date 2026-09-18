@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T100539Z",
+    "file": "/home/user/34g/research/inbox/kachrana/discovery.json",
+    "input": 6,
+    "invalid": 0,
+    "new": 6,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "No source anywhere (web, news, video, social, image, book, archive, gov, legal) directly names Kachrana/कचराणा/कचराना in connection with Bikaner, Lunkaransar or Mahajan. Modern census village lists for Lunkaransar tehsil (census2011.co.in, 125 villages) and GeoNames contain no entry for Kachrana or close spelling variants (Kuchrana, Kachhrana, Kachrasar) - consistent with it being an acquired/de-listed village rather than a mapping error, but this is negative evidence only, not confirmation. Two 1874/1962 Bikaner state gazetteers (archive.org, full text checked) also show no occurrence. Best r",
+    "total_after": 6,
+    "at": "2026-09-18T10:05:39.792725+00:00"
+  }
+]
