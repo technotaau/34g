@@ -1,0 +1,612 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "chakdo",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh, Loonaram Verma",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "चकड़ो महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "बीकानेर के महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि अधिग्रहित की गई थी। लेख विस्थापित परिवारों के दर्द का वर्णन करता है और कुछ गांवों के नाम गिनाता है, लेकिन चकड़ो का नाम इसमें नहीं है।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "34 gaon",
+      "Bhojrasar",
+      "Kumbhana",
+      "Motlai",
+      "Khaniser",
+      "Thoiya",
+      "Manera",
+      "Duder",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "तत्कालीन केन्द्र सरकार ने अच्छा-खासा मुआवजा व सिंचित क्षेत्र में जमीनों का आवंटन किया"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh",
+        "Loonaram Verma"
+      ],
+      "places": [
+        "Mahajan Field Firing Range",
+        "Bikaner"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh & Loonaram Verma, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khaniser",
+      "thoiya",
+      "manera",
+      "duder",
+      "khajuwala",
+      "dantor",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित हुई।",
+        "statement_en": "Land for the 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि को अधिग्रहित किया था"
+      },
+      {
+        "claim_key": "total_area_acres",
+        "value": "3.37 lakh acres",
+        "statement_hi": "फायरिंग रेंज के लिए 3.37 लाख एकड़ भूमि ली गई।",
+        "statement_en": "3.37 lakh acres of land were taken for the firing range.",
+        "snippet": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 gaon']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 gaon",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "Pugal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093615Z"
+    ],
+    "notes": "Chakdo is not among the villages named in this article; recorded as general 34-gaon/MFFR background context only, not confirmation of Chakdo's existence or details.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "chakdo",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "चकड़ो महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में महाजन फील्ड फायरिंग रेंज हेतु 34 गांव विस्थापित हुए, मुआवजा और सिंचित भूमि आवंटन के बावजूद पुरखों का आशियाना छूटने का दर्द बना हुआ है। लेख में कुछ ही गांवों (खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना) के नाम हैं, चकड़ो का उल्लेख नहीं।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर"
+    ],
+    "entities": {
+      "people": [
+        "Jay Kumar Bhati"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "1984-85 displacement"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "khajuwala",
+      "dantor",
+      "pugal",
+      "mohangadh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093615Z"
+    ],
+    "notes": "Older iteration of the same Patrika retrospective story; Chakdo not named. Background context only.",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "chakdo",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "चकड़ो महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज को 34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूमि पर एशिया के सबसे बड़े युद्धाभ्यास स्थल के रूप में बनाया गया; लेख में अंतरराष्ट्रीय सैन्याभ्यासों का विवरण है, गांवों के नाम नहीं दिए गए।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [
+        "Dinesh Kumar Swami"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "joint military exercises"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093615Z"
+    ],
+    "notes": "General MFFR context; no village names given at all, Chakdo not mentioned.",
+    "consent": ""
+  },
+  "src_42f3fee70694": {
+    "id": "src_42f3fee70694",
+    "village": "chakdo",
+    "url": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.120386",
+    "title": "Rajasthan District Gazetteers: Bikaner",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K. K. Sehgal",
+    "published_date": "1962",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Chakdo\" Bikaner gazetteer OR archive.org OR book"
+    ],
+    "summary": "Official Rajasthan district gazetteer for Bikaner (1962), digitized via the Digital Library of India. Full text was checked for 'Chakdo', 'Chakro', 'चकड़ो', and 'चकरो' — none appear in the extracted OCR text, though the gazetteer covers villages, tehsils and administrative history of the district.",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner district",
+      "Deshnoke",
+      "Koramdesar",
+      "Kolayat",
+      "Naukha",
+      "Gajner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "K. K. Sehgal"
+      ],
+      "places": [
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": [
+        "Government of Rajasthan"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, K. K. Sehgal, 1962, Government of Rajasthan / Digital Library of India via archive.org",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "creator": "",
+      "caption": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 49,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 3,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093615Z"
+    ],
+    "notes": "Checked via OCR full-text stream (archive.org/stream/in.ernet.dli.2015.146804 djvu.txt); OCR may be imperfect/incomplete for Hindi script or diacritics, so absence of 'Chakdo' is not conclusive. Worth a human page-by-page check of the village-list appendix if one exists.",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "chakdo",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan (Lok Sabha Unstarred Question No. 4236)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Shivraj V. Patil / Manphool Singh (MPs), Ministry of Defence (answering)",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Chakdo \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Parliamentary Lok Sabha unstarred question and government answer on the Mahajan Field Firing Range, dated 21 Aug 1987 — a primary government record close in time to the 1982-84 land acquisition. Page metadata was readable but the full PDF text (which may list acquired villages, compensation figures or acreage) could not be extracted by the fetch tool.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "Shivraj V. Patil",
+        "Manphool Singh"
+      ],
+      "places": [
+        "Mahajan Field Firing Range"
+      ],
+      "events": [
+        "Lok Sabha Unstarred Question No. 4236"
+      ],
+      "organizations": [
+        "Lok Sabha",
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Lok Sabha Unstarred Question No. 4236, Sansad eLibrary, 21 Aug 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093615Z"
+    ],
+    "notes": "High-value primary lead: a human researcher should download the actual PDF from sansad.in (fetch tool only returned metadata, not body text) to check for a village list or acreage/compensation figures that might name Chakdo.",
+    "consent": ""
+  }
+}

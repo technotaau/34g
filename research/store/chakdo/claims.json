@@ -1,0 +1,65 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "34 गांवों की भूमि 1984-85 में महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित हुई।",
+    "statement_en": "Land for the 34 villages was acquired in 1984-85 for the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि को अधिग्रहित किया था"
+      }
+    ],
+    "competing": []
+  },
+  "clm_total_area_acres_792fcc92": {
+    "id": "clm_total_area_acres_792fcc92",
+    "claim_key": "total_area_acres",
+    "value": "3.37 lakh acres",
+    "statement_hi": "फायरिंग रेंज के लिए 3.37 लाख एकड़ भूमि ली गई।",
+    "statement_en": "3.37 lakh acres of land were taken for the firing range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "competing": []
+  }
+}
