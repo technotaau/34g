@@ -36,7 +36,8 @@
       "dhannasar",
       "machhranwali",
       "motasar",
-      "bhunwala"
+      "bhunwala",
+      "dewasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -131,7 +132,8 @@
       "khiyana",
       "chakdo",
       "dhannasar",
-      "machhranwali"
+      "machhranwali",
+      "dewasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -140,7 +142,8 @@
       "bhojrasar",
       "meusar",
       "chidasar",
-      "ajeetwana"
+      "ajeetwana",
+      "dewasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -689,6 +692,30 @@
   "https://mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html": {
     "villages": [
       "bhunwala"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://census2011.co.in/data/village/69111-dewasar-rajasthan.html": {
+    "villages": [
+      "dewasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://onefivenine.com/india/villages/Bikaner/Bikaner/Dewasar": {
+    "villages": [
+      "dewasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://jatland.com/home/Dewasar": {
+    "villages": [
+      "dewasar"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://jatland.com/home/Devasar_Churu": {
+    "villages": [
+      "dewasar"
     ],
     "first_seen": "2026-09-18"
   }

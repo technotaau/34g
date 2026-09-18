@@ -25,7 +25,7 @@
 | मोटासर (Motasar) | 5 | 1 | 2 | 3 | 3 | [report](store/motasar/report.md) |
 | भुंवाला (Bhunwala) | 6 | 1 | 0 | 8 | 8 | [report](store/bhunwala/report.md) |
 | चकड़ो (Chakdo) | 5 | 0 | 0 | 3 | 3 | [report](store/chakdo/report.md) |
-| देवासर (Dewasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| देवासर (Dewasar) | 7 | 1 | 4 | 9 | 9 | [report](store/dewasar/report.md) |
 | माच्छरांवाली (Machhranwali) | 5 | 0 | 0 | 5 | 5 | [report](store/machhranwali/report.md) |
 | कंकरालियो (Kankraliyo) | – | – | – | – | – | _अभी शोध नहीं_ |
 | लखोर छोटी (Lakhor Chhoti) | – | – | – | – | – | _अभी शोध नहीं_ |

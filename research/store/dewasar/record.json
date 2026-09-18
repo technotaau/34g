@@ -1,0 +1,867 @@
+{
+  "village": {
+    "slug": "dewasar",
+    "name_en": "Dewasar",
+    "name_hi": "देवासर",
+    "status": "acquired",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Namesakes: Dewasar in Bikaner tehsil (census 069111) and Devasar in Churu. Jatland's Mahajan page names a historical 'Devasar' under Jat chief Sihag Chokha of Jangladesh; that is the lead to chase.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-18",
+  "counts": {
+    "sources_total": 7,
+    "accepted": 1,
+    "context": 2,
+    "review": 4,
+    "rejected": 0,
+    "duplicates": 0,
+    "claims": 9
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_f07a8c256ae6",
+        "src_30a10248a2ab",
+        "src_a4a7c479844f",
+        "src_9cf90efa5280",
+        "src_a488853e880f"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_30a10248a2ab",
+        "src_a4a7c479844f",
+        "src_9cf90efa5280"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_f07a8c256ae6",
+        "src_9cf90efa5280",
+        "src_a488853e880f",
+        "src_a6f66da51d72",
+        "src_a5150b8b1d53"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_f07a8c256ae6",
+        "src_30a10248a2ab",
+        "src_9cf90efa5280"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": [
+        "src_a4a7c479844f",
+        "src_9cf90efa5280"
+      ]
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": [
+        "src_a6f66da51d72"
+      ]
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": [
+        "src_a4a7c479844f",
+        "src_9cf90efa5280",
+        "src_a6f66da51d72"
+      ]
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": []
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": []
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": []
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_30a10248a2ab",
+        "src_a4a7c479844f"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53",
+        "src_a6f66da51d72"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Arjun Ram Meghwal",
+      "Chokha Ram (Siyag/Sihag king)",
+      "Rajuram Sharma",
+      "Sihag Chokha",
+      "Sumit Godara"
+    ],
+    "places": [
+      "Bikaner",
+      "Churu",
+      "Dantur",
+      "Gadhwala",
+      "Jangladesh",
+      "Khajuwala",
+      "Kolayat",
+      "Mahajan",
+      "Mohangadh",
+      "Nachna",
+      "Napasar",
+      "Pugal"
+    ],
+    "events": [
+      "1984-85 land acquisition",
+      "village displacement, ~1982-85"
+    ],
+    "organizations": [
+      "Indian Army",
+      "Ministry of Defence"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_tehsil_location_345fe6f5",
+        "claim_key": "tehsil_location",
+        "value": "Bikaner Tehsil (per Census 2011)",
+        "statement_hi": "जनगणना 2011 के अनुसार यह देवासर गांव बीकानेर तहसील में दर्ज है, लूणकरणसर तहसील में नहीं।",
+        "statement_en": "Per Census 2011, this Dewasar village is recorded under Bikaner Tehsil, not Lunkaransar Tehsil.",
+        "sources": [
+          "src_30a10248a2ab"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_30a10248a2ab",
+            "text": "Tehsil/Sub-district: Bikaner Tehsil"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_population_2011_4cd66dfa",
+        "claim_key": "population_2011",
+        "value": "91",
+        "statement_hi": "2011 की जनगणना अनुसार देवासर (कोड 69111) की जनसंख्या 91 थी (11 परिवार)।",
+        "statement_en": "Per Census 2011, this Dewasar (village code 69111) had a population of 91 across 11 households.",
+        "sources": [
+          "src_30a10248a2ab"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_30a10248a2ab",
+            "text": "population of 91 ... 11 families residing"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_assembly_constituency_2bf35e98",
+        "claim_key": "assembly_constituency",
+        "value": "Lunkaransar (per onefivenine.com; conflicts with 'Kolayat' per Jatland)",
+        "statement_hi": "इस स्रोत के अनुसार देवासर लूणकरणसर विधानसभा क्षेत्र में आता है, जबकि जातलैंड इसे कोलायत विधानसभा बताता है — यह एक अपुष्ट टकराव है।",
+        "statement_en": "This source places Dewasar in the Lunkaransar Assembly Constituency, while Jatland lists it under Kolayat — an unresolved conflict between sources.",
+        "sources": [
+          "src_a4a7c479844f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a4a7c479844f",
+            "text": "Assembly Constituency: Lunkaransar"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_founding_clan_79ce9f96",
+        "claim_key": "founding_clan",
+        "value": "Sihag (Siyag) Jat",
+        "statement_hi": "देवासर गांव का सिहाग (सियाग) जाटों से पुराना ऐतिहासिक जुड़ाव बताया जाता है; गांव में एक तालाब है जहां सिहाग राजा चोखा राम स्नान-ध्यान करते थे।",
+        "statement_en": "Dewasar village has a claimed historical association with the Sihag (Siyag) Jats; it has a pond where Sihag king Chokha Ram is said to have bathed and meditated.",
+        "sources": [
+          "src_9cf90efa5280"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_9cf90efa5280",
+            "text": "There is a pond in Devasar village where the Siyag King Chokha Ram used to take bath and meditate on its shore."
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_historical_ruler_association_ee22f351",
+        "claim_key": "historical_ruler_association",
+        "value": "Sihag Chokha (Jangladesh Jat chief)",
+        "statement_hi": "जातलैंड के महाजन पृष्ठ के अनुसार देवासर, जांगलदेश के जाट प्रमुख सिहाग चोखा के अधीन एक नगर के रूप में दर्ज है।",
+        "statement_en": "Per Jatland's Mahajan page, Devasar is recorded as one of the towns under the historical Jat chief Sihag Chokha of Jangladesh.",
+        "sources": [
+          "src_f07a8c256ae6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_f07a8c256ae6",
+            "text": "Devasar is mentioned as one of the towns under the control of Sihag Chokha, based on historical Jat records."
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_distinct_namesake_village_5e8a26cf",
+        "claim_key": "distinct_namesake_village",
+        "value": "Devasar, Churu district (separate from Bikaner/Lunkaransar Dewasar)",
+        "statement_hi": "चूरू जिले में भी एक 'देवासर' गांव है जो हमारे बीकानेर/लूणकरणसर वाले देवासर से भिन्न और असंबंधित है।",
+        "statement_en": "There is a separate 'Devasar' village in Churu district, distinct and unrelated to our Bikaner/Lunkaransar Dewasar.",
+        "sources": [
+          "src_a488853e880f"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a488853e880f",
+            "text": "Devasar Churu - Jatland Wiki"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों का अधिग्रहण 1984-85 में हुआ था।",
+        "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "Ministry of Defense acquired land from 34 villages in the Mahajan area in 1984-85"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_total_area_acres_792fcc92",
+        "claim_key": "total_area_acres",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज कुल 3.37 लाख एकड़ क्षेत्र में फैली है।",
+        "statement_en": "The Mahajan Field Firing Range spans a total of 3.37 lakh acres.",
+        "sources": [
+          "src_a6f66da51d72"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a6f66da51d72",
+            "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_30a10248a2ab",
+      "url": "https://www.census2011.co.in/data/village/69111-dewasar-rajasthan.html",
+      "title": "Dewasar Village Population - Bikaner - Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Dewasar",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Bikaner Tehsil', 'Bikaner tehsil', 'tehsil Bikaner']",
+        "capped at review: namesake signal ['Bikaner Tehsil', 'Bikaner tehsil']"
+      ]
+    },
+    {
+      "id": "src_a4a7c479844f",
+      "url": "https://www.onefivenine.com/india/villages/Bikaner/Bikaner/Dewasar",
+      "title": "Dewasar Locality",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Dewasar",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'मेघवाल']",
+        "negative/other-place signals: ['Kolayat', 'कोलायत']",
+        "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+      ]
+    },
+    {
+      "id": "src_9cf90efa5280",
+      "url": "https://www.jatland.com/home/Dewasar",
+      "title": "Dewasar - Jatland Wiki",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Dewasar",
+        "strong geo context: ['महाजन']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "negative/other-place signals: ['Kolayat', 'कोलायत']",
+        "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+      ]
+    },
+    {
+      "id": "src_a488853e880f",
+      "url": "https://www.jatland.com/home/Devasar_Churu",
+      "title": "Devasar Churu - Jatland Wiki",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Dewasar",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Churu', 'चूरू', 'Churu']",
+        "capped at review: namesake signal ['Churu', 'चूरू']"
+      ]
+    }
+  ],
+  "sources": {
+    "src_f07a8c256ae6": {
+      "url": "https://www.jatland.com/home/Mahajan",
+      "title": "Mahajan - महाजन (Jatland Wiki)",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: देवासर",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Jat', 'जाट']"
+        ],
+        "matched_names": [
+          "देवासर",
+          "Devasar"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "Jangladesh",
+          "जांगलदेश",
+          "Jat",
+          "जाट"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "history",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki (community-edited)",
+      "is_primary": false
+    },
+    "src_30a10248a2ab": {
+      "url": "https://www.census2011.co.in/data/village/69111-dewasar-rajasthan.html",
+      "title": "Dewasar Village Population - Bikaner - Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "text",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 69,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Dewasar",
+          "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "negative/other-place signals: ['Bikaner Tehsil', 'Bikaner tehsil', 'tehsil Bikaner']",
+          "capped at review: namesake signal ['Bikaner Tehsil', 'Bikaner tehsil']"
+        ],
+        "matched_names": [
+          "Dewasar",
+          "देवासर",
+          "देवासर गांव"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Bikaner Tehsil",
+          "Bikaner tehsil",
+          "tehsil Bikaner"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in, based on Census of India 2011",
+      "is_primary": false
+    },
+    "src_a4a7c479844f": {
+      "url": "https://www.onefivenine.com/india/villages/Bikaner/Bikaner/Dewasar",
+      "title": "Dewasar Locality",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 67,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 9,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Dewasar",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'मेघवाल']",
+          "negative/other-place signals: ['Kolayat', 'कोलायत']",
+          "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+        ],
+        "matched_names": [
+          "Dewasar",
+          "देवासर"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर",
+          "मेघवाल"
+        ],
+        "negative_hits": [
+          "Kolayat",
+          "कोलायत"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "culture"
+      ],
+      "license": "",
+      "attribution": "onefivenine.com",
+      "is_primary": false
+    },
+    "src_9cf90efa5280": {
+      "url": "https://www.jatland.com/home/Dewasar",
+      "title": "Dewasar - Jatland Wiki",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 65,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Dewasar",
+          "strong geo context: ['महाजन']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+          "negative/other-place signals: ['Kolayat', 'कोलायत']",
+          "capped at review: namesake signal ['Kolayat', 'कोलायत']"
+        ],
+        "matched_names": [
+          "Dewasar",
+          "देवासर",
+          "Devasar",
+          "देवासर गांव"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "Bikaner",
+          "बीकानेर",
+          "जाट"
+        ],
+        "negative_hits": [
+          "Kolayat",
+          "कोलायत"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "culture",
+        "history",
+        "legal",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki (community-edited)",
+      "is_primary": false
+    },
+    "src_a488853e880f": {
+      "url": "https://www.jatland.com/home/Devasar_Churu",
+      "title": "Devasar Churu - Jatland Wiki",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Dewasar",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+          "negative/other-place signals: ['Churu', 'चूरू', 'Churu']",
+          "capped at review: namesake signal ['Churu', 'चूरू']"
+        ],
+        "matched_names": [
+          "Dewasar",
+          "देवासर",
+          "Devasar",
+          "देवासर गांव"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "बीकानेर"
+        ],
+        "negative_hits": [
+          "Churu",
+          "चूरू",
+          "Churu",
+          "चूरू"
+        ]
+      },
+      "topics": [
+        "history"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki (community-edited)",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "Khajuwala",
+          "खाजूवाला",
+          "Pugal",
+          "पूगल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+      "is_primary": false
+    },
+    "src_a6f66da51d72": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+      "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-08-02",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2022",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260918T093808Z",
+      "file": "/home/user/34g/research/inbox/dewasar/discovery.json",
+      "input": 7,
+      "invalid": 0,
+      "new": 7,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 19,
+      "agent_notes": "सबसे बड़ी समस्या पहचान की है: 'Dewasar/Devasar' नाम से बीकानेर क्षेत्र में कम-से-कम तीन अलग जगहें मिलीं — (1) बीकानेर तहसील का देवासर गांव (जनगणना कोड 69111, जनसंख्या 91, बीकानेर शहर से 30 किमी, कोलायत विधानसभा), (2) चूरू जिले का 'Devasar Churu' (negative_terms में चूरू शामिल), और (3) जातलैंड पर सिहाग जाटों/चोखा सिंह सिहाग से जुड़ा ऐतिहासिक देवासर जो पल्लू के पास था। इनमें से कोई भी स्पष्ट रूप से लूणकरणसर तहसील/महाजन उप-तहसील में स्थित नहीं दिखा, जैसा शोध-यूनिट के geo.tehsil में अपेक्षित है — इसलिए महाजन फायरिंग रेंज के 34-गांव वाले 'Dewasar/देवासर महाजन' की सीधी, ठोस पुष्टि नहीं मिली; मानवीय ",
+      "total_after": 7,
+      "at": "2026-09-18T09:38:08.775658+00:00"
+    }
+  ]
+}

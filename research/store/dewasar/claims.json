@@ -1,0 +1,191 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_tehsil_location_345fe6f5": {
+    "id": "clm_tehsil_location_345fe6f5",
+    "claim_key": "tehsil_location",
+    "value": "Bikaner Tehsil (per Census 2011)",
+    "statement_hi": "जनगणना 2011 के अनुसार यह देवासर गांव बीकानेर तहसील में दर्ज है, लूणकरणसर तहसील में नहीं।",
+    "statement_en": "Per Census 2011, this Dewasar village is recorded under Bikaner Tehsil, not Lunkaransar Tehsil.",
+    "sources": [
+      "src_30a10248a2ab"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_30a10248a2ab",
+        "text": "Tehsil/Sub-district: Bikaner Tehsil"
+      }
+    ],
+    "competing": []
+  },
+  "clm_population_2011_4cd66dfa": {
+    "id": "clm_population_2011_4cd66dfa",
+    "claim_key": "population_2011",
+    "value": "91",
+    "statement_hi": "2011 की जनगणना अनुसार देवासर (कोड 69111) की जनसंख्या 91 थी (11 परिवार)।",
+    "statement_en": "Per Census 2011, this Dewasar (village code 69111) had a population of 91 across 11 households.",
+    "sources": [
+      "src_30a10248a2ab"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_30a10248a2ab",
+        "text": "population of 91 ... 11 families residing"
+      }
+    ],
+    "competing": []
+  },
+  "clm_assembly_constituency_2bf35e98": {
+    "id": "clm_assembly_constituency_2bf35e98",
+    "claim_key": "assembly_constituency",
+    "value": "Lunkaransar (per onefivenine.com; conflicts with 'Kolayat' per Jatland)",
+    "statement_hi": "इस स्रोत के अनुसार देवासर लूणकरणसर विधानसभा क्षेत्र में आता है, जबकि जातलैंड इसे कोलायत विधानसभा बताता है — यह एक अपुष्ट टकराव है।",
+    "statement_en": "This source places Dewasar in the Lunkaransar Assembly Constituency, while Jatland lists it under Kolayat — an unresolved conflict between sources.",
+    "sources": [
+      "src_a4a7c479844f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a4a7c479844f",
+        "text": "Assembly Constituency: Lunkaransar"
+      }
+    ],
+    "competing": []
+  },
+  "clm_founding_clan_79ce9f96": {
+    "id": "clm_founding_clan_79ce9f96",
+    "claim_key": "founding_clan",
+    "value": "Sihag (Siyag) Jat",
+    "statement_hi": "देवासर गांव का सिहाग (सियाग) जाटों से पुराना ऐतिहासिक जुड़ाव बताया जाता है; गांव में एक तालाब है जहां सिहाग राजा चोखा राम स्नान-ध्यान करते थे।",
+    "statement_en": "Dewasar village has a claimed historical association with the Sihag (Siyag) Jats; it has a pond where Sihag king Chokha Ram is said to have bathed and meditated.",
+    "sources": [
+      "src_9cf90efa5280"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_9cf90efa5280",
+        "text": "There is a pond in Devasar village where the Siyag King Chokha Ram used to take bath and meditate on its shore."
+      }
+    ],
+    "competing": []
+  },
+  "clm_historical_ruler_association_ee22f351": {
+    "id": "clm_historical_ruler_association_ee22f351",
+    "claim_key": "historical_ruler_association",
+    "value": "Sihag Chokha (Jangladesh Jat chief)",
+    "statement_hi": "जातलैंड के महाजन पृष्ठ के अनुसार देवासर, जांगलदेश के जाट प्रमुख सिहाग चोखा के अधीन एक नगर के रूप में दर्ज है।",
+    "statement_en": "Per Jatland's Mahajan page, Devasar is recorded as one of the towns under the historical Jat chief Sihag Chokha of Jangladesh.",
+    "sources": [
+      "src_f07a8c256ae6"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_f07a8c256ae6",
+        "text": "Devasar is mentioned as one of the towns under the control of Sihag Chokha, based on historical Jat records."
+      }
+    ],
+    "competing": []
+  },
+  "clm_distinct_namesake_village_5e8a26cf": {
+    "id": "clm_distinct_namesake_village_5e8a26cf",
+    "claim_key": "distinct_namesake_village",
+    "value": "Devasar, Churu district (separate from Bikaner/Lunkaransar Dewasar)",
+    "statement_hi": "चूरू जिले में भी एक 'देवासर' गांव है जो हमारे बीकानेर/लूणकरणसर वाले देवासर से भिन्न और असंबंधित है।",
+    "statement_en": "There is a separate 'Devasar' village in Churu district, distinct and unrelated to our Bikaner/Lunkaransar Dewasar.",
+    "sources": [
+      "src_a488853e880f"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a488853e880f",
+        "text": "Devasar Churu - Jatland Wiki"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों का अधिग्रहण 1984-85 में हुआ था।",
+    "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "Ministry of Defense acquired land from 34 villages in the Mahajan area in 1984-85"
+      }
+    ],
+    "competing": []
+  },
+  "clm_total_area_acres_792fcc92": {
+    "id": "clm_total_area_acres_792fcc92",
+    "claim_key": "total_area_acres",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज कुल 3.37 लाख एकड़ क्षेत्र में फैली है।",
+    "statement_en": "The Mahajan Field Firing Range spans a total of 3.37 lakh acres.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "competing": []
+  }
+}

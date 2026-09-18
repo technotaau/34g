@@ -739,7 +739,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Namesakes: Dewasar in Bikaner tehsil (census 069111) and Devasar in Churu. Jatland's Mahajan page names a historical 'Devasar' under Jat chief Sihag Chokha of Jangladesh; that is the lead to chase.",
+      "disambiguation": {
+        "negative_terms": [
+          "Bikaner Tehsil",
+          "Bikaner tehsil",
+          "tehsil Bikaner",
+          "Churu",
+          "चूरू",
+          "Kolayat",
+          "कोलायत"
+        ]
+      }
     },
     {
       "slug": "machhranwali",
