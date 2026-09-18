@@ -73,13 +73,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Jasrasar', 'जसरासर']"
+        "negative/other-place signals: ['Jasrasar', 'जसरासर']",
+        "capped at review: namesake signal ['Jasrasar', 'जसरासर']"
       ],
       "matched_names": [
         "Meusar",
@@ -103,12 +104,12 @@
       ]
     },
     "relevance": {
-      "score": 69,
+      "score": 67,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 9,
         "primary": 0,
         "corroboration": 0,
@@ -122,7 +123,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175437Z"
     ],
@@ -201,13 +204,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']"
+        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
+        "capped at review: namesake signal ['Nokha', 'नोखा']"
       ],
       "matched_names": [
         "Meusar",
@@ -228,12 +232,12 @@
       ]
     },
     "relevance": {
-      "score": 71,
+      "score": 69,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -247,7 +251,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175437Z"
     ],
@@ -311,13 +317,14 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Meusar",
         "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Nokha', 'नोखा']"
+        "negative/other-place signals: ['Nokha', 'नोखा']",
+        "capped at review: namesake signal ['Nokha', 'नोखा']"
       ],
       "matched_names": [
         "Meusar",
@@ -338,12 +345,12 @@
       ]
     },
     "relevance": {
-      "score": 67,
+      "score": 65,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -357,7 +364,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175437Z"
     ],

@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-18 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 8, स्वीकृत 1, पृष्ठभूमि (context) 6, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 8, स्वीकृत 0, पृष्ठभूमि (context) 6, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there.
 
@@ -11,7 +11,7 @@
 ### यह गांव क्या है?
 - [Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023](https://indiankanoon.org/doc/171257844/) (legal · document · 2023-09-18 · स्कोर 80 · समीक्षा हेतु)
   - राजस्थान हाईकोर्ट के एक न्यायिक आदेश में याचिकाकर्ता के पते के रूप में 'Vpo-Dhannasar, Rawatsar, Hanumangarh' दर्ज है। यह पुनः हनुमानगढ़ जिले वाले धन्नासर की ओर इशारा करता है, बीकानेर वाले धन्नासर की ओर नहीं। केस की विषयवस्तु परीक्षा/रजिस्ट्रार से संबंधित है, गांव के इतिहास से नहीं।
-- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 65)
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
   - जाटलैंड विकी पर 'धन्नासर' नामक एक गांव का उल्लेख है, परंतु यह हनुमानगढ़ जिले की रावतसर तहसील में स्थित बताया गया है, न कि बीकानेर/लूणकरणसर/महाजन में। संभवतः यह हमारे लक्षित 34-गांव धन्नासर से अलग, समान नाम वाला कोई अन्य गांव है। पेज को सीधे फेच करने पर 403 त्रुटि मिली; जानकारी केवल सर्च-स्निपेट से ल
 - [Gazetteer of the Bikaner State (1874)](https://archive.org/details/in.ernet.dli.2015.547015) (archive · book · 1874 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Public domain / Internet Archive hosted
   - बीकानेर रियासत का 1874 का ऐतिहासिक गजेटियर (P.W. Powlett) archive.org पर उपलब्ध है। इसे स्वयं नहीं खोजा गया (केवल कैटलॉग पेज मिला); रियासतकालीन गांव-सूची में धन्नासर/महाजन क्षेत्र के परगनों की जांच हेतु आगे का शोध आवश्यक है।
@@ -23,7 +23,7 @@
 ### यह कहां स्थित है?
 - [Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023](https://indiankanoon.org/doc/171257844/) (legal · document · 2023-09-18 · स्कोर 80 · समीक्षा हेतु)
   - राजस्थान हाईकोर्ट के एक न्यायिक आदेश में याचिकाकर्ता के पते के रूप में 'Vpo-Dhannasar, Rawatsar, Hanumangarh' दर्ज है। यह पुनः हनुमानगढ़ जिले वाले धन्नासर की ओर इशारा करता है, बीकानेर वाले धन्नासर की ओर नहीं। केस की विषयवस्तु परीक्षा/रजिस्ट्रार से संबंधित है, गांव के इतिहास से नहीं।
-- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 65)
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
   - जाटलैंड विकी पर 'धन्नासर' नामक एक गांव का उल्लेख है, परंतु यह हनुमानगढ़ जिले की रावतसर तहसील में स्थित बताया गया है, न कि बीकानेर/लूणकरणसर/महाजन में। संभवतः यह हमारे लक्षित 34-गांव धन्नासर से अलग, समान नाम वाला कोई अन्य गांव है। पेज को सीधे फेच करने पर 403 त्रुटि मिली; जानकारी केवल सर्च-स्निपेट से ल
 - [Gazetteer of the Bikaner State (1874)](https://archive.org/details/in.ernet.dli.2015.547015) (archive · book · 1874 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Public domain / Internet Archive hosted
   - बीकानेर रियासत का 1874 का ऐतिहासिक गजेटियर (P.W. Powlett) archive.org पर उपलब्ध है। इसे स्वयं नहीं खोजा गया (केवल कैटलॉग पेज मिला); रियासतकालीन गांव-सूची में धन्नासर/महाजन क्षेत्र के परगनों की जांच हेतु आगे का शोध आवश्यक है।
@@ -35,7 +35,7 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023](https://indiankanoon.org/doc/171257844/) (legal · document · 2023-09-18 · स्कोर 80 · समीक्षा हेतु)
   - राजस्थान हाईकोर्ट के एक न्यायिक आदेश में याचिकाकर्ता के पते के रूप में 'Vpo-Dhannasar, Rawatsar, Hanumangarh' दर्ज है। यह पुनः हनुमानगढ़ जिले वाले धन्नासर की ओर इशारा करता है, बीकानेर वाले धन्नासर की ओर नहीं। केस की विषयवस्तु परीक्षा/रजिस्ट्रार से संबंधित है, गांव के इतिहास से नहीं।
-- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 65)
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
   - जाटलैंड विकी पर 'धन्नासर' नामक एक गांव का उल्लेख है, परंतु यह हनुमानगढ़ जिले की रावतसर तहसील में स्थित बताया गया है, न कि बीकानेर/लूणकरणसर/महाजन में। संभवतः यह हमारे लक्षित 34-गांव धन्नासर से अलग, समान नाम वाला कोई अन्य गांव है। पेज को सीधे फेच करने पर 403 त्रुटि मिली; जानकारी केवल सर्च-स्निपेट से ल
 - [Gazetteer of the Bikaner State (1874)](https://archive.org/details/in.ernet.dli.2015.547015) (archive · book · 1874 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Public domain / Internet Archive hosted
   - बीकानेर रियासत का 1874 का ऐतिहासिक गजेटियर (P.W. Powlett) archive.org पर उपलब्ध है। इसे स्वयं नहीं खोजा गया (केवल कैटलॉग पेज मिला); रियासतकालीन गांव-सूची में धन्नासर/महाजन क्षेत्र के परगनों की जांच हेतु आगे का शोध आवश्यक है।
@@ -49,7 +49,7 @@
   - यह लेख बताता है कि करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई, जहां अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त अभ्यास हो चुके हैं। खाली गांवों के खंडहर अब सैन्य अभ्यास में 'नकली गांव' के रूप में उपयोग होते हैं। धन्नासर का उल्लेख
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
-- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 65)
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
   - जाटलैंड विकी पर 'धन्नासर' नामक एक गांव का उल्लेख है, परंतु यह हनुमानगढ़ जिले की रावतसर तहसील में स्थित बताया गया है, न कि बीकानेर/लूणकरणसर/महाजन में। संभवतः यह हमारे लक्षित 34-गांव धन्नासर से अलग, समान नाम वाला कोई अन्य गांव है। पेज को सीधे फेच करने पर 403 त्रुटि मिली; जानकारी केवल सर्च-स्निपेट से ल
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 48 · पृष्ठभूमि स्रोत)
   - रक्षा मंत्रालय ने 1984-85 में महाजन क्षेत्र के 34 गांवों की जमीन अधिग्रहित कर महाजन फील्ड फायरिंग रेंज बनाई। विस्थापित परिवारों को घर, पेड़, कृषि भूमि का मुआवजा और खाजूवाला/पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई, पर पैतृक गांव खोने का दर्द आज भी बना है। लेख में भोजरासर, कुम्भाणा, मोटलाई, खानीसर, 
@@ -128,12 +128,13 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) · flags: resolution_review · primary name match: Dhannasar; strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']
 - [Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023](https://indiankanoon.org/doc/171257844/) · flags: resolution_review · primary name match: Dhannasar; district/nearby/clan context: ['बीकानेर']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023](https://indiankanoon.org/doc/171257844/) · indiankanoon · legal · स्कोर 80 · रिज़ॉल्यूशन review (0.4) · खोज: "Dhannasar" Bikaner indiankanoon
-- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) · jatland · community_wiki · स्कोर 65 · रिज़ॉल्यूशन accept (0.65) · खोज: Dhannasar jatland wikipedia Lunkaransar
+- [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) · jatland · community_wiki · स्कोर 63 · रिज़ॉल्यूशन review (0.55) · खोज: Dhannasar jatland wikipedia Lunkaransar
 - [Gazetteer of the Bikaner State (1874)](https://archive.org/details/in.ernet.dli.2015.547015) · archive_org · archive · स्कोर 54 · रिज़ॉल्यूशन context (0.5) · खोज: "Dhannasar" Bikaner gazetteer archive.org
 - [Rajasthan District Gazetteers: Bikaner (full text)](https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt) · archive_org · archive · स्कोर 52 · रिज़ॉल्यूशन context (0.5) · खोज: "Dhannasar" Bikaner gazetteer archive.org
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 48 · रिज़ॉल्यूशन context (0.5) · खोज: धन्नासर महाजन फायरिंग रेंज विस्थापित

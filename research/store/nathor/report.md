@@ -1,8 +1,8 @@
 # नाथौर (Nathor) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-17 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-18 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 4, पृष्ठभूमि (context) 2, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
+स्रोत: कुल 6, स्वीकृत 2, पृष्ठभूमि (context) 2, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
 > Principal Dhatarwal village named after Nathu Dhatarwal.
 
@@ -13,9 +13,9 @@
   - Jatland's Dhatarwal clan page surfaced in search results and in Google's AI-overview summary as the origin of the claim that Nathor/Nathuwas was one of twelve Dhatarwal-founded villages named after Nathu Dhatarwal, with a temple to नाथूदादा (Nathu Dada) at Khinyana inside the Mahajan Field Firing Ra
 - [Nathor Village | Map of Nathor Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html) (website · map · तिथि अज्ञात · स्कोर 75)
   - MapsOfIndia listing page administratively confirms Nathor as a village under Lunkaransar tehsil, Bikaner district, Rajasthan, with a Google Map locator. No population, pincode, or historical detail is given on the page -- consistent with the village's post-acquisition status (no current inhabited-vi
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
-- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 67)
+- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 65 · समीक्षा हेतु)
   - Full directory of ~120-139 current villages in Lunkaransar tehsil. Nathor does NOT appear in this active-village listing, while a separate 'Nathusar' does appear -- indirect corroboration that Nathor was administratively absorbed/depopulated (consistent with 'acquired' status) rather than still func
 - [Nathoosar Village Population - Nokha - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69628-nathoosar-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - 2011 Census mirror for 'Nathoosar' village, which is in Nokha tehsil (not Lunkaransar/Mahajan) of Bikaner district, ~40 km from Nokha and ~70 km from Bikaner city -- a different village from Nathor/Nathuwas despite the similar name. Population 5,279 (2,793 M / 2,486 F), 766 households, 55.53% litera
@@ -25,7 +25,7 @@
 ### यह कहां स्थित है?
 - [Nathor Village | Map of Nathor Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html) (website · map · तिथि अज्ञात · स्कोर 75)
   - MapsOfIndia listing page administratively confirms Nathor as a village under Lunkaransar tehsil, Bikaner district, Rajasthan, with a Google Map locator. No population, pincode, or historical detail is given on the page -- consistent with the village's post-acquisition status (no current inhabited-vi
-- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 67)
+- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 65 · समीक्षा हेतु)
   - Full directory of ~120-139 current villages in Lunkaransar tehsil. Nathor does NOT appear in this active-village listing, while a separate 'Nathusar' does appear -- indirect corroboration that Nathor was administratively absorbed/depopulated (consistent with 'acquired' status) rather than still func
 - [Nathoosar Village Population - Nokha - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69628-nathoosar-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - 2011 Census mirror for 'Nathoosar' village, which is in Nokha tehsil (not Lunkaransar/Mahajan) of Bikaner district, ~40 km from Nokha and ~70 km from Bikaner city -- a different village from Nathor/Nathuwas despite the similar name. Population 5,279 (2,793 M / 2,486 F), 766 households, 55.53% litera
@@ -35,9 +35,9 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 85)
   - Jatland's Dhatarwal clan page surfaced in search results and in Google's AI-overview summary as the origin of the claim that Nathor/Nathuwas was one of twelve Dhatarwal-founded villages named after Nathu Dhatarwal, with a temple to नाथूदादा (Nathu Dada) at Khinyana inside the Mahajan Field Firing Ra
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
-- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 67)
+- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) (website · text · तिथि अज्ञात · स्कोर 65 · समीक्षा हेतु)
   - Full directory of ~120-139 current villages in Lunkaransar tehsil. Nathor does NOT appear in this active-village listing, while a separate 'Nathusar' does appear -- indirect corroboration that Nathor was administratively absorbed/depopulated (consistent with 'acquired' status) rather than still func
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) (website · text · तिथि अज्ञात · स्कोर 38 · पृष्ठभूमि स्रोत)
   - Directory page for Mahajan village/sub-tehsil (the firing range headquarters), Lunkaransar tehsil, Bikaner -- roughly 39 km from Lunkaransar town and 111 km from Bikaner city. Page itself returned HTTP 403 on fetch; summary is from the search snippet only and contains no direct mention of Nathor. Re
@@ -45,7 +45,7 @@
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 85)
   - Jatland's Dhatarwal clan page surfaced in search results and in Google's AI-overview summary as the origin of the claim that Nathor/Nathuwas was one of twelve Dhatarwal-founded villages named after Nathu Dhatarwal, with a temple to नाथूदादा (Nathu Dada) at Khinyana inside the Mahajan Field Firing Ra
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
 
 ### सांस्कृतिक जानकारी
@@ -54,17 +54,17 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### मंदिर, लोक देवता, स्थल
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 85)
   - Jatland's Dhatarwal clan page surfaced in search results and in Google's AI-overview summary as the origin of the claim that Nathor/Nathuwas was one of twelve Dhatarwal-founded villages named after Nathu Dhatarwal, with a temple to नाथूदादा (Nathu Dada) at Khinyana inside the Mahajan Field Firing Ra
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
 
 ### त्योहार व परंपराएं
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 85)
   - Jatland's Dhatarwal clan page surfaced in search results and in Google's AI-overview summary as the origin of the claim that Nathor/Nathuwas was one of twelve Dhatarwal-founded villages named after Nathu Dhatarwal, with a temple to नाथूदादा (Nathu Dada) at Khinyana inside the Mahajan Field Firing Ra
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
 
 ### भूमि, खेती, पशुपालन, नहर
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 73)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (community_wiki · text · तिथि अज्ञात · स्कोर 71 · समीक्षा हेतु)
   - यह हिंदी विकिपीडिया की एक सदस्य-पृष्ठ (draft) है जो धतरवाल गोत्र के इतिहास का वर्णन करती है। इसके अनुसार नाथु धतरवाल (नाथुजी) ने बारह गांव बसाए, जिनमें नाथुवास (नाथौर) सबसे प्रमुख था और नाथुजी के नाम पर बसाया गया। इनमें से 9 गांव महाजन फील्ड फायरिंग रेंज के लिए 1981-1986 के बीच खाली करवाए गए; विस्था
 
 ### शिक्षा व विद्यालय
@@ -116,13 +116,15 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) · flags: resolution_review · primary name match: Nathor; strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']
+- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) · flags: resolution_review · primary name match: Nathor; strong geo context: ['Lunkaransar', 'लूणकरणसर']
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) · flags: low_relevance · village name not found in captured text; strong geo context: ['Mahajan', 'Lunkaransar']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) · jatland · community_wiki · स्कोर 85 · रिज़ॉल्यूशन accept (0.8) · खोज: नाथौर महाजन लूणकरणसर
 - [Nathor Village | Map of Nathor Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html) · mapsofindia.com · website · स्कोर 75 · रिज़ॉल्यूशन accept (0.8) · खोज: Nathor Bikaner (direct URL probe)
-- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) · wikipedia · community_wiki · स्कोर 73 · रिज़ॉल्यूशन accept (0.65) · खोज: नाथौर महाजन लूणकरणसर
-- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) · mapsofindia.com · website · स्कोर 67 · रिज़ॉल्यूशन accept (0.65) · खोज: mapsofindia Lunkaransar tehsil village list (follow-up probe)
+- [सदस्य:धतरवाल जाट](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) · wikipedia · community_wiki · स्कोर 71 · रिज़ॉल्यूशन review (0.55) · खोज: नाथौर महाजन लूणकरणसर
+- [Villages in Lunkaransar Tehsil, Bikaner](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) · mapsofindia.com · website · स्कोर 65 · रिज़ॉल्यूशन review (0.55) · खोज: mapsofindia Lunkaransar tehsil village list (follow-up probe)
 - [Nathoosar Village Population - Nokha - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69628-nathoosar-rajasthan.html) · census_mirror · census_mirror · स्कोर 43 · रिज़ॉल्यूशन context (0.5) · खोज: Nathor village Bikaner Rajasthan
 - [Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/) · census_mirror · website · स्कोर 38 · रिज़ॉल्यूशन context (0.5) · खोज: Nathor Lunkaransar Mahajan

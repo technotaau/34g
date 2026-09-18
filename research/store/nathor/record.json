@@ -12,12 +12,12 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-17",
+  "built": "2026-09-18",
   "counts": {
     "sources_total": 6,
-    "accepted": 4,
+    "accepted": 2,
     "context": 2,
-    "review": 0,
+    "review": 2,
     "rejected": 0,
     "duplicates": 0,
     "claims": 9
@@ -355,6 +355,36 @@
   },
   "manual_review": [
     {
+      "id": "src_dc27e87bee50",
+      "url": "https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट",
+      "title": "सदस्य:धतरवाल जाट",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Nathor",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Bheekhnera']",
+        "negative/other-place signals: ['Nathusar']",
+        "capped at review: namesake signal ['Nathusar']"
+      ]
+    },
+    {
+      "id": "src_c0a313e97116",
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/",
+      "title": "Villages in Lunkaransar Tehsil, Bikaner",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Nathor",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Nathusar']",
+        "capped at review: namesake signal ['Nathusar']"
+      ]
+    },
+    {
       "id": "src_e9f089cdc38c",
       "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
       "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in",
@@ -499,12 +529,12 @@
       "published_date": "",
       "language": "hi",
       "relevance": {
-        "score": 73,
+        "score": 71,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 7,
           "primary": 0,
           "corroboration": 0,
@@ -517,13 +547,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Nathor",
           "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
           "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Bheekhnera']",
-          "negative/other-place signals: ['Nathusar']"
+          "negative/other-place signals: ['Nathusar']",
+          "capped at review: namesake signal ['Nathusar']"
         ],
         "matched_names": [
           "Nathor",
@@ -578,12 +609,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 67,
+        "score": 65,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 7,
           "primary": 0,
           "corroboration": 0,
@@ -596,13 +627,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Nathor",
           "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Nathusar']"
+          "negative/other-place signals: ['Nathusar']",
+          "capped at review: namesake signal ['Nathusar']"
         ],
         "matched_names": [
           "Nathor",

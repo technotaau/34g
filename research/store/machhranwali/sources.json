@@ -1,0 +1,647 @@
+{
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "machhranwali",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "माच्छरांवाली महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "रक्षा मंत्रालय ने 1984-85 में महाजन क्षेत्र के 34 गांवों की जमीन फायरिंग रेंज के लिए अधिग्रहित की थी। लेख में विस्थापित परिवारों के दर्द का वर्णन है और अधिग्रहण में शामिल कुछ गांवों के नाम गिनाए गए हैं (खाजूवाला, पूगल, दांतौर, मोहनगढ़, नाचना), लेकिन माच्छरांवाली का नाम इसमें नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "महाजन फायरिंग रेंज",
+      "Khajuwala",
+      "खाजूवाला",
+      "Pugal",
+      "पूगल",
+      "Dantur",
+      "Mohgarh",
+      "Nachna",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि का अधिग्रहण फायरिंग रेंज के लिए किया था"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohgarh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition"
+      ],
+      "organizations": [
+        "रक्षा मंत्रालय / Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "khajuwala",
+      "dantur",
+      "pugal",
+      "mohgarh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिग्रहित हुई।",
+        "statement_en": "Land for Mahajan Field Firing Range from 34 villages was acquired in 1984-85.",
+        "snippet": "रक्षा मंत्रालय ने वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि का अधिग्रहण फायरिंग रेंज के लिए किया था"
+      },
+      {
+        "claim_key": "displaced_villages_count",
+        "value": "34",
+        "statement_hi": "फायरिंग रेंज के लिए 34 गांव विस्थापित हुए।",
+        "statement_en": "34 villages were displaced for the firing range.",
+        "snippet": "34 गांवों की भूमि का अधिग्रहण"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093653Z"
+    ],
+    "notes": "Machhranwali गांव के नाम का सीधा उल्लेख नहीं मिला; यह केवल क्षेत्रीय (MFFR/34-गांव) संदर्भ के लिए दर्ज किया गया है। Khajuwala और Pugal इस unit की nearby-villages सूची में पहले से हैं।",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "machhranwali",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "माच्छरांवाली महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों की भूमि अधिग्रहण की कहानी दोहराई गई है; इसमें भोजरासर, कुंभाणा, मोतलाई, खानीसरा, थोईया, मानेरा, दूदेड़, खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना गांवों का उल्लेख है। माच्छरांवाली नाम अनुपस्थित है। विस्थापित परिवार त्योहारों पर अपने पुराने गांव लौटते हैं।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bhojrasar",
+      "भोजरासर",
+      "Kumbhana",
+      "कुंभाणा",
+      "Motlai",
+      "मोतलाई",
+      "Khanisra",
+      "खानीसरा",
+      "Thoiya",
+      "थोईया",
+      "Manera",
+      "मानेरा",
+      "Duder",
+      "दूदेड़",
+      "Khajuwala",
+      "Dantur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि का अधिग्रहण कर महाजन फील्ड फायरिंग रेंज बनाई"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisra",
+        "Thoiya",
+        "Manera",
+        "Duder",
+        "Khajuwala",
+        "Dantur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition"
+      ],
+      "organizations": [
+        "रक्षा मंत्रालय / Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder",
+      "khajuwala",
+      "dantur",
+      "pugal",
+      "mohgarh",
+      "nachna"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala/Dantur area",
+        "statement_hi": "विस्थापित परिवारों को खाजूवाला, दांतौर क्षेत्र में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced families were resettled with irrigated land around Khajuwala/Dantur.",
+        "snippet": "किसानों को मुआवजा देकर सिंचित भूमि आवंटित की गई"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093653Z"
+    ],
+    "notes": "Machhranwali नाम इस लेख में भी नहीं है; उल्लेखित गांवों में से bhojrasar, kumbhana, motlai, khanisar, thoiya, manera, duder इसी 34-gaon इकाई सूची के slugs से मेल खाते प्रतीत होते हैं — क्रॉस-रेफरेंस के लिए उपयोगी।",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "machhranwali",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "माच्छरांवाली महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "लगभग चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई; छोड़े गए घर, तालाब, मंदिर आज भी सैन्य अभ्यास में काल्पनिक गांवों के रूप में उपयोग होते हैं। कोई विशिष्ट गांव सूची नहीं दी गई है, माच्छरांवाली का उल्लेख नहीं।",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "महाजन फायरिंग रेंज",
+      "Bikaner",
+      "Lunkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [
+        "Mahajan Field Firing Range creation",
+        "joint military exercises with USA, UK, Russia, France"
+      ],
+      "organizations": [
+        "भारतीय सेना"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_area_acres",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ भूमि में फैली है।",
+        "statement_en": "Mahajan Field Firing Range spans 3.37 lakh acres.",
+        "snippet": "3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093653Z"
+    ],
+    "notes": "सामान्य पृष्ठभूमि स्रोत; छोड़े गए गांवों के घर/मंदिर/तालाब आज भी सैन्य अभ्यास स्थल के रूप में मौजूद हैं — यह विवरण किसी भी 34-गांव (संभवतः machhranwali सहित) पर लागू हो सकता है, लेकिन नाम विशेष रूप से सत्यापित नहीं।",
+    "consent": ""
+  },
+  "src_c818a97c39d5": {
+    "id": "src_c818a97c39d5",
+    "village": "machhranwali",
+    "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "url_key": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "title": "Rajasthan District Gazetteers: Bikaner (OCR full text)",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K.K. Sehgal (ed.), Directorate of District Gazetteers, Government of Rajasthan",
+    "published_date": "1972",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Machhranwali\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "The official Rajasthan District Gazetteer for Bikaner, digitized with searchable OCR text on archive.org. The retrievable excerpt names other Lunkaransar-area places (Lonkaransar, Kolayat, Naukha) but no mention of Machhranwali was found in the portion searched; the gazetteer is long and only a partial OCR pass was checked.",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner district",
+      "Lonkaransar",
+      "Kolayat",
+      "Naukha"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [
+        "K.K. Sehgal"
+      ],
+      "places": [
+        "Lonkaransar",
+        "Kolayat",
+        "Naukha"
+      ],
+      "events": [],
+      "organizations": [
+        "Directorate of District Gazetteers, Government of Rajasthan"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, ed. K.K. Sehgal, Govt. of Rajasthan, 1972 (archive.org digitization)",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan Distict Gazetteers Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093653Z"
+    ],
+    "notes": "उच्च-मूल्य archival स्रोत जिसे मैन्युअल रूप से पूरा पढ़ा जाना चाहिए (राजस्व गांवों की सूची वाले अध्याय विशेष रूप से) — इस पास में केवल OCR टेक्स्ट का आंशिक भाग खोजा जा सका; Loonkaransar/Mahajan राजस्व गांवों की तालिका अभी जांची नहीं गई।",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "machhranwali",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan (Unstarred Question No. 4236, 8th Lok Sabha)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Lok Sabha Secretariat / Ministry of Defence",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Machhranwali \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Parliamentary record entry (metadata only; full PDF not fetched) for an unstarred question in the 8th Lok Sabha, 21 Aug 1987, addressed to the Ministry of Defence regarding the Mahajan Field Firing Range in Rajasthan. Likely primary-source evidence for the acquisition/compensation timeline, but content not yet verified beyond the listing page.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [
+        "Lok Sabha Unstarred Question No. 4236"
+      ],
+      "organizations": [
+        "Ministry of Defence",
+        "Lok Sabha Secretariat"
+      ]
+    },
+    "license": "",
+    "attribution": "Lok Sabha eLibrary Sansad, Unstarred Question No. 4236, 21 Aug 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093653Z"
+    ],
+    "notes": "केवल मेटाडेटा देखा जा सका; पूर्ण PDF (203.89 KB) डाउनलोड कर पढ़ना बाकी है — इसमें अधिग्रहीत गांवों की आधिकारिक सूची हो सकती है जिसमें Machhranwali का सत्यापन संभव हो।",
+    "consent": ""
+  }
+}

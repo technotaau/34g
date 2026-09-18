@@ -46,10 +46,12 @@ def resolve(village: dict, text: str, agent_direct_mention=None, agent_geo=None,
         reasons.append("state-level context only")
 
     neg = [n for n in village.get("negative_terms", []) if contains_term(corpus, n)]
+    specific_neg = [n for n in village.get("disambiguation", {}).get("negative_terms", []) if contains_term(corpus, n)]
     if neg:
         penalty = 0.15 if (s_hits or m_hits) else 0.45
         score -= penalty
         reasons.append(f"negative/other-place signals: {neg[:3]}")
+    cap_review = bool(specific_neg)  # a village-specific namesake signal always needs a human eye
     if village.get("unit_type") == "umbrella":
         score = max(score, 0.6 if (matched and (s_hits or m_hits)) else score)
 
@@ -57,6 +59,9 @@ def resolve(village: dict, text: str, agent_direct_mention=None, agent_geo=None,
     if agent_direct_mention is False and village.get("unit_type") != "umbrella":
         score = min(score, 0.55)
         reasons.append("agent: village not directly named")
+    if cap_review and score >= 0.6:
+        score = 0.55
+        reasons.append(f"capped at review: namesake signal {specific_neg[:2]}")
     if score >= 0.6:
         decision = "accept"
     elif agent_direct_mention is False and not matched and s_hits and not neg:

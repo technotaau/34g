@@ -257,3 +257,9 @@ def test_facebook_video_id():
     assert vmod.video_id("https://m.facebook.com/watch/?v=866810769709842&_rdr") == "fb866810769709842"
     assert vmod.is_facebook("https://fb.watch/abc/") and not vmod.is_facebook("https://youtu.be/x")
     assert vmod.video_id("https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/2884290418425839") == "fb2884290418425839"
+
+
+def test_village_specific_namesake_caps_at_review():
+    v = registry.get_village("bhojrasar")  # has Sardarshahar/Churu as specific negatives
+    r = resolve.resolve(v, "Bhojrasar village, Sardarshahar tehsil, near Mahajan Bikaner Lunkaransar")
+    assert r["decision"] != "accept"

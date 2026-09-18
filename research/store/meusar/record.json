@@ -12,12 +12,12 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-17",
+  "built": "2026-09-18",
   "counts": {
     "sources_total": 10,
-    "accepted": 3,
+    "accepted": 0,
     "context": 7,
-    "review": 0,
+    "review": 3,
     "rejected": 0,
     "duplicates": 0,
     "claims": 11
@@ -420,6 +420,51 @@
   },
   "manual_review": [
     {
+      "id": "src_87a784fff1e4",
+      "url": "https://en.wikipedia.org/wiki/Meusar",
+      "title": "Meusar",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Jasrasar', 'जसरासर']",
+        "capped at review: namesake signal ['Jasrasar', 'जसरासर']"
+      ]
+    },
+    {
+      "id": "src_3f9653572870",
+      "url": "https://www.census2011.co.in/data/village/69596-meusar-rajasthan.html",
+      "title": "Meusar Village Population - Nokha - Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
+        "capped at review: namesake signal ['Nokha', 'नोखा']"
+      ]
+    },
+    {
+      "id": "src_582d75746257",
+      "url": "https://villageinfo.org/village/69596",
+      "title": "Meusar Village (Pincode: 334803), Nokha, Bikaner | Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Meusar",
+        "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "negative/other-place signals: ['Nokha', 'नोखा']",
+        "capped at review: namesake signal ['Nokha', 'नोखा']"
+      ]
+    },
+    {
       "id": "src_f07a8c256ae6",
       "url": "https://www.jatland.com/home/Mahajan",
       "title": "Mahajan - महाजन",
@@ -471,12 +516,12 @@
       "published_date": "2011",
       "language": "en",
       "relevance": {
-        "score": 71,
+        "score": 69,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -489,13 +534,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Meusar",
           "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
           "district/nearby/clan context: ['Bikaner']",
-          "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']"
+          "negative/other-place signals: ['Nokha', 'नोखा', 'Jasrasar']",
+          "capped at review: namesake signal ['Nokha', 'नोखा']"
         ],
         "matched_names": [
           "Meusar",
@@ -532,12 +578,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 69,
+        "score": 67,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 9,
           "primary": 0,
           "corroboration": 0,
@@ -550,13 +596,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Meusar",
           "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
           "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "negative/other-place signals: ['Jasrasar', 'जसरासर']"
+          "negative/other-place signals: ['Jasrasar', 'जसरासर']",
+          "capped at review: namesake signal ['Jasrasar', 'जसरासर']"
         ],
         "matched_names": [
           "Meusar",
@@ -597,12 +644,12 @@
       "published_date": "2011",
       "language": "en",
       "relevance": {
-        "score": 67,
+        "score": 65,
         "band": "high",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 10,
           "primary": 0,
           "corroboration": 0,
@@ -615,13 +662,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Meusar",
           "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फायरिंग रेंज']",
           "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-          "negative/other-place signals: ['Nokha', 'नोखा']"
+          "negative/other-place signals: ['Nokha', 'नोखा']",
+          "capped at review: namesake signal ['Nokha', 'नोखा']"
         ],
         "matched_names": [
           "Meusar",

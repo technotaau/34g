@@ -74,13 +74,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
+        "capped at review: namesake signal ['Malasar', 'Bikaner tehsil']"
       ],
       "matched_names": [
         "Ladera",
@@ -104,12 +105,12 @@
       ]
     },
     "relevance": {
-      "score": 72,
+      "score": 70,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -123,7 +124,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -201,13 +204,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil', 'tehsil Bikaner']",
+        "capped at review: namesake signal ['Bikaner tehsil', 'Bikaner Tehsil']"
       ],
       "matched_names": [
         "Ladera"
@@ -225,12 +229,12 @@
       ]
     },
     "relevance": {
-      "score": 72,
+      "score": 70,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -244,7 +248,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -311,13 +317,14 @@
     },
     "claims": [],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']"
+        "negative/other-place signals: ['Malasar', 'Bikaner tehsil', 'Bikaner Tehsil']",
+        "capped at review: namesake signal ['Malasar', 'Bikaner tehsil']"
       ],
       "matched_names": [
         "Ladera"
@@ -335,12 +342,12 @@
       ]
     },
     "relevance": {
-      "score": 84,
+      "score": 82,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 14,
         "primary": 8,
         "corroboration": 0,
@@ -354,7 +361,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175551Z"
     ],
@@ -545,13 +554,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Ladera",
         "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
         "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
-        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']"
+        "negative/other-place signals: ['Bikaner tehsil', 'Bikaner Tehsil']",
+        "capped at review: namesake signal ['Bikaner tehsil', 'Bikaner Tehsil']"
       ],
       "matched_names": [
         "Ladera",
@@ -576,12 +586,12 @@
       ]
     },
     "relevance": {
-      "score": 70,
+      "score": 68,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 10,
         "primary": 0,
         "corroboration": 0,
@@ -595,7 +605,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175551Z"
     ],

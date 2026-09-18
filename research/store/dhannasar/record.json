@@ -15,9 +15,9 @@
   "built": "2026-09-18",
   "counts": {
     "sources_total": 8,
-    "accepted": 1,
+    "accepted": 0,
     "context": 6,
-    "review": 1,
+    "review": 2,
     "rejected": 0,
     "duplicates": 0,
     "claims": 6
@@ -303,6 +303,21 @@
   },
   "manual_review": [
     {
+      "id": "src_0149813c76fe",
+      "url": "https://www.jatland.com/home/Dhannasar",
+      "title": "Dhannasar - Jatland Wiki",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Dhannasar",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "negative/other-place signals: ['Rawatsar', 'रावतसर', 'Hanumangarh']",
+        "capped at review: namesake signal ['Rawatsar', 'रावतसर']"
+      ]
+    },
+    {
       "id": "src_9ac11e0011c2",
       "url": "https://indiankanoon.org/doc/171257844/",
       "title": "Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023",
@@ -385,12 +400,12 @@
       "published_date": "",
       "language": "en",
       "relevance": {
-        "score": 65,
-        "band": "high",
+        "score": 63,
+        "band": "medium",
         "factors": {
           "name_match": 30,
           "geo_match": 20,
-          "resolution_conf": 10,
+          "resolution_conf": 8,
           "credibility": 7,
           "primary": 0,
           "corroboration": 0,
@@ -403,13 +418,14 @@
         }
       },
       "resolution": {
-        "decision": "accept",
-        "confidence": 0.65,
+        "decision": "review",
+        "confidence": 0.55,
         "reasons": [
           "primary name match: Dhannasar",
           "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
           "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
-          "negative/other-place signals: ['Rawatsar', 'रावतसर', 'Hanumangarh']"
+          "negative/other-place signals: ['Rawatsar', 'रावतसर', 'Hanumangarh']",
+          "capped at review: namesake signal ['Rawatsar', 'रावतसर']"
         ],
         "matched_names": [
           "Dhannasar",

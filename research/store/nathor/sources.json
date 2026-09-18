@@ -146,13 +146,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Nathor",
         "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
         "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Bheekhnera']",
-        "negative/other-place signals: ['Nathusar']"
+        "negative/other-place signals: ['Nathusar']",
+        "capped at review: namesake signal ['Nathusar']"
       ],
       "matched_names": [
         "Nathor",
@@ -187,12 +188,12 @@
       ]
     },
     "relevance": {
-      "score": 73,
+      "score": 71,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 7,
         "primary": 0,
         "corroboration": 0,
@@ -206,7 +207,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175726Z"
     ],
@@ -524,13 +527,14 @@
       }
     ],
     "resolution": {
-      "decision": "accept",
-      "confidence": 0.65,
+      "decision": "review",
+      "confidence": 0.55,
       "reasons": [
         "primary name match: Nathor",
         "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
         "district/nearby/clan context: ['Bikaner']",
-        "negative/other-place signals: ['Nathusar']"
+        "negative/other-place signals: ['Nathusar']",
+        "capped at review: namesake signal ['Nathusar']"
       ],
       "matched_names": [
         "Nathor",
@@ -547,12 +551,12 @@
       ]
     },
     "relevance": {
-      "score": 67,
+      "score": 65,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 8,
         "credibility": 7,
         "primary": 0,
         "corroboration": 0,
@@ -566,7 +570,9 @@
     },
     "duplicate_of": "",
     "syndicate_group": "",
-    "review_flags": [],
+    "review_flags": [
+      "resolution_review"
+    ],
     "runs": [
       "run_20260905T175726Z"
     ],
