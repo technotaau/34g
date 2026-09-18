@@ -21,7 +21,7 @@
 | बेरावाला (Berawala) | 11 | 3 | 1 | 23 | 22 | [report](store/berawala/report.md) |
 | कानोलाई (Kanolai) | 9 | 3 | 4 | 9 | 9 | [report](store/kanolai/report.md) |
 | धन्नासर (Dhannasar) | – | – | – | – | – | _अभी शोध नहीं_ |
-| रिणा (Rina) | – | – | – | – | – | _अभी शोध नहीं_ |
+| रिणा (Rina) | 0 | 0 | 0 | 1 | 1 | [report](store/rina/report.md) |
 | मोटासर (Motasar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | भुंवाला (Bhunwala) | – | – | – | – | – | _अभी शोध नहीं_ |
 | चकड़ो (Chakdo) | – | – | – | – | – | _अभी शोध नहीं_ |

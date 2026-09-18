@@ -1,0 +1,6 @@
+{
+ "village": "rina",
+ "agent_notes": "Exhaustive search (20 WebSearch calls across web/news/gov/video/social/image/book channels, Hindi and English, plus 9 WebFetch pulls) found NO source that names a village 'Rina'/'रिणा'/'Reena'/'रीणा'/'रिना'/'Rinna' in Bikaner/Lunkaransar/Mahajan. Two Patrika articles specifically about the 34-village Mahajan Field Firing Range displacement (2018, 2022) name other displaced villages (Bhojraser, Kumhana, Motlai, Khaniser, Thoia, Manera, Duder, Dantaur, Khajuwala, Pugal, Mohangadh, Nachna) but never Rina, so they were NOT attached here per the no-bare-mention rule. A 2025 Patrika article on new Lunkaransar panchayat samitis lists ~48 gram panchayats and also does not include Rina. villageinfo.in, jatland.com (403/blocked) and connectrajasthan.com village-count pages gave no village-level list to check against. Query variants 'रिणा'/'रीणा'/'रिना'/'Reena'/'Rinna' all returned unrelated Wikipedia/Facebook/LinkedIn noise (mostly a fashion designer 'Rina Dhaka' and an unrelated 'Rina Mahajan' QA engineer). This matches the unit's own notes: it is sourced only from a Community Facebook comment list where positions 33-34 were blank in the shared image, so 'Rina' may be a misread or a village recorded under a different official name.",
+ "searches_used": 20,
+ "sources": []
+}
