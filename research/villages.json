@@ -789,7 +789,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Not in any indexed source; census village 'Kankarwala' (069297, Lunkaransar) is the nearest-sounding living village; check whether the list name is a variant of it."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Not in any indexed source; census village 'Kankarwala' (069297, Lunkaransar) is the nearest-sounding living village; check whether the list name is a variant of it. A school 'Kankralia Birmana' exists: Kankraliyo may be a hamlet of Birmana rather than a separate revenue village."
     },
     {
       "slug": "lakhor-chhoti",
@@ -974,8 +974,16 @@
           "Birmana Bikaner"
         ]
       },
-      "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "status": "acquired_partial",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded.",
+      "disambiguation": {
+        "negative_terms": [
+          "Suratgarh",
+          "सूरतगढ़",
+          "Ganganagar",
+          "श्रीगंगानगर"
+        ]
+      }
     },
     {
       "slug": "likhmisar",

@@ -1,0 +1,325 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_population_2011_75988f5a": {
+    "id": "clm_population_2011_75988f5a",
+    "claim_key": "population_2011",
+    "value": "429",
+    "statement_hi": "2011 की जनगणना अनुसार बिरमाणा (बीरमाणा) गांव की जनसंख्या 429 थी।",
+    "statement_en": "Per the 2011 Census, Birmana (Beermana) village had a population of 429.",
+    "sources": [
+      "src_5f0f5989363d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_5f0f5989363d",
+        "text": "Total population: 429 (230 males, 199 females)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_households_2011_d321d6f7": {
+    "id": "clm_households_2011_d321d6f7",
+    "claim_key": "households_2011",
+    "value": "77",
+    "statement_hi": "गांव में 77 परिवार/घर थे।",
+    "statement_en": "The village had 77 households.",
+    "sources": [
+      "src_5f0f5989363d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_5f0f5989363d",
+        "text": "Total households: 77"
+      }
+    ],
+    "competing": []
+  },
+  "clm_sc_population_pct_2011_c68a18da": {
+    "id": "clm_sc_population_pct_2011_c68a18da",
+    "claim_key": "sc_population_pct_2011",
+    "value": "86.48%",
+    "statement_hi": "गांव की 86.48% आबादी अनुसूचित जाति (SC) की थी।",
+    "statement_en": "86.48% of the village population was Scheduled Caste (SC).",
+    "sources": [
+      "src_5f0f5989363d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_5f0f5989363d",
+        "text": "Schedule Caste (SC): 371 people (86.48%)"
+      }
+    ],
+    "competing": []
+  },
+  "clm_literacy_rate_2011_e8eb6ce8": {
+    "id": "clm_literacy_rate_2011_e8eb6ce8",
+    "claim_key": "literacy_rate_2011",
+    "value": "57.73%",
+    "statement_hi": "साक्षरता दर 57.73% दर्ज की गई (एक अन्य मिरर पर 46.15%, विरोधाभास)।",
+    "statement_en": "Literacy rate recorded as 57.73% here (conflicts with 46.15% on villageinfo.in-derived snippet).",
+    "sources": [
+      "src_5f0f5989363d"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_5f0f5989363d",
+        "text": "Overall: 57.73%"
+      }
+    ],
+    "competing": [
+      "46.15%"
+    ]
+  },
+  "clm_literacy_rate_2011_c5112381": {
+    "id": "clm_literacy_rate_2011_c5112381",
+    "claim_key": "literacy_rate_2011",
+    "value": "46.15%",
+    "statement_hi": "साक्षरता दर 46.15% (census2011.co.in के दूसरे पृष्ठ पर 57.73%, विरोधाभास)।",
+    "statement_en": "Literacy rate 46.15% (conflicts with 57.73% figure on census2011.co.in).",
+    "sources": [
+      "src_422b38b8c4ee"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_422b38b8c4ee",
+        "text": "literacy rate of Birmana is 46.15%"
+      }
+    ],
+    "competing": [
+      "57.73%"
+    ]
+  },
+  "clm_pincode_dfcf2c5f": {
+    "id": "clm_pincode_dfcf2c5f",
+    "claim_key": "pincode",
+    "value": "334021",
+    "statement_hi": "गांव का पिन कोड 334021 दर्शाया गया (एक अन्य स्रोत पर 334603, विरोधाभास)।",
+    "statement_en": "Village pincode given as 334021 here (conflicts with 334603 elsewhere).",
+    "sources": [
+      "src_9865c663cb12"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_9865c663cb12",
+        "text": "Pin Code: 334021"
+      }
+    ],
+    "competing": [
+      "334603"
+    ]
+  },
+  "clm_pincode_5e575c6c": {
+    "id": "clm_pincode_5e575c6c",
+    "claim_key": "pincode",
+    "value": "334603",
+    "statement_hi": "पिन कोड 334603 (onefivenine.com पर 334021, विरोधाभास)।",
+    "statement_en": "Pincode 334603 here (conflicts with 334021 on onefivenine.com).",
+    "sources": [
+      "src_422b38b8c4ee"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_422b38b8c4ee",
+        "text": "falls under the 334603 pincode"
+      }
+    ],
+    "competing": [
+      "334021"
+    ]
+  },
+  "clm_distance_from_lunkaransar_km_472b07b9": {
+    "id": "clm_distance_from_lunkaransar_km_472b07b9",
+    "claim_key": "distance_from_lunkaransar_km",
+    "value": "21",
+    "statement_hi": "लूणकरणसर से दूरी 21 किमी बताई गई (एक अन्य स्रोत पर 40 किमी, विरोधाभास)।",
+    "statement_en": "Distance from Lunkaransar given as 21 km (conflicts with 40 km on villageinfo.in).",
+    "sources": [
+      "src_9865c663cb12"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_9865c663cb12",
+        "text": "From Lunkaransar: 21 km"
+      }
+    ],
+    "competing": []
+  },
+  "clm_distance_from_bikaner_km_b74f5ee9": {
+    "id": "clm_distance_from_bikaner_km_b74f5ee9",
+    "claim_key": "distance_from_bikaner_km",
+    "value": "79",
+    "statement_hi": "बीकानेर से दूरी 79 किमी उत्तर बताई गई (एक अन्य स्रोत पर 90 किमी)।",
+    "statement_en": "Distance from Bikaner HQ given as 79 km north (conflicts with 90 km elsewhere).",
+    "sources": [
+      "src_9865c663cb12"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_9865c663cb12",
+        "text": "From Bikaner District headquarters: 79 km north"
+      }
+    ],
+    "competing": []
+  },
+  "clm_school_names_df27602a": {
+    "id": "clm_school_names_df27602a",
+    "claim_key": "school_names",
+    "value": "G.P.S. Kankralia Birmana; G.S.P.S. Birmana",
+    "statement_hi": "गांव में दो सरकारी विद्यालय हैं: जी.पी.एस. कांकरालिया बिरमाणा और जी.एस.पी.एस. बिरमाणा।",
+    "statement_en": "Two government schools are recorded for the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana.",
+    "sources": [
+      "src_9865c663cb12"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_9865c663cb12",
+        "text": "Schools Present: G.P.S. Kankralia Birmana, G.S.P.S. Birmana"
+      }
+    ],
+    "competing": []
+  },
+  "clm_gram_panchayat_0df4ba48": {
+    "id": "clm_gram_panchayat_0df4ba48",
+    "claim_key": "gram_panchayat",
+    "value": "Khokhrana",
+    "statement_hi": "बिरमाणा गांव की ग्राम पंचायत खोखराना है।",
+    "statement_en": "Birmana village's Gram Panchayat is Khokhrana.",
+    "sources": [
+      "src_422b38b8c4ee"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_422b38b8c4ee",
+        "text": "Khokhrana serves as the Gram Panchayat for Birmana village"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_area_hectares_731df0fc": {
+    "id": "clm_village_area_hectares_731df0fc",
+    "claim_key": "village_area_hectares",
+    "value": "1542",
+    "statement_hi": "गांव का कुल क्षेत्रफल 1542 हेक्टेयर है।",
+    "statement_en": "Total village area is 1542 hectares.",
+    "sources": [
+      "src_422b38b8c4ee"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_422b38b8c4ee",
+        "text": "total geographical area of 1542 hectares"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_census_code_68cb24fd": {
+    "id": "clm_village_census_code_68cb24fd",
+    "claim_key": "village_census_code",
+    "value": "069240",
+    "statement_hi": "गांव का जनगणना कोड 069240 है।",
+    "statement_en": "Village census code is 069240.",
+    "sources": [
+      "src_422b38b8c4ee"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_422b38b8c4ee",
+        "text": "village code of Birmana is 069240"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_range_e389dc21": {
+    "id": "clm_acquisition_year_range_e389dc21",
+    "claim_key": "acquisition_year_range",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों का अधिग्रहण 1984-85 में हुआ (सामान्य क्षेत्रीय संदर्भ, बिरमाणा का नाम इस लेख में नहीं है)।",
+    "statement_en": "Acquisition of the 34 villages for Mahajan Field Firing Range happened in 1984-85 per this article (general regional context; Birmana is NOT named in this article).",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "34 गांवों की जमीन का अधिग्रहण कर 1984-85 में महाजन फील्ड फायरिंग रेंज बनाई गई"
+      }
+    ],
+    "competing": []
+  }
+}

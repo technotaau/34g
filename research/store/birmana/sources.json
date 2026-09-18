@@ -1,0 +1,679 @@
+{
+  "src_5f0f5989363d": {
+    "id": "src_5f0f5989363d",
+    "village": "birmana",
+    "url": "https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/village/69240-beermana-rajasthan.html",
+    "title": "Beermana Village Population - Lunkaransar - Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "census2011.co.in",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Birmana village Bikaner census2011.co.in"
+    ],
+    "summary": "Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spellings refer to the same census village (code 069240).",
+    "topics": [
+      "census_admin",
+      "people_family"
+    ],
+    "period": "1997_2015",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Beermana",
+    "evidence_snippets": [
+      "Beermana village is administrated by Sarpanch",
+      "Schedule Caste (SC) constitutes 86.48 % of total population"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "census2011.co.in, Census of India 2011 data mirror",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "population_2011",
+        "value": "429",
+        "statement_hi": "2011 की जनगणना अनुसार बिरमाणा (बीरमाणा) गांव की जनसंख्या 429 थी।",
+        "statement_en": "Per the 2011 Census, Birmana (Beermana) village had a population of 429.",
+        "snippet": "Total population: 429 (230 males, 199 females)"
+      },
+      {
+        "claim_key": "households_2011",
+        "value": "77",
+        "statement_hi": "गांव में 77 परिवार/घर थे।",
+        "statement_en": "The village had 77 households.",
+        "snippet": "Total households: 77"
+      },
+      {
+        "claim_key": "sc_population_pct_2011",
+        "value": "86.48%",
+        "statement_hi": "गांव की 86.48% आबादी अनुसूचित जाति (SC) की थी।",
+        "statement_en": "86.48% of the village population was Scheduled Caste (SC).",
+        "snippet": "Schedule Caste (SC): 371 people (86.48%)"
+      },
+      {
+        "claim_key": "literacy_rate_2011",
+        "value": "57.73%",
+        "statement_hi": "साक्षरता दर 57.73% दर्ज की गई (एक अन्य मिरर पर 46.15%, विरोधाभास)।",
+        "statement_en": "Literacy rate recorded as 57.73% here (conflicts with 46.15% on villageinfo.in-derived snippet).",
+        "snippet": "Overall: 57.73%"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Birmana",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Birmana",
+        "बिरमाणा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100554Z"
+    ],
+    "notes": "Village name spelled 'Beermana' on this mirror vs 'Birmana' elsewhere; population/household figures match exactly, confirming same village. Village census code 069240 given on a related census2011.co.in listing page, not on this exact page.",
+    "consent": ""
+  },
+  "src_9865c663cb12": {
+    "id": "src_9865c663cb12",
+    "village": "birmana",
+    "url": "http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana",
+    "url_key": "https://onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana",
+    "title": "Beermana Village - Bikaner",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "onefivenine.com",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Birmana Lunkaransar Mahajan"
+    ],
+    "summary": "Village directory page listing administrative and demographic details for Beermana village: pincode 334021, post office Chhatararh, STD code 01529, ~21 km from Lunkaransar and ~79 km north of Bikaner. Lists two schools operating in the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana, which use the 'Birmana' spelling for the school names even though the village entry is titled 'Beermana'.",
+    "topics": [
+      "census_admin",
+      "education"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Chhatararh"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Beermana / Birmana (in school names)",
+    "evidence_snippets": [
+      "Schools Present: G.P.S. Kankralia Birmana, G.S.P.S. Birmana",
+      "Pin Code: 334021, Post Office: Chhatararh"
+    ],
+    "entities": {
+      "people": [
+        "Sumit Godara (MLA)",
+        "Arjun Ram Meghwal (MP)"
+      ],
+      "places": [
+        "Chhatararh",
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": [
+        "G.P.S. Kankralia Birmana",
+        "G.S.P.S. Birmana"
+      ]
+    },
+    "license": "",
+    "attribution": "onefivenine.com village directory",
+    "is_primary": false,
+    "reliability": 0.6,
+    "related_villages": [
+      "Kankralia"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "pincode",
+        "value": "334021",
+        "statement_hi": "गांव का पिन कोड 334021 दर्शाया गया (एक अन्य स्रोत पर 334603, विरोधाभास)।",
+        "statement_en": "Village pincode given as 334021 here (conflicts with 334603 elsewhere).",
+        "snippet": "Pin Code: 334021"
+      },
+      {
+        "claim_key": "distance_from_lunkaransar_km",
+        "value": "21",
+        "statement_hi": "लूणकरणसर से दूरी 21 किमी बताई गई (एक अन्य स्रोत पर 40 किमी, विरोधाभास)।",
+        "statement_en": "Distance from Lunkaransar given as 21 km (conflicts with 40 km on villageinfo.in).",
+        "snippet": "From Lunkaransar: 21 km"
+      },
+      {
+        "claim_key": "distance_from_bikaner_km",
+        "value": "79",
+        "statement_hi": "बीकानेर से दूरी 79 किमी उत्तर बताई गई (एक अन्य स्रोत पर 90 किमी)।",
+        "statement_en": "Distance from Bikaner HQ given as 79 km north (conflicts with 90 km elsewhere).",
+        "snippet": "From Bikaner District headquarters: 79 km north"
+      },
+      {
+        "claim_key": "school_names",
+        "value": "G.P.S. Kankralia Birmana; G.S.P.S. Birmana",
+        "statement_hi": "गांव में दो सरकारी विद्यालय हैं: जी.पी.एस. कांकरालिया बिरमाणा और जी.एस.पी.एस. बिरमाणा।",
+        "statement_en": "Two government schools are recorded for the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana.",
+        "snippet": "Schools Present: G.P.S. Kankralia Birmana, G.S.P.S. Birmana"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Birmana",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']"
+      ],
+      "matched_names": [
+        "Birmana",
+        "बिरमाणा"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 83,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 9,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100554Z"
+    ],
+    "notes": "Current-day MLA/MP names are contemporary administrative metadata, not historical claims. School name 'Kankralia Birmana' suggests a linked/adjoining hamlet called Kankralia worth checking as a possible related unit.",
+    "consent": ""
+  },
+  "src_422b38b8c4ee": {
+    "id": "src_422b38b8c4ee",
+    "village": "birmana",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana/",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana",
+    "title": "Birmana Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "villageinfo.in",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Birmana village Bikaner Rajasthan"
+    ],
+    "summary": "Village directory entry using the exact spelling 'Birmana', giving Gram Panchayat as Khokhrana, pincode 334603, village area 1542 hectares, population 429 (230M/199F), literacy 46.15%, ~40 km from Lunkaransar and ~90 km from Bikaner. WebFetch of the live page was blocked (HTTP 403); data below is drawn from the search-engine snippet of this page, which itself appears to summarize Census 2011 figures.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "1997_2015",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Khokhrana"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Birmana",
+    "evidence_snippets": [
+      "Khokhrana serves as the Gram Panchayat for Birmana village",
+      "village covers a total geographical area of 1542 hectares"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khokhrana",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [
+      "Khokhrana"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "gram_panchayat",
+        "value": "Khokhrana",
+        "statement_hi": "बिरमाणा गांव की ग्राम पंचायत खोखराना है।",
+        "statement_en": "Birmana village's Gram Panchayat is Khokhrana.",
+        "snippet": "Khokhrana serves as the Gram Panchayat for Birmana village"
+      },
+      {
+        "claim_key": "village_area_hectares",
+        "value": "1542",
+        "statement_hi": "गांव का कुल क्षेत्रफल 1542 हेक्टेयर है।",
+        "statement_en": "Total village area is 1542 hectares.",
+        "snippet": "total geographical area of 1542 hectares"
+      },
+      {
+        "claim_key": "village_census_code",
+        "value": "069240",
+        "statement_hi": "गांव का जनगणना कोड 069240 है।",
+        "statement_en": "Village census code is 069240.",
+        "snippet": "village code of Birmana is 069240"
+      },
+      {
+        "claim_key": "pincode",
+        "value": "334603",
+        "statement_hi": "पिन कोड 334603 (onefivenine.com पर 334021, विरोधाभास)।",
+        "statement_en": "Pincode 334603 here (conflicts with 334021 on onefivenine.com).",
+        "snippet": "falls under the 334603 pincode"
+      },
+      {
+        "claim_key": "literacy_rate_2011",
+        "value": "46.15%",
+        "statement_hi": "साक्षरता दर 46.15% (census2011.co.in के दूसरे पृष्ठ पर 57.73%, विरोधाभास)।",
+        "statement_en": "Literacy rate 46.15% (conflicts with 57.73% figure on census2011.co.in).",
+        "snippet": "literacy rate of Birmana is 46.15%"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Birmana",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Birmana",
+        "बिरमाणा",
+        "बिरमाणा गांव"
+      ],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100554Z"
+    ],
+    "notes": "Direct WebFetch returned 403 Forbidden; content taken from WebSearch's cached snippet of the page only, so exact wording/layout on the live page is unverified. Panchayat name Khokhrana and pincode/distance figures conflict with onefivenine.com's entry for the same census code.",
+    "consent": ""
+  },
+  "src_5861b990efb6": {
+    "id": "src_5861b990efb6",
+    "village": "birmana",
+    "url": "https://www.geonames.org/search.html?q=birmana&country=IN",
+    "url_key": "https://geonames.org/search.html?country=IN&q=birmana",
+    "title": "GeoNames search results for 'birmana', India",
+    "platform": "geonames.org",
+    "source_type": "government",
+    "media_type": "dataset",
+    "author": "GeoNames",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "GeoNames search for Birmana (per task instructions)"
+    ],
+    "summary": "GeoNames' gazetteer has exactly one 'Birmana' record for India, and it is NOT in Bikaner/Lunkaransar: it is a populated place at approx. 29.167N, 73.727E in Suratgarh tehsil, Ganganagar district — about 90+ km from Mahajan/Lunkaransar. GeoNames has no entry for any Birmana within Bikaner district.",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Suratgarh",
+      "Ganganagar",
+      "Rajasthan"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Bīrmāna",
+    "evidence_snippets": [
+      "Ganganagar > Suratgarh district",
+      "N 29 10 1 / E 73 43 37"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Suratgarh",
+        "Ganganagar"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "GeoNames.org gazetteer",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Birmana",
+        "strong geo context: ['Mahajan', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Suratgarh']",
+        "negative/other-place signals: ['Suratgarh', 'Ganganagar']",
+        "capped at review: namesake signal ['Suratgarh', 'Ganganagar']"
+      ],
+      "matched_names": [
+        "Birmana"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "Bikaner",
+        "Suratgarh",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Suratgarh",
+        "Ganganagar"
+      ]
+    },
+    "relevance": {
+      "score": 63,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260918T100554Z"
+    ],
+    "notes": "This is almost certainly a DIFFERENT village that happens to share the name 'Birmana' — it sits in Ganganagar district (Suratgarh tehsil), not Bikaner, and Ganganagar is far outside the 34-gaon/Mahajan Field Firing Range area. Recorded here as a negative/disambiguation finding so the pipeline does not wrongly merge this GeoNames point with the Bikaner Birmana. There is a matching Facebook page 'facebook.com/birmanasuratgarh' for this same Suratgarh village, also not relevant to this unit.",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "birmana",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "बिरमाणा महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "Rajasthan Patrika feature on families displaced in 1984-85 when the Mahajan Field Firing Range was created from 34 villages; describes the emotional pain of losing ancestral land despite compensation and resettlement to Khajuwala, Dantur, Pugal, Mohangadh and Nachna. Names Bhojrasar, Kumhana, Motlai, Khanisar, Thoiya, Maneran and Duder as displaced villages but does NOT mention Birmana anywhere.",
+    "topics": [
+      "displacement",
+      "history",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Pugal",
+      "Mohangadh",
+      "Nachna",
+      "Dantur"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 गांवों की जमीन का अधिग्रहण कर 1984-85 में महाजन फील्ड फायरिंग रेंज बनाई गई"
+    ],
+    "entities": {
+      "people": [
+        "Hari Singh"
+      ],
+      "places": [
+        "Bhojrasar",
+        "Kumhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiya",
+        "Maneran",
+        "Duder",
+        "Khajuwala",
+        "Pugal",
+        "Mohangadh",
+        "Nachna",
+        "Dantur"
+      ],
+      "events": [
+        "acquisition of 34 villages for Mahajan Field Firing Range, 1984-85"
+      ],
+      "organizations": [
+        "Indian Army",
+        "Rajasthan Patrika"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "maneran",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year_range",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों का अधिग्रहण 1984-85 में हुआ (सामान्य क्षेत्रीय संदर्भ, बिरमाणा का नाम इस लेख में नहीं है)।",
+        "statement_en": "Acquisition of the 34 villages for Mahajan Field Firing Range happened in 1984-85 per this article (general regional context; Birmana is NOT named in this article).",
+        "snippet": "34 गांवों की जमीन का अधिग्रहण कर 1984-85 में महाजन फील्ड फायरिंग रेंज बनाई गई"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "Khajuwala",
+        "Pugal",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100554Z"
+    ],
+    "notes": "IMPORTANT: Birmana is NOT named in this article; only region/topic context applies (Mahajan Field Firing Range, Bikaner, 34-village displacement, 1984-85). Included only as weak regional background per direct_mention:false rule. Notably this named list of displaced villages does not include Birmana, which is a point against the unverified claim in this unit's own notes field that Birmana was among the acquired 34.",
+    "consent": ""
+  }
+}

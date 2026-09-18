@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T100554Z",
+    "file": "/home/user/34g/research/inbox/birmana/discovery.json",
+    "input": 5,
+    "invalid": 0,
+    "new": 5,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 19,
+    "agent_notes": "Only census-mirror sites (census2011.co.in, onefivenine.com, villageinfo.in) confirm a real village 'Birmana'/'Beermana' (code 069240) in Lunkaransar tehsil, Bikaner, panchayat Khokhrana, population 429 (2011). No social media, video, image, temple/gotra, book, or legal-database hit was found for this village under any spelling. GeoNames has NO entry for a Birmana in Bikaner district at all — its only 'Birmana' hit is a different, unrelated populated place in Suratgarh tehsil, Ganganagar district (~29.17N 73.73E), which must not be conflated with this unit. Crucially, no source found (includin",
+    "total_after": 5,
+    "at": "2026-09-18T10:05:54.961661+00:00"
+  }
+]

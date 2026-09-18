@@ -36,7 +36,7 @@
 | हाथूसर (Hathusar) | 6 | 1 | 0 | 3 | 3 | [report](store/hathusar/report.md) |
 | हिन्दोर (Hindor) | 5 | 0 | 2 | 4 | 4 | [report](store/hindor/report.md) |
 | टिडासर (Tidasar) | 4 | 0 | 0 | 2 | 2 | [report](store/tidasar/report.md) |
-| बिरमाणा (Birmana) | – | – | – | – | – | _अभी शोध नहीं_ |
+| बिरमाणा (Birmana) | 5 | 3 | 1 | 15 | 15 | [report](store/birmana/report.md) |
 | लिखमीसर (Likhmisar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कुम्भासर (Kumbhasar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | कचराणा (Kachrana) | 6 | 0 | 0 | 1 | 1 | [report](store/kachrana/report.md) |

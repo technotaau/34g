@@ -50,7 +50,8 @@
       "duderiya",
       "hindor",
       "rampura",
-      "kachrana"
+      "kachrana",
+      "birmana"
     ],
     "first_seen": "2026-09-05"
   },
@@ -827,6 +828,30 @@
   "https://play.google.com/store/apps/details?hl=en_GB&id=com.surjeetrathore.rampura": {
     "villages": [
       "rampura"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://census2011.co.in/data/village/69240-beermana-rajasthan.html": {
+    "villages": [
+      "birmana"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana": {
+    "villages": [
+      "birmana"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana": {
+    "villages": [
+      "birmana"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://geonames.org/search.html?country=IN&q=birmana": {
+    "villages": [
+      "birmana"
     ],
     "first_seen": "2026-09-18"
   }
