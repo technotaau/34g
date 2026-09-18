@@ -20,7 +20,7 @@
 | नाथौर (Nathor) | 6 | 4 | 0 | 9 | 9 | [report](store/nathor/report.md) |
 | बेरावाला (Berawala) | 11 | 3 | 1 | 23 | 22 | [report](store/berawala/report.md) |
 | कानोलाई (Kanolai) | 9 | 3 | 4 | 9 | 9 | [report](store/kanolai/report.md) |
-| धन्नासर (Dhannasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| धन्नासर (Dhannasar) | 8 | 1 | 1 | 6 | 6 | [report](store/dhannasar/report.md) |
 | रिणा (Rina) | 0 | 0 | 0 | 1 | 1 | [report](store/rina/report.md) |
 | मोटासर (Motasar) | – | – | – | – | – | _अभी शोध नहीं_ |
 | भुंवाला (Bhunwala) | – | – | – | – | – | _अभी शोध नहीं_ |

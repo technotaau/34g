@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T093630Z",
+    "file": "/home/user/34g/research/inbox/dhannasar/discovery.json",
+    "input": 8,
+    "invalid": 0,
+    "new": 8,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "No source was found that directly and reliably ties a village called Dhannasar to Bikaner/Lunkaransar/Mahajan. The only 'Dhannasar' hits on the open web (Jatland Wiki, IndianKanoon court-document addresses) consistently place it in Rawatsar tehsil, Hanumangarh district -- a different district from the 34-gaon area -- so it is probably a namesake village, not our target. Patrika's Mahajan Field Firing Range article series (2018, 2022 x2) gives strong general geo context (34 villages acquired 1984-85, Bikaner/Lunkaransar/Mahajan, resettlement in Khajuwala/Pugal/Dantor/Mohangarh/Nachna) but never",
+    "total_after": 8,
+    "at": "2026-09-18T09:36:30.728197+00:00"
+  }
+]

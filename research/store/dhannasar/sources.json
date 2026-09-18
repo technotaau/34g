@@ -1,0 +1,939 @@
+{
+  "src_0149813c76fe": {
+    "id": "src_0149813c76fe",
+    "village": "dhannasar",
+    "url": "https://www.jatland.com/home/Dhannasar",
+    "url_key": "https://jatland.com/home/Dhannasar",
+    "title": "Dhannasar - Jatland Wiki",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "Jatland Wiki contributors",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Dhannasar jatland wikipedia Lunkaransar"
+    ],
+    "summary": "जाटलैंड विकी पर 'धन्नासर' नामक एक गांव का उल्लेख है, परंतु यह हनुमानगढ़ जिले की रावतसर तहसील में स्थित बताया गया है, न कि बीकानेर/लूणकरणसर/महाजन में। संभवतः यह हमारे लक्षित 34-गांव धन्नासर से अलग, समान नाम वाला कोई अन्य गांव है। पेज को सीधे फेच करने पर 403 त्रुटि मिली; जानकारी केवल सर्च-स्निपेट से ली गई है।",
+    "topics": [
+      "census_admin",
+      "history",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Rawatsar",
+      "Hanumangarh"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Dhannasar",
+    "evidence_snippets": [
+      "Dhannasar is a village in tehsil Rawatsar in district Hanumangarh in Rajasthan"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Rawatsar",
+        "Hanumangarh"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, jatland.com",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "district_location_conflict",
+        "value": "Rawatsar tehsil, Hanumangarh district (per Jatland) -- conflicts with target unit's Bikaner/Lunkaransar/Mahajan location",
+        "statement_hi": "जाटलैंड के अनुसार 'धन्नासर' गांव हनुमानगढ़ जिले की रावतसर तहसील में है, बीकानेर के लूणकरणसर/महाजन क्षेत्र में नहीं।",
+        "statement_en": "Per Jatland, a village named Dhannasar sits in Rawatsar tehsil, Hanumangarh district -- not in the Bikaner/Lunkaransar/Mahajan area.",
+        "snippet": "village in tehsil Rawatsar in district Hanumangarh"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.65,
+      "reasons": [
+        "primary name match: Dhannasar",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'जाट']",
+        "negative/other-place signals: ['Rawatsar', 'रावतसर', 'Hanumangarh']"
+      ],
+      "matched_names": [
+        "Dhannasar",
+        "धन्नासर",
+        "धन्नासर गांव"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "34 गांव",
+        "34 गाँव",
+        "Bikaner",
+        "बीकानेर",
+        "जाट",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Rawatsar",
+        "रावतसर",
+        "Hanumangarh",
+        "हनुमानगढ़"
+      ]
+    },
+    "relevance": {
+      "score": 65,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Likely a different, same-named village in Hanumangarh district, not the 34-gaon Dhannasar. High-priority item to verify/disambiguate; could not confirm via direct fetch (403 blocked).",
+    "consent": ""
+  },
+  "src_9ac11e0011c2": {
+    "id": "src_9ac11e0011c2",
+    "village": "dhannasar",
+    "url": "https://indiankanoon.org/doc/171257844/",
+    "url_key": "https://indiankanoon.org/doc/171257844",
+    "title": "Robin Katriya S/O Shri Sardara Ram vs Registrar (Examination) on 18 September, 2023",
+    "platform": "indiankanoon",
+    "source_type": "legal",
+    "media_type": "document",
+    "author": "Rajasthan High Court",
+    "published_date": "2023-09-18",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Dhannasar\" Bikaner indiankanoon"
+    ],
+    "summary": "राजस्थान हाईकोर्ट के एक न्यायिक आदेश में याचिकाकर्ता के पते के रूप में 'Vpo-Dhannasar, Rawatsar, Hanumangarh' दर्ज है। यह पुनः हनुमानगढ़ जिले वाले धन्नासर की ओर इशारा करता है, बीकानेर वाले धन्नासर की ओर नहीं। केस की विषयवस्तु परीक्षा/रजिस्ट्रार से संबंधित है, गांव के इतिहास से नहीं।",
+    "topics": [
+      "census_admin",
+      "history",
+      "legal",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Rawatsar",
+      "Hanumangarh"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Dhannasar",
+    "evidence_snippets": [
+      "Vpo-Dhannasar, Rawatsar, Hanumangarh"
+    ],
+    "entities": {
+      "people": [
+        "Robin Katriya S/O Shri Sardara Ram"
+      ],
+      "places": [
+        "Rawatsar",
+        "Hanumangarh"
+      ],
+      "events": [],
+      "organizations": [
+        "Rajasthan High Court",
+        "Registrar (Examination)"
+      ]
+    },
+    "license": "",
+    "attribution": "IndianKanoon (Rajasthan High Court order, 18 Sept 2023)",
+    "is_primary": true,
+    "reliability": 0.9,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.4,
+      "reasons": [
+        "primary name match: Dhannasar",
+        "district/nearby/clan context: ['बीकानेर']",
+        "negative/other-place signals: ['Rawatsar', 'Hanumangarh', 'हनुमानगढ़']"
+      ],
+      "matched_names": [
+        "Dhannasar",
+        "धन्नासर"
+      ],
+      "geo_hits": [
+        "बीकानेर",
+        "राजस्थान"
+      ],
+      "negative_hits": [
+        "Rawatsar",
+        "Hanumangarh",
+        "हनुमानगढ़",
+        "Dhannasar Rawatsar"
+      ]
+    },
+    "relevance": {
+      "score": 80,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 6,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Confirms existence of a separate 'Dhannasar, Rawatsar, Hanumangarh' as a residential address in unrelated litigation. Not our village; kept as evidence of the naming conflict, not as content about the target village.",
+    "consent": ""
+  },
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "dhannasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "धन्नासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "रक्षा मंत्रालय ने 1984-85 में महाजन क्षेत्र के 34 गांवों की जमीन अधिग्रहित कर महाजन फील्ड फायरिंग रेंज बनाई। विस्थापित परिवारों को घर, पेड़, कृषि भूमि का मुआवजा और खाजूवाला/पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई, पर पैतृक गांव खोने का दर्द आज भी बना है। लेख में भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर जैसे गांवों के नाम हैं; धन्नासर का सीधा उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan",
+      "Khajuwala",
+      "Pugal",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "एक साथ 34 गांव उठाकर यहां के बाशिंदों को घर, पेड़, कृषि भूमि सहित"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Pugal",
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiya",
+        "Maneran",
+        "Duder"
+      ],
+      "events": [
+        "1984-85 land acquisition for Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "maneran",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि रक्षा मंत्रालय द्वारा अधिगृहीत की गई।",
+        "statement_en": "Land from 34 villages was acquired by the Defence Ministry in 1984-85 to create the Mahajan Field Firing Range.",
+        "snippet": "एक साथ 34 गांव उठाकर"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Pugal (irrigated land allotted)",
+        "statement_hi": "विस्थापित किसानों को खाजूवाला व पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई।",
+        "statement_en": "Displaced farmers were allotted irrigated land in areas like Khajuwala and Pugal.",
+        "snippet": "खाजूवाला, पूगल"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 48,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 4,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Strong geo/topic context for the whole 34-gaon displacement story but does not name Dhannasar; kept for the pipeline as background/comparative evidence and because it names several other sister villages of the same acquisition.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "dhannasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range | Patrika News",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "Dhannasar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "1984-85 में महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि अधिगृहीत करने की कहानी दोहराते हुए यह लेख बताता है कि किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़ और नाचना में सिंचित भूमि आवंटित हुई। 34 वर्ष बाद भी उजड़े आशियाने का दर्द ताजा है। धन्नासर का नाम अलग से नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan",
+      "Khajuwala",
+      "Dantor",
+      "Pugal",
+      "Mohangarh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "34 वर्ष बाद भी इन विस्थापित परिवारों की आंखों से उजड़े आशियाने का दर्द कम नहीं हुआ"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantor",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना में सिंचित भूमि दी गई।",
+        "statement_en": "Displaced farmers were given irrigated land in Khajuwala, Dantor, Pugal, Mohangarh and Nachna.",
+        "snippet": "खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Background context piece, no direct village-name mention; useful for corroborating resettlement-site claims across sources (earlier, 2018 version of the recurring Patrika story).",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "dhannasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "Dhannasar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "यह लेख बताता है कि करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई, जहां अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त अभ्यास हो चुके हैं। खाली गांवों के खंडहर अब सैन्य अभ्यास में 'नकली गांव' के रूप में उपयोग होते हैं। धन्नासर का उल्लेख नहीं है।",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [
+        "Joint military exercises: India-USA (Feb 2021), India-France (2015-16, 2019), India-Russia (2013, 2015), India-Britain (2013, 2015, 2017), India-Oman (Aug 2022)"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2 Aug 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "range_area_acres",
+        "value": "3.37 lakh acres",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ क्षेत्र में फैली है।",
+        "statement_en": "The Mahajan Field Firing Range spans 3.37 lakh acres.",
+        "snippet": "3.37 लाख एकड़ के भूभाग"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "General military-range context; abandoned village ruins (possibly including Dhannasar's site, unconfirmed) are used as mock villages for army drills -- worth a targeted follow-up search.",
+    "consent": ""
+  },
+  "src_c818a97c39d5": {
+    "id": "src_c818a97c39d5",
+    "village": "dhannasar",
+    "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "url_key": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "title": "Rajasthan District Gazetteers: Bikaner (full text)",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "text",
+    "author": "K. K. Sehgal (ed.)",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Dhannasar\" Bikaner gazetteer archive.org"
+    ],
+    "summary": "बीकानेर जिला गजेटियर का पूर्ण टेक्स्ट archive.org पर उपलब्ध है। खोजे गए अंश में 'धन्नासर'/'Dhanasar' का सीधा उल्लेख नहीं मिला, परंतु लूणकरणसर तहसील (वैकल्पिक वर्तनी 'Lonkaransar') और 'महाजन' (सामाजिक समूह के रूप में) का उल्लेख है। यह गजेटियर गांव-स्तरीय शोध हेतु महत्वपूर्ण प्राथमिक स्रोत बना रहेगा -- पूर्ण-पाठ को और गहराई से खोजना बाकी है।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner",
+      "Lunkaransar",
+      "Lonkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Lonkaransar... one of four tahsils... population 53,961"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Public domain / Internet Archive hosted government gazetteer",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, ed. K.K. Sehgal, Directorate of District Gazetteers, Rajasthan",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 52,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "No direct mention found in the portion searched; the full OCR text is very long and only partially reviewed via automated search -- a human researcher should grep the full djvu text for 'Dhanasar', 'Dhannasar', and 'Mahajan' village-list sections specifically.",
+    "consent": ""
+  },
+  "src_cfc3c0cd8dea": {
+    "id": "src_cfc3c0cd8dea",
+    "village": "dhannasar",
+    "url": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "url_key": "https://archive.org/details/in.ernet.dli.2015.547015",
+    "title": "Gazetteer of the Bikaner State (1874)",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "P. W. Powlett",
+    "published_date": "1874",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Dhannasar\" Bikaner gazetteer archive.org"
+    ],
+    "summary": "बीकानेर रियासत का 1874 का ऐतिहासिक गजेटियर (P.W. Powlett) archive.org पर उपलब्ध है। इसे स्वयं नहीं खोजा गया (केवल कैटलॉग पेज मिला); रियासतकालीन गांव-सूची में धन्नासर/महाजन क्षेत्र के परगनों की जांच हेतु आगे का शोध आवश्यक है।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "Public domain / Internet Archive hosted",
+    "attribution": "Gazetteer of the Bikaner State, P.W. Powlett, 1874",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Gazetteer of the Bikaner State",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['महाजन']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "Bikaner",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Catalog entry only, content not fetched/searched in this pass. Flagged as a high-value pre-1900 primary source for a human researcher to check for Dhannasar/Mahajan pargana village lists.",
+    "consent": ""
+  },
+  "src_e9f089cdc38c": {
+    "id": "src_e9f089cdc38c",
+    "village": "dhannasar",
+    "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan/",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan",
+    "title": "Mahajan Village in Lunkaransar, Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Dhannasar Lunkaransar Mahajan"
+    ],
+    "summary": "यह पेज लूणकरणसर तहसील, बीकानेर के महाजन गांव (उप-तहसील मुख्यालय) की जनसंख्या 7,397 तथा तहसील/जिला मुख्यालय से दूरी बताता है। धन्नासर का सीधा उल्लेख नहीं, लेकिन यह उस उप-तहसील का प्रशासनिक संदर्भ देता है जिसके अंतर्गत लक्षित गांव पड़ता है।",
+    "topics": [
+      "census_admin"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner",
+      "Lunkaransar",
+      "Mahajan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Mahajan is a village in Lunkaransar, Bikaner, Rajasthan with a population of 7,397"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in (census-derived village data mirror)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 42,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T093630Z"
+    ],
+    "notes": "Administrative/census reference for the Mahajan sub-tehsil headquarters itself, useful only for geo-context, not for Dhannasar content directly.",
+    "consent": ""
+  }
+}

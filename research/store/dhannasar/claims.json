@@ -1,0 +1,132 @@
+{
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "claim_key": "village_list_34",
+    "value": "32 names (community list, 2 blank)",
+    "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+    "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+    "sources": [
+      "src_967773b5f1ff"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_967773b5f1ff",
+        "text": "'34 गाँवों के नाम' image"
+      }
+    ],
+    "competing": []
+  },
+  "clm_district_location_conflict_b9fd2cc9": {
+    "id": "clm_district_location_conflict_b9fd2cc9",
+    "claim_key": "district_location_conflict",
+    "value": "Rawatsar tehsil, Hanumangarh district (per Jatland) -- conflicts with target unit's Bikaner/Lunkaransar/Mahajan location",
+    "statement_hi": "जाटलैंड के अनुसार 'धन्नासर' गांव हनुमानगढ़ जिले की रावतसर तहसील में है, बीकानेर के लूणकरणसर/महाजन क्षेत्र में नहीं।",
+    "statement_en": "Per Jatland, a village named Dhannasar sits in Rawatsar tehsil, Hanumangarh district -- not in the Bikaner/Lunkaransar/Mahajan area.",
+    "sources": [
+      "src_0149813c76fe"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_0149813c76fe",
+        "text": "village in tehsil Rawatsar in district Hanumangarh"
+      }
+    ],
+    "competing": []
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "claim_key": "acquisition_year",
+    "value": "1984-85",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि रक्षा मंत्रालय द्वारा अधिगृहीत की गई।",
+    "statement_en": "Land from 34 villages was acquired by the Defence Ministry in 1984-85 to create the Mahajan Field Firing Range.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "एक साथ 34 गांव उठाकर"
+      }
+    ],
+    "competing": []
+  },
+  "clm_resettlement_sites_08e87835": {
+    "id": "clm_resettlement_sites_08e87835",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Pugal (irrigated land allotted)",
+    "statement_hi": "विस्थापित किसानों को खाजूवाला व पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई।",
+    "statement_en": "Displaced farmers were allotted irrigated land in areas like Khajuwala and Pugal.",
+    "sources": [
+      "src_a5150b8b1d53"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_a5150b8b1d53",
+        "text": "खाजूवाला, पूगल"
+      }
+    ],
+    "competing": [
+      "Khajuwala, Dantor, Pugal, Mohangarh, Nachna"
+    ]
+  },
+  "clm_resettlement_sites_e3face96": {
+    "id": "clm_resettlement_sites_e3face96",
+    "claim_key": "resettlement_sites",
+    "value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna",
+    "statement_hi": "विस्थापित किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना में सिंचित भूमि दी गई।",
+    "statement_en": "Displaced farmers were given irrigated land in Khajuwala, Dantor, Pugal, Mohangarh and Nachna.",
+    "sources": [
+      "src_c37d5179aabc"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "conflicting",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "source": "src_c37d5179aabc",
+        "text": "खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना"
+      }
+    ],
+    "competing": [
+      "Khajuwala, Pugal (irrigated land allotted)"
+    ]
+  },
+  "clm_range_area_acres_792fcc92": {
+    "id": "clm_range_area_acres_792fcc92",
+    "claim_key": "range_area_acres",
+    "value": "3.37 lakh acres",
+    "statement_hi": "महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ क्षेत्र में फैली है।",
+    "statement_en": "The Mahajan Field Firing Range spans 3.37 lakh acres.",
+    "sources": [
+      "src_a6f66da51d72"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": false,
+    "status": "unverified",
+    "confidence": 0.3,
+    "evidence": [
+      {
+        "source": "src_a6f66da51d72",
+        "text": "3.37 लाख एकड़ के भूभाग"
+      }
+    ],
+    "competing": []
+  }
+}

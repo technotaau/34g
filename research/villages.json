@@ -627,7 +627,16 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there.",
+      "disambiguation": {
+        "negative_terms": [
+          "Rawatsar",
+          "रावतसर",
+          "Hanumangarh",
+          "हनुमानगढ़",
+          "Dhannasar Rawatsar"
+        ]
+      }
     },
     {
       "slug": "rina",
