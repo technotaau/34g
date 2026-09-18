@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T100637Z",
+    "file": "/home/user/34g/research/inbox/likhmisar/discovery.json",
+    "input": 8,
+    "invalid": 0,
+    "new": 8,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 18,
+    "agent_notes": "Every 'Likhmisar' record independently found (GeoNames, census mirrors, mapsofindia, jatland) points to the same real place: a pair of villages 'Likhmisar Utrada' (लिखमीसर उतरादा) and 'Likhmisar Dikhnada' (लिखमीसर दिखनादा), both in Sridungargarh tehsil of Bikaner district -- NOT Lunkaransar tehsil / Mahajan sub-tehsil where the 34-gaon firing range villages sit. No source placed a 'Likhmisar' inside Lunkaransar tehsil. Two detailed Rajasthan Patrika features specifically about the Mahajan Field Firing Range's 1984-85 acquisition of 34 villages (searched in full) name roughly a dozen displaced ",
+    "total_after": 8,
+    "at": "2026-09-18T10:06:37.446469+00:00"
+  }
+]

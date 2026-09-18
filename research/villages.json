@@ -1001,7 +1001,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. The only verifiable Likhmisar places (Utrada and Dikhnada) are in Sridungargarh tehsil, not Lunkaransar; the list name may be a misidentification.",
+      "disambiguation": {
+        "negative_terms": [
+          "Sridungargarh",
+          "Sri Dungargarh",
+          "श्रीडूंगरगढ़",
+          "Utrada",
+          "Dikhnada",
+          "उतरादा",
+          "दिखनादा"
+        ]
+      }
     },
     {
       "slug": "kumbhasar",

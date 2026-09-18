@@ -9,10 +9,10 @@
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
-  - यह 2011 जनगणना-आधारित सूची लूणकरणसर तहसील के 125 वर्तमान गांवों को सूचीबद्ध करती है। इसमें दुदेरिया/दुदेर/Duderia नाम का कोई गांव नहीं मिला — यह इस अनुमान का समर्थन करता है कि गांव 1982-84 के भूमि अधिग्रहण के बाद जनगणना सूची से हट गया या फायरिंग रेंज में मिल गया।
 - [Tender For Installation Of Reflex Shooting Range System At Duder (East Camp) Mahajan Field Firing Range Under Station Headquarter Mahajan Field Firing Range](https://www.tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders) (government · document · 2017 · स्कोर 79)
   - यह 2017 का एक रक्षा टेंडर सूची-पृष्ठ महाजन फील्ड फायरिंग रेंज के भीतर 'दुदेर (ईस्ट कैंप)' नामक स्थान पर रिफ्लेक्स शूटिंग रेंज सिस्टम लगाने का उल्लेख करता है (क्लोज़िंग डेट 17 जुलाई 2017)। यह दर्शाता है कि पूर्व गांव स्थल अब फायरिंग रेंज परिसर के भीतर एक नामित सैन्य शिविर/स्थान के रूप में मौजूद है।
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
+  - यह 2011 जनगणना-आधारित सूची लूणकरणसर तहसील के 125 वर्तमान गांवों को सूचीबद्ध करती है। इसमें दुदेरिया/दुदेर/Duderia नाम का कोई गांव नहीं मिला — यह इस अनुमान का समर्थन करता है कि गांव 1982-84 के भूमि अधिग्रहण के बाद जनगणना सूची से हट गया या फायरिंग रेंज में मिल गया।
 - [Duderia - Jatland Wiki](https://www.jatland.com/home/Duderia) (community_wiki · text · तिथि अज्ञात · स्कोर 75)
   - जाटलैंड विकी के अनुसार 'Duderia' बीकानेर जिले की लूणकरणसर तहसील का एक गांव है, जिसकी स्थापना दूदो जी तरड़ (तरड़ गोत्र) ने की थी। पेज को सीधे खोलने पर 403 त्रुटि मिली, इसलिए विवरण केवल सर्च-इंजन स्निपेट पर आधारित है, पुष्टि आवश्यक है।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 61)
@@ -27,10 +27,10 @@
   - यह 2017 का एक रक्षा टेंडर सूची-पृष्ठ महाजन फील्ड फायरिंग रेंज के भीतर 'दुदेर (ईस्ट कैंप)' नामक स्थान पर रिफ्लेक्स शूटिंग रेंज सिस्टम लगाने का उल्लेख करता है (क्लोज़िंग डेट 17 जुलाई 2017)। यह दर्शाता है कि पूर्व गांव स्थल अब फायरिंग रेंज परिसर के भीतर एक नामित सैन्य शिविर/स्थान के रूप में मौजूद है।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
-  - यह 2011 जनगणना-आधारित सूची लूणकरणसर तहसील के 125 वर्तमान गांवों को सूचीबद्ध करती है। इसमें दुदेरिया/दुदेर/Duderia नाम का कोई गांव नहीं मिला — यह इस अनुमान का समर्थन करता है कि गांव 1982-84 के भूमि अधिग्रहण के बाद जनगणना सूची से हट गया या फायरिंग रेंज में मिल गया।
 - [Tender For Installation Of Reflex Shooting Range System At Duder (East Camp) Mahajan Field Firing Range Under Station Headquarter Mahajan Field Firing Range](https://www.tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders) (government · document · 2017 · स्कोर 79)
   - यह 2017 का एक रक्षा टेंडर सूची-पृष्ठ महाजन फील्ड फायरिंग रेंज के भीतर 'दुदेर (ईस्ट कैंप)' नामक स्थान पर रिफ्लेक्स शूटिंग रेंज सिस्टम लगाने का उल्लेख करता है (क्लोज़िंग डेट 17 जुलाई 2017)। यह दर्शाता है कि पूर्व गांव स्थल अब फायरिंग रेंज परिसर के भीतर एक नामित सैन्य शिविर/स्थान के रूप में मौजूद है।
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
+  - यह 2011 जनगणना-आधारित सूची लूणकरणसर तहसील के 125 वर्तमान गांवों को सूचीबद्ध करती है। इसमें दुदेरिया/दुदेर/Duderia नाम का कोई गांव नहीं मिला — यह इस अनुमान का समर्थन करता है कि गांव 1982-84 के भूमि अधिग्रहण के बाद जनगणना सूची से हट गया या फायरिंग रेंज में मिल गया।
 - [Duderia - Jatland Wiki](https://www.jatland.com/home/Duderia) (community_wiki · text · तिथि अज्ञात · स्कोर 75)
   - जाटलैंड विकी के अनुसार 'Duderia' बीकानेर जिले की लूणकरणसर तहसील का एक गांव है, जिसकी स्थापना दूदो जी तरड़ (तरड़ गोत्र) ने की थी। पेज को सीधे खोलने पर 403 त्रुटि मिली, इसलिए विवरण केवल सर्च-इंजन स्निपेट पर आधारित है, पुष्टि आवश्यक है।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 61)

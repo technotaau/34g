@@ -26,8 +26,8 @@
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
-        "src_b27fa43b7bd0",
         "src_c4429ede7dec",
+        "src_b27fa43b7bd0",
         "src_7f2edd77a900",
         "src_a5150b8b1d53",
         "src_c37d5179aabc"
@@ -43,8 +43,8 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_b27fa43b7bd0",
         "src_c4429ede7dec",
+        "src_b27fa43b7bd0",
         "src_7f2edd77a900",
         "src_a5150b8b1d53",
         "src_c37d5179aabc"

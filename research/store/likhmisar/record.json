@@ -1,0 +1,805 @@
+{
+  "village": {
+    "slug": "likhmisar",
+    "name_en": "Likhmisar",
+    "name_hi": "लिखमीसर",
+    "status": "acquired",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. The only verifiable Likhmisar places (Utrada and Dikhnada) are in Sridungargarh tehsil, not Lunkaransar; the list name may be a misidentification.",
+    "location": {
+      "state": "Rajasthan",
+      "district": "Bikaner",
+      "tehsil": "Lunkaransar",
+      "sub_tehsil": "Mahajan"
+    }
+  },
+  "built": "2026-09-18",
+  "counts": {
+    "sources_total": 8,
+    "accepted": 0,
+    "context": 1,
+    "review": 6,
+    "rejected": 1,
+    "duplicates": 0,
+    "claims": 6
+  },
+  "questions": {
+    "what": {
+      "label": "यह गांव क्या है?",
+      "source_ids": [
+        "src_c21a9edbe766",
+        "src_4442c1903699",
+        "src_0466b4c5eff3",
+        "src_61d992c6e236",
+        "src_4c02f7639812",
+        "src_a5150b8b1d53"
+      ]
+    },
+    "where": {
+      "label": "यह कहां स्थित है?",
+      "source_ids": [
+        "src_c21a9edbe766",
+        "src_4442c1903699",
+        "src_0466b4c5eff3",
+        "src_61d992c6e236",
+        "src_4c02f7639812"
+      ]
+    },
+    "history": {
+      "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "people": {
+      "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
+      "source_ids": [
+        "src_4c02f7639812"
+      ]
+    },
+    "culture": {
+      "label": "सांस्कृतिक जानकारी",
+      "source_ids": []
+    },
+    "temples": {
+      "label": "मंदिर, लोक देवता, स्थल",
+      "source_ids": []
+    },
+    "festivals": {
+      "label": "त्योहार व परंपराएं",
+      "source_ids": []
+    },
+    "land": {
+      "label": "भूमि, खेती, पशुपालन, नहर",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    },
+    "education": {
+      "label": "शिक्षा व विद्यालय",
+      "source_ids": [
+        "src_2a0bf1674eae"
+      ]
+    }
+  },
+  "media": {
+    "photos": {
+      "label": "ऐतिहासिक/वर्तमान फोटो",
+      "source_ids": []
+    },
+    "videos": {
+      "label": "वीडियो",
+      "source_ids": []
+    },
+    "audio": {
+      "label": "साक्षात्कार / ऑडियो",
+      "source_ids": []
+    },
+    "books": {
+      "label": "पुस्तकें व ऐतिहासिक संदर्भ",
+      "source_ids": []
+    },
+    "social": {
+      "label": "सार्वजनिक सोशल मीडिया स्रोत",
+      "source_ids": [
+        "src_2a0bf1674eae"
+      ]
+    },
+    "gov": {
+      "label": "सरकारी / कानूनी अभिलेख",
+      "source_ids": [
+        "src_c21a9edbe766",
+        "src_4442c1903699",
+        "src_0466b4c5eff3",
+        "src_61d992c6e236"
+      ]
+    },
+    "news": {
+      "label": "समाचार",
+      "source_ids": [
+        "src_a5150b8b1d53"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      "Hari Singh"
+    ],
+    "places": [
+      "Bhojrasar",
+      "Bikaner",
+      "Dantur",
+      "Duder",
+      "Khajuwala",
+      "Khanisar",
+      "Kumhana",
+      "Likhmisar Dikhnada",
+      "Manera",
+      "Mohan Garh",
+      "Motlai",
+      "Nachna",
+      "Pugal",
+      "Sridungargarh",
+      "Thoia"
+    ],
+    "events": [
+      "1984-85 land acquisition for Mahajan Field Firing Range"
+    ],
+    "organizations": [
+      "Ministry of Defence",
+      "Swami Vivekananda Vidya Ashram"
+    ]
+  },
+  "claims": {
+    "well_supported": [],
+    "needs_verification": [
+      {
+        "id": "clm_village_list_34_18ca53da",
+        "claim_key": "village_list_34",
+        "value": "32 names (community list, 2 blank)",
+        "statement_hi": "समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)",
+        "statement_en": "A community-shared list gives 32 of the 34 village names (unverified, single source)",
+        "sources": [
+          "src_967773b5f1ff"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_967773b5f1ff",
+            "text": "'34 गाँवों के नाम' image"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_tehsil_b5afd9c3",
+        "claim_key": "tehsil",
+        "value": "Sridungargarh (per GeoNames), not Lunkaransar",
+        "statement_hi": "गिओनेम्स के अनुसार लिखमीसर श्रीडूंगरगढ़ क्षेत्र में है, लूणकरणसर में नहीं।",
+        "statement_en": "GeoNames places Likhmisar in the Sridungargarh area, not Lunkaransar tehsil.",
+        "sources": [
+          "src_4442c1903699",
+          "src_c21a9edbe766"
+        ],
+        "independent_sources": 2,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_4442c1903699",
+            "text": "within Bikaner District, specifically in the Sridungargarh administrative area"
+          },
+          {
+            "source": "src_c21a9edbe766",
+            "text": "situated 40km away from sub-district headquarter Sridungargarh"
+          }
+        ],
+        "competing": [
+          "Sridungargarh"
+        ]
+      },
+      {
+        "id": "clm_tehsil_017446be",
+        "claim_key": "tehsil",
+        "value": "Sridungargarh",
+        "statement_hi": "लिखमीसर दिखणादा श्रीडूंगरगढ़ तहसील में है।",
+        "statement_en": "Likhmisar Dikhnada is located in Sridungargarh tehsil.",
+        "sources": [
+          "src_61d992c6e236"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "conflicting",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_61d992c6e236",
+            "text": "Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner"
+          }
+        ],
+        "competing": [
+          "Sridungargarh (per GeoNames), not Lunkaransar"
+        ]
+      },
+      {
+        "id": "clm_population_2011_36740e78",
+        "claim_key": "population_2011",
+        "value": "4841 (Likhmisar Utrada)",
+        "statement_hi": "2011 की जनगणना में लिखमीसर उतरादा की जनसंख्या 4841 थी।",
+        "statement_en": "The 2011 census recorded Likhmisar Utrada's population as 4841.",
+        "sources": [
+          "src_c21a9edbe766"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_c21a9edbe766",
+            "text": "population of 4841 of which 2595 are males while 2246 are females"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_founding_clan_00d8d187",
+        "claim_key": "founding_clan",
+        "value": "Delu (Jat gotra), population ~150 per Jatland snippet",
+        "statement_hi": "जाटलैंड के अनुसार लिखमीसर में देलू गोत्र के जाटों की आबादी लगभग 150 है।",
+        "statement_en": "Per a Jatland snippet, Likhmisar has a Delu Jat gotra population of about 150.",
+        "sources": [
+          "src_4c02f7639812"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_4c02f7639812",
+            "text": "Likhmisar is mentioned with a population of 150 in relation to the Delu Jat gotra"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_acquisition_year_e389dc21",
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज के लिए 34 गांवों की भूमि 1984-85 में अधिग्रहित की गई थी।",
+        "statement_en": "Land for the Mahajan Field Firing Range was acquired from 34 villages in 1984-85.",
+        "sources": [
+          "src_a5150b8b1d53"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": false,
+        "status": "unverified",
+        "confidence": 0.3,
+        "evidence": [
+          {
+            "source": "src_a5150b8b1d53",
+            "text": "34 गांवों में भूमि अधिग्रहण 1984-85 में"
+          }
+        ],
+        "competing": []
+      }
+    ]
+  },
+  "manual_review": [
+    {
+      "id": "src_4442c1903699",
+      "url": "https://www.geonames.org/1264927",
+      "title": "Likhmisar",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़']",
+        "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+      ]
+    },
+    {
+      "id": "src_c21a9edbe766",
+      "url": "https://www.census2011.co.in/data/village/69900-likhmisar-utrada-rajasthan.html",
+      "title": "Likhmisar Utrada Village Population - Sridungargarh - Bikaner, Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़', 'Utrada']",
+        "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+      ]
+    },
+    {
+      "id": "src_0466b4c5eff3",
+      "url": "https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html",
+      "title": "Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Sridungargarh', 'Utrada']"
+      ]
+    },
+    {
+      "id": "src_61d992c6e236",
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html",
+      "title": "Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़', 'Utrada']",
+        "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+      ]
+    },
+    {
+      "id": "src_2a0bf1674eae",
+      "url": "https://www.facebook.com/pages/%C3%A0%C2%A4%C2%B8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%B5%C3%A0%C2%A5%C2%87%C3%A0%C2%A4%C2%95%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%A6%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%A6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%AF%C3%A0%C2%A4%C2%BE%20%C3%A0%C2%A4%C2%86%C3%A0%C2%A4%C2%B6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B0%C3%A0%C2%A4%C2%AE%20%C3%A0%C2%A4%C2%B2%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%C3%A0%C2%A4%C2%B8%C3%A0%C2%A4%C2%B0%20%C3%A0%C2%A4%C2%A6%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A6%E0%A4%BE/830895883623961/",
+      "title": "स्वामी विवेकान्नद विद्या आश्रम लिखमीसर दिखनादा",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "strong geo context: ['Lunkaransar']",
+        "negative/other-place signals: ['Sridungargarh', 'Dikhnada', 'दिखनादा']"
+      ]
+    },
+    {
+      "id": "src_4c02f7639812",
+      "url": "https://www.jatland.com/home/Villages/L",
+      "title": "Villages/L - Jatland Wiki",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Likhmisar",
+        "district/nearby/clan context: ['Bikaner', 'Jat', 'जाट']",
+        "negative/other-place signals: ['Utrada', 'Dikhnada']"
+      ]
+    }
+  ],
+  "sources": {
+    "src_c21a9edbe766": {
+      "url": "https://www.census2011.co.in/data/village/69900-likhmisar-utrada-rajasthan.html",
+      "title": "Likhmisar Utrada Village Population - Sridungargarh - Bikaner, Rajasthan",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 72,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 4,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़', 'Utrada']",
+          "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+        ],
+        "matched_names": [
+          "Likhmisar",
+          "लिखमीसर"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Sridungargarh",
+          "श्रीडूंगरगढ़",
+          "Utrada",
+          "Dikhnada",
+          "उतरादा"
+        ]
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "Census2011.co.in (Census of India 2011 data)",
+      "is_primary": false
+    },
+    "src_4442c1903699": {
+      "url": "https://www.geonames.org/1264927",
+      "title": "Likhmisar",
+      "platform": "geonames.org",
+      "source_type": "government",
+      "media_type": "dataset",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 66,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़']",
+          "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+        ],
+        "matched_names": [
+          "Likhmisar",
+          "लिखमीसर"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "लूणकरणसर",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Sridungargarh",
+          "श्रीडूंगरगढ़"
+        ]
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "GeoNames.org",
+      "is_primary": false
+    },
+    "src_0466b4c5eff3": {
+      "url": "https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html",
+      "title": "Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in",
+      "platform": "census_mirror",
+      "source_type": "census_mirror",
+      "media_type": "dataset",
+      "published_date": "2011",
+      "language": "en",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 6,
+          "credibility": 10,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.4,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Sridungargarh', 'Utrada']"
+        ],
+        "matched_names": [
+          "Likhmisar"
+        ],
+        "geo_hits": [
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Sridungargarh",
+          "Utrada"
+        ]
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "villageinfo.in",
+      "is_primary": false
+    },
+    "src_61d992c6e236": {
+      "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html",
+      "title": "Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan",
+      "platform": "mapsofindia.com",
+      "source_type": "government",
+      "media_type": "map",
+      "published_date": "",
+      "language": "en",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "strong geo context: ['Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner']",
+          "negative/other-place signals: ['Sridungargarh', 'श्रीडूंगरगढ़', 'Utrada']",
+          "capped at review: namesake signal ['Sridungargarh', 'श्रीडूंगरगढ़']"
+        ],
+        "matched_names": [
+          "Likhmisar",
+          "लिखमीसर"
+        ],
+        "geo_hits": [
+          "Lunkaransar",
+          "Bikaner",
+          "Rajasthan"
+        ],
+        "negative_hits": [
+          "Sridungargarh",
+          "श्रीडूंगरगढ़",
+          "Utrada",
+          "Dikhnada"
+        ]
+      },
+      "topics": [
+        "census_admin"
+      ],
+      "license": "",
+      "attribution": "MapsOfIndia",
+      "is_primary": false
+    },
+    "src_4c02f7639812": {
+      "url": "https://www.jatland.com/home/Villages/L",
+      "title": "Villages/L - Jatland Wiki",
+      "platform": "jatland",
+      "source_type": "community_wiki",
+      "media_type": "text",
+      "published_date": "",
+      "language": "en+hi",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 6,
+          "credibility": 7,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.4,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "district/nearby/clan context: ['Bikaner', 'Jat', 'जाट']",
+          "negative/other-place signals: ['Utrada', 'Dikhnada']"
+        ],
+        "matched_names": [
+          "Likhmisar",
+          "लिखमीसर"
+        ],
+        "geo_hits": [
+          "Bikaner",
+          "Jat",
+          "जाट"
+        ],
+        "negative_hits": [
+          "Utrada",
+          "Dikhnada"
+        ]
+      },
+      "topics": [
+        "census_admin",
+        "people_family"
+      ],
+      "license": "",
+      "attribution": "Jatland Wiki",
+      "is_primary": false
+    },
+    "src_2a0bf1674eae": {
+      "url": "https://www.facebook.com/pages/%C3%A0%C2%A4%C2%B8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%B5%C3%A0%C2%A5%C2%87%C3%A0%C2%A4%C2%95%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%A6%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%A6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%AF%C3%A0%C2%A4%C2%BE%20%C3%A0%C2%A4%C2%86%C3%A0%C2%A4%C2%B6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B0%C3%A0%C2%A4%C2%AE%20%C3%A0%C2%A4%C2%B2%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%C3%A0%C2%A4%C2%B8%C3%A0%C2%A4%C2%B0%20%C3%A0%C2%A4%C2%A6%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A6%E0%A4%BE/830895883623961/",
+      "title": "स्वामी विवेकान्नद विद्या आश्रम लिखमीसर दिखनादा",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 49,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": -8
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Likhmisar",
+          "strong geo context: ['Lunkaransar']",
+          "negative/other-place signals: ['Sridungargarh', 'Dikhnada', 'दिखनादा']"
+        ],
+        "matched_names": [
+          "Likhmisar",
+          "लिखमीसर"
+        ],
+        "geo_hits": [
+          "Lunkaransar"
+        ],
+        "negative_hits": [
+          "Sridungargarh",
+          "Dikhnada",
+          "दिखनादा"
+        ]
+      },
+      "topics": [
+        "education"
+      ],
+      "license": "",
+      "attribution": "Facebook page",
+      "is_primary": false
+    },
+    "src_a5150b8b1d53": {
+      "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+      "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+      "platform": "patrika",
+      "source_type": "news",
+      "media_type": "text",
+      "published_date": "2022-11-29",
+      "language": "hi",
+      "relevance": {
+        "score": 46,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 11,
+          "primary": 0,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 2,
+          "recency": 1,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+          "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'Pugal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Lunkaransar",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Bikaner",
+          "Khajuwala",
+          "Pugal",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "history",
+        "land_agriculture",
+        "military_range"
+      ],
+      "license": "",
+      "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
+      "is_primary": false
+    }
+  },
+  "shared_umbrella_sources": [
+    {
+      "id": "src_967773b5f1ff",
+      "url": "https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)",
+      "title": "Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "run_20260918T100637Z",
+      "file": "/home/user/34g/research/inbox/likhmisar/discovery.json",
+      "input": 8,
+      "invalid": 0,
+      "new": 8,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 18,
+      "agent_notes": "Every 'Likhmisar' record independently found (GeoNames, census mirrors, mapsofindia, jatland) points to the same real place: a pair of villages 'Likhmisar Utrada' (लिखमीसर उतरादा) and 'Likhmisar Dikhnada' (लिखमीसर दिखनादा), both in Sridungargarh tehsil of Bikaner district -- NOT Lunkaransar tehsil / Mahajan sub-tehsil where the 34-gaon firing range villages sit. No source placed a 'Likhmisar' inside Lunkaransar tehsil. Two detailed Rajasthan Patrika features specifically about the Mahajan Field Firing Range's 1984-85 acquisition of 34 villages (searched in full) name roughly a dozen displaced ",
+      "total_after": 8,
+      "at": "2026-09-18T10:06:37.446469+00:00"
+    }
+  ]
+}

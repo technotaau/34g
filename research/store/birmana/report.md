@@ -9,10 +9,10 @@
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
-  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Birmana Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana/) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
   - Village directory entry using the exact spelling 'Birmana', giving Gram Panchayat as Khokhrana, pincode 334603, village area 1542 hectares, population 429 (230M/199F), literacy 46.15%, ~40 km from Lunkaransar and ~90 km from Bikaner. WebFetch of the live page was blocked (HTTP 403); data below is dr
+- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
+  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Beermana Village - Bikaner](http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
   - Village directory page listing administrative and demographic details for Beermana village: pincode 334021, post office Chhatararh, STD code 01529, ~21 km from Lunkaransar and ~79 km north of Bikaner. Lists two schools operating in the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana, which us
 - [GeoNames search results for 'birmana', India](https://www.geonames.org/search.html?q=birmana&country=IN) (government · dataset · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
