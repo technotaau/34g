@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T100614Z",
+    "file": "/home/user/34g/research/inbox/kumbhasar/discovery.json",
+    "input": 5,
+    "invalid": 0,
+    "new": 5,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "Exact spelling 'Kumbhasar/कुम्भासर' almost never returns results tied to Lunkaransar/Mahajan; nearly all hits are a DIFFERENT, unrelated Kumbhasar village in Nokha tehsil (63km from Bikaner, panchayat Ratdiya, pop. 1271) — geographically wrong tehsil, flagged not our unit. Strongest lead: a 2022 Rajasthan Patrika article on the Mahajan Field Firing Range names 'कुम्भाणा' (Kumbhana) as one of the 34 acquired villages, quoting a Kumbhana-born resident (Bajrangial Lakhotia) about a surviving Holika Dahan tradition at the old site. 'Kumbhana' vs 'Kumbhasar' differ by only the final syllable (णा vs",
+    "total_after": 5,
+    "at": "2026-09-18T10:06:15.165983+00:00"
+  }
+]

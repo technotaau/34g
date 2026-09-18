@@ -51,7 +51,8 @@
       "hindor",
       "rampura",
       "kachrana",
-      "birmana"
+      "birmana",
+      "kumbhasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -79,7 +80,8 @@
       "tidasar",
       "duderiya",
       "hindor",
-      "kachrana"
+      "kachrana",
+      "kumbhasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -161,7 +163,8 @@
       "lakhor-chhoti",
       "hathusar",
       "hindor",
-      "kachrana"
+      "kachrana",
+      "kumbhasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -216,7 +219,8 @@
   },
   "https://jatland.com/home/Kumbhana": {
     "villages": [
-      "kumbhana"
+      "kumbhana",
+      "kumbhasar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -852,6 +856,12 @@
   "https://geonames.org/search.html?country=IN&q=birmana": {
     "villages": [
       "birmana"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://villageinfo.in/rajasthan/bikaner/nokha/kumbhasar.html": {
+    "villages": [
+      "kumbhasar"
     ],
     "first_seen": "2026-09-18"
   }

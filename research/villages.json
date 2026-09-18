@@ -1019,7 +1019,16 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. The list has कुम्भाणा (9) and कुम्भासर (31) as separate entries, so treat them as two villages; Kumbhana sources must not be credited here. A different Kumbhasar in Nokha tehsil (GP Ratdiya) is excluded.",
+      "disambiguation": {
+        "negative_terms": [
+          "Nokha",
+          "नोखा",
+          "Ratdiya",
+          "रतड़िया",
+          "Kumbhasar Nokha"
+        ]
+      }
     },
     {
       "slug": "kachrana",

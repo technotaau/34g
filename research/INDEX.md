@@ -38,5 +38,5 @@
 | टिडासर (Tidasar) | 4 | 0 | 0 | 2 | 2 | [report](store/tidasar/report.md) |
 | बिरमाणा (Birmana) | 5 | 3 | 1 | 15 | 15 | [report](store/birmana/report.md) |
 | लिखमीसर (Likhmisar) | – | – | – | – | – | _अभी शोध नहीं_ |
-| कुम्भासर (Kumbhasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| कुम्भासर (Kumbhasar) | 5 | 2 | 1 | 6 | 6 | [report](store/kumbhasar/report.md) |
 | कचराणा (Kachrana) | 6 | 0 | 0 | 1 | 1 | [report](store/kachrana/report.md) |

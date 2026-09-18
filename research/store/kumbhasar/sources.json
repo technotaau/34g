@@ -1,0 +1,662 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "kumbhasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh (byline dateline: लूणाराम वर्मा, महाजन)",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कुम्भासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "यह पत्रिका रिपोर्ट महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में अधिग्रहित 34 गांवों पर केंद्रित है और 'कुम्भाणा' को भोजरासर, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर के साथ इन गांवों में गिनाती है। कुम्भाणा के मूल निवासी व्यवसायी बजरंगलाल लखोटिया बताते हैं कि आज भी होली पर कुम्भाणा में होलिका दहन की परंपरा निभाई जाती है। ध्यान दें: नाम 'कुम्भासर' नहीं बल्कि 'कुम्भाणा' है।",
+    "topics": [
+      "culture",
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "महाजन",
+      "Bikaner",
+      "बीकानेर",
+      "Bhojrasar",
+      "भोजरासर",
+      "Motlai",
+      "मोटलाई",
+      "Khanisar",
+      "खानीसर",
+      "Thoiyan",
+      "ठोईयां",
+      "Maneran",
+      "मणेरां",
+      "Duder",
+      "दुदेर",
+      "Khajuwala",
+      "खाजूवाला",
+      "Pugal",
+      "पूगल"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कुम्भाणा (Kumbhana) — possible variant spelling, not exact match to 'Kumbhasar'",
+    "evidence_snippets": [
+      "थेह बने मकानों को देखकर छलकता है दर्द भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित अन्य गांवों को उजड़े 35-36 साल बीत जाने के बाद",
+      "कुम्भाणा निवासी व्यवसायी बजरंगलाल लखोटिया बताते है कि आज भी होली पर्व पर कुम्भाणा में होलिका का दहन करने की परम्परा का निर्वहन होता है"
+    ],
+    "entities": {
+      "people": [
+        "Bajrangial Lakhotia",
+        "Rajuram Sharma",
+        "Hari Singh (reporter)"
+      ],
+      "places": [
+        "Mahajan",
+        "Bhojrasar",
+        "Kumbhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiyan",
+        "Maneran",
+        "Duder",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85",
+        "Holika Dahan tradition at old village site"
+      ],
+      "organizations": [
+        "रक्षा मंत्रालय (Ministry of Defence)",
+        "Rajasthan Patrika"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, reporter Hari Singh (dateline: Loonaram Verma, Mahajan), 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "motlai",
+      "khanisar",
+      "thoiyan",
+      "maneran",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु कुम्भाणा सहित 34 गांवों की भूमि रक्षा मंत्रालय द्वारा वर्ष 1984-85 में अधिग्रहित की गई।",
+        "statement_en": "Land of Kumbhana and 33 other villages was acquired by the Ministry of Defence in 1984-85 for the Mahajan Field Firing Range.",
+        "snippet": "फायरिंग रेंज की स्थापना के लिए रक्षा मंत्रालय ने वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि को अधिग्रहित किया था।"
+      },
+      {
+        "claim_key": "resettlement_sites",
+        "value": "Khajuwala, Dantaur, Pugal, Mohangarh, Nachna",
+        "statement_hi": "विस्थापित ग्रामीणों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना क्षेत्रों में कृषि भूमि आवंटित की गई।",
+        "statement_en": "Displaced villagers were allotted agricultural land in Khajuwala, Dantaur, Pugal, Mohangarh and Nachna.",
+        "snippet": "ग्रामीणों को खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना आदि की तरफ कृषि भूमि का आवंटन भी किया गया।"
+      },
+      {
+        "claim_key": "holika_tradition_continues",
+        "value": "Displaced Kumbhana residents still perform Holika Dahan at the old village site every Holi",
+        "statement_hi": "आज भी होली पर्व पर कुम्भाणा में होलिका दहन की परम्परा निभाई जाती है।",
+        "statement_en": "Even today, on Holi, displaced residents return to observe the Holika Dahan tradition at Kumbhana.",
+        "snippet": "आज भी होली पर्व पर कुम्भाणा में होलिका का दहन करने की परम्परा का निर्वहन होता है।"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: कुम्भासर",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']"
+      ],
+      "matched_names": [
+        "कुम्भासर"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100614Z"
+    ],
+    "notes": "नाम भिन्नता महत्वपूर्ण: स्रोत 'कुम्भाणा' लिखता है, हमारी सूची में 'कुम्भासर' है। jatland.com के अनुसार कुम्भाणा की स्थापना नाथू धतरवाल के पुत्र कुम्भा के नाम पर लूणकरणसर तहसील में हुई — यह हमारी unit के 'Nathu Dada'/'Dhatarwal' geo terms से सीधा मेल खाता है। पाइपलाइन को दोनों नामों की तुलना कर तय करना चाहिए कि यह एक ही गांव है या नहीं।",
+    "consent": ""
+  },
+  "src_698a84e4ebfa": {
+    "id": "src_698a84e4ebfa",
+    "village": "kumbhasar",
+    "url": "https://www.jatland.com/home/Kumbhana",
+    "url_key": "https://jatland.com/home/Kumbhana",
+    "title": "Kumbhana - Jatland Wiki",
+    "platform": "jatland",
+    "source_type": "community_wiki",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Kumbhasar jatland OR wikipedia Lunkaransar"
+    ],
+    "summary": "Jatland wiki entry for a village called 'Kumbhana' in Lunkaransar tehsil, Bikaner district, Rajasthan. It states that Nathu Dhatarwal's eldest son was named Kumbha, after whom the village Kumbhana was founded. Full page text could not be fetched directly (site returns a Cloudflare bot-challenge); this summary is from the search-result snippet only.",
+    "topics": [
+      "founding_clan",
+      "history",
+      "people_family"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Nathu Dada",
+      "Dhatarwal"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Kumbhana — possible variant of 'Kumbhasar', not an exact match",
+    "evidence_snippets": [
+      "Kumbhana is a village in Lunkaransar tehsil of Bikaner district in Rajasthan. Nathu Dhatarwal's eldest son was Kumbha after whom the village Kumbhana was founded."
+    ],
+    "entities": {
+      "people": [
+        "Nathu Dhatarwal",
+        "Kumbha"
+      ],
+      "places": [
+        "Kumbhana",
+        "Lunkaransar",
+        "Bikaner"
+      ],
+      "events": [
+        "founding of Kumbhana village"
+      ],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "Jatland Wiki, Kumbhana article (community-maintained, no author/date shown)",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "founding_clan",
+        "value": "Dhatarwal (Jat) — founded by Kumbha, son of Nathu Dhatarwal",
+        "statement_hi": "नाथू धतरवाल के सबसे बड़े पुत्र कुम्भा के नाम पर कुम्भाणा गांव बसाया गया था।",
+        "statement_en": "The village of Kumbhana was founded and named after Kumbha, the eldest son of Nathu Dhatarwal.",
+        "snippet": "Nathu Dhatarwal's eldest son was Kumbha after whom the village Kumbhana was founded."
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "agent reports direct mention (name not found in captured text)",
+        "strong geo context: ['Lunkaransar', 'Nathu Dada']",
+        "district/nearby/clan context: ['Bikaner', 'Dhatarwal', 'धतरवाल']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "Nathu Dada",
+        "Bikaner",
+        "Dhatarwal",
+        "धतरवाल",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 52,
+      "band": "medium",
+      "factors": {
+        "name_match": 10,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100614Z"
+    ],
+    "notes": "Could not fetch full jatland page (Cloudflare 403 via WebFetch, curl, and r.jina.ai proxy); only the WebSearch snippet was retrievable. Strongly consistent with our unit's 'Nathu Dada'/'Nathu Dada Dhora' and 'Dhatarwal' geo terms — worth a human researcher re-attempting this URL from a normal browser.",
+    "consent": ""
+  },
+  "src_d6e13bca6ece": {
+    "id": "src_d6e13bca6ece",
+    "village": "kumbhasar",
+    "url": "https://villageinfo.in/rajasthan/bikaner/nokha/kumbhasar.html",
+    "url_key": "https://villageinfo.in/rajasthan/bikaner/nokha/kumbhasar.html",
+    "title": "Kumbhasar Village in Nokha (Bikaner) Rajasthan | villageinfo.in",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Kumbhasar village Bikaner Rajasthan"
+    ],
+    "summary": "Census-derived village directory entry for a village named Kumbhasar, but located in Nokha tehsil (not Lunkaransar/Mahajan) — 53km from Nokha and 63km from Bikaner city. Population 1,271 (672 male, 599 female), 212 houses, area 867.8 hectares, pincode 334803, gram panchayat Ratdiya (as of 2009), village code 069630. This is almost certainly a DIFFERENT village from our 34-gaon Mahajan-range Kumbhasar, since Nokha tehsil is geographically unrelated to Lunkaransar/Mahajan.",
+    "topics": [
+      "census_admin",
+      "military_range"
+    ],
+    "period": "1997_2015",
+    "geo_mentions": [
+      "Nokha",
+      "Bikaner",
+      "Ratdiya"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Kumbhasar (exact spelling match, but wrong tehsil)",
+    "evidence_snippets": [
+      "Kumbhasar village is located in Nokha tehsil of Bikaner district... 53km away from sub-district headquarter Nokha... and 63km away from district headquarter Bikaner.",
+      "Kumbhasar has a total population of 1,271 peoples... Ratdiya is the gram panchayat of Kumbhasar village."
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Kumbhasar",
+        "Nokha",
+        "Ratdiya",
+        "Bikaner"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "villageinfo.in (Census of India 2011 data mirror)",
+    "is_primary": false,
+    "reliability": 0.65,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Kumbhasar",
+        "strong geo context: ['Mahajan', 'Lunkaransar', '34 gaon']",
+        "district/nearby/clan context: ['Bikaner']",
+        "negative/other-place signals: ['Nokha', 'Ratdiya']",
+        "capped at review: namesake signal ['Nokha', 'Ratdiya']"
+      ],
+      "matched_names": [
+        "Kumbhasar"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "Lunkaransar",
+        "34 gaon",
+        "Bikaner",
+        "Rajasthan"
+      ],
+      "negative_hits": [
+        "Nokha",
+        "Ratdiya"
+      ]
+    },
+    "relevance": {
+      "score": 67,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": -8
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260918T100614Z"
+    ],
+    "notes": "Likely a distinct, unrelated village: this Kumbhasar sits in Nokha tehsil, far from Lunkaransar/Mahajan/the firing range, and has an intact gram panchayat and population in the 2011 census (i.e. not a village vacated for defence acquisition). Recorded for completeness/disambiguation; the pipeline should probably NOT merge this with our unit. May be Bhojrasar-style false positive per the negative_terms note pattern.",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "kumbhasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कुम्भासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "सामान्य पृष्ठभूमि लेख: महाजन फील्ड फायरिंग रेंज (करीब 4 दशक पहले 34 गांवों के विस्थापन से बनी, 3.37 लाख एकड़) में अमेरिका, ब्रिटेन, रूस, फ्रांस जैसी सेनाओं के साथ संयुक्त युद्धाभ्यास होते रहे हैं। इसमें कुम्भासर/कुम्भाणा या किसी विशिष्ट गांव का नाम नहीं है — केवल फायरिंग रेंज का सामान्य सैन्य संदर्भ।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Mahajan",
+      "महाजन",
+      "Bikaner",
+      "Lunkaransar"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Mahajan",
+        "Bikaner"
+      ],
+      "events": [
+        "India-USA, India-France (Shakti-2019), India-Russia, India-UK (Ajeya Warrior-2017) joint exercises"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Bikaner desk",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "range_area_ha",
+        "value": "3.37 lakh acres, 34 villages displaced ~4 decades ago",
+        "statement_hi": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई।",
+        "statement_en": "About four decades ago 34 villages were displaced to create the 3.37-lakh-acre Mahajan Field Firing Range.",
+        "snippet": "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 45,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100614Z"
+    ],
+    "notes": "No specific village name mentioned; kept only as general range/displacement background corroboration, weak relevance to this specific village.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "kumbhasar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "jay kumar bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "कुम्भासर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "2018 का एक पुराना/संक्षिप्त संस्करण लेख, जो 1984-85 में 34 गांवों की भूमि अधिग्रहण, मुआवजा और खाजूवाला/दंतौर/पूगल/मोहनगढ़/नाचना में पुनर्वास भूमि आवंटन का उल्लेख करता है, लेकिन कोई विशिष्ट गांव का नाम नहीं देता (2022 वाले लेख के विपरीत जिसमें कुम्भाणा नाम है)।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan",
+      "महाजन",
+      "Khajuwala",
+      "खाजूवाला",
+      "Pugal",
+      "पूगल"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने वर्ष १९८४-८५ में महाजन क्षेत्र के ३४ गांवों की भूमि को अधिग्रहित किया था।"
+    ],
+    "entities": {
+      "people": [
+        "jay kumar bhati"
+      ],
+      "places": [
+        "Mahajan",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangarh",
+        "Nachna"
+      ],
+      "events": [
+        "1984-85 land acquisition"
+      ],
+      "organizations": [
+        "रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, jay kumar bhati, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T100614Z"
+    ],
+    "notes": "Earlier/near-duplicate version of the 2022 article on the same topic (likely same reporting lineage/template), but does not name individual villages. Kept as a secondary corroborating date-point for the acquisition claim.",
+    "consent": ""
+  }
+}
