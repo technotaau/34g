@@ -1,0 +1,690 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "lakhor-moti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Hari Singh",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "लखोर मोटी महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज बनाने हेतु 1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों को विस्थापित किया गया था। लेख में भोजरासर, कुम्हाना, मोतलाई, खानीसर, थोईया, मानेरण, डूडेर आदि गांवों तथा खाजूवाला/दांतौर/मोहनगढ़ में पुनर्वास का उल्लेख है, परन्तु 'लखोर मोटी' नाम का उल्लेख नहीं मिला।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner",
+      "Bhojrasar",
+      "Kumhana",
+      "Khajuwala",
+      "Dantaur",
+      "Mohangadh"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "These villages had fertile soil and brotherhood among people. It was good times. Every household raised livestock. — Bajrangial Lakhotiya, Kumhana resident"
+    ],
+    "entities": {
+      "people": [
+        "Bajrangial Lakhotiya"
+      ],
+      "places": [
+        "Kumhana",
+        "Bhojrasar",
+        "Motlai",
+        "Khanisar",
+        "Khajuwala",
+        "Dantaur",
+        "Mohangadh"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Hari Singh, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "34-गांव विस्थापन की सामान्य पृष्ठभूमि हेतु रखा गया; 'लखोर मोटी' का सीधा नाम नहीं है, इसलिए direct_mention false।",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "lakhor-moti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Jay Kumar Bhati",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "लखोर मोटी महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में रक्षा मंत्रालय द्वारा महाजन फायरिंग रेंज हेतु 34 गांव अधिग्रहित किए गए, निवासियों को मकान/पेड़/कृषि भूमि का मुआवजा तथा खाजूवाला, दांतौर, पूगल, मोहनगढ़ में भूमि आवंटन हुआ। लगभग 34 वर्षों बाद भी विस्थापित परिवार अपने पुश्तैनी घरों को नहीं भूले। 'लखोर मोटी' नाम इस लेख में नहीं है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner",
+      "Khajuwala",
+      "Dantaur",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "पुरखों के बनाये आशियां उजडऩे का दर्द आज भी इन विस्थापित परिवारों की आंखों में उतर आता है"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition 1984-85"
+      ],
+      "organizations": [
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Jay Kumar Bhati, 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "34-गांव विस्थापन की सामान्य पृष्ठभूमि हेतु रखा गया; 'लखोर मोटी' का सीधा नाम नहीं है।",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "lakhor-moti",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Dinesh Kumar Swami",
+    "published_date": "2022-08-02",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "लखोर मोटी महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "लेख महाजन फील्ड फायरिंग रेंज के अंतरराष्ट्रीय सैन्य अभ्यासों पर केंद्रित है और यह पुष्टि करता है कि करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ भूभाग में रेंज बनाई गई थी; विशिष्ट गांवों के नाम नहीं दिए गए।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ के भूभाग में महाजन फील्ड फायरिंग रेंज को बनाया गया।"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [
+        "Mahajan Field Firing Range establishment"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, Dinesh Kumar Swami, 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1982-1984",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु गांवों का अधिग्रहण लगभग 1982-84 में हुआ (लेख के अनुसार 'चार दशक पहले', प्रकाशन 2022)।",
+        "statement_en": "Land for Mahajan Field Firing Range was acquired roughly four decades before this 2022 article (i.e. early-mid 1980s).",
+        "snippet": "करीब चार दशक पहले 34 गांवों को विस्थापित कर...महाजन फील्ड फायरिंग रेंज को बनाया गया।"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "सामान्य पृष्ठभूमि; गांव-विशिष्ट नाम नहीं।",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "lakhor-moti",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan (Lok Sabha Unstarred Question No. 4236)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Lok Sabha Secretariat / Ministry of Defence",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Moti \"Mahajan Field Firing Range\""
+    ],
+    "summary": "21 अगस्त 1987 को लोकसभा में अतारांकित प्रश्न संख्या 4236 के रूप में शिवराज वी. पाटिल और मानफूल सिंह द्वारा महाजन फील्ड फायरिंग रेंज (राजस्थान) से संबंधित प्रश्न पूछा गया, जिसका उत्तर रक्षा मंत्रालय ने दिया। पूर्ण PDF (203.89 KB) उपलब्ध है परन्तु मेटाडेटा पेज में विशिष्ट गांवों के नाम नहीं दिखे।",
+    "topics": [
+      "census_admin",
+      "culture",
+      "displacement",
+      "legal",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Rajasthan"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Unstarred Question Number 4236, Lok Sabha, Session VIII, 21 August 1987, Ministry: Defence"
+    ],
+    "entities": {
+      "people": [
+        "Shivraj V. Patil",
+        "Manphool Singh"
+      ],
+      "places": [],
+      "events": [
+        "Lok Sabha Q&A on Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Lok Sabha",
+        "Ministry of Defence"
+      ]
+    },
+    "license": "",
+    "attribution": "Sansad eLibrary, Lok Sabha Unstarred Q.4236, 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Rajasthan",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 58,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "प्राथमिक सरकारी दस्तावेज़; पूरा PDF डाउनलोड कर गांवों की सूची जांचनी चाहिए - मेटाडेटा पेज में गांव-नाम नहीं दिखे।",
+    "consent": ""
+  },
+  "src_c818a97c39d5": {
+    "id": "src_c818a97c39d5",
+    "village": "lakhor-moti",
+    "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "url_key": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "title": "Rajasthan District Gazetteers: Bikaner",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "Directorate of District Gazetteers, Government of Rajasthan",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Lakhor Moti\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "बीकानेर जिला गजेटियर का पूर्ण टेक्स्ट archive.org पर उपलब्ध है; इसमें लूणकरणसर (Lonkaransar/Lankaransar) तहसील, नमक झील और जिप्सम भंडार का उल्लेख है, परन्तु 'लखोर मोटी' नामक किसी गांव का कोई उल्लेख नहीं मिला।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "mixed",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner",
+      "Bikaner North"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "There is a salt lake in this district at Lankaransar about 80 kilometres north-east"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Lunkaransar"
+      ],
+      "events": [],
+      "organizations": [
+        "Directorate of District Gazetteers, Rajasthan"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan District Gazetteers: Bikaner, Govt. of Rajasthan",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "लूणकरणसर",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 55,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "गजेटियर में लूणकरणसर तहसील का सामान्य विवरण है परन्तु गांव-स्तरीय सूची नहीं मिली; प्री-1980 राजस्व/जमाबंदी रिकॉर्ड में गांव मिलने की संभावना अधिक है।",
+    "consent": ""
+  },
+  "src_b27fa43b7bd0": {
+    "id": "src_b27fa43b7bd0",
+    "village": "lakhor-moti",
+    "url": "https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "url_key": "https://census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html",
+    "title": "Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan",
+    "platform": "census_mirror",
+    "source_type": "census_mirror",
+    "media_type": "dataset",
+    "author": "",
+    "published_date": "2011",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Lakhor Moti Lunkaransar census village code panchayat"
+    ],
+    "summary": "यह पेज लूणकरणसर तहसील (बीकानेर) के 125 वर्तमान गांवों/कस्बों (2011 जनगणना) की सूची देता है। इसमें Lakhawar और Laleran जैसे नाम हैं परन्तु 'लखोर मोटी' या समान वर्तनी वाला कोई गांव सूचीबद्ध नहीं है - यह इस परिकल्पना को बल देता है कि गांव महाजन फायरिंग रेंज में पूर्णतः समाहित होकर वर्तमान प्रशासनिक सूची से हट चुका है।",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "125 villages and towns in Lunkaransar Tehsil of Bikaner, Rajasthan"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Census of India"
+      ]
+    },
+    "license": "",
+    "attribution": "census2011.co.in (mirror of Census of India 2011 data)",
+    "is_primary": false,
+    "reliability": 0.7,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['महाजन', 'Lunkaransar', 'लूणकरणसर']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "Lunkaransar",
+        "लूणकरणसर",
+        "महाजन फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 43,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 10,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094004Z"
+    ],
+    "notes": "नकारात्मक जांच: वर्तमान (2011) जनगणना सूची में गांव नहीं मिला - संभवतः 1984-85 अधिग्रहण के बाद यह प्रशासनिक इकाई के रूप में समाप्त हो गया।",
+    "consent": ""
+  }
+}

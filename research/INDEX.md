@@ -29,7 +29,7 @@
 | माच्छरांवाली (Machhranwali) | 5 | 0 | 0 | 5 | 5 | [report](store/machhranwali/report.md) |
 | कंकरालियो (Kankraliyo) | 5 | 1 | 0 | 2 | 2 | [report](store/kankraliyo/report.md) |
 | लखोर छोटी (Lakhor Chhoti) | – | – | – | – | – | _अभी शोध नहीं_ |
-| लखोर मोटी (Lakhor Moti) | – | – | – | – | – | _अभी शोध नहीं_ |
+| लखोर मोटी (Lakhor Moti) | 6 | 0 | 0 | 2 | 2 | [report](store/lakhor-moti/report.md) |
 | जागोर (Jagor) | 0 | 0 | 0 | 1 | 1 | [report](store/jagor/report.md) |
 | रामपुरा (Rampura) | – | – | – | – | – | _अभी शोध नहीं_ |
 | दुदेरिया (Duderiya) | – | – | – | – | – | _अभी शोध नहीं_ |
