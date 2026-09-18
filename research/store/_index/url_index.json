@@ -13,7 +13,8 @@
       "machhranwali",
       "bhunwala",
       "lakhor-moti",
-      "lakhor-chhoti"
+      "lakhor-chhoti",
+      "hathusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -42,7 +43,8 @@
       "dewasar",
       "kankraliyo",
       "lakhor-moti",
-      "lakhor-chhoti"
+      "lakhor-chhoti",
+      "hathusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -65,7 +67,8 @@
       "machhranwali",
       "kankraliyo",
       "lakhor-moti",
-      "lakhor-chhoti"
+      "lakhor-chhoti",
+      "hathusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -144,7 +147,8 @@
       "dewasar",
       "kankraliyo",
       "lakhor-moti",
-      "lakhor-chhoti"
+      "lakhor-chhoti",
+      "hathusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -262,7 +266,8 @@
       "machhranwali",
       "motasar",
       "kankraliyo",
-      "lakhor-moti"
+      "lakhor-moti",
+      "hathusar"
     ],
     "first_seen": "2026-09-05"
   },
@@ -755,6 +760,12 @@
   "https://nregastrep.nic.in/netnrega/IndexFrame.aspx?District_Code=2703&Panchayat_Code=2703004236&Panchayat_name=Ramsara&block_code=2703004&block_name=LUNKARANSAR&check=1&district_name=BIKANER&fin_year=2024-2025&lflag=eng&state_Code=27&state_name=RAJASTHAN": {
     "villages": [
       "lakhor-chhoti"
+    ],
+    "first_seen": "2026-09-18"
+  },
+  "https://wikimapia.org/33551695/Field-Firing-Range-Mahajan": {
+    "villages": [
+      "hathusar"
     ],
     "first_seen": "2026-09-18"
   }

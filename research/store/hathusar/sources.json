@@ -1,0 +1,694 @@
+{
+  "src_a5150b8b1d53": {
+    "id": "src_a5150b8b1d53",
+    "village": "hathusar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+    "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika",
+    "published_date": "2022-11-29",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "हाथूसर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "बीकानेर में महाजन फील्ड फायरिंग रेंज बनाने हेतु 1984-85 में रक्षा मंत्रालय द्वारा 34 गांवों की भूमि अधिग्रहित की गई थी, कुल क्षेत्रफल 3.37 लाख एकड़। लेख में भोजरासर, कुम्हाना, मोतलाई, खानीसर, थोइयां, मानेरां, दूदेर, खाजूवाला, दांतौर, पूगल, मोहनगढ़, नाचना गांवों के नाम हैं; हाथूसर का उल्लेख इस लेख में नहीं है। विस्थापित परिवारों को मुआवजा व सिंचित भूमि मिली पर पुरखों के आशियाने उजड़ने का दर्द आज भी है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range",
+      "people_family"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "बीकानेर",
+      "Mahajan Field Firing Range",
+      "महाजन फील्ड फायरिंग रेंज",
+      "Khajuwala",
+      "Pugal",
+      "Mohangadh"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "रक्षा मंत्रालय ने वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि को अधिग्रहित किया था"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Bhojrasar",
+        "Kumhana",
+        "Motlai",
+        "Khanisar",
+        "Thoiyan",
+        "Maneran",
+        "Duder",
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "Mahajan Field Firing Range land acquisition"
+      ],
+      "organizations": [
+        "Defence Ministry / रक्षा मंत्रालय"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, 29 Nov 2022",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [
+      "bhojrasar",
+      "kumbhana",
+      "motlai",
+      "khanisar",
+      "thoiya",
+      "manera",
+      "duder"
+    ],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "acquisition_year",
+        "value": "1984-85",
+        "statement_hi": "महाजन फील्ड फायरिंग रेंज हेतु 34 गांवों की भूमि 1984-85 में अधिग्रहित हुई (हाथूसर का नाम इस स्रोत में सीधे नहीं है)।",
+        "statement_en": "Land for the 34 villages for Mahajan Field Firing Range was acquired in 1984-85 (Hathusar itself not named in this source).",
+        "snippet": "रक्षा मंत्रालय ने वर्ष 1984-85 में महाजन क्षेत्र के 34 गांवों की भूमि को अधिग्रहित किया था"
+      }
+    ],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर', 'Khajuwala']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "बीकानेर",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 46,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "Hathusar not named among the 12 villages this article lists; recorded for geo/context value only (same acquisition event the unit claims to belong to). Pipeline should not treat as confirming Hathusar's membership in the 34.",
+    "consent": ""
+  },
+  "src_c37d5179aabc": {
+    "id": "src_c37d5179aabc",
+    "village": "hathusar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-firing-range-3673091",
+    "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika",
+    "published_date": "2018-11-05",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "हाथूसर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "1984-85 में महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों के किसान विस्थापित हुए। लेख में खाजूवाला, दांतूर, पूगल, मोहनगढ़, नाचना गांवों के नाम हैं; हाथूसर उल्लेखित नहीं। करीब 34 साल बाद भी ग्रामीण अपने उजड़े घरों को नहीं भूल पाए हैं, यद्यपि मुआवजा व सिंचित भूमि दी गई।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan Field Firing Range",
+      "Khajuwala",
+      "Pugal",
+      "Mohangadh",
+      "Nachna"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "तमाम सुविधाओं के बाद भी बीते करीब ३४ सालों में ग्रामीण अपने उजड़े आशियानों को नहीं भूल पाये है"
+    ],
+    "entities": {
+      "people": [],
+      "places": [
+        "Khajuwala",
+        "Dantaur",
+        "Pugal",
+        "Mohangadh",
+        "Nachna"
+      ],
+      "events": [
+        "land acquisition, 1984-85"
+      ],
+      "organizations": [
+        "Defence Ministry"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika, 5 Nov 2018",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Bikaner', 'Khajuwala', 'खाजूवाला']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "Bikaner",
+        "Khajuwala",
+        "खाजूवाला",
+        "Pugal",
+        "पूगल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 44,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "Same theme/event as the 2022 Patrika piece, different journalist/year; Hathusar not named. Kept for breadth/context only.",
+    "consent": ""
+  },
+  "src_a6f66da51d72": {
+    "id": "src_a6f66da51d72",
+    "village": "hathusar",
+    "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "url_key": "https://patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+    "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range",
+    "platform": "patrika",
+    "source_type": "news",
+    "media_type": "text",
+    "author": "Rajasthan Patrika",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "hi",
+    "found_by_query": [
+      "हाथूसर महाजन फायरिंग रेंज विस्थापित"
+    ],
+    "summary": "महाजन फील्ड फायरिंग रेंज में भारतीय सेना ने अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त युद्धाभ्यास (आतंकवाद विरोधी, मरुस्थलीय क्षेत्र) किए हैं, तिथियां 2013-2021 के बीच। हाथूसर गांव का कोई उल्लेख नहीं।",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "Bikaner",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "भारतीय सेना ने अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान के साथ साझा युद्धाभ्यास"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [
+        "India-USA 2021",
+        "India-France 2015/2019",
+        "India-Russia 2013/2015",
+        "India-UK 2017 joint exercises"
+      ],
+      "organizations": [
+        "Indian Army"
+      ]
+    },
+    "license": "",
+    "attribution": "Rajasthan Patrika",
+    "is_primary": false,
+    "reliability": 0.75,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']",
+        "district/nearby/clan context: ['Bikaner']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 43,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 11,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "Low relevance to Hathusar specifically; kept only as general range-context background, weak source.",
+    "consent": ""
+  },
+  "src_4fb2da84d5a4": {
+    "id": "src_4fb2da84d5a4",
+    "village": "hathusar",
+    "url": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "url_key": "https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4",
+    "title": "Mahajan Field Firing Range in Rajasthan (Unstarred Question No. 4236)",
+    "platform": "sansad",
+    "source_type": "government",
+    "media_type": "document",
+    "author": "Lok Sabha Secretariat / Ministry of Defence",
+    "published_date": "1987-08-21",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Hathusar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "Lok Sabha Unstarred Question No. 4236 (8th Lok Sabha, 21 Aug 1987), addressed to the Ministry of Defence, on the Mahajan Field Firing Range in Rajasthan. MPs Shivraj V. Patil and Manphool Singh are listed. Only catalogue metadata was retrievable; the underlying PDF (question text and government's answer, likely covering land acquisition/villages) was not opened.",
+    "topics": [
+      "census_admin",
+      "displacement",
+      "land_agriculture",
+      "legal",
+      "military_range"
+    ],
+    "period": "1981_1996",
+    "geo_mentions": [
+      "Rajasthan",
+      "Mahajan Field Firing Range"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Unstarred Question No. 4236, Part 1, VIII Session, Lok Sabha"
+    ],
+    "entities": {
+      "people": [
+        "Shivraj V. Patil",
+        "Manphool Singh"
+      ],
+      "places": [],
+      "events": [
+        "Parliamentary question on Mahajan Field Firing Range"
+      ],
+      "organizations": [
+        "Ministry of Defence",
+        "Lok Sabha"
+      ]
+    },
+    "license": "",
+    "attribution": "eLibrary Sansad (Lok Sabha), 21 Aug 1987",
+    "is_primary": true,
+    "reliability": 0.95,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Mahajan', 'Mahajan Field Firing Range']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Mahajan",
+        "Mahajan Field Firing Range",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 58,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 14,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "Primary government record (parliamentary Q&A) close in time to the acquisition; PDF not opened by this agent (metadata page only, no fetchable body text). A human should download the PDF - it may list acquired villages including Hathusar, or give official acreage/compensation figures usable across all 34-gaon units.",
+    "consent": ""
+  },
+  "src_c818a97c39d5": {
+    "id": "src_c818a97c39d5",
+    "village": "hathusar",
+    "url": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "url_key": "https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt",
+    "title": "Rajasthan District Gazetteers: Bikaner (full text)",
+    "platform": "archive_org",
+    "source_type": "archive",
+    "media_type": "book",
+    "author": "K.K. Sehgal (Directorate of District Gazetteers, Govt of Rajasthan)",
+    "published_date": "1962",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "\"Hathusar\" Bikaner gazetteer OR book OR archive.org"
+    ],
+    "summary": "आधिकारिक बीकानेर जिला गजेटियर (1962) का पूर्ण पाठ सीधे जांचा गया; इसमें 'Hathusar' या 'Hathoosar' शब्द कहीं नहीं मिला। यह गजेटियर बीकानेर के गांवों, तहसीलों व प्रशासनिक इतिहास का विस्तृत विवरण देता है, पर हाथूसर का कोई स्वतंत्र उल्लेख नहीं है।",
+    "topics": [
+      "census_admin",
+      "history"
+    ],
+    "period": "1900_1980",
+    "geo_mentions": [
+      "Bikaner district",
+      "Lunkaransar tahsil"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "public domain / Digital Library of India scan",
+    "attribution": "K.K. Sehgal, Rajasthan District Gazetteers: Bikaner, Govt of Rajasthan, 1962 (archive.org / DLI scan)",
+    "is_primary": true,
+    "reliability": 0.8,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "Rajasthan District Gazetteers: Bikaner",
+      "pages": ""
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner', 'बीकानेर']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Lunkaransar",
+        "Bikaner",
+        "बीकानेर",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 12,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 0,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "Negative finding: confirms 'Hathusar' does not appear in this standard 1962 district gazetteer's OCR text (checked by an AI text search of the full djvu.txt, so a scanning/OCR miss is possible). Strengthens the case that Hathusar needs independent verification as a genuine 34-gaon village name, or that it went by a different/older name in 1962.",
+    "consent": ""
+  },
+  "src_c466837c3e56": {
+    "id": "src_c466837c3e56",
+    "village": "hathusar",
+    "url": "http://wikimapia.org/33551695/Field-Firing-Range-Mahajan",
+    "url_key": "https://wikimapia.org/33551695/Field-Firing-Range-Mahajan",
+    "title": "Field Firing Range Mahajan (Wikimapia)",
+    "platform": "wikimapia.org",
+    "source_type": "website",
+    "media_type": "map",
+    "author": "",
+    "published_date": "",
+    "discovered_date": "2026-09-18",
+    "language": "en",
+    "found_by_query": [
+      "Hathusar \"Mahajan Field Firing Range\""
+    ],
+    "summary": "एक AI-जनित सर्च सारांश ने दावा किया कि 'Hathusar' महाजन फील्ड फायरिंग रेंज के भीतर एक टैंक फायरिंग रेंज उप-क्षेत्र का नाम है, संभवतः इसी Wikimapia पेज पर आधारित। पेज को सीधे fetch करने पर कोई सामग्री नहीं मिली (खाली/जावास्क्रिप्ट-निर्भर पेज), इसलिए यह दावा असत्यापित है।",
+    "topics": [
+      "displacement",
+      "military_range"
+    ],
+    "period": "pre_1900",
+    "geo_mentions": [
+      "Mahajan Field Firing Range",
+      "Lunkaransar",
+      "Bikaner"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Hathusar",
+    "evidence_snippets": [
+      "Hathusar is a tank firing range area within the Mahajan Field Firing Range (unverified AI search-summary claim)"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": []
+    },
+    "license": "",
+    "attribution": "",
+    "is_primary": false,
+    "reliability": 0.45,
+    "related_villages": [],
+    "media": {
+      "channel": "",
+      "uploader": "",
+      "caption": "",
+      "creator": "",
+      "transcript_available": "",
+      "timestamps": "",
+      "book_title": "",
+      "pages": ""
+    },
+    "claims": [
+      {
+        "claim_key": "possible_range_subarea_name",
+        "value": "tank firing range area named Hathusar inside MFFR (UNVERIFIED)",
+        "statement_hi": "एक असत्यापित सर्च-सारांश के अनुसार महाजन फील्ड फायरिंग रेंज के भीतर 'हाथूसर' नामक एक टैंक फायरिंग उप-क्षेत्र है; मूल पेज fetch करने पर पुष्टि नहीं हो सकी।",
+        "statement_en": "An unverified search-engine summary states there is a tank-firing sub-area named 'Hathusar' inside the Mahajan Field Firing Range; could not confirm by directly fetching the source page.",
+        "snippet": "Hathusar is a tank firing range area within the Mahajan Field Firing Range"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Hathusar",
+        "strong geo context: ['Mahajan', 'महाजन', 'Lunkaransar']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "Hathusar",
+        "हाथूसर"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Lunkaransar",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 7,
+        "primary": 0,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 2,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260918T094048Z"
+    ],
+    "notes": "IMPORTANT FOR HUMAN REVIEW: this is the single most promising and most uncertain lead found. If true, it would directly connect the acquired village's name to a still-used military place-name inside the range (common pattern: firing ranges keep the old village names as zone/target-area labels). Needs a human to open the Wikimapia/Google Maps/OSM page in a real browser (WebFetch returned empty content here) and, ideally, satellite imagery or a military OSINT map to confirm.",
+    "consent": ""
+  }
+}

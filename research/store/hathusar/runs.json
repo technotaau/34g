@@ -1,0 +1,15 @@
+[
+  {
+    "run_id": "run_20260918T094048Z",
+    "file": "/home/user/34g/research/inbox/hathusar/discovery.json",
+    "input": 6,
+    "invalid": 0,
+    "new": 6,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 20,
+    "agent_notes": "Hathusar is genuinely hard to find: no direct hit for the name 'Hathusar'/'हाथूसर'/'Hathoosar'/'हाथुसर' in any web, news, gov, book, video or social search across 20 queries. The 1962 Rajasthan District Gazetteer (Bikaner, Sehgal) full text was checked directly and does NOT contain 'Hathusar'. Patrika's own '34 gaon displacement' feature articles (checked directly) name other villages (Bhojrasar, Kumhana, Motlai, Khanisar, Thoiyan, Maneran, Duder, Khajuwala, Dantaur, Pugal, Mohangadh, Nachna) but never Hathusar - useful negative evidence, does not by itself disprove Hathusar was acquired. jatl",
+    "total_after": 6,
+    "at": "2026-09-18T09:40:48.494526+00:00"
+  }
+]
