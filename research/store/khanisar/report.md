@@ -1,6 +1,6 @@
 # खानीसर (Khanisar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-18 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 8, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 11
 
@@ -125,19 +125,19 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## तथ्य / दावे
 
 ### अच्छी तरह समर्थित (verified / corroborated)
+- **mffr_total_villages** = 34 · corroborated (1 स्वतंत्र स्रोत) · महाजन फील्ड फायरिंग रेंज के लिए कुल 34 गांव विस्थापित हुए, जिनमें खानीसर शामिल है।
 - **mffr_area** = 3.37 lakh acres · verified (2 स्वतंत्र स्रोत) · महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ में फैली है, जिसमें खानीसर की भूमि भी शामिल मानी जाती है।
+- **village_in_34_gaon** = yes · corroborated (1 स्वतंत्र स्रोत) · पोस्ट: खानीसर 34 गांवों में से एक था जो महाजन फील्ड फायरिंग रेंज में गया
 
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
 - **acquisition_year** = 1984-85 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1982'] · स्रोत: src_a5150b8b1d53
 - **acquisition_year** = 1982 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-85'] · स्रोत: src_4fb2da84d5a4
-- **resettlement_sites** = Khajuwala, Dantaur, Pugal, Mohangadh, Nachna · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
-- **mffr_total_villages** = 34 · single-source · विश्वास 0.5 · स्रोत: src_a5150b8b1d53
+- **resettlement_sites** = Khajuwala, Dantaur, Pugal, Mohangadh, Nachna · single-source · विश्वास 0.45 · स्रोत: src_a5150b8b1d53
 - **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
-- **coordinates** = 28°56'40"N 73°43'48"E · unverified · विश्वास 0.3 · स्रोत: src_dae2abcced95
-- **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
-- **village_status** = open land; no standing ruins visible · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
-- **khanisar_oldest_village_claim** = 'सबसे पुराना गांव' per overlay (unverified community claim) · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
-- **diaspora_family_khanisar** = Mukesh Jaat Phalwan's family is from Khanisar · single-source · विश्वास 0.5 · स्रोत: src_d0c67cfdca73
+- **coordinates** = 28°56'40"N 73°43'48"E · single-source · विश्वास 0.5 · स्रोत: src_dae2abcced95
+- **village_status** = open land; no standing ruins visible · single-source · विश्वास 0.35 · स्रोत: src_d0c67cfdca73
+- **khanisar_oldest_village_claim** = 'सबसे पुराना गांव' per overlay (unverified community claim) · single-source · विश्वास 0.25 · स्रोत: src_d0c67cfdca73
+- **diaspora_family_khanisar** = Mukesh Jaat Phalwan's family is from Khanisar · single-source · विश्वास 0.3 · स्रोत: src_d0c67cfdca73
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
