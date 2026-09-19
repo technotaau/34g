@@ -4,155 +4,255 @@
  "credit": "Dinesh Beniwal (YouTube fb851985674182311)",
  "extracted": "2026-09-19",
  "every_s": 4,
- "rights": "Stills from a third-party video for research reference. Creator's copyright; consent of identifiable people needed before publication.",
+ "rights": "Supplied by TechnoTaau Team with permission to use; original creator credited (public Facebook reel).",
  "count": 21,
  "frames": [
   {
    "file": "frames/0002s.jpg",
    "timestamp_s": 2,
    "timestamp": "00:02",
-   "description": "",
-   "tags": []
+   "description": "Drone view over the sandy plain of Thoiya at golden hour; khejri trees, drone shadow; overlay 'पुराणा 34 गाँव ठोइया का जोहड़ा'",
+   "tags": [
+    "landscape",
+    "title",
+    "aerial"
+   ],
+   "description_hi": "ठोइया का रेतीला मैदान drone से, सुनहरी रोशनी; खेजड़ी के पेड़; overlay 'पुराणा 34 गाँव ठोइया का जोहड़ा'"
   },
   {
    "file": "frames/0006s.jpg",
    "timestamp_s": 6,
    "timestamp": "00:06",
-   "description": "",
-   "tags": []
+   "description": "Drone view: an SUV parked on the plain near the johad, trees around",
+   "tags": [
+    "landscape",
+    "aerial",
+    "journey"
+   ],
+   "description_hi": "drone से: जोहड़े के पास मैदान में खड़ी गाड़ी, आसपास पेड़"
   },
   {
    "file": "frames/0010s.jpg",
    "timestamp_s": 10,
    "timestamp": "00:10",
-   "description": "",
-   "tags": []
+   "description": "Drone view: an SUV parked on the plain near the johad, trees around",
+   "tags": [
+    "landscape",
+    "aerial",
+    "journey"
+   ],
+   "description_hi": "drone से: जोहड़े के पास मैदान में खड़ी गाड़ी, आसपास पेड़"
   },
   {
    "file": "frames/0014s.jpg",
    "timestamp_s": 14,
    "timestamp": "00:14",
-   "description": "",
-   "tags": []
+   "description": "Four visitors in white walk from the SUV towards the johad; water in the pond behind",
+   "tags": [
+    "people",
+    "water",
+    "aerial"
+   ],
+   "description_hi": "सफेद कपड़ों में चार आगंतुक गाड़ी से जोहड़े की ओर चलते हुए; पीछे तालाब में पानी"
   },
   {
    "file": "frames/0018s.jpg",
    "timestamp_s": 18,
    "timestamp": "00:18",
-   "description": "",
-   "tags": []
+   "description": "Four visitors in white walk from the SUV towards the johad; water in the pond behind",
+   "tags": [
+    "people",
+    "water",
+    "aerial"
+   ],
+   "description_hi": "सफेद कपड़ों में चार आगंतुक गाड़ी से जोहड़े की ओर चलते हुए; पीछे तालाब में पानी"
   },
   {
    "file": "frames/0022s.jpg",
    "timestamp_s": 22,
    "timestamp": "00:22",
-   "description": "",
-   "tags": []
+   "description": "Two men in white on the pond embankment under a jaal tree",
+   "tags": [
+    "people",
+    "water"
+   ],
+   "description_hi": "जाल के पेड़ के नीचे तालाब की पाळ पर दो लोग"
   },
   {
    "file": "frames/0026s.jpg",
    "timestamp_s": 26,
    "timestamp": "00:26",
-   "description": "",
-   "tags": []
+   "description": "The Thoiya johad full of water, large jaal trees on the far bank, seen from the drone",
+   "tags": [
+    "water",
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "ठोइया का जोहड़ा पानी से भरा, दूर की पाळ पर बड़े जाल के पेड़, drone से"
   },
   {
    "file": "frames/0030s.jpg",
    "timestamp_s": 30,
    "timestamp": "00:30",
-   "description": "",
-   "tags": []
+   "description": "The Thoiya johad full of water, large jaal trees on the far bank, seen from the drone",
+   "tags": [
+    "water",
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "ठोइया का जोहड़ा पानी से भरा, दूर की पाळ पर बड़े जाल के पेड़, drone से"
   },
   {
    "file": "frames/0034s.jpg",
    "timestamp_s": 34,
    "timestamp": "00:34",
-   "description": "",
-   "tags": []
+   "description": "The Thoiya johad full of water, large jaal trees on the far bank, seen from the drone",
+   "tags": [
+    "water",
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "ठोइया का जोहड़ा पानी से भरा, दूर की पाळ पर बड़े जाल के पेड़, drone से"
   },
   {
    "file": "frames/0038s.jpg",
    "timestamp_s": 38,
    "timestamp": "00:38",
-   "description": "",
-   "tags": []
+   "description": "Bare mounds and eroded ground where the houses stood",
+   "tags": [
+    "ruins",
+    "landscape"
+   ],
+   "description_hi": "उजड़े घरों के टीले और कटी हुई ज़मीन"
   },
   {
    "file": "frames/0042s.jpg",
    "timestamp_s": 42,
    "timestamp": "00:42",
-   "description": "",
-   "tags": []
+   "description": "A man in white stands on the embankment looking over the old village, then walks away over the mounds",
+   "tags": [
+    "people",
+    "oral-history",
+    "ruins"
+   ],
+   "description_hi": "सफेद कपड़ों में एक व्यक्ति पाळ पर खड़ा पुराने गांव को देखता है, फिर टीलों पर चलता है"
   },
   {
    "file": "frames/0046s.jpg",
    "timestamp_s": 46,
    "timestamp": "00:46",
-   "description": "",
-   "tags": []
+   "description": "A man in white stands on the embankment looking over the old village, then walks away over the mounds",
+   "tags": [
+    "people",
+    "oral-history",
+    "ruins"
+   ],
+   "description_hi": "सफेद कपड़ों में एक व्यक्ति पाळ पर खड़ा पुराने गांव को देखता है, फिर टीलों पर चलता है"
   },
   {
    "file": "frames/0050s.jpg",
    "timestamp_s": 50,
    "timestamp": "00:50",
-   "description": "",
-   "tags": []
+   "description": "The plain of the old village from above: eroded ground, scrub, the visitors' long shadows",
+   "tags": [
+    "landscape",
+    "aerial",
+    "ruins"
+   ],
+   "description_hi": "ऊपर से पुराने गांव का मैदान: कटी ज़मीन, झाड़ियां, आगंतुकों की लंबी परछाइयां"
   },
   {
    "file": "frames/0054s.jpg",
    "timestamp_s": 54,
    "timestamp": "00:54",
-   "description": "",
-   "tags": []
+   "description": "The plain of the old village from above: eroded ground, scrub, the visitors' long shadows",
+   "tags": [
+    "landscape",
+    "aerial",
+    "ruins"
+   ],
+   "description_hi": "ऊपर से पुराने गांव का मैदान: कटी ज़मीन, झाड़ियां, आगंतुकों की लंबी परछाइयां"
   },
   {
    "file": "frames/0058s.jpg",
    "timestamp_s": 58,
    "timestamp": "00:58",
-   "description": "",
-   "tags": []
+   "description": "The plain of the old village from above: eroded ground, scrub, the visitors' long shadows",
+   "tags": [
+    "landscape",
+    "aerial",
+    "ruins"
+   ],
+   "description_hi": "ऊपर से पुराने गांव का मैदान: कटी ज़मीन, झाड़ियां, आगंतुकों की लंबी परछाइयां"
   },
   {
    "file": "frames/0062s.jpg",
    "timestamp_s": 62,
    "timestamp": "01:02",
-   "description": "",
-   "tags": []
+   "description": "The plain of the old village from above: eroded ground, scrub, the visitors' long shadows",
+   "tags": [
+    "landscape",
+    "aerial",
+    "ruins"
+   ],
+   "description_hi": "ऊपर से पुराने गांव का मैदान: कटी ज़मीन, झाड़ियां, आगंतुकों की लंबी परछाइयां"
   },
   {
    "file": "frames/0066s.jpg",
    "timestamp_s": 66,
    "timestamp": "01:06",
-   "description": "",
-   "tags": []
+   "description": "Groves of khejri and jaal on the village land",
+   "tags": [
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "गांव की ज़मीन पर खेजड़ी और जाल के झुरमुट"
   },
   {
    "file": "frames/0070s.jpg",
    "timestamp_s": 70,
    "timestamp": "01:10",
-   "description": "",
-   "tags": []
+   "description": "Groves of khejri and jaal on the village land",
+   "tags": [
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "गांव की ज़मीन पर खेजड़ी और जाल के झुरमुट"
   },
   {
    "file": "frames/0074s.jpg",
    "timestamp_s": 74,
    "timestamp": "01:14",
-   "description": "",
-   "tags": []
+   "description": "Shadows of the group on the sand",
+   "tags": [
+    "people",
+    "landscape"
+   ],
+   "description_hi": "रेत पर समूह की परछाइयां"
   },
   {
    "file": "frames/0078s.jpg",
    "timestamp_s": 78,
    "timestamp": "01:18",
-   "description": "",
-   "tags": []
+   "description": "The SUV beside the pond and trees; closing wide shot of the johad",
+   "tags": [
+    "water",
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "तालाब और पेड़ों के पास गाड़ी; जोहड़े का अंतिम दृश्य"
   },
   {
    "file": "frames/0082s.jpg",
    "timestamp_s": 82,
    "timestamp": "01:22",
-   "description": "",
-   "tags": []
+   "description": "The SUV beside the pond and trees; closing wide shot of the johad",
+   "tags": [
+    "water",
+    "landscape",
+    "aerial"
+   ],
+   "description_hi": "तालाब और पेड़ों के पास गाड़ी; जोहड़े का अंतिम दृश्य"
   }
  ]
 }

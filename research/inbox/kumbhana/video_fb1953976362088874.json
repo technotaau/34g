@@ -1,0 +1,53 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1953976362088874 on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://m.facebook.com/watch/?v=1953976362088874&_rdr",
+   "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal (100023184678090)",
+   "published_date": "2025-09-23",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video 'एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है' (3:12) by Dinesh Beniwal. एरिया में 34 गाँव कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है यहाँ आके (कुम्भाना गाँव) ❤️🏰 #34gaav",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "कुम्भाना",
+   "evidence_snippets": [
+    "Title: एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है",
+    "Description: एरिया में 34 गाँव कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है यहाँ आके (कुम्भाना गाँव) ❤️🏰 #34gaav"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1953976362088874&_rdr",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal",
+    "uploader": "100023184678090",
+    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1953976362088874.content.json",
+    "timestamps": "0 public comments; 79059 views; hashtags: 34gaav",
+    "frames": "24 stills in research/media/kumbhana/fb1953976362088874/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

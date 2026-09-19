@@ -1,0 +1,99 @@
+{
+ "rights": "Supplied by TechnoTaau Team with permission to use; original creator credited (public Facebook reel).",
+ "ranges": [
+  [
+   0,
+   2,
+   "The Likhmisar johad with water; a cow drinking; overlay 'पुराना 34 गाँव लिखमीसर का जोहड़ा, कुआँ, मंदिर'",
+   "लिखमीसर का जोहड़ा पानी सहित, गाय पानी पीती हुई; overlay 'पुराना 34 गाँव लिखमीसर का जोहड़ा, कुआँ, मंदिर'",
+   [
+    "water",
+    "livestock",
+    "title"
+   ]
+  ],
+  [
+   3,
+   8,
+   "A small masonry structure (the old well with its platform) among trees near the pond",
+   "तालाब के पास पेड़ों के बीच पक्की चिनाई का पुराना कुआं और उसका चबूतरा",
+   [
+    "well",
+    "ruins",
+    "water"
+   ]
+  ],
+  [
+   9,
+   11,
+   "Cattle at the pond, jaal trees on the bank",
+   "तालाब पर पशु, पाळ पर जाल के पेड़",
+   [
+    "water",
+    "livestock"
+   ]
+  ],
+  [
+   12,
+   14,
+   "A herd of cattle and a green-painted water trough near the village site",
+   "गांव की जगह के पास पशुओं का झुंड और हरे रंग की पानी की खेळी",
+   [
+    "livestock",
+    "water"
+   ]
+  ],
+  [
+   15,
+   17,
+   "Wide view of the pond with cattle drinking",
+   "तालाब का चौड़ा दृश्य, पशु पानी पीते हुए",
+   [
+    "water",
+    "livestock",
+    "landscape"
+   ]
+  ],
+  [
+   18,
+   20,
+   "A small shrine with a red door on the pond bank beside a big tree (the temple of the reel title)",
+   "तालाब की पाळ पर बड़े पेड़ के पास लाल दरवाज़े वाला छोटा मंदिर",
+   [
+    "temple",
+    "shrine",
+    "water"
+   ]
+  ],
+  [
+   21,
+   23,
+   "A large jaal tree leaning over the water",
+   "पानी पर झुका बड़ा जाल का पेड़",
+   [
+    "water",
+    "landscape"
+   ]
+  ],
+  [
+   24,
+   41,
+   "Sandy ground of the old village with scrub and low mounds",
+   "पुराने गांव की रेतीली ज़मीन, झाड़ियां और नीचे टीले",
+   [
+    "landscape",
+    "ruins"
+   ]
+  ],
+  [
+   42,
+   50,
+   "Closing view: the pond and the leaning jaal tree",
+   "अंतिम दृश्य: तालाब और झुका हुआ जाल का पेड़",
+   [
+    "water",
+    "landscape"
+   ]
+  ]
+ ]
+}

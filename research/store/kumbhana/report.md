@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 5, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 15
+स्रोत: कुल 8, स्वीकृत 6, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 15
 
 > Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site. Listed as 'कुम्भाणा' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -86,17 +86,21 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (1)
+### वीडियो (2)
 - [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 1 in guImlBcRMTU.content.json · timestamps: 0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj
+- [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है](https://m.facebook.com/watch/?v=1953976362088874&_rdr) (social · video · 2025-09-23 · स्कोर 85) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1953976362088874.content.json · timestamps: 0 public comments; 79059 views; hashtags: 34gaav
 
 ### साक्षात्कार / ऑडियो (0)
 
 ### पुस्तकें व ऐतिहासिक संदर्भ (0)
 
-### सार्वजनिक सोशल मीडिया स्रोत (2)
+### सार्वजनिक सोशल मीडिया स्रोत (3)
 - [प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)](https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at 'Field Firing Range Mahajan', with Mahender Soni and 16 others; URL not captured)) (social · social_post · 2021-01-31 · स्कोर 88) · लाइसेंस: Facebook post; poster's copyright
   - creator: Pradeep Soni · timestamps: 4 photos; file not retained
+- [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है](https://m.facebook.com/watch/?v=1953976362088874&_rdr) (social · video · 2025-09-23 · स्कोर 85) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1953976362088874.content.json · timestamps: 0 public comments; 79059 views; hashtags: 34gaav
 - [pradyuman singh bika kumbhana - Rajasthan, India | Professional Profile | LinkedIn](https://www.linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5/) (social · social_post · तिथि अज्ञात · स्कोर 69 · समीक्षा हेतु)
 
 ### सरकारी / कानूनी अभिलेख (0)
@@ -110,7 +114,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Bajrang Lal Lakhotiya, Dinesh Kumar Swami, Kumbha, Maharaja Anup Singh, Maharaja Ganga Singh, Mahender Soni (tagged, likely the father), Nathu Dhatarwal, Pradeep Soni (poster), Pradyuman Singh Bika Kumbhana, Rao Bahadur Thakur Daulat Singh, Rao Lunkaran, Thakur Bairisal, Thakur Kesri Singh, Thakur Megh Singh, Thakur Raj Singh Rathore
 - **places:** Bikaner, Dhatri, Field Firing Range Mahajan (Facebook location), Kumbhana, Kumbhana garh (fort) ruins, Kumbhana ruins, Mahajan, Mahajan Field Firing Range, Sujangarh
 - **events:** Accession to India 1956, Court of Wards (1896-97), Father-son return visit, 31 Jan 2021, Holika Dahan, Rajasthan Land Reforms Act 1952, Rajasthan Land Reforms and Resumption of Jagirs Act, 1952, joint international military exercises
-- **organizations:** Bikaner State, Indian Army, Ministry of Defence, 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝
+- **organizations:** Bikaner State, Dinesh Beniwal, Indian Army, Ministry of Defence, 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝
 
 ## तथ्य / दावे
 
@@ -150,6 +154,7 @@ _कोई नहीं_
 - [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) · youtube · video · स्कोर 92 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 90 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव कुम्भाणा महाजन फायरिंग रेंज
 - [प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)](https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at 'Field Firing Range Mahajan', with Mahender Soni and 16 others; URL not captured)) · facebook · social · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: screenshot supplied by TechnoTaau Team
+- [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है](https://m.facebook.com/watch/?v=1953976362088874&_rdr) · facebook · social · स्कोर 85 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) · indianrajputs.com · website · स्कोर 80 · रिज़ॉल्यूशन accept (0.8) · खोज: Kumbhana village Bikaner Rajasthan
 - [pradyuman singh bika kumbhana - Rajasthan, India | Professional Profile | LinkedIn](https://www.linkedin.com/in/pradyuman-singh-bika-kumbhana-6805391a5/) · linkedin.com · social · स्कोर 69 · रिज़ॉल्यूशन review (0.55) · खोज: Kumbhana Bikaner
 - [Kumbhana - Jatland Wiki](https://www.jatland.com/home/Kumbhana) · jatland · community_wiki · स्कोर 67 · रिज़ॉल्यूशन accept (0.65) · खोज: Kumbhana village Bikaner Rajasthan
