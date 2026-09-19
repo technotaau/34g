@@ -7,7 +7,7 @@
 | कुम्भाणा (Kumbhana) | 7 | 5 | 1 | 15 | 15 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 7 | 2 | 0 | 9 | 9 | [report](store/motlai/report.md) |
 | खानीसर (Khanisar) | 8 | 3 | 1 | 11 | 8 | [report](store/khanisar/report.md) |
-| ठोईयां (Thoiya) | 6 | 4 | 0 | 8 | 8 | [report](store/thoiya/report.md) |
+| ठोईयां (Thoiya) | 7 | 5 | 0 | 8 | 8 | [report](store/thoiya/report.md) |
 | मणेरां (Manera) | 7 | 3 | 0 | 9 | 9 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 7 | 7 | [report](store/duder/report.md) |
 | चिड़ासर (Chidasar) | 8 | 1 | 0 | 3 | 3 | [report](store/chidasar/report.md) |

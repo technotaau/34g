@@ -731,5 +731,99 @@
       "run_20260905T175357Z"
     ],
     "notes": "WebFetch returned empty content (page likely requires JS rendering). Title match only -- a human should open this map page directly to confirm coordinates and that it corresponds to Thoiya, Lunkaransar, Bikaner, and not a same-named place elsewhere."
+  },
+  "src_e6b8fda3434a": {
+    "id": "src_e6b8fda3434a",
+    "village": "thoiya",
+    "url": "https://m.facebook.com/watch/?v=851985674182311&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=851985674182311",
+    "title": "पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Dinesh Beniwal (100023184678090)",
+    "published_date": "2025-10-19",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video 'पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥' (1:23) by Dinesh Beniwal. पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "ठोइया",
+    "evidence_snippets": [
+      "Title: पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥",
+      "Description: पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=851985674182311&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal",
+      "uploader": "100023184678090",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb851985674182311.content.json",
+      "timestamps": "0 public comments; 19306 views; hashtags: ",
+      "frames": "21 stills in research/media/thoiya/fb851985674182311/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: ठोइया",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "ठोइया"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 85,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T153829Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }
