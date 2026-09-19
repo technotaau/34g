@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>स्रोत · 34 गांव</title>
+<meta name="description" content="गांव उजड़े, जड़ें नहीं।">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yatra+One&family=Mukta:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg:#F4F2ED; --panel:#E9E6DE; --line:#CFC8B8; --ink:#1B1F2A; --muted:#5C6270;
+  --accent:#2F3E9E; --accent-ink:#FFFFFF; --ok:#3E6B3A; --one:#2F3E9E; --todo:#7A7466; --conf:#9A4A22;
+  --photo:#2A2B2E; --radius:6px;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
+  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
+}}
+:root[data-theme="dark"]{
+  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
+  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--ink)}
+body{margin:0;font-family:"Mukta","Noto Sans Devanagari","Hind",system-ui,sans-serif;font-size:17px;line-height:1.6;font-variant-numeric:tabular-nums}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+img{max-width:100%;height:auto;display:block}
+h1,h2,h3{font-family:"Yatra One","Mukta","Noto Sans Devanagari",serif;font-weight:400;line-height:1.25;text-wrap:balance;margin:0}
+h1{font-size:clamp(1.9rem,4.5vw,3rem)}
+h2{font-size:clamp(1.4rem,3vw,1.9rem)}
+h3{font-size:1.15rem}
+p{margin:0}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
+.prose{max-width:68ch}
+.eyebrow{font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-family:"Mukta",sans-serif}
+.muted{color:var(--muted)}
+.small{font-size:.9rem}
+.stack{display:grid;gap:.6rem}
+.section{padding-block:2.2rem;border-top:1px solid var(--line)}
+.section:first-of-type{border-top:0}
+.section-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1.5rem;margin-bottom:1rem}
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:1rem;min-height:56px}
+.brand{font-family:"Yatra One","Mukta",serif;font-size:1.35rem;color:var(--ink);text-decoration:none;white-space:nowrap}
+.brand small{font-family:"Mukta",sans-serif;font-size:.75rem;color:var(--muted);margin-left:.4rem;letter-spacing:.06em}
+nav.main{display:flex;gap:.1rem;min-width:0;overflow-x:auto;scrollbar-width:none;margin-left:auto}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{white-space:nowrap;padding:.35rem .6rem;border-radius:999px;text-decoration:none;color:var(--ink);font-size:.95rem}
+nav.main a[aria-current="page"]{background:var(--accent);color:var(--accent-ink)}
+/* hero */
+.hero{position:relative;background:var(--photo);color:#F4F2ED;overflow:hidden}
+.hero img{width:100%;max-height:70vh;min-height:320px;object-fit:cover;object-position:center 40%;opacity:.78}
+.hero .text{position:absolute;inset:auto 0 0 0;padding:1.5rem 0 1.6rem;background:linear-gradient(180deg,rgba(20,22,29,0) 0%,rgba(20,22,29,.85) 60%)}
+.hero h1{font-size:clamp(2.2rem,7vw,4.4rem);color:#FFF;text-shadow:0 2px 12px rgba(0,0,0,.5)}
+.hero p{color:#E6E2D8;max-width:60ch;margin-top:.6rem;font-size:1.05rem}
+.hero .credit{font-size:.78rem;color:#C9C4B8;margin-top:.8rem}
+/* numbers */
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.nums div{background:var(--panel);padding:1rem}
+.nums b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:2rem;line-height:1.1}
+.nums span{font-size:.9rem;color:var(--muted)}
+/* badges */
+.badge{display:inline-block;font-size:.75rem;line-height:1.3;padding:.15rem .5rem;border-radius:999px;border:1px solid currentColor;white-space:nowrap;vertical-align:middle;font-family:"Mukta",sans-serif}
+.b-ok{color:var(--ok)} .b-one{color:var(--one)} .b-todo{color:var(--todo);border-style:dashed} .b-conf{color:var(--conf)}
+/* village grid */
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:.5rem}
+.vgrid a{display:block;padding:.7rem .8rem;border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:var(--ink);background:var(--panel)}
+.vgrid a:hover{border-color:var(--accent)}
+.vgrid .hi{font-family:"Yatra One","Mukta",serif;font-size:1.15rem;display:block}
+.vgrid .en{font-size:.8rem;color:var(--muted);display:block}
+.vgrid .dots{display:flex;gap:.3rem;margin-top:.4rem;align-items:center;font-size:.75rem;color:var(--muted)}
+.dot{width:.6rem;height:.6rem;border-radius:50%;border:1.5px solid var(--accent);display:inline-block}
+.dot.full{background:var(--accent)}
+.dot.media{border-color:var(--ok);background:var(--ok)}
+.vgrid a.thin{background:transparent}
+/* claims */
+.claims{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.claims li{display:grid;grid-template-columns:auto 1fr;gap:.6rem;align-items:start;padding:.6rem .8rem;border-left:3px solid var(--line);background:var(--panel)}
+.claims li.ok{border-left-color:var(--ok)} .claims li.one{border-left-color:var(--one)} .claims li.conf{border-left-color:var(--conf)}
+.claims .why{font-size:.88rem;color:var(--muted);grid-column:1/-1}
+/* gallery */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:.6rem}
+.gallery figure{margin:0;background:var(--panel);border-radius:var(--radius);overflow:hidden}
+.gallery img{aspect-ratio:16/9;object-fit:cover;width:100%}
+.gallery figcaption{padding:.45rem .6rem .6rem;font-size:.85rem;line-height:1.4}
+.gallery figcaption .t{color:var(--muted);font-size:.75rem;margin-right:.4rem}
+.video{padding:1rem 0;border-top:1px solid var(--line)}
+.video header{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin-bottom:.6rem}
+/* tables */
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius)}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:.5rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--panel);font-weight:600;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td.num{text-align:right;white-space:nowrap}
+/* timeline */
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);margin-left:.5rem}
+.tl li{position:relative;padding:.2rem 0 1.4rem 1.4rem}
+.tl li::before{content:"";position:absolute;left:-7px;top:.7rem;width:12px;height:12px;border-radius:50%;background:var(--bg);border:2px solid var(--accent)}
+.tl li.visthapan::before{background:var(--accent)}
+.tl .when{font-family:"Yatra One","Mukta",serif;font-size:1.2rem}
+.tl .phase{font-size:.75rem;color:var(--muted);letter-spacing:.05em;margin-left:.5rem}
+.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem;margin-bottom:1.4rem}
+.phases div{padding:.8rem;border:1px solid var(--line);border-radius:var(--radius)}
+.phases b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:1.1rem}
+/* map */
+.map{border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);padding:.5rem}
+.map svg{width:100%;height:auto;display:block}
+/* cards, callouts */
+.callout{padding:1rem 1.2rem;border-left:4px solid var(--accent);background:var(--panel)}
+.callout.warn{border-left-color:var(--conf)}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem}
+.list{padding-left:1.2rem;margin:0;display:grid;gap:.3rem}
+.srcs{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.srcs li{padding:.5rem .7rem;border:1px solid var(--line);border-radius:var(--radius);font-size:.93rem}
+.srcs .meta{color:var(--muted);font-size:.8rem}
+.tag{display:inline-block;font-size:.75rem;padding:.05rem .45rem;border-radius:3px;background:var(--panel);border:1px solid var(--line);margin-right:.3rem}
+.legend{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;font-size:.9rem}
+.btn{display:inline-block;padding:.55rem 1rem;border-radius:999px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:500}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.pill-row{display:flex;flex-wrap:wrap;gap:.4rem}
+/* chaupal mock */
+.chat{max-width:420px;border:1px solid var(--line);border-radius:12px;padding:.8rem;background:var(--panel);display:grid;gap:.5rem}
+.chat .m{max-width:85%;padding:.5rem .7rem;border-radius:10px;background:var(--bg);font-size:.95rem}
+.chat .m.me{margin-left:auto;background:var(--accent);color:var(--accent-ink)}
+.chat .m small{display:block;color:var(--muted);font-size:.72rem}
+.chat .m.me small{color:var(--accent-ink);opacity:.8}
+footer{border-top:1px solid var(--line);margin-top:2rem;padding-block:1.6rem 2.2rem;font-size:.9rem;color:var(--muted)}
+footer .wrap{display:grid;gap:.4rem}
+.village-head{display:grid;gap:.4rem;padding-block:1.8rem 1rem}
+.village-head .en{font-size:1rem;color:var(--muted)}
+.village-head .row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:.25rem 1rem;font-size:.95rem}
+.kv dt{color:var(--muted)} .kv dd{margin:0}
+@media (prefers-reduced-motion:no-preference){ .vgrid a,.gallery figure{transition:border-color .15s,transform .15s} .gallery figure:hover{transform:translateY(-2px)} }
+@media (max-width:480px){ body{font-size:16px} .nums b{font-size:1.6rem} .hero img{min-height:260px} }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap"><a class="brand" href="index.html">34 गांव<small>34gaon.com</small></a><nav class="main" aria-label="मुख्य"><a href="index.html">घर</a><a href="gaon.html">गांव</a><a href="naksha.html">नक्शा</a><a href="samay.html">समय-रेखा</a><a href="yaadein.html">यादें</a><a href="asar.html">रेंज का असर</a><a href="basera.html">नया बसेरा</a><a href="chaupal.html">चौपाल</a><a href="yogdan.html">योगदान</a><a href="srot.html" aria-current="page">स्रोत</a></nav></div></header>
+<main><div class="wrap">
+<section class="section"><p class="eyebrow">स्रोत और तरीका</p><h1>हम कैसे जांचते हैं</h1>
+<p class="prose" style="margin-top:.6rem">यह वेबसाइट अफ़वाह का बोर्ड नहीं, अभिलेख है। हर गांव के लिए हमने वेब, अखबार, अदालत के फैसले, सरकारी उत्तर, यूट्यूब-फेसबुक के वीडियो और समुदाय के लिखे इतिहास खोजे; हर स्रोत को यह जांच के बाद ही गांव से जोड़ा कि वह इसी बीकानेर वाले गांव की बात करता है (उसी नाम के गांव हरियाणा, हनुमानगढ़ और नोखा में भी हैं)। फिर हर दावे को स्रोतों की संख्या और भरोसे के हिसाब से एक स्तर दिया।</p>
+<div class="legend" style="margin-top:1rem"><span class="badge b-ok">पक्का</span> सरकारी/अदालती अभिलेख, या दो स्वतंत्र मज़बूत स्रोत &nbsp; <span class="badge b-ok">मिलान</span> दो अलग स्रोत सहमत &nbsp; <span class="badge b-one">एक स्रोत</span> अभी एक ही स्रोत &nbsp; <span class="badge b-todo">जांच बाकी</span> सिर्फ़ सूची या अनाम दावा &nbsp; <span class="badge b-conf">विरोधी स्रोत</span> स्रोत आपस में अलग</div>
+</section>
+<section class="section"><div class="nums">
+<div><b>37</b><span>गांव (शोध इकाइयां)</span></div>
+<div><b>264</b><span>स्रोत देखे, 82 सीधे जोड़े गए</span></div>
+<div><b>291</b><span>दावे दर्ज</span></div>
+<div><b>22</b><span>पक्के या मिलान वाले</span></div>
+<div><b>38</b><span>जहां स्रोत अलग कहते हैं</span></div>
+<div><b>10</b><span>वीडियो, 242 तस्वीरें</span></div>
+</div></section>
+<section class="section"><h2>नियम जो हम नहीं तोड़ते</h2><ul class="list" style="margin-top:.6rem">
+<li>सिर्फ़ सार्वजनिक सामग्री; निजी प्रोफ़ाइल या बंद समूह से कुछ नहीं।</li><li>हर तस्वीर के साथ उसके रचनाकार का नाम; परिवारों की तस्वीरें उनकी अनुमति से।</li><li>अधिग्रहण की तारीख या गांवों की गिनती जैसे विवाद छिपाए नहीं जाते, साथ-साथ दिखाए जाते हैं।</li><li>मौत या घटना का कोई आंकड़ा बिना स्रोत के नहीं।</li><li>जो छूटा, वह लिखा जाता है (हर गांव के पन्ने पर 'क्या छूटा है')।</li></ul></section>
+<section class="section"><h2>संदर्भ-सूची</h2><p class="small muted">वे स्रोत जो किसी गांव या पूरे 34 गांव से सीधे जुड़े; प्रकार के हिसाब से।</p><h3 style="margin:1rem 0 .4rem">सरकारी <span class="small muted">(4)</span></h3><ul class="srcs"><li><a href="https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4" rel="noopener">Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan</a><div class="meta">sansad · 1987-08-21</div></li><li><a href="https://www.geonames.org/10009714" rel="noopener">Lakhor Chhoti — GeoNames</a><div class="meta">geonames.org · 2016-02-11</div></li><li><a href="https://www.tenderdetail.com/Indian-tender/mahajan-field-firing-ranges-tenders" rel="noopener">Tender For Installation Of Reflex Shooting Range System At Duder (East Camp) Mahajan Field Firing Range Under Station Headquarter Mahajan Field Firing Range</a><div class="meta">tenderdetail.com · 2017</div></li><li><a href="https://weather.us/weather/1332250-ramsara" rel="noopener">Ramsara Weather Forecast — weather.us (lists Lakhor Chhoti as neighbor)</a><div class="meta">weather.us · </div></li></ul><h3 style="margin:1rem 0 .4rem">समाचार <span class="small muted">(3)</span></h3><ul class="srcs"><li><a href="https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091" rel="noopener">आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)</a><div class="meta">patrika · 2018-11-05</div></li><li><a href="https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463" rel="noopener">आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range</a><div class="meta">patrika · 2022-11-29</div></li><li><a href="https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/" rel="noopener">बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह</a><div class="meta">voiceofbikaner.com · 2026-09-18</div></li></ul><h3 style="margin:1rem 0 .4rem">वीडियो <span class="small muted">(14)</span></h3><ul class="srcs"><li><a href="https://www.youtube.com/watch?v=a37vCzQOq4o" rel="noopener">My family visited Berawala Village, Mahajan Firing Field Range (MFFR) (Vlog 0)</a><div class="meta">youtube · 2022-02-18</div></li><li><a href="https://www.youtube.com/watch?v=gTBzm76BYSE" rel="noopener">Nathu Dada Dhora Kheyana wrestling scene. Jethuram wrestler.</a><div class="meta">youtube · 2024-08-13</div></li><li><a href="https://www.youtube.com/watch?v=-H5a5iNsxyM" rel="noopener">जेठूराम पहलवान की हीम्मत व जज्बे को सलाम | नाथू दादा धोरा खींयाणा कुश्ती दंगल | Nathu Dada Dhora.</a><div class="meta">youtube · 2024-08-29</div></li><li><a href="https://www.youtube.com/watch?v=vVP-LlMw4p4" rel="noopener">Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.</a><div class="meta">youtube · 2024-08-30</div></li><li><a href="https://www.youtube.com/watch?v=viNoX1PP5cc" rel="noopener">Mahajan field firing range Nathu Dada Dhora Kheyana wrestling scene | Amazing wrestling video.</a><div class="meta">youtube · 2024-09-06</div></li><li><a href="https://www.youtube.com/watch?v=S3RMmydQupE" rel="noopener">Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926</a><div class="meta">youtube · 2024-09-08</div></li><li><a href="https://www.youtube.com/watch?v=uEc6MLyHxIA" rel="noopener">Exciting wrestling! Mahajan Field Firing Range Nathu Dada Dhora Khiana Wrestling Competition.</a><div class="meta">youtube · 2024-09-08</div></li><li><a href="https://www.youtube.com/watch?v=PvdlJFmC6OI" rel="noopener">Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.</a><div class="meta">youtube · 2024-09-08</div></li><li><a href="https://www.youtube.com/watch?v=YGDc75dU39g" rel="noopener">Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan</a><div class="meta">youtube · 2024-09-27</div></li><li><a href="https://www.youtube.com/watch?v=xh6IoC9xyh8" rel="noopener">खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी</a><div class="meta">youtube · 2025-01-13</div></li><li><a href="https://www.youtube.com/watch?v=tp0mVligrls" rel="noopener">खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था</a><div class="meta">youtube · 2025-01-30</div></li><li><a href="https://www.youtube.com/watch?v=z3ILa3-NyU0" rel="noopener">Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.</a><div class="meta">youtube · 2025-02-26</div></li><li><a href="https://www.youtube.com/watch?v=guImlBcRMTU" rel="noopener">पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts</a><div class="meta">youtube · 2025-10-27</div></li><li><a href="https://www.youtube.com/watch?v=v4DsZYvDii8" rel="noopener">Netadwas to dugoli via bhunwala, cycle visit, DPSV</a><div class="meta">youtube · </div></li></ul><h3 style="margin:1rem 0 .4rem">सोशल मीडिया <span class="small muted">(7)</span></h3><ul class="srcs"><li><a href="https://www.facebook.com/ (Mahavir Gat, post of 5 Apr 2018 with Farsaram Jakhar Surnana and 7 others; URL not captured)" rel="noopener">महावीर गाट: विस्थापित गांव मुटलाई, मेरा ननिहाल (Facebook post, 5 Apr 2018)</a><div class="meta">facebook · 2018-04-05</div></li><li><a href="https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at &#x27;Field Firing Range Mahajan&#x27;, with Mahender Soni and 16 others; URL not captured)" rel="noopener">प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)</a><div class="meta">facebook · 2021-01-31</div></li><li><a href="https://www.facebook.com/100034161858536/posts/pcb.1444806556668059" rel="noopener">छगनलाल जाखड़: पैतृक गांव बेरावाला (महाजन फील्ड फायरिंग रेंज) की यात्रा, 25 जुलाई 2025 (Facebook post)</a><div class="meta">facebook · 2025-07-25</div></li><li><a href="https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)" rel="noopener">Bharat Speaks: &#x27;महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?&#x27; और comments में 34 गांवों की सूची</a><div class="meta">facebook · 2025-08-31</div></li><li><a href="https://m.facebook.com/watch/?v=866810769709842&amp;_rdr" rel="noopener">हमारा पुराना गांव 34 गांवों में इक खानिसर जो महाजन फील्ड फायरिंग रेंज में था #reel @टॉप फ़ैन #</a><div class="meta">facebook · 2026-04-01</div></li><li><a href="https://m.facebook.com/watch/?v=3265653753626828&amp;_rdr" rel="noopener">34 village story</a><div class="meta">facebook · 2026-06-21</div></li><li><a href="https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl" rel="noopener">महाजन फील्ड फायरिंग रेंज खिंयाना (Facebook post)</a><div class="meta">facebook · </div></li></ul><h3 style="margin:1rem 0 .4rem">विश्वकोश <span class="small muted">(2)</span></h3><ul class="srcs"><li><a href="https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट" rel="noopener">जाट धतरवाल इतिहास (Hindi Wikipedia user page)</a><div class="meta">wikipedia · </div></li><li><a href="https://en.wikipedia.org/wiki/Chetan_Patel_Kolana" rel="noopener">Chetan Patel Kolana</a><div class="meta">wikipedia · </div></li></ul><h3 style="margin:1rem 0 .4rem">legal <span class="small muted">(3)</span></h3><ul class="srcs"><li><a href="https://indiankanoon.org/doc/38464/" rel="noopener">State of Rajasthan v. Hajari Ram, AIR 1997 Raj 71</a><div class="meta">indiankanoon · 1997-01-06</div></li><li><a href="https://indiankanoon.org/doc/174753246/" rel="noopener">Ramesh Chandra v. Chandra Singh, Rajasthan High Court, 24 Jan 2017</a><div class="meta">indiankanoon · 2017-01-24</div></li><li><a href="https://indiankanoon.org/doc/26436710/" rel="noopener">Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024</a><div class="meta">indiankanoon · 2024-02-08</div></li></ul><h3 style="margin:1rem 0 .4rem">census_mirror <span class="small muted">(8)</span></h3><ul class="srcs"><li><a href="https://www.census2011.co.in/data/village/69202-mahajan-fieldfiring-range-rajasthan.html" rel="noopener">Mahajan Fieldfiring Range village (069202), Lunkaransar, Census 2011</a><div class="meta">census_mirror · 2011</div></li><li><a href="https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html" rel="noopener">Villages &amp; Towns in Lunkaransar Tehsil of Bikaner, Rajasthan</a><div class="meta">census_mirror · 2011</div></li><li><a href="https://villageinfo.in/rajasthan/bikaner/lunkaransar/kheenyera.html" rel="noopener">Kheenyera Village in Lunkaransar (Bikaner) Rajasthan | villageinfo.in</a><div class="meta">census_mirror · 2011</div></li><li><a href="http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Khinyera" rel="noopener">Khinyera Village - Bikaner</a><div class="meta">census_mirror · </div></li><li><a href="https://vlist.in/sub-district/00475.html" rel="noopener">Lunkaransar Tahsil Villages, Bikaner, Rajasthan @VList.in</a><div class="meta">vlist.in · </div></li><li><a href="https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html" rel="noopener">Beermana Village Population - Lunkaransar - Bikaner, Rajasthan</a><div class="meta">census_mirror · </div></li><li><a href="https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana/" rel="noopener">Birmana Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in</a><div class="meta">census_mirror · </div></li><li><a href="http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana" rel="noopener">Beermana Village - Bikaner</a><div class="meta">census_mirror · </div></li></ul><h3 style="margin:1rem 0 .4rem">community_wiki <span class="small muted">(9)</span></h3><ul class="srcs"><li><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F" rel="noopener">सदस्य:धतरवाल जाट (User page: Who are the Dhatarwal?)</a><div class="meta">wikipedia · 2024-01-03</div></li><li><a href="https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट" rel="noopener">सदस्य:धतरवाल जाट</a><div class="meta">wikipedia · 2024-12-14</div></li><li><a href="https://rajputs.net/view/kumbhana" rel="noopener">Kumbhana thikana (rajputs.net)</a><div class="meta">rajputs.net · </div></li><li><a href="https://www.jatland.com/home/Kumbhana" rel="noopener">Kumbhana - Jatland Wiki</a><div class="meta">jatland · </div></li><li><a href="https://www.jatland.com/home/Thoiya" rel="noopener">Thoiya - Jatland Wiki</a><div class="meta">jatland · </div></li><li><a href="https://www.jatland.com/home/Dhatarwal" rel="noopener">Dhatarwal - धतरवाल (Jatland Wiki)</a><div class="meta">jatland · </div></li><li><a href="https://www.jatland.com/home/Duderia" rel="noopener">Duderia - Jatland Wiki</a><div class="meta">jatland · </div></li><li><a href="https://www.jatland.com/home/Mahajan" rel="noopener">Mahajan - महाजन (Jatland Wiki)</a><div class="meta">jatland · </div></li><li><a href="https://www.jatland.com/home/Lunkaransar" rel="noopener">Lunkaransar - Jatland Wiki</a><div class="meta">jatland · </div></li></ul><h3 style="margin:1rem 0 .4rem">website <span class="small muted">(9)</span></h3><ul class="srcs"><li><a href="https://www.indianrajputs.com/view/kumbhana" rel="noopener">Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India</a><div class="meta">indianrajputs.com · 2018</div></li><li><a href="https://mapcarta.com/W412765540" rel="noopener">Mahajan Field Firing Ranges Map - Military installation - Lunkaransar, Rajasthan, India</a><div class="meta">mapcarta.com · </div></li><li><a href="http://wikimapia.org/10793488/Thoiya" rel="noopener">Thoiya - Wikimapia</a><div class="meta">wikimapia.org · </div></li><li><a href="https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/chidasar.html" rel="noopener">Chidasar Village | Map of Chidasar Village in Lunkaransar Tehsil, Bikaner of Rajasthan</a><div class="meta">mapsofindia.com · </div></li><li><a href="https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html" rel="noopener">Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan</a><div class="meta">mapsofindia.com · </div></li><li><a href="https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/mahajan.html" rel="noopener">Mahajan Village | Map of Mahajan Village in Lunkaransar Tehsil, Bikaner of Rajasthan</a><div class="meta">mapsofindia.com · </div></li><li><a href="https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/nathor.html" rel="noopener">Nathor Village | Map of Nathor Village in Lunkaransar Tehsil, Bikaner of Rajasthan</a><div class="meta">mapsofindia.com · </div></li><li><a href="https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/" rel="noopener">Villages in Lunkaransar Tehsil, Bikaner, Rajasthan</a><div class="meta">mapsofindia.com · </div></li><li><a href="http://wikimapia.org/33551695/Field-Firing-Range-Mahajan" rel="noopener">Field Firing Range Mahajan (Wikimapia)</a><div class="meta">wikimapia.org · </div></li></ul></section>
+<section class="section"><h2>कौन</h2><p class="prose" style="margin-top:.6rem">TechnoTaau Team, संयोजक जाखड़ सिंह। शोध-प्रणाली और यह साइट खुले भंडार से बनती है; हर पन्ना डेटा से अपने आप बनता है, हाथ से नहीं लिखा जाता, इसलिए नया स्रोत जुड़ते ही पन्ना बदल जाता है। संपर्क और सुझाव: <a href="yogdan.html">योगदान</a> पन्ने से।</p></section>
+</div></main>
+<footer><div class="wrap">
+<div><b>34 गांव</b> · गांव उजड़े, जड़ें नहीं।</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति-परियोजना। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div>हर तथ्य के साथ उसकी जांच का स्तर लिखा है: <span class="badge b-ok">पक्का</span> <span class="badge b-ok">मिलान</span> <span class="badge b-one">एक स्रोत</span> <span class="badge b-todo">जांच बाकी</span> <span class="badge b-conf">विरोधी स्रोत</span> · <a href="srot.html">तरीका और स्रोत</a></div>
+<div class="small">Phase 1 preview · डेटा 2026-09-19 तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय लिखा है।</div>
+</div></footer>
+</body>
+</html>

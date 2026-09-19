@@ -33,6 +33,7 @@ def main(argv=None):
     vd.add_argument("--ocr-lang", default="hin+eng"); vd.add_argument("--whisper", default=None, help="whisper model size, e.g. small/medium (off by default)")
     vd.add_argument("--ocr-every", type=float, default=1.0, help="seconds between OCR samples"); vd.add_argument("--title", help="title for non-YouTube media"); vd.add_argument("--credit", help="who shot / supplied non-YouTube media")
     sub.add_parser("status")
+    si = sub.add_parser("site", help="build the static website into site/ (multi-page) and site/preview.html (single file)"); si.add_argument("--out", default=None); si.add_argument("--no-preview", action="store_true")
     args = ap.parse_args(argv)
 
     if args.cmd == "villages":
@@ -83,6 +84,10 @@ def main(argv=None):
         stats = ingest(args.slug, Path(res["inbox_file"]))
         build_record(args.slug); render_report(args.slug); render_index()
         print(json.dumps({**res, "ingest": {k: stats[k] for k in ("new", "updated", "invalid", "total_after")}}, ensure_ascii=False, indent=1))
+    elif args.cmd == "site":
+        from .site import build, SITE_DIR
+        res = build(Path(args.out) if args.out else SITE_DIR, single=not args.no_preview)
+        print(json.dumps(res, ensure_ascii=False, indent=1))
     elif args.cmd == "status":
         for v in load_villages():
             runs = load_runs(v["slug"])
@@ -91,3 +96,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     sys.exit(main())
+

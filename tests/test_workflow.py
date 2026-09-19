@@ -263,3 +263,44 @@ def test_village_specific_namesake_caps_at_review():
     v = registry.get_village("bhojrasar")  # has Sardarshahar/Churu as specific negatives
     r = resolve.resolve(v, "Bhojrasar village, Sardarshahar tehsil, near Mahajan Bikaner Lunkaransar")
     assert r["decision"] != "accept"
+
+
+# ---------- website generator ----------
+def test_site_builds_all_pages(tmp_path):
+    from gaon34 import site as site_mod
+    res = site_mod.build(tmp_path / "site", single=True)
+    out = tmp_path / "site"
+    assert (out / "index.html").exists() and (out / "gaon.html").exists()
+    n_units = len(registry.load_villages())
+    assert len(list((out / "gaon").glob("*.html"))) == n_units
+    assert res["pages"] == n_units + 10
+    home = (out / "index.html").read_text(encoding="utf-8")
+    assert site_mod.TAGLINE in home and 'lang="hi"' in home
+    # village page links resolve relative to its folder and carry evidence badges
+    ber = (out / "gaon" / "berawala.html").read_text(encoding="utf-8")
+    assert 'href="../index.html"' in ber and 'class="badge' in ber
+    # the single-file preview inlines images and routes by hash
+    prev = (out / "preview.html").read_text(encoding="utf-8")
+    assert "data:image/jpeg;base64," in prev and 'data-route="gaon/berawala"' in prev and "<html" not in prev
+    assert not (out / "_preview_cache").exists()
+
+
+def test_site_respects_manifest_rights(tmp_path):
+    from gaon34 import site as site_mod
+    m = tmp_path / "x" / "vid1" / "manifest.json"
+    m.parent.mkdir(parents=True)
+    m.write_text(json.dumps({
+        "video_id": "vid1", "source_url": "https://www.youtube.com/watch?v=abcdefghijk",
+        "rights": "Third-party video; consent of identifiable people needed before publication.",
+        "frames": [
+            {"file": "frames/a.jpg", "timestamp_s": 1, "description": "elder at the well", "tags": ["people"]},
+            {"file": "frames/b.jpg", "timestamp_s": 2, "description": "ruined wall", "tags": ["ruins"]},
+            {"file": "frames/c.jpg", "timestamp_s": 3, "description": "ruined wall", "tags": ["ruins"]},
+        ]}), encoding="utf-8")
+    info = site_mod.pick_stills(m)
+    assert info["needs_permission"] is True
+    assert [f["file"] for f in info["frames"]] == ["frames/b.jpg"]  # people excluded, duplicate description collapsed
+    m.write_text(json.dumps({"video_id": "vid1", "rights": "Supplied by TechnoTaau Team with permission to use.",
+                             "frames": [{"file": "frames/a.jpg", "timestamp_s": 1, "description": "elder", "tags": ["people"]}]}), encoding="utf-8")
+    info = site_mod.pick_stills(m)
+    assert info["needs_permission"] is False and len(info["frames"]) == 1

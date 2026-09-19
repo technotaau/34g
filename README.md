@@ -25,7 +25,10 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `research/INDEX.md` | Coverage index across all units. |
 | `python -m gaon34 video <slug> <url>` | One-command YouTube ingest: metadata, captions, comments, and (with a supplied media file) frames plus subtitle OCR. |
 | `scripts/video_extract.py` | OCR burned-in subtitles and transcribe speech from a locally supplied video into timestamped notes. |
-| `tests/` | 21 pytest tests for the pipeline. |
+| `python -m gaon34 site` | Builds the Phase 1 website preview into `site/` (multi-page, Hindi) and `site/preview.html` (single shareable file) from the store, with evidence labels on every claim. |
+| `docs/oral-history-guide.md` | One-page Hindi field guide for recording elders (three questions, consent line, file naming). |
+| `data/timeline.json` | The dated timeline (1938 to 2026) in Hindi with a status tag per event, rendered on the site's समय-रेखा page. |
+| `tests/` | 27 pytest tests for the pipeline and the site generator. |
 
 ## Research status (first pass, 5 Sep 2026)
 

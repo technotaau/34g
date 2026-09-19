@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>धन्नासर · 34 गांव</title>
+<meta name="description" content="गांव उजड़े, जड़ें नहीं।">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yatra+One&family=Mukta:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg:#F4F2ED; --panel:#E9E6DE; --line:#CFC8B8; --ink:#1B1F2A; --muted:#5C6270;
+  --accent:#2F3E9E; --accent-ink:#FFFFFF; --ok:#3E6B3A; --one:#2F3E9E; --todo:#7A7466; --conf:#9A4A22;
+  --photo:#2A2B2E; --radius:6px;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
+  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
+}}
+:root[data-theme="dark"]{
+  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
+  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--ink)}
+body{margin:0;font-family:"Mukta","Noto Sans Devanagari","Hind",system-ui,sans-serif;font-size:17px;line-height:1.6;font-variant-numeric:tabular-nums}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+img{max-width:100%;height:auto;display:block}
+h1,h2,h3{font-family:"Yatra One","Mukta","Noto Sans Devanagari",serif;font-weight:400;line-height:1.25;text-wrap:balance;margin:0}
+h1{font-size:clamp(1.9rem,4.5vw,3rem)}
+h2{font-size:clamp(1.4rem,3vw,1.9rem)}
+h3{font-size:1.15rem}
+p{margin:0}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
+.prose{max-width:68ch}
+.eyebrow{font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-family:"Mukta",sans-serif}
+.muted{color:var(--muted)}
+.small{font-size:.9rem}
+.stack{display:grid;gap:.6rem}
+.section{padding-block:2.2rem;border-top:1px solid var(--line)}
+.section:first-of-type{border-top:0}
+.section-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1.5rem;margin-bottom:1rem}
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:1rem;min-height:56px}
+.brand{font-family:"Yatra One","Mukta",serif;font-size:1.35rem;color:var(--ink);text-decoration:none;white-space:nowrap}
+.brand small{font-family:"Mukta",sans-serif;font-size:.75rem;color:var(--muted);margin-left:.4rem;letter-spacing:.06em}
+nav.main{display:flex;gap:.1rem;min-width:0;overflow-x:auto;scrollbar-width:none;margin-left:auto}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{white-space:nowrap;padding:.35rem .6rem;border-radius:999px;text-decoration:none;color:var(--ink);font-size:.95rem}
+nav.main a[aria-current="page"]{background:var(--accent);color:var(--accent-ink)}
+/* hero */
+.hero{position:relative;background:var(--photo);color:#F4F2ED;overflow:hidden}
+.hero img{width:100%;max-height:70vh;min-height:320px;object-fit:cover;object-position:center 40%;opacity:.78}
+.hero .text{position:absolute;inset:auto 0 0 0;padding:1.5rem 0 1.6rem;background:linear-gradient(180deg,rgba(20,22,29,0) 0%,rgba(20,22,29,.85) 60%)}
+.hero h1{font-size:clamp(2.2rem,7vw,4.4rem);color:#FFF;text-shadow:0 2px 12px rgba(0,0,0,.5)}
+.hero p{color:#E6E2D8;max-width:60ch;margin-top:.6rem;font-size:1.05rem}
+.hero .credit{font-size:.78rem;color:#C9C4B8;margin-top:.8rem}
+/* numbers */
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.nums div{background:var(--panel);padding:1rem}
+.nums b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:2rem;line-height:1.1}
+.nums span{font-size:.9rem;color:var(--muted)}
+/* badges */
+.badge{display:inline-block;font-size:.75rem;line-height:1.3;padding:.15rem .5rem;border-radius:999px;border:1px solid currentColor;white-space:nowrap;vertical-align:middle;font-family:"Mukta",sans-serif}
+.b-ok{color:var(--ok)} .b-one{color:var(--one)} .b-todo{color:var(--todo);border-style:dashed} .b-conf{color:var(--conf)}
+/* village grid */
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:.5rem}
+.vgrid a{display:block;padding:.7rem .8rem;border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:var(--ink);background:var(--panel)}
+.vgrid a:hover{border-color:var(--accent)}
+.vgrid .hi{font-family:"Yatra One","Mukta",serif;font-size:1.15rem;display:block}
+.vgrid .en{font-size:.8rem;color:var(--muted);display:block}
+.vgrid .dots{display:flex;gap:.3rem;margin-top:.4rem;align-items:center;font-size:.75rem;color:var(--muted)}
+.dot{width:.6rem;height:.6rem;border-radius:50%;border:1.5px solid var(--accent);display:inline-block}
+.dot.full{background:var(--accent)}
+.dot.media{border-color:var(--ok);background:var(--ok)}
+.vgrid a.thin{background:transparent}
+/* claims */
+.claims{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.claims li{display:grid;grid-template-columns:auto 1fr;gap:.6rem;align-items:start;padding:.6rem .8rem;border-left:3px solid var(--line);background:var(--panel)}
+.claims li.ok{border-left-color:var(--ok)} .claims li.one{border-left-color:var(--one)} .claims li.conf{border-left-color:var(--conf)}
+.claims .why{font-size:.88rem;color:var(--muted);grid-column:1/-1}
+/* gallery */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:.6rem}
+.gallery figure{margin:0;background:var(--panel);border-radius:var(--radius);overflow:hidden}
+.gallery img{aspect-ratio:16/9;object-fit:cover;width:100%}
+.gallery figcaption{padding:.45rem .6rem .6rem;font-size:.85rem;line-height:1.4}
+.gallery figcaption .t{color:var(--muted);font-size:.75rem;margin-right:.4rem}
+.video{padding:1rem 0;border-top:1px solid var(--line)}
+.video header{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin-bottom:.6rem}
+/* tables */
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius)}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:.5rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--panel);font-weight:600;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td.num{text-align:right;white-space:nowrap}
+/* timeline */
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);margin-left:.5rem}
+.tl li{position:relative;padding:.2rem 0 1.4rem 1.4rem}
+.tl li::before{content:"";position:absolute;left:-7px;top:.7rem;width:12px;height:12px;border-radius:50%;background:var(--bg);border:2px solid var(--accent)}
+.tl li.visthapan::before{background:var(--accent)}
+.tl .when{font-family:"Yatra One","Mukta",serif;font-size:1.2rem}
+.tl .phase{font-size:.75rem;color:var(--muted);letter-spacing:.05em;margin-left:.5rem}
+.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem;margin-bottom:1.4rem}
+.phases div{padding:.8rem;border:1px solid var(--line);border-radius:var(--radius)}
+.phases b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:1.1rem}
+/* map */
+.map{border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);padding:.5rem}
+.map svg{width:100%;height:auto;display:block}
+/* cards, callouts */
+.callout{padding:1rem 1.2rem;border-left:4px solid var(--accent);background:var(--panel)}
+.callout.warn{border-left-color:var(--conf)}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem}
+.list{padding-left:1.2rem;margin:0;display:grid;gap:.3rem}
+.srcs{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.srcs li{padding:.5rem .7rem;border:1px solid var(--line);border-radius:var(--radius);font-size:.93rem}
+.srcs .meta{color:var(--muted);font-size:.8rem}
+.tag{display:inline-block;font-size:.75rem;padding:.05rem .45rem;border-radius:3px;background:var(--panel);border:1px solid var(--line);margin-right:.3rem}
+.legend{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;font-size:.9rem}
+.btn{display:inline-block;padding:.55rem 1rem;border-radius:999px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:500}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.pill-row{display:flex;flex-wrap:wrap;gap:.4rem}
+/* chaupal mock */
+.chat{max-width:420px;border:1px solid var(--line);border-radius:12px;padding:.8rem;background:var(--panel);display:grid;gap:.5rem}
+.chat .m{max-width:85%;padding:.5rem .7rem;border-radius:10px;background:var(--bg);font-size:.95rem}
+.chat .m.me{margin-left:auto;background:var(--accent);color:var(--accent-ink)}
+.chat .m small{display:block;color:var(--muted);font-size:.72rem}
+.chat .m.me small{color:var(--accent-ink);opacity:.8}
+footer{border-top:1px solid var(--line);margin-top:2rem;padding-block:1.6rem 2.2rem;font-size:.9rem;color:var(--muted)}
+footer .wrap{display:grid;gap:.4rem}
+.village-head{display:grid;gap:.4rem;padding-block:1.8rem 1rem}
+.village-head .en{font-size:1rem;color:var(--muted)}
+.village-head .row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:.25rem 1rem;font-size:.95rem}
+.kv dt{color:var(--muted)} .kv dd{margin:0}
+@media (prefers-reduced-motion:no-preference){ .vgrid a,.gallery figure{transition:border-color .15s,transform .15s} .gallery figure:hover{transform:translateY(-2px)} }
+@media (max-width:480px){ body{font-size:16px} .nums b{font-size:1.6rem} .hero img{min-height:260px} }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap"><a class="brand" href="../index.html">34 गांव<small>34gaon.com</small></a><nav class="main" aria-label="मुख्य"><a href="../index.html">घर</a><a href="../gaon.html" aria-current="page">गांव</a><a href="../naksha.html">नक्शा</a><a href="../samay.html">समय-रेखा</a><a href="../yaadein.html">यादें</a><a href="../asar.html">रेंज का असर</a><a href="../basera.html">नया बसेरा</a><a href="../chaupal.html">चौपाल</a><a href="../yogdan.html">योगदान</a><a href="../srot.html">स्रोत</a></nav></div></header>
+<main><div class="wrap"><div class="village-head">
+<p class="eyebrow"><a href="../gaon.html">गांव</a> · अधिग्रहित</p>
+<h1>धन्नासर</h1>
+<div class="en">Dhannasar · अन्य वर्तनी: Dhanasar, धनासर, Dhannasar Mahajan, धन्नासर गांव, Dhannasar Bikaner</div>
+</div><div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-bottom:1rem">
+<span class="tag">0 स्वीकृत स्रोत</span><span class="tag">6 दावे</span><span class="tag">0 पक्के/मिलान</span>
+</div><p class="prose small muted">From the Community list &#x27;34 गाँवों के नाम&#x27; shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there.</p><section class="section"><div class="section-head"><h2>क्या पता है</h2><span class="small muted">हर पंक्ति के साथ उसकी जांच का स्तर</span></div><h3 class='muted' style='margin:1rem 0 .5rem'>अभी एक ही स्रोत, या जांच बाकी</h3><ul class="claims"><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>जाटलैंड के अनुसार &#x27;धन्नासर&#x27; गांव हनुमानगढ़ जिले की रावतसर तहसील में है, बीकानेर के लूणकरणसर/महाजन क्षेत्र में नहीं।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>महाजन फील्ड फायरिंग रेंज हेतु 1984-85 में 34 गांवों की भूमि रक्षा मंत्रालय द्वारा अधिगृहीत की गई।</span></li><li class="conf"><span class="badge b-conf">विरोधी स्रोत</span><span>विस्थापित किसानों को खाजूवाला व पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई।</span><span class="why">दूसरे स्रोत कहते हैं: Khajuwala, Dantor, Pugal, Mohangarh, Nachna</span></li><li class="conf"><span class="badge b-conf">विरोधी स्रोत</span><span>विस्थापित किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना में सिंचित भूमि दी गई।</span><span class="why">दूसरे स्रोत कहते हैं: Khajuwala, Pugal (irrigated land allotted)</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>महाजन फील्ड फायरिंग रेंज 3.37 लाख एकड़ क्षेत्र में फैली है।</span></li></ul></section><section class="section"><h2>कौन, कहां, कब</h2><dl class="kv" style="margin-top:.8rem"><dt>लोग</dt><dd>Robin Katriya S/O Shri Sardara Ram</dd><dt>जगहें</dt><dd>Bhojrasar; Dantor; Duder; Hanumangarh; Khajuwala; Khanisar; Kumbhana; Lunkaransar; Mahajan; Maneran; Mohangarh; Motlai; Nachna; Pugal</dd><dt>घटनाएं</dt><dd>1984-85 land acquisition; 1984-85 land acquisition for Mahajan Field Firing Range; Joint military exercises: India-USA (Feb 2021), India-France (2015-16, 2019), India-Russia (2013, 2015), India-Britain (2013, 2015, 2017), India-Oman (Aug 2022)</dd><dt>संस्थाएं</dt><dd>Defence Ministry; Indian Army; Rajasthan High Court; Registrar (Examination)</dd></dl><p class='small muted' style='margin-top:.6rem'>नाम स्रोतों से जैसे के तैसे लिए गए हैं; सार्वजनिक पोस्ट और वीडियो में जो नाम खुद लोगों ने लिखे, वही यहां हैं।</p></section><p class="small muted">साझा स्रोत (पूरे 34 गांव के बारे में, इस गांव का नाम लेते हुए): 1 · <a href="../gaon/34-gaon.html">साझा इकाई</a></p><section class="section"><p>क्या आपका परिवार धन्नासर से है? <a href="../yogdan.html">यहां बताइए</a>।</p></section></div></main>
+<footer><div class="wrap">
+<div><b>34 गांव</b> · गांव उजड़े, जड़ें नहीं।</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति-परियोजना। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div>हर तथ्य के साथ उसकी जांच का स्तर लिखा है: <span class="badge b-ok">पक्का</span> <span class="badge b-ok">मिलान</span> <span class="badge b-one">एक स्रोत</span> <span class="badge b-todo">जांच बाकी</span> <span class="badge b-conf">विरोधी स्रोत</span> · <a href="../srot.html">तरीका और स्रोत</a></div>
+<div class="small">Phase 1 preview · डेटा 2026-09-19 तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय लिखा है।</div>
+</div></footer>
+</body>
+</html>

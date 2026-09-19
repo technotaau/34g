@@ -125,3 +125,13 @@ Facebook blocks automated reads of post pages (HTTP 400 even for public posts), 
 
 ### Consent
 Material supplied by TechnoTaau Team carries `consent: granted by TechnoTaau Team`; third-party creators are still credited in `attribution` and any visible watermark is recorded as the original source.
+
+## 9. The website (Phase 1 preview of 34gaon.com)
+
+`python3 -m gaon34 site` renders the whole site from the store; nothing on it is hand-written per village.
+
+- Input: `research/villages.json`, `research/store/<slug>/record.json`, `research/media/**/manifest.json`, `data/timeline.json`, `data/incidents.csv`, `data/resettlement_sites.csv`, `data/mffr_range_polygon.geojson`, and `research/FOLLOWUPS.md` (sections A–C become each village's "क्या छूटा है" list; section D, personal contacts, is never exported).
+- Output: `site/` (multi-page: `index.html`, `gaon.html`, `gaon/<slug>.html`, `naksha`, `samay`, `yaadein`, `asar`, `basera`, `chaupal`, `yogdan`, `srot`) plus `site/preview.html`, one self-contained file with the same content and inlined images, used for sharing a preview link. `site/media/` holds resized stills (720 px, up to 6 per video), never the source video.
+- Evidence labels on every claim: पक्का (verified), मिलान (corroborated), एक स्रोत (single-source), जांच बाकी (unverified), विरोधी स्रोत (conflicting), straight from the verification ladder.
+- Rights: a still whose manifest `rights` says permission or consent is still needed is shown only if it is not tagged `people`; a video whose stills are all people shows a placeholder note instead. Material with "Supplied by TechnoTaau Team with permission to use" is shown in full, credited.
+- Rebuild after any ingest/verify run and commit `site/` together with the store so the preview matches the data. `docs/oral-history-guide.md` is the one-page field guide for the recordings that feed the "यादें" page.
