@@ -1,6 +1,6 @@
 # बेरावाला (Berawala) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-18 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 11, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 3, डुप्लिकेट 2 · दावे: 23
 
@@ -111,29 +111,29 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## तथ्य / दावे
 
 ### अच्छी तरह समर्थित (verified / corroborated)
+- **village_pond_exists** = yes (ruins, pond still holds water) · corroborated (1 स्वतंत्र स्रोत) · गांव के खंडहर और तालाब आज भी मौजूद; परिवार ने तालाब से पानी लिया
+- **village_pond_exists** = yes; used by cattle herds (2025) · corroborated (1 स्वतंत्र स्रोत) · गांव का तालाब 2025 में भी पानी से भरा और पशुओं के काम आता है
+- **return_visit_tradition** = family visits to ancestral ruins inside range · corroborated (1 स्वतंत्र स्रोत) · विस्थापित परिवार रेंज के अंदर अपने गांव के खंडहर देखने जाते हैं
+- **return_visit_tradition** = natives return to the ruins, take soil as tilak and for home puja · corroborated (1 स्वतंत्र स्रोत) · बेरावाला के लोग खंडहरों पर लौटते हैं, घर की मिट्टी का तिलक लगाते हैं और मिट्टी पूजा घर के लिए ले जाते हैं
 - **temple_name** = Thakurji Mandir · verified (2 स्वतंत्र स्रोत) · गांव में ठाकुरजी मंदिर के खंडहर मौजूद हैं
+- **range_area_acres** = 337000 · corroborated (1 स्वतंत्र स्रोत) · शीर्षक कार्ड: 3,37,000 एकड़ क्षेत्र
+- **villages_acquired_count** = 34 · corroborated (1 स्वतंत्र स्रोत) · शीर्षक कार्ड: 34 गांव
+- **current_census_status** = not_independently_listed · verified (1 स्वतंत्र स्रोत) · 2011 की जनगणना सूची में लूणकरणसर तहसील के 125 गांवों में 'बेरावाला' नाम स्वतंत्र रूप से सूचीबद्ध नहीं है।
 
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
-- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
-- **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **acquisition_year** = 1984 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-85'] · स्रोत: src_02fff109d15c
-- **acquisition_year** = 1984-85 · conflicting · विश्वास 0.4 · प्रतिस्पर्धी मान: ['1984'] · स्रोत: src_a5150b8b1d53
-- **evacuation_period** = 1986 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1984-1986'] · स्रोत: src_02fff109d15c
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.15 · स्रोत: src_967773b5f1ff
+- **village_in_34_gaon** = yes · single-source · विश्वास 0.55 · स्रोत: src_02fff109d15c
+- **acquisition_year** = 1984 · conflicting · विश्वास 0.7 · प्रतिस्पर्धी मान: ['1984-85'] · स्रोत: src_02fff109d15c
+- **acquisition_year** = 1984-85 · conflicting · विश्वास 0.75 · प्रतिस्पर्धी मान: ['1984'] · स्रोत: src_a5150b8b1d53
+- **evacuation_period** = 1986 · conflicting · विश्वास 0.5 · प्रतिस्पर्धी मान: ['1984-1986'] · स्रोत: src_02fff109d15c
 - **evacuation_period** = 1984-1986 · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['1986'] · स्रोत: src_02fff109d15c
-- **village_pond_exists** = yes (ruins, pond still holds water) · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['yes; used by cattle herds (2025)'] · स्रोत: src_02fff109d15c
-- **village_pond_exists** = yes; used by cattle herds (2025) · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['yes (ruins, pond still holds water)'] · स्रोत: src_220a169304bf
-- **return_visit_tradition** = family visits to ancestral ruins inside range · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['natives return to the ruins, take soil as tilak and for home puja'] · स्रोत: src_02fff109d15c
-- **return_visit_tradition** = natives return to the ruins, take soil as tilak and for home puja · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['family visits to ancestral ruins inside range'] · स्रोत: src_220a169304bf
-- **evacuation_date** = 1986-07-07 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
+- **evacuation_date** = 1986-07-07 · single-source · विश्वास 0.6 · स्रोत: src_02fff109d15c
 - **ghirt_stone_grinder** = camel-driven stone wheel grinding powder used as cement alternative · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **village_well_exists** = yes (main well of the village water system) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **first_house_birth_room** = four generations born in / standing in the first house of the village · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **crops_field_memory** = grandmother hand-harvested crops in the family field · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **resettlement_sites** = Sherpura (Lunkaransar tehsil, Bikaner) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **range_area_acres** = 337000 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **villages_acquired_count** = 34 · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **years_since_departure_at_visit** = 36 (Feb 2022) · single-source · विश्वास 0.5 · स्रोत: src_02fff109d15c
-- **current_census_status** = not_independently_listed · unverified · विश्वास 0.3 · स्रोत: src_b27fa43b7bd0
+- **village_well_exists** = yes (main well of the village water system) · single-source · विश्वास 0.55 · स्रोत: src_02fff109d15c
+- **first_house_birth_room** = four generations born in / standing in the first house of the village · single-source · विश्वास 0.55 · स्रोत: src_02fff109d15c
+- **crops_field_memory** = grandmother hand-harvested crops in the family field · single-source · विश्वास 0.55 · स्रोत: src_02fff109d15c
+- **resettlement_sites** = Sherpura (Lunkaransar tehsil, Bikaner) · single-source · विश्वास 0.55 · स्रोत: src_02fff109d15c
+- **years_since_departure_at_visit** = 36 (Feb 2022) · single-source · विश्वास 0.6 · स्रोत: src_02fff109d15c
 - **administrative_status** = absorbed_under_firing_range_census_entity · unverified · विश्वास 0.3 · स्रोत: src_8c5b127adbe8
 - **diaspora_family_berawala** = Jakhar family (Chhaganlal Jakhar) · single-source · विश्वास 0.5 · स्रोत: src_220a169304bf
 

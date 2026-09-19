@@ -1,0 +1,188 @@
+{
+  "clm_acquisition_year_d0ee345e": {
+    "id": "clm_acquisition_year_d0ee345e",
+    "status": "conflicting",
+    "confidence": 0.7,
+    "preferred": "1984-85",
+    "reasoning_hi": "यह वर्ष स्वयं व्लॉग के YouTube विवरण से है: 'MFFR was acquired in 1984...' — यह वाक्यांश एक सामान्य बॉयलरप्लेट पैराग्राफ जैसा लगता है जो वेब पर '1982' या '1984' के रूप में भी मिलता है, यानी परिवार-विशिष्ट शोध नहीं। पत्रिका (स्थापित अखबार) '1984-85' बार-बार रिपोर्ट करता है, जो सोर्स-पदानुक्रम में वीडियो विवरण से अधिक प्रामाणिक है।",
+    "new_sources": [
+      {
+        "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+        "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Patrika News",
+        "supports_value": "1984-85; 34 villages; 3.37 lakh acres"
+      }
+    ]
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "status": "conflicting",
+    "confidence": 0.75,
+    "preferred": "1984-85",
+    "reasoning_hi": "पत्रिका के दो स्वतंत्र लेख (7893463 और 7687974, अलग-अलग वर्षों में प्रकाशित) दोनों 'रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि अधिग्रहित की' दोहराते हैं। स्थापित अखबार, उपयोगकर्ता-निर्मित व्लॉग विवरण से अधिक प्रामाणिक स्रोत है (source hierarchy)।",
+    "new_sources": [
+      {
+        "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+        "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Patrika News",
+        "supports_value": "1984-85"
+      }
+    ]
+  },
+  "clm_evacuation_period_e0f34ffa": {
+    "id": "clm_evacuation_period_e0f34ffa",
+    "status": "conflicting",
+    "confidence": 0.5,
+    "preferred": "1984-1986",
+    "reasoning_hi": "यह मान वीडियो पर एक अनाम दर्शक की टिप्पणी ('1986 me athe 34 gaon uthya') से है, जो सोशल/कमेंट स्तर का स्रोत है। वहीं शीर्षक कार्ड ([00:21], अपलोडर द्वारा स्वयं लिखा) कहता है '1984 to 1986' — यह उसी वीडियो के भीतर अधिक प्रामाणिक भाग है (creator content > viewer comment)।",
+    "new_sources": []
+  },
+  "clm_evacuation_period_821d2efb": {
+    "id": "clm_evacuation_period_821d2efb",
+    "status": "conflicting",
+    "confidence": 0.55,
+    "preferred": "1984-1986",
+    "reasoning_hi": "शीर्षक कार्ड में सीधे OCR से पुष्टि: 'Berawala village was among 34 villages that got evacuated in between the years of 1984 and 1986'। यह अपलोडर की अपनी सामग्री है, न कि किसी दर्शक की टिप्पणी, इसलिए उसी वीडियो के भीतर अधिक भरोसेमंद है। कोई स्वतंत्र बाहरी स्रोत सटीक निकासी-वर्षों की पुष्टि नहीं करता (पत्रिका केवल अधिग्रहण वर्ष 1984-85 बताता है)।",
+    "new_sources": []
+  },
+  "clm_village_pond_exists_fb360f9c": {
+    "id": "clm_village_pond_exists_fb360f9c",
+    "status": "corroborated",
+    "confidence": 0.8,
+    "reasoning_hi": "यह दावा वीडियो ट्रांसक्रिप्ट (05:37-06:30, 'main well'/'main pond of village', परिवार पानी लेता है) से सीधे पुष्टि होता है। यह घटना 2022 की है। 2025 की फेसबुक पोस्ट/वीडियो अलग परिवार (छगनलाल जाखड़) द्वारा स्वतंत्र रूप से पुष्टि करता है कि तालाब आज भी पानी से भरा है — दो स्वतंत्र, अलग-अलग वर्षों के प्राथमिक स्रोत एक ही मूल तथ्य (तालाब मौजूद है, पानी है) की पुष्टि करते हैं; विवरण (कौन पानी लेता है) भिन्न पर विरोधाभासी नहीं।",
+    "new_sources": [
+      {
+        "url": "https://www.facebook.com/100034161858536/videos/pcb.1444806556668059/655816430875515",
+        "title": "Chhaganlal Jakhar on Reels (Berawala pond video, monsoon 2025)",
+        "supports_value": "yes; used by cattle herds (2025)"
+      }
+    ]
+  },
+  "clm_village_pond_exists_a2218b3b": {
+    "id": "clm_village_pond_exists_a2218b3b",
+    "status": "corroborated",
+    "confidence": 0.8,
+    "reasoning_hi": "इस पोस्ट से जुड़ा एक वीडियो (655816430875515) खुद दिखाता है: 'full pond with cattle' — यह प्रत्यक्ष दृश्य प्रमाण है। 2022 के व्लॉग से भी स्वतंत्र रूप से पुष्टि होती है कि तालाब में पानी है (अलग परिवार, अलग वर्ष)। दोनों तथ्य असल में परस्पर विरोधी नहीं, बल्कि पूरक हैं — तालाब का अस्तित्व दोहरे स्वतंत्र स्रोतों से पुष्ट है।",
+    "new_sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=a37vCzQOq4o",
+        "title": "My family visited Berawala Village (Vlog 0) — pond scene 06:12-06:30",
+        "supports_value": "yes (ruins, pond still holds water)"
+      }
+    ]
+  },
+  "clm_return_visit_tradition_8a2e4747": {
+    "id": "clm_return_visit_tradition_8a2e4747",
+    "status": "corroborated",
+    "confidence": 0.65,
+    "reasoning_hi": "सामान्य पैटर्न — विस्थापित परिवार रेंज के भीतर खंडहरों को देखने लौटते हैं — दो स्वतंत्र, अलग-अलग परिवारों (2022 में गोदारा परिवार, 2025 में जाखड़ परिवार) द्वारा प्रमाणित है, इसलिए corroborated। विशिष्ट अनुष्ठान (मिट्टी का तिलक) केवल जाखड़ पोस्ट में मिलता है।",
+    "new_sources": []
+  },
+  "clm_return_visit_tradition_ba0fede6": {
+    "id": "clm_return_visit_tradition_ba0fede6",
+    "status": "corroborated",
+    "confidence": 0.6,
+    "reasoning_hi": "फेसबुक पोस्ट स्क्रीनशॉट में मूल पाठ मौजूद है: 'गांव की मिट्टी उठा के लाऊंगा, लाकर पूजा घर में सजाऊंगा ... मिट्टी का तिलक लगाकर।' विशिष्ट प्रथा (तिलक/पूजा घर) केवल इसी स्रोत में है, पर 'लौटना' का सामान्य पैटर्न 2022 के व्लॉग से भी स्वतंत्र रूप से मेल खाता है (दोनों परिवार लौटे)।",
+    "new_sources": []
+  },
+  "clm_village_list_34_18ca53da": {
+    "id": "clm_village_list_34_18ca53da",
+    "status": "unverified",
+    "confidence": 0.15,
+    "reasoning_hi": "इस दावे के लिए कोई स्रोत URL नहीं दिया गया था और वेब खोज में 34 गांवों की कोई प्रामाणिक सूची (32 नाम) नहीं मिली। पत्रिका और अन्य स्रोत केवल संख्या '34' बताते हैं, नाम नहीं। स्थिति असत्यापित बनी हुई है।",
+    "new_sources": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "वीडियो शीर्षक कार्ड सीधे कहता है कि बेरावाला 1984-1986 में निकासी वाले 34 गांवों में से एक था। पत्रिका स्वतंत्र रूप से '34 गांव अधिग्रहित' की सामान्य संख्या की पुष्टि करता है, पर किसी बाहरी स्रोत ने बेरावाला को नामतः सूचीबद्ध नहीं किया, इसलिए बेरावाला-विशिष्ट दावा single-source ही रहेगा।",
+    "new_sources": []
+  },
+  "clm_evacuation_date_25abef77": {
+    "id": "clm_evacuation_date_25abef77",
+    "status": "single-source",
+    "confidence": 0.6,
+    "reasoning_hi": "वीडियो के शुरुआती और समापन दोनों शीर्षक कार्ड ('On 7th July 1986, we left this village') में यह तारीख दोहराई गई है, यानी स्रोत के भीतर आंतरिक रूप से सुसंगत है। पर किसी बाहरी अभिलेख/समाचार में यह सटीक पारिवारिक तारीख सत्यापित नहीं हो सकी।",
+    "new_sources": []
+  },
+  "clm_ghirt_stone_grinder": {
+    "id": "clm_ghirt_stone_grinder",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "वीडियो के सबटाइटल (05:17-05:42) में विस्तार से वर्णित: ऊंट से चलने वाली पत्थर की चक्की 'घिर्ट', जिसका चूर्ण सीमेंट के विकल्प के रूप में उपयोग होता था। यह पूरी तरह स्रोत से मेल खाता है, पर कोई स्वतंत्र वेब स्रोत इस स्थानीय शब्द/प्रथा की पुष्टि नहीं करता।",
+    "new_sources": []
+  },
+  "clm_village_well_exists_fb360f9c": {
+    "id": "clm_village_well_exists_fb360f9c",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "वीडियो सबटाइटल (05:37-05:42) सीधे कहता है 'was the main well of the village (Water system)'। दावा स्रोत से सटीक मेल खाता है, पर कोई दूसरा स्वतंत्र स्रोत नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_first_house_birth_room_e4355554": {
+    "id": "clm_first_house_birth_room_e4355554",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "वीडियो शीर्षक कार्ड (02:39) में स्पष्ट रूप से '4 GENERATIONS are standing in that room' लिखा है, और सबटाइटल में 'All of us got birth in this room'। दावा स्रोत से पूर्णतः मेल खाता है; यह व्यक्तिगत पारिवारिक स्मृति है जिसे किसी अन्य स्रोत से सत्यापित नहीं किया जा सकता।",
+    "new_sources": []
+  },
+  "clm_crops_field_memory_fa65c376": {
+    "id": "clm_crops_field_memory_fa65c376",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "सबटाइटल (01:11-01:18): 'Your grandmother (Nani) used to cut crops in this field, clearly remember cutting the crops here from my hands।' दावा स्रोत से मेल खाता है; व्यक्तिगत स्मृति, बाहरी सत्यापन संभव नहीं।",
+    "new_sources": []
+  },
+  "clm_resettlement_sites_d68857a1": {
+    "id": "clm_resettlement_sites_d68857a1",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "वीडियो शीर्षक कार्ड (00:12) सीधे कहता है 'Sherpura, Bikaner to Berawala, Bikaner'। 'लूणकरणसर तहसील' का विवरण एक स्वतंत्र मानचित्र स्रोत से पुष्ट होता है (शेरपुरा वास्तव में लूणकरणसर तहसील में स्थित है), पर पत्रिका के पुनर्वास-स्थलों की सूची (खजूवाला, दांतौर, पुगल, मोहनगढ़, नाचना) में शेरपुरा शामिल नहीं — संभवतः वह सूची अपूर्ण/उदाहरणात्मक है, इसलिए विरोधाभास नहीं माना।",
+    "new_sources": [
+      {
+        "url": "https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/sherpura.html",
+        "title": "Sherpura Village Map, Lunkaransar Tehsil, Bikaner",
+        "supports_value": "Sherpura is located in Lunkaransar tehsil, Bikaner"
+      }
+    ]
+  },
+  "clm_range_area_acres_2f42b8b1": {
+    "id": "clm_range_area_acres_2f42b8b1",
+    "status": "corroborated",
+    "confidence": 0.85,
+    "reasoning_hi": "वीडियो शीर्षक कार्ड (00:42, '3,37,000 acres') और विवरण दोनों में यह आंकड़ा है। पत्रिका के दो स्वतंत्र लेख भी '3.37 लाख एकड़' की पुष्टि करते हैं — यह established newspaper से स्वतंत्र रूप से मेल खाता आंकड़ा है।",
+    "new_sources": [
+      {
+        "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+        "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Patrika News",
+        "supports_value": "3.37 lakh acres (337000)"
+      }
+    ]
+  },
+  "clm_villages_acquired_count_f1f836cb": {
+    "id": "clm_villages_acquired_count_f1f836cb",
+    "status": "corroborated",
+    "confidence": 0.85,
+    "reasoning_hi": "वीडियो शीर्षक कार्ड (00:21, 00:42) में '34 villages' दो बार आता है। पत्रिका के दो स्वतंत्र लेख भी बार-बार '34 गांव' की पुष्टि करते हैं — यह established newspaper से स्वतंत्र corroboration है।",
+    "new_sources": [
+      {
+        "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+        "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Patrika News",
+        "supports_value": "34 villages"
+      }
+    ]
+  },
+  "clm_years_since_departure_at_visit_fc074d50": {
+    "id": "clm_years_since_departure_at_visit_fc074d50",
+    "status": "single-source",
+    "confidence": 0.6,
+    "reasoning_hi": "शीर्षक कार्ड (00:12) कहता है 'after 36 YEARS', और वीडियो 18 फरवरी 2022 को अपलोड हुआ — यह 7 जुलाई 1986 की प्रस्थान तारीख से आंतरिक रूप से सुसंगत है (उसी स्रोत के भीतर)। पत्रिका (2022 प्रकाशित) सामान्यतः '~37 साल पहले' कहता है, पर वह सामान्य अधिग्रहण-वर्ष (1984-85) से गिना गया है, इस विशिष्ट परिवार की 1986 की तारीख से नहीं — इसलिए यह ढीला बाहरी संकेत है, प्रत्यक्ष स्वतंत्र पुष्टि नहीं।",
+    "new_sources": []
+  },
+  "clm_current_census_status_701519a1": {
+    "id": "clm_current_census_status_701519a1",
+    "status": "verified",
+    "confidence": 0.85,
+    "reasoning_hi": "census2011.co.in के लूणकरणसर तहसील पेज को सीधे जांचा गया: वहां सूचीबद्ध 125 गांवों में 'बेरावाला' नाम से कोई गांव नहीं मिला ('1 LKD' से 'Udeshiyan' तक सूची में अनुपस्थित)। यह दावे की सीधे प्राथमिक स्रोत पर पुष्टि है।",
+    "new_sources": []
+  }
+}
