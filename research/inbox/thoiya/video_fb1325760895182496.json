@@ -38,7 +38,15 @@
    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1325760895182496&_rdr",
    "is_primary": true,
    "related_villages": [],
-   "claims": [],
+   "claims": [
+    {
+     "claim_key": "house_ruins_material",
+     "value": "kachcha (mud) houses; mounds, wall stumps, floors",
+     "statement_hi": "ठोइया के कच्चे घरों के टीले, दीवारों के ठूंठ और फर्श बचे हैं; 'पंच भाइयों के घर' का हिस्सा दिखाया गया",
+     "statement_en": "Thoiya's kachcha houses survive as mounds, wall stumps and floors; the 'five brothers' houses' area is shown",
+     "snippet": "video title and frames 0-110 s"
+    }
+   ],
    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
    "media": {
     "channel": "Dinesh Beniwal",

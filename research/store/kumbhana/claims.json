@@ -298,5 +298,47 @@
       }
     ],
     "competing": []
+  },
+  "clm_fort_survives_fb360f9c": {
+    "id": "clm_fort_survives_fb360f9c",
+    "claim_key": "fort_survives",
+    "value": "yes (brick garh with arches, vaulted passage, upper storey; Sep 2025)",
+    "statement_hi": "कुम्भाणा गढ़ की ईंट की इमारत, मेहराबें, गुंबदी गलियारा और ऊपरी मंज़िल 35-40 साल बाद भी खड़ी हैं (सितंबर 2025)",
+    "statement_en": "Kumbhana garh still stands 35-40 years on: brick walls, arches, a vaulted passage and an upper storey (Sep 2025)",
+    "sources": [
+      "src_4d0095e05cdf"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_4d0095e05cdf",
+        "text": "title 'कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा'; frames 5-195 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_return_visits_025c2940": {
+    "id": "clm_return_visits_025c2940",
+    "claim_key": "return_visits",
+    "value": "visitors climb the fort (Sep 2025)",
+    "statement_hi": "लोग आज भी कुम्भाणा गढ़ देखने आते हैं",
+    "statement_en": "People still come to see Kumbhana garh",
+    "sources": [
+      "src_4d0095e05cdf"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_4d0095e05cdf",
+        "text": "frames 160-175 s: two visitors on the stairs"
+      }
+    ],
+    "competing": []
   }
 }

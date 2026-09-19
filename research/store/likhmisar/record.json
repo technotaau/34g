@@ -20,7 +20,7 @@
     "review": 6,
     "rejected": 1,
     "duplicates": 0,
-    "claims": 6
+    "claims": 10
   },
   "questions": {
     "what": {
@@ -75,6 +75,7 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
+        "src_250aeb6fda3e",
         "src_a5150b8b1d53"
       ]
     },
@@ -294,6 +295,90 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_village_pond_exists_fb360f9c",
+        "claim_key": "village_pond_exists",
+        "value": "yes (johad holds water; cattle drink)",
+        "statement_hi": "लिखमीसर का जोहड़ा आज भी है, पानी से भरा, पशु पानी पीते हैं (अक्टूबर 2025)",
+        "statement_en": "The Likhmisar johad survives with water; cattle drink there (Oct 2025)",
+        "sources": [
+          "src_250aeb6fda3e"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_250aeb6fda3e",
+            "text": "frames 0-23 s"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_well_exists_fb360f9c",
+        "claim_key": "village_well_exists",
+        "value": "yes (masonry well with platform near the pond)",
+        "statement_hi": "लिखमीसर का पक्का कुआं तालाब के पास बचा है",
+        "statement_en": "Likhmisar's masonry well with its platform survives near the pond",
+        "sources": [
+          "src_250aeb6fda3e"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_250aeb6fda3e",
+            "text": "title 'जोहड़ा, कुआँ, मंदिर'; frames 3-8 s"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_temple_survives_fb360f9c",
+        "claim_key": "temple_survives",
+        "value": "yes (small shrine with red door on the pond bank)",
+        "statement_hi": "तालाब की पाळ पर लाल दरवाज़े वाला छोटा मंदिर खड़ा है",
+        "statement_en": "A small shrine with a red door stands on the pond bank",
+        "sources": [
+          "src_250aeb6fda3e"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_250aeb6fda3e",
+            "text": "title; frame 18-20 s"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_in_34_gaon_fb360f9c",
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "लिखमीसर 'पुराना 34 गांव' में गिना जाता है (दिनेश बेनीवाल का reel)",
+        "statement_en": "Likhmisar is counted among the 'old 34 villages' (Dinesh Beniwal reel)",
+        "sources": [
+          "src_250aeb6fda3e"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_250aeb6fda3e",
+            "text": "title 'पुराना 34 गाँव लिखमीसर'"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -393,7 +478,7 @@
       "published_date": "2025-10-29",
       "language": "hi",
       "relevance": {
-        "score": 87,
+        "score": 93,
         "band": "high",
         "factors": {
           "name_match": 30,
@@ -404,7 +489,7 @@
           "corroboration": 0,
           "queries": 2,
           "evidence": 4,
-          "claims": 0,
+          "claims": 6,
           "recency": 3,
           "media": 3,
           "negative": 0
@@ -414,21 +499,24 @@
         "decision": "accept",
         "confidence": 0.8,
         "reasons": [
-          "primary name match: लिखमीसर",
+          "primary name match: Likhmisar",
           "strong geo context: ['34 गांव', '34 गाँव']",
-          "district/nearby/clan context: ['Beniwal']"
+          "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
         ],
         "matched_names": [
+          "Likhmisar",
           "लिखमीसर"
         ],
         "geo_hits": [
           "34 गांव",
           "34 गाँव",
-          "Beniwal"
+          "Beniwal",
+          "बेनीवाल"
         ],
         "negative_hits": []
       },
       "topics": [
+        "land_agriculture",
         "media_visual",
         "religion_temple"
       ],
@@ -874,6 +962,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 9,
       "at": "2026-09-19T15:40:17.872706+00:00"
+    },
+    {
+      "run_id": "run_20260919T154732Z",
+      "file": "research/inbox/likhmisar/video_fb1459335058470001.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1459335058470001 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-19T15:47:33.009393+00:00"
     }
   ]
 }

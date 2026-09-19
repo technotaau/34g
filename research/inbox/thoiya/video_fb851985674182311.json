@@ -38,7 +38,29 @@
    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=851985674182311&_rdr",
    "is_primary": true,
    "related_villages": [],
-   "claims": [],
+   "claims": [
+    {
+     "claim_key": "village_pond_exists",
+     "value": "yes (johad holds water, Oct 2025)",
+     "statement_hi": "ठोइया का जोहड़ा आज भी है और अक्टूबर 2025 में पानी से भरा था",
+     "statement_en": "The Thoiya johad survives and held water in October 2025",
+     "snippet": "drone frames 12-35 s: pond full of water, jaal trees on the bank"
+    },
+    {
+     "claim_key": "house_ruins_visible",
+     "value": "yes (mounds and eroded floors)",
+     "statement_hi": "ठोइया में घरों की जगह टीले और कटी हुई ज़मीन दिखती है",
+     "statement_en": "House sites at Thoiya survive as mounds and eroded ground",
+     "snippet": "drone frames 36-63 s"
+    },
+    {
+     "claim_key": "return_visits",
+     "value": "former residents visit (Oct 2025)",
+     "statement_hi": "पूर्व निवासी गाड़ी से ठोइया आते हैं (अक्टूबर 2025 का दौरा)",
+     "statement_en": "Former residents drive in to visit Thoiya (Oct 2025 visit)",
+     "snippet": "frames 8-23 s: SUV and four visitors in white at the johad"
+    }
+   ],
    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
    "media": {
     "channel": "Dinesh Beniwal",

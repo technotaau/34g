@@ -133,5 +133,89 @@
       }
     ],
     "competing": []
+  },
+  "clm_village_pond_exists_fb360f9c": {
+    "id": "clm_village_pond_exists_fb360f9c",
+    "claim_key": "village_pond_exists",
+    "value": "yes (johad holds water; cattle drink)",
+    "statement_hi": "लिखमीसर का जोहड़ा आज भी है, पानी से भरा, पशु पानी पीते हैं (अक्टूबर 2025)",
+    "statement_en": "The Likhmisar johad survives with water; cattle drink there (Oct 2025)",
+    "sources": [
+      "src_250aeb6fda3e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_250aeb6fda3e",
+        "text": "frames 0-23 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_well_exists_fb360f9c": {
+    "id": "clm_village_well_exists_fb360f9c",
+    "claim_key": "village_well_exists",
+    "value": "yes (masonry well with platform near the pond)",
+    "statement_hi": "लिखमीसर का पक्का कुआं तालाब के पास बचा है",
+    "statement_en": "Likhmisar's masonry well with its platform survives near the pond",
+    "sources": [
+      "src_250aeb6fda3e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_250aeb6fda3e",
+        "text": "title 'जोहड़ा, कुआँ, मंदिर'; frames 3-8 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_temple_survives_fb360f9c": {
+    "id": "clm_temple_survives_fb360f9c",
+    "claim_key": "temple_survives",
+    "value": "yes (small shrine with red door on the pond bank)",
+    "statement_hi": "तालाब की पाळ पर लाल दरवाज़े वाला छोटा मंदिर खड़ा है",
+    "statement_en": "A small shrine with a red door stands on the pond bank",
+    "sources": [
+      "src_250aeb6fda3e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_250aeb6fda3e",
+        "text": "title; frame 18-20 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "लिखमीसर 'पुराना 34 गांव' में गिना जाता है (दिनेश बेनीवाल का reel)",
+    "statement_en": "Likhmisar is counted among the 'old 34 villages' (Dinesh Beniwal reel)",
+    "sources": [
+      "src_250aeb6fda3e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_250aeb6fda3e",
+        "text": "title 'पुराना 34 गाँव लिखमीसर'"
+      }
+    ],
+    "competing": []
   }
 }

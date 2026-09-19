@@ -37,5 +37,33 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 8,
     "at": "2026-09-19T15:40:42.842626+00:00"
+  },
+  {
+    "run_id": "run_20260919T154732Z",
+    "file": "research/inbox/thoiya/video_fb1325760895182496.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1325760895182496 on 2026-09-19",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 8,
+    "at": "2026-09-19T15:47:32.442969+00:00"
+  },
+  {
+    "run_id": "run_20260919T154732Z",
+    "file": "research/inbox/thoiya/video_fb851985674182311.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/851985674182311 on 2026-09-19",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 8,
+    "at": "2026-09-19T15:47:32.709495+00:00"
   }
 ]

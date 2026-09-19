@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 9, स्वीकृत 1, पृष्ठभूमि (context) 1, समीक्षा हेतु 6, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 9, स्वीकृत 1, पृष्ठभूमि (context) 1, समीक्षा हेतु 6, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 10
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. The only verifiable Likhmisar places (Utrada and Dikhnada) are in Sridungargarh tehsil, not Lunkaransar; the list name may be a misidentification.
 
@@ -46,14 +46,16 @@
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
 
 ### मंदिर, लोक देवता, स्थल
-- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 87) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱
 
 ### त्योहार व परंपराएं
-- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 87) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱
 
 ### भूमि, खेती, पशुपालन, नहर
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - Detailed Rajasthan Patrika feature on the 1984-85 acquisition of 34 villages for the Mahajan Field Firing Range and the lasting emotional pain of displaced families. It names roughly ten of the 34 villages (Bhojrasar, Kumhana, Motlai, Khanisar, Thoia, Manera, Duder, Khajuwala, Dantur, Pugal) plus Mo
 
@@ -66,7 +68,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
 ### वीडियो (1)
-- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 87) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1459335058470001.content.json · timestamps: 0 public comments; 50631 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
@@ -74,7 +76,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### पुस्तकें व ऐतिहासिक संदर्भ (0)
 
 ### सार्वजनिक सोशल मीडिया स्रोत (2)
-- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 87) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1459335058470001.content.json · timestamps: 0 public comments; 50631 views; hashtags: 
 - [स्वामी विवेकान्नद विद्या आश्रम लिखमीसर दिखनादा](https://www.facebook.com/pages/%C3%A0%C2%A4%C2%B8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%B5%C3%A0%C2%A5%C2%87%C3%A0%C2%A4%C2%95%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%A6%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%A6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%AF%C3%A0%C2%A4%C2%BE%20%C3%A0%C2%A4%C2%86%C3%A0%C2%A4%C2%B6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B0%C3%A0%C2%A4%C2%AE%20%C3%A0%C2%A4%C2%B2%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%C3%A0%C2%A4%C2%B8%C3%A0%C2%A4%C2%B0%20%C3%A0%C2%A4%C2%A6%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A6%E0%A4%BE/830895883623961/) (social · social_post · तिथि अज्ञात · स्कोर 49 · समीक्षा हेतु)
 
@@ -106,6 +108,10 @@ _कोई नहीं_
 - **population_2011** = 4841 (Likhmisar Utrada) · unverified · विश्वास 0.3 · स्रोत: src_c21a9edbe766
 - **founding_clan** = Delu (Jat gotra), population ~150 per Jatland snippet · unverified · विश्वास 0.3 · स्रोत: src_4c02f7639812
 - **acquisition_year** = 1984-85 · unverified · विश्वास 0.3 · स्रोत: src_a5150b8b1d53
+- **village_pond_exists** = yes (johad holds water; cattle drink) · single-source · विश्वास 0.5 · स्रोत: src_250aeb6fda3e
+- **village_well_exists** = yes (masonry well with platform near the pond) · single-source · विश्वास 0.5 · स्रोत: src_250aeb6fda3e
+- **temple_survives** = yes (small shrine with red door on the pond bank) · single-source · विश्वास 0.5 · स्रोत: src_250aeb6fda3e
+- **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_250aeb6fda3e
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
@@ -122,7 +128,7 @@ _कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
-- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) · facebook · social · स्कोर 87 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
+- [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) · facebook · social · स्कोर 93 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [Likhmisar Utrada Village Population - Sridungargarh - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69900-likhmisar-utrada-rajasthan.html) · census_mirror · census_mirror · स्कोर 72 · रिज़ॉल्यूशन review (0.55) · खोज: Likhmisar village Bikaner Rajasthan
 - [Likhmisar](https://www.geonames.org/1264927) · geonames.org · government · स्कोर 66 · रिज़ॉल्यूशन review (0.55) · खोज: GeoNames search for Likhmisar
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) · census_mirror · census_mirror · स्कोर 63 · रिज़ॉल्यूशन review (0.4) · खोज: Likhmisar village Bikaner Rajasthan

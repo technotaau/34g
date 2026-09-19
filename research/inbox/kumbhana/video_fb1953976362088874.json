@@ -38,7 +38,22 @@
    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1953976362088874&_rdr",
    "is_primary": true,
    "related_villages": [],
-   "claims": [],
+   "claims": [
+    {
+     "claim_key": "fort_survives",
+     "value": "yes (brick garh with arches, vaulted passage, upper storey; Sep 2025)",
+     "statement_hi": "कुम्भाणा गढ़ की ईंट की इमारत, मेहराबें, गुंबदी गलियारा और ऊपरी मंज़िल 35-40 साल बाद भी खड़ी हैं (सितंबर 2025)",
+     "statement_en": "Kumbhana garh still stands 35-40 years on: brick walls, arches, a vaulted passage and an upper storey (Sep 2025)",
+     "snippet": "title 'कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा'; frames 5-195 s"
+    },
+    {
+     "claim_key": "return_visits",
+     "value": "visitors climb the fort (Sep 2025)",
+     "statement_hi": "लोग आज भी कुम्भाणा गढ़ देखने आते हैं",
+     "statement_en": "People still come to see Kumbhana garh",
+     "snippet": "frames 160-175 s: two visitors on the stairs"
+    }
+   ],
    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
    "media": {
     "channel": "Dinesh Beniwal",

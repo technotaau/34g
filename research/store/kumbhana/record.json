@@ -20,7 +20,7 @@
     "review": 1,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 15
+    "claims": 17
   },
   "questions": {
     "what": {
@@ -117,8 +117,8 @@
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
-        "src_8afca068e2a6",
         "src_4d0095e05cdf",
+        "src_8afca068e2a6",
         "src_da93acd53623"
       ]
     },
@@ -482,6 +482,48 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_fort_survives_fb360f9c",
+        "claim_key": "fort_survives",
+        "value": "yes (brick garh with arches, vaulted passage, upper storey; Sep 2025)",
+        "statement_hi": "कुम्भाणा गढ़ की ईंट की इमारत, मेहराबें, गुंबदी गलियारा और ऊपरी मंज़िल 35-40 साल बाद भी खड़ी हैं (सितंबर 2025)",
+        "statement_en": "Kumbhana garh still stands 35-40 years on: brick walls, arches, a vaulted passage and an upper storey (Sep 2025)",
+        "sources": [
+          "src_4d0095e05cdf"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_4d0095e05cdf",
+            "text": "title 'कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा'; frames 5-195 s"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_return_visits_025c2940",
+        "claim_key": "return_visits",
+        "value": "visitors climb the fort (Sep 2025)",
+        "statement_hi": "लोग आज भी कुम्भाणा गढ़ देखने आते हैं",
+        "statement_en": "People still come to see Kumbhana garh",
+        "sources": [
+          "src_4d0095e05cdf"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_4d0095e05cdf",
+            "text": "frames 160-175 s: two visitors on the stairs"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -556,6 +598,59 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=guImlBcRMTU",
+      "is_primary": true
+    },
+    "src_4d0095e05cdf": {
+      "url": "https://m.facebook.com/watch/?v=1953976362088874&_rdr",
+      "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2025-09-23",
+      "language": "hi",
+      "relevance": {
+        "score": 91,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 4,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Kumbhana",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "Kumbhana",
+          "कुम्भाणा",
+          "कुम्भाना"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1953976362088874&_rdr",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
@@ -682,57 +777,6 @@
       ],
       "license": "Facebook post; poster's copyright",
       "attribution": "Pradeep Soni, Facebook, 31 Jan 2021",
-      "is_primary": true
-    },
-    "src_4d0095e05cdf": {
-      "url": "https://m.facebook.com/watch/?v=1953976362088874&_rdr",
-      "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है",
-      "platform": "facebook",
-      "source_type": "social",
-      "media_type": "video",
-      "published_date": "2025-09-23",
-      "language": "hi",
-      "relevance": {
-        "score": 85,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 5,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 4,
-          "claims": 0,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "variant match: कुम्भाना",
-          "strong geo context: ['34 गांव', '34 गाँव']",
-          "district/nearby/clan context: ['Beniwal']"
-        ],
-        "matched_names": [
-          "कुम्भाना"
-        ],
-        "geo_hits": [
-          "34 गांव",
-          "34 गाँव",
-          "Beniwal"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "media_visual"
-      ],
-      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
-      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1953976362088874&_rdr",
       "is_primary": true
     },
     "src_31f3ca85e9a1": {
@@ -1070,6 +1114,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 8,
       "at": "2026-09-19T15:45:53.189877+00:00"
+    },
+    {
+      "run_id": "run_20260919T154733Z",
+      "file": "research/inbox/kumbhana/video_fb1953976362088874.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1953976362088874 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-19T15:47:33.364287+00:00"
     }
   ]
 }

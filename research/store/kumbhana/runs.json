@@ -79,5 +79,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 8,
     "at": "2026-09-19T15:45:53.189877+00:00"
+  },
+  {
+    "run_id": "run_20260919T154733Z",
+    "file": "research/inbox/kumbhana/video_fb1953976362088874.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 0,
+    "updated": 1,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1953976362088874 on 2026-09-19",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 8,
+    "at": "2026-09-19T15:47:33.364287+00:00"
   }
 ]

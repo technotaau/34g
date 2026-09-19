@@ -4,10 +4,10 @@
 |---|---|---|---|---|---|---|
 | महाजन के 34 गांव (34 Gaon of Mahajan) | 18 | 12 | 4 | 22 | 17 | [report](store/34-gaon/report.md) |
 | भोजरासर (Bhojrasar) | 10 | 1 | 0 | 6 | 6 | [report](store/bhojrasar/report.md) |
-| कुम्भाणा (Kumbhana) | 8 | 6 | 1 | 15 | 15 | [report](store/kumbhana/report.md) |
+| कुम्भाणा (Kumbhana) | 8 | 6 | 1 | 17 | 17 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 7 | 2 | 0 | 9 | 9 | [report](store/motlai/report.md) |
 | खानीसर (Khanisar) | 8 | 3 | 1 | 11 | 8 | [report](store/khanisar/report.md) |
-| ठोईयां (Thoiya) | 8 | 5 | 0 | 8 | 8 | [report](store/thoiya/report.md) |
+| ठोईयां (Thoiya) | 8 | 5 | 0 | 12 | 12 | [report](store/thoiya/report.md) |
 | मणेरां (Manera) | 7 | 3 | 0 | 9 | 9 | [report](store/manera/report.md) |
 | दुदेर (Duder) | 5 | 2 | 0 | 7 | 7 | [report](store/duder/report.md) |
 | चिड़ासर (Chidasar) | 8 | 1 | 0 | 3 | 3 | [report](store/chidasar/report.md) |
@@ -37,6 +37,6 @@
 | हिन्दोर (Hindor) | 5 | 0 | 2 | 4 | 4 | [report](store/hindor/report.md) |
 | टिडासर (Tidasar) | 4 | 0 | 0 | 2 | 2 | [report](store/tidasar/report.md) |
 | बिरमाणा (Birmana) | 5 | 3 | 1 | 15 | 15 | [report](store/birmana/report.md) |
-| लिखमीसर (Likhmisar) | 9 | 1 | 6 | 6 | 6 | [report](store/likhmisar/report.md) |
+| लिखमीसर (Likhmisar) | 9 | 1 | 6 | 10 | 10 | [report](store/likhmisar/report.md) |
 | कुम्भासर (Kumbhasar) | 5 | 2 | 1 | 6 | 6 | [report](store/kumbhasar/report.md) |
 | कचराणा (Kachrana) | 6 | 0 | 0 | 1 | 1 | [report](store/kachrana/report.md) |

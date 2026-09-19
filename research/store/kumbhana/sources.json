@@ -919,8 +919,8 @@
     "direct_mention": true,
     "name_form_matched": "कुम्भाना",
     "evidence_snippets": [
-      "Title: एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है",
-      "Description: एरिया में 34 गाँव कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है यहाँ आके (कुम्भाना गाँव) ❤️🏰 #34gaav"
+      "Description: एरिया में 34 गाँव कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है यहाँ आके (कुम्भाना गाँव) ❤️🏰 #34gaav",
+      "Title: एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है"
     ],
     "entities": {
       "people": [],
@@ -942,16 +942,33 @@
       "timestamps": "0 public comments; 79059 views; hashtags: 34gaav",
       "frames": "24 stills in research/media/kumbhana/fb1953976362088874/ (manifest.json, contact_sheet.png)"
     },
-    "claims": [],
+    "claims": [
+      {
+        "claim_key": "fort_survives",
+        "value": "yes (brick garh with arches, vaulted passage, upper storey; Sep 2025)",
+        "statement_hi": "कुम्भाणा गढ़ की ईंट की इमारत, मेहराबें, गुंबदी गलियारा और ऊपरी मंज़िल 35-40 साल बाद भी खड़ी हैं (सितंबर 2025)",
+        "statement_en": "Kumbhana garh still stands 35-40 years on: brick walls, arches, a vaulted passage and an upper storey (Sep 2025)",
+        "snippet": "title 'कुम्भाना गढ़ का आज 35-40 साल के बाद का नजारा'; frames 5-195 s"
+      },
+      {
+        "claim_key": "return_visits",
+        "value": "visitors climb the fort (Sep 2025)",
+        "statement_hi": "लोग आज भी कुम्भाणा गढ़ देखने आते हैं",
+        "statement_en": "People still come to see Kumbhana garh",
+        "snippet": "frames 160-175 s: two visitors on the stairs"
+      }
+    ],
     "resolution": {
       "decision": "accept",
-      "confidence": 0.7,
+      "confidence": 0.8,
       "reasons": [
-        "variant match: कुम्भाना",
+        "primary name match: Kumbhana",
         "strong geo context: ['34 गांव', '34 गाँव']",
         "district/nearby/clan context: ['Beniwal']"
       ],
       "matched_names": [
+        "Kumbhana",
+        "कुम्भाणा",
         "कुम्भाना"
       ],
       "geo_hits": [
@@ -962,18 +979,18 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 85,
+      "score": 91,
       "band": "high",
       "factors": {
         "name_match": 30,
         "geo_match": 20,
-        "resolution_conf": 10,
+        "resolution_conf": 12,
         "credibility": 5,
         "primary": 8,
         "corroboration": 0,
         "queries": 2,
         "evidence": 4,
-        "claims": 0,
+        "claims": 4,
         "recency": 3,
         "media": 3,
         "negative": 0
@@ -983,7 +1000,8 @@
     "syndicate_group": "",
     "review_flags": [],
     "runs": [
-      "run_20260919T154552Z"
+      "run_20260919T154552Z",
+      "run_20260919T154733Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
