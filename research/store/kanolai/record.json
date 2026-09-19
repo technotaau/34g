@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-18",
+  "built": "2026-09-19",
   "counts": {
     "sources_total": 9,
     "accepted": 3,
@@ -135,7 +135,136 @@
     ]
   },
   "claims": {
-    "well_supported": [],
+    "well_supported": [
+      {
+        "id": "clm_shrine_peer_ji_kanolai_dham_383678f6",
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held",
+        "statement_hi": "पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है",
+        "statement_en": "Peer ji Maharaj Kanolai Dham still stands; strings of bells are offered on the jaal tree; the board announces a vishal jagran",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "corroborated",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "board: पीरजी महाराज कानोल[ाई] ... विशाल जागरण"
+          }
+        ],
+        "competing": [
+          "Peer ji Maharaj Kanolai Dham shrine stands and is visited"
+        ],
+        "agent_verdict": {
+          "id": "clm_shrine_peer_ji_kanolai_dham_383678f6",
+          "status": "corroborated",
+          "confidence": 0.55,
+          "reasoning_hi": "दो स्वतंत्र वीडियो (tp0mVligrls और z3ILa3-NyU0) दोनों पुष्टि करते हैं कि पीरजी महाराज कानोलाई धाम का मंदिर आज भी खड़ा है और लोग दर्शन को जाते हैं। घंटियों की माला और 'विशाल जागरण' बोर्ड का विवरण केवल एक स्रोत (tp0mVligrls) में है, दूसरे में इसका खंडन नहीं बल्कि केवल उल्लेख नहीं है - इसलिए यह अतिरिक्त विवरण एकल-स्रोत ही माना जाए। कोई तीसरा स्वतंत्र (समाचार/सरकारी) स्रोत नहीं मिला क्योंकि यह एक बहुत छोटे, निर्जन गांव का हाइपर-लोकल विवरण है।",
+          "new_sources": []
+        }
+      },
+      {
+        "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
+        "claim_key": "shrine_peer_ji_kanolai_dham",
+        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited",
+        "statement_hi": "कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं",
+        "statement_en": "The small Peer ji Maharaj Kanolai Dham shrine still stands and the family visits it",
+        "sources": [
+          "src_ae6977b947db"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "corroborated",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "source": "src_ae6977b947db",
+            "text": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
+          }
+        ],
+        "competing": [
+          "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held"
+        ],
+        "agent_verdict": {
+          "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
+          "status": "corroborated",
+          "confidence": 0.55,
+          "reasoning_hi": "मूल दावा (मंदिर खड़ा है, परिवार दर्शन जाते हैं) दूसरे वीडियो (tp0mVligrls) से समर्थित है जो घंटियों/जागरण जैसे अतिरिक्त विवरण भी देता है। दोनों स्रोत मूल तथ्य पर सहमत हैं इसलिए यह वास्तविक टकराव नहीं बल्कि विवरण के स्तर का अंतर है। दोनों स्रोत समान श्रेणी (यूट्यूब वीडियो/व्लॉग) के हैं, कोई अधिक प्रामाणिक (समाचार/सरकारी) स्रोत नहीं मिला।",
+          "new_sources": []
+        }
+      },
+      {
+        "id": "clm_house_ruins_material_99873977",
+        "claim_key": "house_ruins_material",
+        "value": "lime-plastered platforms and walls",
+        "statement_hi": "गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं",
+        "statement_en": "Lime-plastered platforms and wall stubs of the houses survive",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "corroborated",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "frames 17:00-22:00"
+          }
+        ],
+        "competing": [],
+        "agent_verdict": {
+          "id": "clm_house_ruins_material_99873977",
+          "status": "corroborated",
+          "confidence": 0.5,
+          "reasoning_hi": "Patrika News के लेख में सामान्य रूप से बताया गया है कि '34 गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां मौजूद हैं', जो घर के अवशेष बचे रहने की बात का सामान्य समर्थन करता है। परन्तु यह कानोलाई-विशिष्ट नहीं है और चूने के प्लास्टर की सामग्री का विशेष उल्लेख नहीं करता — इसलिए यह सामान्य पैटर्न की पुष्टि है, कानोलाई की विशिष्ट सामग्री-पुष्टि नहीं।",
+          "new_sources": [
+            {
+              "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+              "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News",
+              "supports_value": "houses/structures from the evacuated villages still stand today (general corroboration, not Kanolai-specific)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "clm_village_well_exists_fb360f9c",
+        "claim_key": "village_well_exists",
+        "value": "yes (lime-built well or tanka)",
+        "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
+        "statement_en": "The village's lime-built well or tanka survives",
+        "sources": [
+          "src_7e0f76030fe8"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "corroborated",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "source": "src_7e0f76030fe8",
+            "text": "frames 22:00-26:00"
+          }
+        ],
+        "competing": [],
+        "agent_verdict": {
+          "id": "clm_village_well_exists_fb360f9c",
+          "status": "corroborated",
+          "confidence": 0.4,
+          "reasoning_hi": "उसी Patrika लेख में 'तालाब' (जलाशय/टांका) के आज भी मौजूद होने का सामान्य उल्लेख है, जो कुआँ/टांका बचे रहने की बात से मेल खाता है, परन्तु यह कानोलाई-विशिष्ट पुष्टि नहीं बल्कि सभी 34 गांवों के सामान्य पैटर्न का वर्णन है। 'तालाब' शब्द 'कुआँ' से थोड़ा भिन्न भी हो सकता है (तालाब=पोखर, कुआँ=वेल)।",
+          "new_sources": [
+            {
+              "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+              "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News",
+              "supports_value": "ponds/water structures (तालाब) from evacuated villages still exist (general corroboration, not Kanolai-specific, and 'तालाब' ≠ exactly 'कुआँ/टांका')"
+            }
+          ]
+        }
+      }
+    ],
     "needs_verification": [
       {
         "id": "clm_village_list_34_18ca53da",
@@ -149,14 +278,27 @@
         "independent_sources": 1,
         "has_strong_source": false,
         "status": "unverified",
-        "confidence": 0.3,
+        "confidence": 0.35,
         "evidence": [
           {
             "source": "src_967773b5f1ff",
             "text": "'34 गाँवों के नाम' image"
           }
         ],
-        "competing": []
+        "competing": [],
+        "agent_verdict": {
+          "id": "clm_village_list_34_18ca53da",
+          "status": "unverified",
+          "confidence": 0.35,
+          "reasoning_hi": "'34 गांव' महाजन फील्ड फायरिंग रेंज हेतु अधिग्रहित होने की बात स्थापित समाचार स्रोत (Patrika News) से पुष्ट होती है, जिससे परियोजना का व्यापक ढांचा (34 गांव) प्रामाणिक लगता है। परन्तु सामुदायिक सूची के 32 विशिष्ट नामों (2 रिक्त) की स्वतंत्र रूप से पुष्टि करने वाला कोई सार्वजनिक स्रोत नहीं मिला - खोज बताती है कि 15-19 गांवों के नाम पुराने अभिलेखों (1981 जनगणना, भू-अधिग्रहण अधिसूचना) के बिना ऑनलाइन दुर्लभ हैं। अतः सूची स्वयं एकल-स्रोत/असत्यापित ही रहती है।",
+          "new_sources": [
+            {
+              "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
+              "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News",
+              "supports_value": "34 villages were acquired for Mahajan Field Firing Range (corroborates the '34' premise, not the specific 32-name list)"
+            }
+          ]
+        }
       },
       {
         "id": "clm_evacuation_period_e0f34ffa",
@@ -169,7 +311,7 @@
         ],
         "independent_sources": 1,
         "has_strong_source": true,
-        "status": "single-source",
+        "status": "conflicting",
         "confidence": 0.5,
         "evidence": [
           {
@@ -177,53 +319,26 @@
             "text": "जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था"
           }
         ],
-        "competing": []
-      },
-      {
-        "id": "clm_shrine_peer_ji_kanolai_dham_383678f6",
-        "claim_key": "shrine_peer_ji_kanolai_dham",
-        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held",
-        "statement_hi": "पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है",
-        "statement_en": "Peer ji Maharaj Kanolai Dham still stands; strings of bells are offered on the jaal tree; the board announces a vishal jagran",
-        "sources": [
-          "src_7e0f76030fe8"
-        ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "conflicting",
-        "confidence": 0.55,
-        "evidence": [
-          {
-            "source": "src_7e0f76030fe8",
-            "text": "board: पीरजी महाराज कानोल[ाई] ... विशाल जागरण"
-          }
-        ],
-        "competing": [
-          "Peer ji Maharaj Kanolai Dham shrine stands and is visited"
-        ]
-      },
-      {
-        "id": "clm_shrine_peer_ji_kanolai_dham_41ca879b",
-        "claim_key": "shrine_peer_ji_kanolai_dham",
-        "value": "Peer ji Maharaj Kanolai Dham shrine stands and is visited",
-        "statement_hi": "कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं",
-        "statement_en": "The small Peer ji Maharaj Kanolai Dham shrine still stands and the family visits it",
-        "sources": [
-          "src_ae6977b947db"
-        ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "conflicting",
-        "confidence": 0.55,
-        "evidence": [
-          {
-            "source": "src_ae6977b947db",
-            "text": "painted sign 'पीर जी महाराज कानोलाई धाम' (visual reading)"
-          }
-        ],
-        "competing": [
-          "Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held"
-        ]
+        "competing": [],
+        "agent_verdict": {
+          "id": "clm_evacuation_period_e0f34ffa",
+          "status": "conflicting",
+          "confidence": 0.5,
+          "preferred": "1984-85 (Patrika News, established newspaper) — video's '1986' is close but not identical",
+          "reasoning_hi": "वीडियो शीर्षक 1986 बताता है, जबकि स्थापित समाचार पत्र Patrika News के दो लेख महाजन फील्ड फायरिंग रेंज हेतु भूमि अधिग्रहण/गांव खाली होने का वर्ष '1984-85' बताते हैं। स्रोत पदानुक्रम अनुसार स्थापित समाचार पत्र, व्यक्तिगत यूट्यूब वीडियो से अधिक प्रामाणिक है, इसलिए 1984-85 को प्राथमिकता दी जाती है, परन्तु दोनों मान (1984-85 और 1986) निकट हैं और दोनों सुरक्षित रखे गए हैं क्योंकि सटीक वर्ष अलग-अलग गांवों/अधिसूचनाओं के लिए भिन्न हो सकता है।",
+          "new_sources": [
+            {
+              "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
+              "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan firing range | Patrika News",
+              "supports_value": "1984-85"
+            },
+            {
+              "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+              "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News",
+              "supports_value": "1984-85 (duplicate/republished article)"
+            }
+          ]
+        }
       },
       {
         "id": "clm_shrine_heer_ji_madhi_5f32c6bd",
@@ -237,7 +352,7 @@
         "independent_sources": 1,
         "has_strong_source": true,
         "status": "conflicting",
-        "confidence": 0.55,
+        "confidence": 0.3,
         "evidence": [
           {
             "source": "src_7e0f76030fe8",
@@ -246,7 +361,16 @@
         ],
         "competing": [
           "white madhi under a large tree"
-        ]
+        ],
+        "agent_verdict": {
+          "id": "clm_shrine_heer_ji_madhi_5f32c6bd",
+          "status": "conflicting",
+          "confidence": 0.3,
+          "preferred": "अनिर्णीत — दोनों स्रोत समान प्रामाणिकता स्तर (सामुदायिक/व्लॉग वीडियो) के हैं, कोई श्रेष्ठ नहीं",
+          "reasoning_hi": "दो वीडियो हीर जी की मढ़ी का भिन्न वर्णन देते हैं: एक में लाल ध्वज वाली पक्की समाधि, दूसरे में जाल के पेड़ के नीचे सफेद मढ़ी। यह रंग/संरचना में वास्तविक अंतर है (केवल विवरण-स्तर का भेद नहीं)। दोनों स्रोत समान श्रेणी (व्यक्तिगत वीडियो/व्लॉग) के हैं इसलिए पदानुक्रम के अनुसार कोई एक अधिक प्रामाणिक नहीं है। कोई तीसरा स्वतंत्र स्रोत खोज में नहीं मिला (हीर जी मढ़ी, बीकानेर सम्बन्धी खोजों से भी कुछ नहीं मिला) — संभव है ये दो अलग संरचनाओं का वर्णन कर रहे हों या समय के साथ मढ़ी में बदलाव आया हो।",
+          "new_sources": []
+        },
+        "preferred_by_agent": "अनिर्णीत — दोनों स्रोत समान प्रामाणिकता स्तर (सामुदायिक/व्लॉग वीडियो) के हैं, कोई श्रेष्ठ नहीं"
       },
       {
         "id": "clm_shrine_heer_ji_madhi_ec918df3",
@@ -260,7 +384,7 @@
         "independent_sources": 1,
         "has_strong_source": true,
         "status": "conflicting",
-        "confidence": 0.55,
+        "confidence": 0.3,
         "evidence": [
           {
             "source": "src_ae6977b947db",
@@ -269,49 +393,16 @@
         ],
         "competing": [
           "masonry samadhi with red flag, visited by elders"
-        ]
-      },
-      {
-        "id": "clm_house_ruins_material_99873977",
-        "claim_key": "house_ruins_material",
-        "value": "lime-plastered platforms and walls",
-        "statement_hi": "गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं",
-        "statement_en": "Lime-plastered platforms and wall stubs of the houses survive",
-        "sources": [
-          "src_7e0f76030fe8"
         ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
-        "evidence": [
-          {
-            "source": "src_7e0f76030fe8",
-            "text": "frames 17:00-22:00"
-          }
-        ],
-        "competing": []
-      },
-      {
-        "id": "clm_village_well_exists_fb360f9c",
-        "claim_key": "village_well_exists",
-        "value": "yes (lime-built well or tanka)",
-        "statement_hi": "गांव का चूने से बना कुआँ/टांका आज भी है",
-        "statement_en": "The village's lime-built well or tanka survives",
-        "sources": [
-          "src_7e0f76030fe8"
-        ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
-        "evidence": [
-          {
-            "source": "src_7e0f76030fe8",
-            "text": "frames 22:00-26:00"
-          }
-        ],
-        "competing": []
+        "agent_verdict": {
+          "id": "clm_shrine_heer_ji_madhi_ec918df3",
+          "status": "conflicting",
+          "confidence": 0.3,
+          "preferred": "अनिर्णीत — दोनों स्रोत समान प्रामाणिकता स्तर (सामुदायिक/व्लॉग वीडियो) के हैं, कोई श्रेष्ठ नहीं",
+          "reasoning_hi": "देखें clm_shrine_heer_ji_madhi_5f32c6bd का कारण — वही टकराव, दोनों दिशाओं में समान रूप से लागू। कोई स्वतंत्र तीसरा स्रोत नहीं मिला।",
+          "new_sources": []
+        },
+        "preferred_by_agent": "अनिर्णीत — दोनों स्रोत समान प्रामाणिकता स्तर (सामुदायिक/व्लॉग वीडियो) के हैं, कोई श्रेष्ठ नहीं"
       },
       {
         "id": "clm_family_link_to_kanolai_a323b3c9",
@@ -325,14 +416,21 @@
         "independent_sources": 1,
         "has_strong_source": true,
         "status": "single-source",
-        "confidence": 0.5,
+        "confidence": 0.3,
         "evidence": [
           {
             "source": "src_7e0f76030fe8",
             "text": "नानाजी रो घर ... नानाजी रे घरे आई हूं"
           }
         ],
-        "competing": []
+        "competing": [],
+        "agent_verdict": {
+          "id": "clm_family_link_to_kanolai_a323b3c9",
+          "status": "single-source",
+          "confidence": 0.3,
+          "reasoning_hi": "यह व्लॉगर के निजी पारिवारिक इतिहास का दावा है (नानाजी का घर कानोलाई में था) जिसे किसी सार्वजनिक स्रोत से सत्यापित नहीं किया जा सकता - ऐसे व्यक्तिगत वंशावली दावे स्वाभाविक रूप से एकल-स्रोत ही रहेंगे। कोई खंडन भी नहीं मिला, और दावा प्रशंसनीय है क्योंकि वीडियो अन्य सत्यापन-योग्य विवरणों (34 गांव, फायरिंग रेंज) में सुसंगत पाया गया।",
+          "new_sources": []
+        }
       }
     ]
   },

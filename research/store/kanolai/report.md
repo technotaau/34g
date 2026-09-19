@@ -1,6 +1,6 @@
 # कानोलाई (Kanolai) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-18 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 9, स्वीकृत 3, पृष्ठभूमि (context) 0, समीक्षा हेतु 4, अस्वीकृत 2, डुप्लिकेट 0 · दावे: 9
 
@@ -96,18 +96,17 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ## तथ्य / दावे
 
 ### अच्छी तरह समर्थित (verified / corroborated)
-_कोई नहीं_
+- **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held · corroborated (1 स्वतंत्र स्रोत) · पीरजी महाराज कानोलाई धाम आज भी है; जाल के पेड़ पर घंटियों की मालाएं चढ़ाई जाती हैं; बोर्ड पर 'विशाल जागरण' लिखा है
+- **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited · corroborated (1 स्वतंत्र स्रोत) · कानोलाई में पीर जी महाराज कानोलाई धाम का छोटा मंदिर आज भी है और परिवार दर्शन करने जाते हैं
+- **house_ruins_material** = lime-plastered platforms and walls · corroborated (1 स्वतंत्र स्रोत) · गांव के मकानों के चूने से पुते चबूतरे और दीवारों के अवशेष आज भी दिखते हैं
+- **village_well_exists** = yes (lime-built well or tanka) · corroborated (1 स्वतंत्र स्रोत) · गांव का चूने से बना कुआँ/टांका आज भी है
 
 ### सत्यापन आवश्यक (single-source / unverified / conflicting)
-- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
-- **evacuation_period** = 1986 · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
-- **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['Peer ji Maharaj Kanolai Dham shrine stands and is visited'] · स्रोत: src_7e0f76030fe8
-- **shrine_peer_ji_kanolai_dham** = Peer ji Maharaj Kanolai Dham shrine stands and is visited · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['Peer ji Maharaj Kanolai Dham shrine stands and is visited; bell offerings on the jaal tree; jagran held'] · स्रोत: src_ae6977b947db
-- **shrine_heer_ji_madhi** = masonry samadhi with red flag, visited by elders · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['white madhi under a large tree'] · स्रोत: src_7e0f76030fe8
-- **shrine_heer_ji_madhi** = white madhi under a large tree · conflicting · विश्वास 0.55 · प्रतिस्पर्धी मान: ['masonry samadhi with red flag, visited by elders'] · स्रोत: src_ae6977b947db
-- **house_ruins_material** = lime-plastered platforms and walls · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
-- **village_well_exists** = yes (lime-built well or tanka) · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
-- **family_link_to_kanolai** = uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai · single-source · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
+- **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.35 · स्रोत: src_967773b5f1ff
+- **evacuation_period** = 1986 · conflicting · विश्वास 0.5 · स्रोत: src_7e0f76030fe8
+- **shrine_heer_ji_madhi** = masonry samadhi with red flag, visited by elders · conflicting · विश्वास 0.3 · प्रतिस्पर्धी मान: ['white madhi under a large tree'] · स्रोत: src_7e0f76030fe8
+- **shrine_heer_ji_madhi** = white madhi under a large tree · conflicting · विश्वास 0.3 · प्रतिस्पर्धी मान: ['masonry samadhi with red flag, visited by elders'] · स्रोत: src_ae6977b947db
+- **family_link_to_kanolai** = uploader's maternal grandfather's (nanaji's) house stands in ruins at Kanolai · single-source · विश्वास 0.3 · स्रोत: src_7e0f76030fe8
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 

@@ -19,7 +19,7 @@
 | भानाबस्ती (Bhanabasti) | 7 | 3 | 0 | 10 | 10 | [report](store/bhanabasti/report.md) |
 | नाथौर (Nathor) | 6 | 2 | 2 | 9 | 9 | [report](store/nathor/report.md) |
 | बेरावाला (Berawala) | 11 | 3 | 1 | 23 | 22 | [report](store/berawala/report.md) |
-| कानोलाई (Kanolai) | 9 | 3 | 4 | 9 | 9 | [report](store/kanolai/report.md) |
+| कानोलाई (Kanolai) | 9 | 3 | 4 | 9 | 5 | [report](store/kanolai/report.md) |
 | धन्नासर (Dhannasar) | 8 | 0 | 2 | 6 | 6 | [report](store/dhannasar/report.md) |
 | रिणा (Rina) | 0 | 0 | 0 | 1 | 1 | [report](store/rina/report.md) |
 | मोटासर (Motasar) | 5 | 1 | 2 | 3 | 3 | [report](store/motasar/report.md) |
