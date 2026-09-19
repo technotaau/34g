@@ -14,8 +14,8 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 19,
-    "accepted": 12,
+    "sources_total": 20,
+    "accepted": 13,
     "context": 4,
     "review": 3,
     "rejected": 0,
@@ -120,6 +120,7 @@
         "src_1550959b438a",
         "src_44794c31acb6",
         "src_8d6757cdb0de",
+        "src_292542eb5058",
         "src_ef7a1980ce33",
         "src_079324b8685c",
         "src_7e5271a5b93e",
@@ -1222,6 +1223,57 @@
       "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qaHxfTepzaM",
       "is_primary": true
     },
+    "src_292542eb5058": {
+      "url": "https://www.youtube.com/watch?v=piL0ljX81MY",
+      "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-26",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: कुम्भाना",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कुम्भाना"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=piL0ljX81MY",
+      "is_primary": true
+    },
     "src_31f3ca85e9a1": {
       "url": "https://www.indianrajputs.com/view/kumbhana",
       "title": "Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India",
@@ -2142,6 +2194,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 19,
       "at": "2026-09-19T15:56:42.281388+00:00"
+    },
+    {
+      "run_id": "run_20260919T155806Z",
+      "file": "/home/user/34g/research/inbox/kumbhana/video_piL0ljX81MY.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=piL0ljX81MY on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 20,
+      "at": "2026-09-19T15:58:07.027788+00:00"
+    },
+    {
+      "run_id": "run_20260919T155807Z",
+      "file": "research/inbox/kumbhana/video_piL0ljX81MY.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=piL0ljX81MY on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 20,
+      "at": "2026-09-19T15:58:07.474476+00:00"
     }
   ]
 }

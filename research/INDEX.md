@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | महाजन के 34 गांव (34 Gaon of Mahajan) | 23 | 17 | 4 | 23 | 18 | [report](store/34-gaon/report.md) |
 | भोजरासर (Bhojrasar) | 10 | 1 | 0 | 6 | 6 | [report](store/bhojrasar/report.md) |
-| कुम्भाणा (Kumbhana) | 19 | 12 | 3 | 21 | 21 | [report](store/kumbhana/report.md) |
+| कुम्भाणा (Kumbhana) | 20 | 13 | 3 | 21 | 21 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 8 | 2 | 1 | 9 | 9 | [report](store/motlai/report.md) |
 | खानीसर (Khanisar) | 8 | 3 | 1 | 11 | 8 | [report](store/khanisar/report.md) |
 | ठोईयां (Thoiya) | 17 | 6 | 1 | 12 | 12 | [report](store/thoiya/report.md) |

@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 19, स्वीकृत 12, पृष्ठभूमि (context) 4, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 21
+स्रोत: कुल 20, स्वीकृत 13, पृष्ठभूमि (context) 4, समीक्षा हेतु 3, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 21
 
 > Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site. Listed as 'कुम्भाणा' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -106,7 +106,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (13)
+### वीडियो (14)
 - [पुराणा 34 गाँव के कुम्हाणा में गढ़” #gaav #villagelife #village #rajasthan  #youtubeshorts #shorts](https://www.youtube.com/watch?v=guImlBcRMTU) (video · video · 2025-10-27 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 1 in guImlBcRMTU.content.json · timestamps: 0 public comments; 1531 views; hashtags: 465rd bikaner chhatargarh gaav rajasthan rajasthani rajasthanilife rajasthanishorts rajasthanjourney rajasthanjourneyrj
 - [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा देखो कितनी आनन्द और ख़ुशी मिलती है](https://m.facebook.com/watch/?v=1953976362088874&_rdr) (social · video · 2025-09-23 · स्कोर 91) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -123,6 +123,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1795870261114842.content.json · timestamps: 0 public comments; 13430 views; hashtags: 
 - [पुराणा 34 गांव कुम्भाना में इतना पुराना कुआँ और इतना गहरा 😱🔥 (पार्ट-3) #oldvillagelife #34gaav](https://www.youtube.com/watch?v=qaHxfTepzaM) (video · video · 2025-09-28 · स्कोर 84) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 1 public comments; 1923 views; hashtags: 
+- [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav](https://www.youtube.com/watch?v=piL0ljX81MY) (video · video · 2025-09-26 · स्कोर 84) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 1340 views; hashtags: 
 - [कुम्भाना का गढ़ 🔥👌](https://www.youtube.com/watch?v=5I91gePlUF8) (video · video · 2025-10-10 · स्कोर 73 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 144 views; hashtags: 
 - [कुंभाना से खियाना जाते समय रास्ते में 🔥🙏](https://www.youtube.com/watch?v=xjpYpzyR5r0) (video · video · 2025-10-08 · स्कोर 73 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -217,6 +219,7 @@ _कोई नहीं_
 - [पुराणा 34 गाँव कुम्भाना में डाडा पम्मा जी महाराज का मंदिर 👌🙏 (पार्ट-4) #oldvillagelife #34gaav](https://www.youtube.com/watch?v=whbT1X3urU0) · youtube · video · स्कोर 86 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [34 गाँव कुम्भाना का कच्चा जोहड़ा 🔥👌](https://m.facebook.com/watch/?v=1795870261114842&_rdr) · facebook · social · स्कोर 85 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [पुराणा 34 गांव कुम्भाना में इतना पुराना कुआँ और इतना गहरा 😱🔥 (पार्ट-3) #oldvillagelife #34gaav](https://www.youtube.com/watch?v=qaHxfTepzaM) · youtube · video · स्कोर 84 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
+- [एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav](https://www.youtube.com/watch?v=piL0ljX81MY) · youtube · video · स्कोर 84 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [Kumbhana (Thikana) Homepage with Pictures : Rajput Provinces of India](https://www.indianrajputs.com/view/kumbhana) · indianrajputs.com · website · स्कोर 80 · रिज़ॉल्यूशन accept (0.8) · खोज: Kumbhana village Bikaner Rajasthan
 - [कुम्भाना का गढ़ 🔥👌](https://www.youtube.com/watch?v=5I91gePlUF8) · youtube · video · स्कोर 73 · रिज़ॉल्यूशन review (0.45) · खोज: video supplied by TechnoTaau Team
 - [कुंभाना से खियाना जाते समय रास्ते में 🔥🙏](https://www.youtube.com/watch?v=xjpYpzyR5r0) · youtube · video · स्कोर 73 · रिज़ॉल्यूशन review (0.45) · खोज: video supplied by TechnoTaau Team

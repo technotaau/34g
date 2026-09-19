@@ -204,7 +204,7 @@ def resize(src: Path, dst: Path, width: int) -> bool:
         return True
     try:
         subprocess.run(
-            ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vf", f"scale='min({width},iw)':-2", "-q:v", "7", str(dst)],
+            ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vf", f"scale='min({width},iw)':-2", "-q:v", "8" if width <= 520 else "7", str(dst)],
             check=True, capture_output=True,
         )
         return True
@@ -228,6 +228,7 @@ class Images:
         if key in self.cache:
             return ("../" * depth + self.cache[key]) if not self.inline else self.cache[key]
         if self.inline:
+            width = min(width, PREVIEW_WIDTH) if width < 1000 else 960  # keep the single-file preview small
             tmp = self.out_dir / "_preview_cache" / f"{slug}_{video_id}_{width}_{still.name}"
             resize(still, tmp, width)
             data = tmp.read_bytes()

@@ -2086,5 +2086,98 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_292542eb5058": {
+    "id": "src_292542eb5058",
+    "village": "kumbhana",
+    "url": "https://www.youtube.com/watch?v=piL0ljX81MY",
+    "url_key": "https://www.youtube.com/watch?v=piL0ljX81MY",
+    "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-26",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav' (1:22) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कुम्भाना",
+    "evidence_snippets": [
+      "Title: एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=piL0ljX81MY",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 1340 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: कुम्भाना",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "कुम्भाना"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155806Z",
+      "run_20260919T155807Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

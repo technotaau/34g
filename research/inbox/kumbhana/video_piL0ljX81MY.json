@@ -1,0 +1,52 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=piL0ljX81MY on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://www.youtube.com/watch?v=piL0ljX81MY",
+   "title": "एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+   "published_date": "2025-09-26",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav' (1:22) by Dinesh Beniwal . ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "कुम्भाना",
+   "evidence_snippets": [
+    "Title: एरिया में 34 गाँव कुम्भाना का आज 35-40 साल के बाद का नजारा 🔥👌 (पार्ट-1) #oldvillagelife #34gaav"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=piL0ljX81MY",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal ",
+    "uploader": "@Dineshbeniwalvlog",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 1340 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+   "syndicate_group": "beniwal_kumbhana_garh"
+  }
+ ]
+}
