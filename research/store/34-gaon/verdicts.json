@@ -1,0 +1,202 @@
+{
+  "clm_villages_acquired_count_f1f836cb": {
+    "id": "clm_villages_acquired_count_f1f836cb",
+    "status": "conflicting",
+    "confidence": 0.5,
+    "preferred": "33",
+    "reasoning_hi": "लोकसभा में रक्षा मंत्रालय के 21 अगस्त 1987 के लिखित उत्तर (मूल पीडीएफ देखा गया) में स्पष्ट रूप से '(b) 33.' गांव दर्ज हैं, और भाग (f) में भी 'the 33 villages acquired for the Range' लिखा है। राजस्थान हाईकोर्ट के 2024 के फैसले में भी 33 गांव अधिग्रहित होने की पुष्टि होती है। पत्रिका व फेसबुक वीडियो में 34 गांव बताया गया है, पर ये प्राथमिक/सरकारी अभिलेख नहीं हैं, इसलिए संसदीय व न्यायिक स्रोत को वरीयता दी गई।",
+    "new_sources": [
+      {
+        "url": "https://elibrary.sansad.in/server/api/core/bitstreams/9abaf6d4-1b4f-44a8-846e-66747a76e9a0/content",
+        "title": "Lok Sabha Unstarred Q.4236, 21 Aug 1987 — full text PDF (Ministry of Defence answer)",
+        "supports_value": "33"
+      }
+    ]
+  },
+  "clm_villages_acquired_count_b6692ea5": {
+    "id": "clm_villages_acquired_count_b6692ea5",
+    "status": "conflicting",
+    "confidence": 0.8,
+    "preferred": "33",
+    "reasoning_hi": "यह आंकड़ा प्राथमिक स्रोतों से सीधे पुष्ट होता है: लोकसभा प्रश्न सं. 4236 (21 अगस्त 1987) के मूल उत्तर में रक्षा राज्यमंत्री ने स्वयं '(b) 33.' लिखा, और भाग (f) में 'the 33 villages acquired for the Range' भी दर्ज है। राजस्थान हाईकोर्ट (2024, Umacharan Sharma केस) ने भी '33 गांव, 1983-84 में अधिग्रहित' दर्ज किया है — दोनों प्राथमिक/कानूनी स्रोत आपस में पूरी तरह मेल खाते हैं, इसलिए यह पत्रिका के 34 के आंकड़े से अधिक विश्वसनीय है।",
+    "new_sources": [
+      {
+        "url": "https://elibrary.sansad.in/server/api/core/bitstreams/9abaf6d4-1b4f-44a8-846e-66747a76e9a0/content",
+        "title": "Lok Sabha Unstarred Q.4236, 21 Aug 1987 — full text PDF (Ministry of Defence answer)",
+        "supports_value": "33"
+      }
+    ]
+  },
+  "clm_acquisition_year_e389dc21": {
+    "id": "clm_acquisition_year_e389dc21",
+    "status": "conflicting",
+    "confidence": 0.4,
+    "preferred": "1983-84",
+    "reasoning_hi": "पत्रिका के दोनों लेखों में 1984-85 दर्शाया गया है, जो स्थानीय स्मृति/इंटरव्यू पर आधारित प्रतीत होता है। राजस्थान हाईकोर्ट (2024) के फैसले में स्पष्ट रूप से '1983-84' दर्ज है, जो 33-गांव के आंकड़े (लोकसभा उत्तर से भी सुसंगत) के साथ एक ही मामले में दिया गया है। कानूनी/प्राथमिक स्रोत को वरीयता दी गई, पर सही वर्ष अब भी पूर्णतः निश्चित नहीं है क्योंकि लोकसभा उत्तर में स्वयं वर्ष स्पष्ट नहीं दिया गया।",
+    "new_sources": []
+  },
+  "clm_acquisition_year_7f16bf9e": {
+    "id": "clm_acquisition_year_7f16bf9e",
+    "status": "conflicting",
+    "confidence": 0.55,
+    "preferred": "1983-84",
+    "reasoning_hi": "यह मूल्य राजस्थान हाईकोर्ट के 2024 के फैसले (Umacharan Sharma v. State of Rajasthan) में सीधे दर्ज है: 'land of 33 villages of Loonkaransar Tehsil...was acquired by the Government of Rajasthan in the year 1983-84 for...Mahajan Field Firing Range'। यह कानूनी/प्राथमिक स्रोतों में सर्वोच्च श्रेणी का है और 33-गांव के आंकड़े से भी सुसंगत है, इसलिए इसे वरीयता दी गई।",
+    "new_sources": []
+  },
+  "clm_acquisition_year_e182c217": {
+    "id": "clm_acquisition_year_e182c217",
+    "status": "conflicting",
+    "confidence": 0.3,
+    "preferred": "1983-84",
+    "reasoning_hi": "2017 के एक अन्य राजस्थान हाईकोर्ट मामले (Ramesh Chandra v. Chandra Singh) में एक विशेष खातेदार (अमर सिंह) की भूमि '1982' में अधिग्रहित होना दर्ज है — यह किसी एक व्यक्ति-विशेष के प्रकरण से जुड़ा हो सकता है, न कि पूरे क्षेत्र के अधिग्रहण की सामान्य तारीख। चूंकि 2024 का व्यापक फैसला '1983-84' को समूचे 33-गांव अधिग्रहण का वर्ष बताता है, उसे अधिक वजन दिया गया, पर 1982 से आंशिक विरोधाभास अनसुलझा है।",
+    "new_sources": []
+  },
+  "clm_range_area_ha_79f98c59": {
+    "id": "clm_range_area_ha_79f98c59",
+    "status": "conflicting",
+    "confidence": 0.7,
+    "preferred": "136406",
+    "reasoning_hi": "यह आंकड़ा जनगणना 2011 पर आधारित है और villageinfo.in, villagemaps.in, geoiq जैसी कई स्वतंत्र वेबसाइटों पर भी समान रूप से '136406 हेक्टेयर' दर्ज मिला, जो सभी जनगणना डेटा से लिया गया प्रतीत होता है। OpenStreetMap का 1,36,586 हेक्टेयर एक सामुदायिक रूप से मैप किए गए बहुभुज (way) से अनुमानित गणना है (OSM पेज पर कोई स्पष्ट क्षेत्रफल टैग नहीं मिला), जो सरकारी जनगणना जितना आधिकारिक नहीं है।",
+    "new_sources": [
+      {
+        "url": "https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range/",
+        "title": "Mahajan Fieldfiring Range village — VillageInfo.in (Census-derived)",
+        "supports_value": "136406"
+      }
+    ]
+  },
+  "clm_range_area_ha_4cc4a88b": {
+    "id": "clm_range_area_ha_4cc4a88b",
+    "status": "conflicting",
+    "confidence": 0.3,
+    "preferred": "136406",
+    "reasoning_hi": "OpenStreetMap के way (412765540) पर landuse=military टैग तो है पर कोई स्पष्ट क्षेत्रफल-टैग नहीं मिला; 1,36,586 हेक्टेयर संभवतः बहुभुज के निर्देशांकों से स्वतः गणना है, जो सामुदायिक मानचित्रण पर निर्भर है। जनगणना 2011 का आधिकारिक आंकड़ा (1,36,406 हेक्टेयर), जो कई स्वतंत्र साइटों पर दोहराया गया, अधिक विश्वसनीय माना गया।",
+    "new_sources": []
+  },
+  "clm_private_land_acquired_bighas_f3259299": {
+    "id": "clm_private_land_acquired_bighas_f3259299",
+    "status": "verified",
+    "confidence": 0.9,
+    "reasoning_hi": "लोकसभा प्रश्न सं. 4236 (21 अगस्त 1987) के मूल पीडीएफ उत्तर में रक्षा राज्यमंत्री ने लिखा: 'The private land sanctioned for acquisition is 3,12,649 Bighas and 05 Biswas' — यह दावे से हूबहू मेल खाता है। यह संसद का प्राथमिक अभिलेख है, अतः इसे 'verified' श्रेणी में रखा गया।",
+    "new_sources": [
+      {
+        "url": "https://elibrary.sansad.in/server/api/core/bitstreams/9abaf6d4-1b4f-44a8-846e-66747a76e9a0/content",
+        "title": "Lok Sabha Unstarred Q.4236, 21 Aug 1987 — full text PDF",
+        "supports_value": "312649"
+      }
+    ]
+  },
+  "clm_compensation_total_crore_70f30172": {
+    "id": "clm_compensation_total_crore_70f30172",
+    "status": "verified",
+    "confidence": 0.9,
+    "reasoning_hi": "उसी लोकसभा उत्तर में दर्ज है: 'the total amount paid for private land/properties is Rs. 64.11 crores. This also includes rehabilitation grant.' दावा सही सिद्ध होता है; ध्यान रहे कि इस राशि में केवल भूमि का मुआवजा नहीं बल्कि पुनर्वास अनुदान भी शामिल है, जैसा उत्तर में ही स्पष्ट है।",
+    "new_sources": [
+      {
+        "url": "https://elibrary.sansad.in/server/api/core/bitstreams/9abaf6d4-1b4f-44a8-846e-66747a76e9a0/content",
+        "title": "Lok Sabha Unstarred Q.4236, 21 Aug 1987 — full text PDF",
+        "supports_value": "64.11"
+      }
+    ]
+  },
+  "clm_holika_tradition_continues_fb360f9c": {
+    "id": "clm_holika_tradition_continues_fb360f9c",
+    "status": "single-source",
+    "confidence": 0.55,
+    "reasoning_hi": "पत्रिका के लेख में सीधा उद्धरण मिला: 'आज भी होली पर्व पर कुम्भाणा में होलिका का दहन करने की परम्परा का निर्वहन होता है।' दावा स्रोत में सटीक रूप से मौजूद है, परन्तु व्यापक खोज में इस विशिष्ट परंपरा की पुष्टि करने वाला कोई स्वतंत्र दूसरा समाचार/शोध स्रोत नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_resettlement_sites_e3face96": {
+    "id": "clm_resettlement_sites_e3face96",
+    "status": "corroborated",
+    "confidence": 0.75,
+    "reasoning_hi": "पत्रिका के दो अलग-अलग प्रकाशित लेखों (2018 वाला mahajan-firing-range-3673091 और नया mahajan-field-firing-range-7893463) दोनों में समान रूप से खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में कृषि भूमि आवंटन की बात दर्ज है, इसलिए इसे दो प्रकाशनों से समर्थन प्राप्त माना गया।",
+    "new_sources": [
+      {
+        "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
+        "title": "आंखों में उतर आता है आशियाना उजड़ने का दर्द (Patrika)",
+        "supports_value": "Khajuwala, Dantor, Pugal, Mohangarh, Nachna"
+      }
+    ]
+  },
+  "clm_barani_land_rate_per_bigha_128e10aa": {
+    "id": "clm_barani_land_rate_per_bigha_128e10aa",
+    "status": "single-source",
+    "confidence": 0.75,
+    "reasoning_hi": "राजस्थान उच्च न्यायालय के AIR 1997 Raj 71 फैसले में पुष्टि होती है कि 23-11-1985 की अधिसूचना के तहत विस्थापितों को बारानी भूमि 300 रुपये प्रति बीघा की दर पर आवंटित की गई (उदाहरण: 40 बीघा हेतु 12,000 रुपये जमा)। यह कानूनी/प्राथमिक स्रोत है इसलिए भरोसेमंद है, पर कोई स्वतंत्र दूसरा स्रोत नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_rule_20b_insertion_date_1a2e8188": {
+    "id": "clm_rule_20b_insertion_date_1a2e8188",
+    "status": "unverified",
+    "confidence": 0.15,
+    "reasoning_hi": "मूल स्रोत (indiankanoon, कच्चा HTML जाँचा गया) और राजस्थान सरकार की आधिकारिक नियम-पुस्तिका (PDF, अद्यतन 2023, पीडीएफ से टेक्स्ट निकाला गया) दोनों में पाया गया कि 'Inserted by G.S.R. 37, Dated 9-9-1977' वाली टिप्पणी वास्तव में नियम 21 से जुड़ी है, नियम 20B से नहीं। नियम 20B (महाजन रेंज विस्थापितों संबंधी) के आगे कोई सूचना/तारीख फुटनोट दर्ज ही नहीं मिला। अतः यह दावा अपने ही उद्धृत स्रोत से मेल नहीं खाता और 20B की वास्तविक सम्मिलन-तिथि की पुष्टि नहीं हो सकी।",
+    "new_sources": [
+      {
+        "url": "https://landrevenue.rajasthan.gov.in/content/dam/landrevenue/revenuedepartment/Rules/Rajasthan%20Land%20Revenue%20(Allotment%20of%20Land%20for%20Agricultural%20Purposes)%20Rules,1970%20updated%20until%202023.pdf",
+        "title": "Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970 — official consolidated PDF (Land Revenue Dept, Govt of Rajasthan)",
+        "supports_value": "date belongs to Rule 21, not 20B"
+      },
+      {
+        "url": "https://indiankanoon.org/doc/94869216/",
+        "title": "Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules, 1970 — full text (IndianKanoon)",
+        "supports_value": "date belongs to Rule 21, not 20B"
+      }
+    ]
+  },
+  "clm_evacuation_period_b223afcb": {
+    "id": "clm_evacuation_period_b223afcb",
+    "status": "single-source",
+    "confidence": 0.3,
+    "reasoning_hi": "स्रोत (हिन्दी विकिपीडिया का एक 'सदस्य' उपयोगकर्ता-पृष्ठ, मुख्य-नामस्थान लेख नहीं) में यह अवधि मिलती है, परन्तु मूल वाक्य वास्तव में कहता है 'शेष 9 गांव सन् 1981 से 1986 के मध्य खाली करवा दिए गए' — यानी यह अवधि संभवतः सभी 33/34 गांवों पर नहीं बल्कि बचे हुए 9 गांवों पर लागू होती प्रतीत होती है। चूंकि यह असंपादित उपयोगकर्ता-पृष्ठ है और कोई स्वतंत्र पुष्टि नहीं मिली, विश्वसनीयता सीमित है।",
+    "new_sources": []
+  },
+  "clm_founding_person_40eeeeea": {
+    "id": "clm_founding_person_40eeeeea",
+    "status": "single-source",
+    "confidence": 0.3,
+    "reasoning_hi": "स्रोत में 'नाथूजी धतरवाल' (नाथूदादा) को क्षेत्र में 12 गांव बसाने वाला संस्थापक बताया गया है, जो दावे से मेल खाता है। यह विकिपीडिया का 'सदस्य' (उपयोगकर्ता) पृष्ठ है, संपादकीय समीक्षा वाला मुख्य लेख नहीं; खोज में मिली अन्य सामग्री भी उसी कुल-इतिहास परंपरा से आती प्रतीत हुई, कोई पूर्णतः स्वतंत्र प्रकाशित स्रोत नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_kumbhana_thikana_founder_32cfcf82": {
+    "id": "clm_kumbhana_thikana_founder_32cfcf82",
+    "status": "corroborated",
+    "confidence": 0.55,
+    "reasoning_hi": "rajputs.net और उसी शोध-नेटवर्क की indianrajputs.com ('Rajput Provinces of India') दोनों पर लगभग समान शब्दों में दर्ज है कि ठाकुर केसरी सिंह राठौड़ को महाराजा अनूप सिंह से कुम्भाणा की स्वतंत्र जागीर व डबल तज़ीम मिली, और वे रतनसिंहोत शाखा के हैं। दोनों साइटें एक ही शोध-नेटवर्क की प्रतीत होती हैं इसलिए यह पूर्ण रूप से पत्रकारिक-स्वतंत्र पुष्टि नहीं है, पर आंतरिक रूप से सुसंगत और विस्तृत वंशावली सूचना है।",
+    "new_sources": [
+      {
+        "url": "https://www.indianrajputs.com/view/kumbhana",
+        "title": "Kumbhana (Thikana) — Rajput Provinces of India",
+        "supports_value": "Thakur Kesri Singh (Ratansinghot)"
+      }
+    ]
+  },
+  "clm_pending_allotment_cases_2025_536fb693": {
+    "id": "clm_pending_allotment_cases_2025_536fb693",
+    "status": "single-source",
+    "confidence": 0.65,
+    "reasoning_hi": "पत्रिका के लेख में सटीक उद्धरण मिला: 'ऐसे किसानों के 148 भूमि आवंटन संबंधी प्रकरण सालों से उपनिवेशन विभाग में लम्बित पड़े हैं', साथ ही जनवरी 2025 में उपनिवेशन विभाग से आवंटन अधिकार वापस लिए जाने का संदर्भ भी दर्ज है। कोई अन्य स्वतंत्र समाचार स्रोत इस सटीक आंकड़े की पुष्टि करता नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_main_occupation_51a560e1": {
+    "id": "clm_main_occupation_51a560e1",
+    "status": "single-source",
+    "confidence": 0.5,
+    "reasoning_hi": "फेसबुक वीडियो सीधे एक्सेस नहीं हो सका, पर इनबॉक्स में सहेजे गए वीडियो के Whisper ट्रांसक्रिप्ट (fb3265653753626828.content.md) में स्पष्ट सुना गया: 'उनका प्रमुख व्यवसाय खेती और पशुपालन था', जो दावे से मेल खाता है — यानी दावा स्रोत का सही प्रतिनिधित्व करता है। कोई स्वतंत्र दूसरा स्रोत इस विशिष्ट विवरण की पुष्टि करता नहीं मिला, इसलिए यह एकल-स्रोत बना हुआ है।",
+    "new_sources": []
+  },
+  "clm_evacuation_order_source_2a6afa68": {
+    "id": "clm_evacuation_order_source_2a6afa68",
+    "status": "single-source",
+    "confidence": 0.5,
+    "reasoning_hi": "उसी वीडियो के सहेजे गए ट्रांसक्रिप्ट में सुना गया: 'रक्षा मन्त्रालय से चौंतीस गाँवों को गाँव खाली करने का आदेश आया', जो दावे से मेल खाता है। यह व्यापक तथ्य (कि रक्षा मंत्रालय ने भूमि अधिग्रहित की) लोकसभा व न्यायालय के अभिलेखों से भी सुसंगत है, पर आदेश की विशिष्ट भाषा/विवरण की पुष्टि केवल इसी वीडियो स्रोत से होती है, अन्य कोई स्वतंत्र स्रोत नहीं मिला।",
+    "new_sources": []
+  },
+  "clm_periphery_living_conditions_be750335": {
+    "id": "clm_periphery_living_conditions_be750335",
+    "status": "single-source",
+    "confidence": 0.45,
+    "reasoning_hi": "मूल पोस्ट का URL अनुपलब्ध होने से सीधे फेसबुक एक्सेस नहीं हो सका, पर इनबॉक्स में सहेजी गई सामग्री (fb_rk_parihar_periphery.json) में पोस्ट का मूल पाठ मिला: 'महाजन फील्ड फायरिंग रेंज के आस पास के गांव जो आज भी बहुत पिछड़े हुए है। यहां पर ज्यादातर लोग आज भी इन झोपड़ पटियो में अपना जीवन यापन कर रहे हैं' — दावे से मेल खाता है। कोई स्वतंत्र दूसरा स्रोत सत्यापन हेतु नहीं मिला, और मूल पोस्ट का URL भी अनुपलब्ध है, इसलिए एकल-स्रोत।",
+    "new_sources": []
+  }
+}
