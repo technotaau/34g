@@ -93,5 +93,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 17,
     "at": "2026-09-19T15:35:20.551300+00:00"
+  },
+  {
+    "run_id": "run_20260919T154004Z",
+    "file": "/home/user/34g/research/inbox/34-gaon/video_fb1424367825337915.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1424367825337915 on 2026-09-19",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 18,
+    "at": "2026-09-19T15:40:04.493007+00:00"
   }
 ]

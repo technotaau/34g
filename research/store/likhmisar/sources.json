@@ -927,5 +927,100 @@
     ],
     "notes": "Included as important negative evidence, not because it names the village: one of the most detailed available lists of the 34 acquired villages does not include 'Likhmisar', reinforcing doubt about whether this unit belongs to the Lunkaransar/Mahajan group at all. A human researcher should try to obtain the complete official 34-village list (revenue/defence records) to settle this.",
     "consent": ""
+  },
+  "src_250aeb6fda3e": {
+    "id": "src_250aeb6fda3e",
+    "village": "likhmisar",
+    "url": "https://m.facebook.com/watch/?v=1459335058470001&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=1459335058470001",
+    "title": "पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Dinesh Beniwal (100023184678090)",
+    "published_date": "2025-10-29",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "लिखमीसर",
+    "evidence_snippets": [
+      "Title: पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱",
+      "Description: पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1459335058470001&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal",
+      "uploader": "100023184678090",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1459335058470001.content.json",
+      "timestamps": "0 public comments; 50631 views; hashtags: ",
+      "frames": "15 stills in research/media/likhmisar/fb1459335058470001/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: लिखमीसर",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "लिखमीसर"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 87,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T154017Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

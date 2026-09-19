@@ -2,7 +2,7 @@
 
 **स्थिति:** umbrella · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 17, स्वीकृत 11, पृष्ठभूमि (context) 2, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 22
+स्रोत: कुल 18, स्वीकृत 12, पृष्ठभूमि (context) 2, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 22
 
 > Umbrella research unit for the whole displacement; sources here are shared by all villages.
 
@@ -139,9 +139,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (2)
+### वीडियो (3)
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Rameshwer Godara · uploader: 100011596120309 · transcript_available: Hindi narration, Whisper small readable (14 segments, cleaned reading in evidence) · timestamps: 0 public comments; 1442 views; hashtags: 
+- [34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e](https://m.facebook.com/watch/?v=1424367825337915&_rdr) (social · video · 2025-09-29 · स्कोर 85) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1424367825337915.content.json · timestamps: 0 public comments; 17432 views; hashtags: 
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 4 public comments; 68 views; hashtags: 
 
@@ -155,9 +157,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
 
-### सार्वजनिक सोशल मीडिया स्रोत (4)
+### सार्वजनिक सोशल मीडिया स्रोत (5)
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Rameshwer Godara · uploader: 100011596120309 · transcript_available: Hindi narration, Whisper small readable (14 segments, cleaned reading in evidence) · timestamps: 0 public comments; 1442 views; hashtags: 
+- [34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e](https://m.facebook.com/watch/?v=1424367825337915&_rdr) (social · video · 2025-09-29 · स्कोर 85) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1424367825337915.content.json · timestamps: 0 public comments; 17432 views; hashtags: 
 - [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
   - creator: unnamed commenter · timestamps: 2 images; file not retained
 - [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
@@ -182,7 +186,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Dharamveer Godara (poster), Manphool Singh Chaudhary, R K Parihar (poster), Rameshwer Godara (narrator/poster), Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
 - **places:** Chidasar, Lunkaransar, Meusar, all 32 listed villages, village pond, village well, villages around MFFR, whitewashed shrine by the pond, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
 - **events:** होलिका दहन कुम्भाणा
-- **organizations:** Bharat Speaks (Facebook page), District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rameshwer Godara, Rssuthar Jaisalmer
+- **organizations:** Bharat Speaks (Facebook page), Dinesh Beniwal, District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rameshwer Godara, Rssuthar Jaisalmer
 
 ## तथ्य / दावे
 
@@ -223,6 +227,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) · facebook · social · स्कोर 99 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) · patrika · news · स्कोर 88 · रिज़ॉल्यूशन accept (0.7) · खोज: महाजन फायरिंग रेंज 34 गांव
+- [34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e](https://m.facebook.com/watch/?v=1424367825337915&_rdr) · facebook · social · स्कोर 85 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 83 · रिज़ॉल्यूशन accept (0.7) · खोज: महाजन फील्ड फायरिंग रेंज विस्थापित
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) · indiankanoon · legal · स्कोर 83 · रिज़ॉल्यूशन accept (0.6) · खोज: "Mahajan Field Firing Range" indiankanoon
 - [Lok Sabha Unstarred Q. 4236, 21 Aug 1987: Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 80 · रिज़ॉल्यूशन accept (0.6) · खोज: Mahajan Field Firing Range Lok Sabha

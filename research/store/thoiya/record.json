@@ -14,9 +14,9 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 7,
+    "sources_total": 8,
     "accepted": 5,
-    "context": 1,
+    "context": 2,
     "review": 0,
     "rejected": 0,
     "duplicates": 1,
@@ -93,7 +93,8 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
-        "src_e6b8fda3434a"
+        "src_e6b8fda3434a",
+        "src_89ff7bb6e254"
       ]
     },
     "audio": {
@@ -107,7 +108,8 @@
     "social": {
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
-        "src_e6b8fda3434a"
+        "src_e6b8fda3434a",
+        "src_89ff7bb6e254"
       ]
     },
     "gov": {
@@ -623,6 +625,56 @@
       "attribution": "Wikimapia contributors",
       "is_primary": false
     },
+    "src_89ff7bb6e254": {
+      "url": "https://m.facebook.com/watch/?v=1325760895182496&_rdr",
+      "title": "34 गाँव ठोइयॉं में कच्चे घर और पंच भाइयों के घर 👌😱",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2025-10-20",
+      "language": "hi",
+      "relevance": {
+        "score": 53,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1325760895182496&_rdr",
+      "is_primary": true
+    },
     "src_a6f66da51d72": {
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974",
       "title": "महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना",
@@ -726,6 +778,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 7,
       "at": "2026-09-19T15:38:29.188644+00:00"
+    },
+    {
+      "run_id": "run_20260919T154042Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_fb1325760895182496.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1325760895182496 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-19T15:40:42.842626+00:00"
     }
   ]
 }
