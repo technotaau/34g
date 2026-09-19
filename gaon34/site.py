@@ -100,6 +100,11 @@ def load_timeline() -> list[dict]:
     return sorted(ev, key=lambda e: e["sort"])
 
 
+def load_quotes() -> list[dict]:
+    p = DATA_DIR / "quotes.json"
+    return json.loads(p.read_text(encoding="utf-8"))["quotes"] if p.exists() else []
+
+
 def load_polygon() -> list[tuple[float, float]]:
     p = DATA_DIR / "mffr_range_polygon.geojson"
     if not p.exists():
@@ -246,138 +251,173 @@ def unit_name(v: dict) -> tuple[str, str]:
 
 
 CSS = r"""
+/* Single-theme, deliberately: the desert at night. Every colour is set explicitly. */
 :root{
-  --bg:#F4F2ED; --panel:#E9E6DE; --line:#CFC8B8; --ink:#1B1F2A; --muted:#5C6270;
-  --accent:#2F3E9E; --accent-ink:#FFFFFF; --ok:#3E6B3A; --one:#2F3E9E; --todo:#7A7466; --conf:#9A4A22;
-  --photo:#2A2B2E; --radius:6px;
-}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
-  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
-}}
-:root[data-theme="dark"]{
-  --bg:#14161D; --panel:#1E2230; --line:#343A4D; --ink:#ECE8DF; --muted:#A8ADBA;
-  --accent:#8C9BFF; --accent-ink:#0F1320; --ok:#8CBF7F; --one:#8C9BFF; --todo:#9A9AA6; --conf:#E08A5A; --photo:#0B0C10;
+  --bg:#0E1017; --bg2:#151824; --panel:#1B1F2C; --line:#2A2F3E; --ink:#F1ECE2; --ink2:#D8D1C4; --muted:#9A937F;
+  --sand:#E2B45A; --sand2:#B98A3A; --green:#8DBB74; --rust:#E0774A; --indigo:#7F8FFF;
+  --ok:#8DBB74; --one:#E2B45A; --todo:#8B8577; --conf:#E0774A;
+  --radius:8px; color-scheme:dark;
 }
 *{box-sizing:border-box}
-html,body{background:var(--bg);color:var(--ink)}
-body{margin:0;font-family:"Mukta","Noto Sans Devanagari","Hind",system-ui,sans-serif;font-size:17px;line-height:1.6;font-variant-numeric:tabular-nums}
-a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
-a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Mukta","Noto Sans Devanagari",system-ui,sans-serif;font-size:17px;line-height:1.65;font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+a{color:var(--sand);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--sand);outline-offset:3px}
 img{max-width:100%;height:auto;display:block}
-h1,h2,h3{font-family:"Yatra One","Mukta","Noto Sans Devanagari",serif;font-weight:400;line-height:1.25;text-wrap:balance;margin:0}
-h1{font-size:clamp(1.9rem,4.5vw,3rem)}
-h2{font-size:clamp(1.4rem,3vw,1.9rem)}
-h3{font-size:1.15rem}
+h1,h2,h3{font-family:"Rozha One","Noto Serif Devanagari",serif;font-weight:400;line-height:1.15;text-wrap:balance;margin:0;letter-spacing:-.005em}
+h1{font-size:clamp(2.4rem,6vw,4.6rem)}
+h2{font-size:clamp(1.8rem,3.6vw,2.7rem)}
+h3{font-size:1.3rem}
 p{margin:0}
-.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
-.prose{max-width:68ch}
-.eyebrow{font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-family:"Mukta",sans-serif}
-.muted{color:var(--muted)}
-.small{font-size:.9rem}
-.stack{display:grid;gap:.6rem}
-.section{padding-block:2.2rem;border-top:1px solid var(--line)}
-.section:first-of-type{border-top:0}
-.section-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1.5rem;margin-bottom:1rem}
+.serif{font-family:"Tiro Devanagari Hindi","Noto Serif Devanagari",serif}
+.wrap{max-width:1160px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
+.prose{max-width:66ch}
+.eyebrow{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--sand);font-weight:500}
+.muted{color:var(--muted)} .small{font-size:.9rem} .lede{font-size:clamp(1.1rem,1.6vw,1.35rem);line-height:1.55;color:var(--ink2)}
+.stack{display:grid;gap:.7rem}
+.section{padding-block:clamp(2.4rem,6vw,5rem)}
+.section+.section{border-top:1px solid var(--line)}
+.section-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1.5rem;margin-bottom:1.4rem}
 /* top bar */
-.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
-.top .wrap{display:flex;align-items:center;gap:1rem;min-height:56px}
-.brand{font-family:"Yatra One","Mukta",serif;font-size:1.35rem;color:var(--ink);text-decoration:none;white-space:nowrap}
-.brand small{font-family:"Mukta",sans-serif;font-size:.75rem;color:var(--muted);margin-left:.4rem;letter-spacing:.06em}
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:rgba(14,16,23,.82);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:1rem;min-height:60px}
+.brand{font-family:"Rozha One",serif;font-size:1.5rem;color:var(--ink);text-decoration:none;white-space:nowrap;line-height:1}
+.brand small{font-family:"Mukta",sans-serif;font-size:.7rem;color:var(--muted);margin-left:.5rem;letter-spacing:.1em}
 nav.main{display:flex;gap:.1rem;min-width:0;overflow-x:auto;scrollbar-width:none;margin-left:auto}
 nav.main::-webkit-scrollbar{display:none}
-nav.main a{white-space:nowrap;padding:.35rem .6rem;border-radius:999px;text-decoration:none;color:var(--ink);font-size:.95rem}
-nav.main a[aria-current="page"]{background:var(--accent);color:var(--accent-ink)}
+nav.main a{white-space:nowrap;padding:.4rem .7rem;border-radius:999px;text-decoration:none;color:var(--ink2);font-size:.95rem}
+nav.main a:hover{color:var(--ink)}
+nav.main a[aria-current="page"]{background:var(--sand);color:#1A1406;font-weight:500}
+/* photo treatment */
+.ph{filter:contrast(1.08) saturate(1.12)}
 /* hero */
-.hero{position:relative;background:var(--photo);color:#F4F2ED;overflow:hidden}
-.hero img{width:100%;max-height:70vh;min-height:320px;object-fit:cover;object-position:center 40%;opacity:.78}
-.hero .text{position:absolute;inset:auto 0 0 0;padding:1.5rem 0 1.6rem;background:linear-gradient(180deg,rgba(20,22,29,0) 0%,rgba(20,22,29,.85) 60%)}
-.hero h1{font-size:clamp(2.2rem,7vw,4.4rem);color:#FFF;text-shadow:0 2px 12px rgba(0,0,0,.5)}
-.hero p{color:#E6E2D8;max-width:60ch;margin-top:.6rem;font-size:1.05rem}
-.hero .credit{font-size:.78rem;color:#C9C4B8;margin-top:.8rem}
-/* numbers */
-.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
-.nums div{background:var(--panel);padding:1rem}
-.nums b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:2rem;line-height:1.1}
-.nums span{font-size:.9rem;color:var(--muted)}
+.hero{position:relative;min-height:min(86vh,860px);display:grid;align-items:end;overflow:hidden;background:var(--bg2)}
+.hero .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:60% 35%;filter:contrast(1.1) saturate(1.15) brightness(.92)}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.25) 0%,rgba(14,16,23,.05) 35%,rgba(14,16,23,.55) 62%,rgba(14,16,23,.96) 100%),linear-gradient(90deg,rgba(14,16,23,.55) 0%,rgba(14,16,23,0) 55%)}
+.hero .text{position:relative;z-index:1;padding-block:clamp(2rem,6vw,4.5rem) clamp(1.6rem,4vw,3rem)}
+.hero h1{font-size:clamp(3rem,9.5vw,7.4rem);line-height:1.05;color:#FFFFFF;text-shadow:0 4px 30px rgba(0,0,0,.55)}
+.hero .lede{max-width:56ch;margin-top:1rem;color:#E9E3D6;text-shadow:0 2px 12px rgba(0,0,0,.6)}
+.hero .credit{font-size:.78rem;color:#B9B2A2;margin-top:1.2rem;letter-spacing:.03em}
+.hero .cue{position:absolute;right:clamp(16px,4vw,40px);bottom:1.6rem;z-index:1;color:#C9C2B1;font-size:.75rem;letter-spacing:.14em;text-transform:uppercase}
+@media (prefers-reduced-motion:no-preference){
+  .hero .bg{animation:kb 28s ease-out both}
+  @keyframes kb{from{transform:scale(1.08) translate(1.5%,0)}to{transform:scale(1) translate(0,0)}}
+  .hero h1,.hero .lede,.hero .credit{animation:rise 1.1s cubic-bezier(.2,.7,.2,1) both}
+  .hero .lede{animation-delay:.25s}.hero .credit{animation-delay:.45s}
+  @keyframes rise{from{opacity:.001;transform:translateY(14px)}to{opacity:1;transform:none}}
+}
+/* quotes strip */
+.quotes{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.4rem 1rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.quotes blockquote{flex:0 0 min(78vw,520px);scroll-snap-align:start;margin:0;padding:1.6rem 1.6rem 1.4rem;background:var(--panel);border-radius:var(--radius);border-top:3px solid var(--sand);display:grid;align-content:space-between;gap:1rem}
+.quotes p{font-family:"Tiro Devanagari Hindi","Noto Serif Devanagari",serif;font-size:clamp(1.25rem,2.1vw,1.6rem);line-height:1.45;color:var(--ink)}
+.quotes cite{font-style:normal;font-size:.82rem;color:var(--muted)}
+.quotes cite a{color:var(--sand2)}
+/* film strip */
+.strip{display:flex;gap:.8rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.4rem 1rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.strip figure{flex:0 0 min(84vw,440px);scroll-snap-align:start;margin:0}
+.strip img{aspect-ratio:3/2;object-fit:cover;width:100%;border-radius:var(--radius);filter:contrast(1.08) saturate(1.12)}
+.strip figcaption{padding:.5rem .1rem 0;font-size:.88rem;line-height:1.45;color:var(--ink2)}
+.strip figcaption b{font-family:"Rozha One",serif;font-weight:400;font-size:1.05rem;color:var(--sand);margin-right:.4rem}
+.strip figcaption .cr{display:block;color:var(--muted);font-size:.76rem;margin-top:.15rem}
+/* wall of names */
+.wall{display:flex;flex-wrap:wrap;gap:.25rem .9rem;align-items:baseline}
+.wall a{font-family:"Rozha One",serif;font-size:clamp(1.7rem,3.6vw,3rem);line-height:1.25;text-decoration:none;color:var(--ink);position:relative;padding-inline:.1rem}
+.wall a.thin{color:var(--muted);font-family:"Tiro Devanagari Hindi",serif;font-size:clamp(1.35rem,2.8vw,2.3rem)}
+.wall a small{font-family:"Mukta",sans-serif;font-size:.7rem;color:var(--sand2);vertical-align:super;margin-left:.15rem;letter-spacing:.05em}
+.wall a.media::after{content:"";display:inline-block;width:.45rem;height:.45rem;border-radius:50%;background:var(--green);margin-left:.35rem;vertical-align:middle}
+.wall a:hover{color:var(--sand)}
+.wall-note{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;margin-top:1.2rem;font-size:.88rem;color:var(--muted)}
+/* big numbers */
+.big{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1px;background:var(--line);border-block:1px solid var(--line)}
+.big div{background:var(--bg);padding:1.6rem 1.2rem 1.4rem}
+.big b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(2.4rem,4.6vw,4rem);line-height:1;color:var(--sand)}
+.big span{display:block;margin-top:.6rem;color:var(--ink2);font-size:.95rem;max-width:26ch}
+.big i{font-style:normal;display:block;color:var(--muted);font-size:.78rem;margin-top:.3rem}
 /* badges */
-.badge{display:inline-block;font-size:.75rem;line-height:1.3;padding:.15rem .5rem;border-radius:999px;border:1px solid currentColor;white-space:nowrap;vertical-align:middle;font-family:"Mukta",sans-serif}
+.badge{display:inline-block;font-size:.72rem;line-height:1.3;padding:.15rem .55rem;border-radius:999px;border:1px solid currentColor;white-space:nowrap;vertical-align:middle;letter-spacing:.02em}
 .b-ok{color:var(--ok)} .b-one{color:var(--one)} .b-todo{color:var(--todo);border-style:dashed} .b-conf{color:var(--conf)}
-/* village grid */
-.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:.5rem}
-.vgrid a{display:block;padding:.7rem .8rem;border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:var(--ink);background:var(--panel)}
-.vgrid a:hover{border-color:var(--accent)}
-.vgrid .hi{font-family:"Yatra One","Mukta",serif;font-size:1.15rem;display:block}
-.vgrid .en{font-size:.8rem;color:var(--muted);display:block}
-.vgrid .dots{display:flex;gap:.3rem;margin-top:.4rem;align-items:center;font-size:.75rem;color:var(--muted)}
-.dot{width:.6rem;height:.6rem;border-radius:50%;border:1.5px solid var(--accent);display:inline-block}
-.dot.full{background:var(--accent)}
-.dot.media{border-color:var(--ok);background:var(--ok)}
-.vgrid a.thin{background:transparent}
 /* claims */
-.claims{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
-.claims li{display:grid;grid-template-columns:auto 1fr;gap:.6rem;align-items:start;padding:.6rem .8rem;border-left:3px solid var(--line);background:var(--panel)}
+.claims{list-style:none;padding:0;margin:0;display:grid;gap:.6rem}
+.claims li{display:grid;grid-template-columns:auto 1fr;gap:.7rem;align-items:start;padding:.8rem 1rem;border-left:3px solid var(--line);background:var(--panel);border-radius:0 var(--radius) var(--radius) 0;font-size:1.02rem}
 .claims li.ok{border-left-color:var(--ok)} .claims li.one{border-left-color:var(--one)} .claims li.conf{border-left-color:var(--conf)}
-.claims .why{font-size:.88rem;color:var(--muted);grid-column:1/-1}
-/* gallery */
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:.6rem}
+.claims .why{font-size:.86rem;color:var(--muted);grid-column:1/-1}
+/* gallery grid */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:.8rem}
 .gallery figure{margin:0;background:var(--panel);border-radius:var(--radius);overflow:hidden}
-.gallery img{aspect-ratio:16/9;object-fit:cover;width:100%}
-.gallery figcaption{padding:.45rem .6rem .6rem;font-size:.85rem;line-height:1.4}
-.gallery figcaption .t{color:var(--muted);font-size:.75rem;margin-right:.4rem}
-.video{padding:1rem 0;border-top:1px solid var(--line)}
-.video header{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin-bottom:.6rem}
+.gallery img{aspect-ratio:16/10;object-fit:cover;width:100%;filter:contrast(1.08) saturate(1.12)}
+.gallery figcaption{padding:.5rem .7rem .7rem;font-size:.85rem;line-height:1.45;color:var(--ink2)}
+.gallery figcaption .t{color:var(--sand2);font-size:.74rem;margin-right:.4rem}
+.video{padding-block:1.4rem}
+.video+.video{border-top:1px solid var(--line)}
+.video header{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin-bottom:.8rem}
+.video h3{font-family:"Tiro Devanagari Hindi",serif;font-size:1.25rem;color:var(--ink)}
+/* village header */
+.vhead{position:relative;min-height:min(62vh,600px);display:grid;align-items:end;overflow:hidden;background:var(--bg2)}
+.vhead .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 45%;filter:contrast(1.1) saturate(1.15) brightness(.9)}
+.vhead.nophoto{min-height:280px;background:radial-gradient(120% 90% at 20% 100%,#2A2416 0%,var(--bg2) 55%,var(--bg) 100%)}
+.vhead::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.15) 0%,rgba(14,16,23,.35) 45%,rgba(14,16,23,.97) 100%)}
+.vhead .text{position:relative;z-index:1;padding-block:2.5rem 1.6rem;display:grid;gap:.5rem}
+.vhead h1{font-size:clamp(3rem,9vw,6.4rem);line-height:1.05;color:#FFF;text-shadow:0 4px 30px rgba(0,0,0,.55)}
+.vhead .en{font-family:"Tiro Devanagari Hindi",serif;color:#D9D2C3;font-size:1.15rem}
+.vhead .row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-top:.4rem}
+.vhead .credit{font-size:.75rem;color:#B9B2A2}
 /* tables */
 .tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius)}
 table{border-collapse:collapse;width:100%;font-size:.93rem}
-th,td{text-align:left;padding:.5rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
-th{background:var(--panel);font-weight:600;white-space:nowrap}
+th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--panel);font-weight:500;white-space:nowrap;color:var(--ink2)}
 tr:last-child td{border-bottom:0}
 td.num{text-align:right;white-space:nowrap}
 /* timeline */
-.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);margin-left:.5rem}
-.tl li{position:relative;padding:.2rem 0 1.4rem 1.4rem}
-.tl li::before{content:"";position:absolute;left:-7px;top:.7rem;width:12px;height:12px;border-radius:50%;background:var(--bg);border:2px solid var(--accent)}
-.tl li.visthapan::before{background:var(--accent)}
-.tl .when{font-family:"Yatra One","Mukta",serif;font-size:1.2rem}
-.tl .phase{font-size:.75rem;color:var(--muted);letter-spacing:.05em;margin-left:.5rem}
-.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem;margin-bottom:1.4rem}
-.phases div{padding:.8rem;border:1px solid var(--line);border-radius:var(--radius)}
-.phases b{display:block;font-family:"Yatra One","Mukta",serif;font-weight:400;font-size:1.1rem}
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);margin-left:.6rem}
+.tl li{position:relative;padding:.2rem 0 1.8rem 1.6rem}
+.tl li::before{content:"";position:absolute;left:-8px;top:.9rem;width:14px;height:14px;border-radius:50%;background:var(--bg);border:2px solid var(--sand)}
+.tl li.visthapan::before{background:var(--sand)}
+.tl .when{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--sand)}
+.tl .phase{font-size:.74rem;color:var(--muted);letter-spacing:.08em;margin-left:.6rem;text-transform:uppercase}
+.tl b{display:block;font-family:"Tiro Devanagari Hindi",serif;font-weight:400;font-size:1.25rem;margin:.2rem 0 .25rem}
+.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.7rem;margin-bottom:1.4rem}
+.phases div{padding:1rem;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel)}
+.phases b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:1.25rem;color:var(--sand)}
 /* map */
-.map{border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);padding:.5rem}
+.map{border:1px solid var(--line);border-radius:var(--radius);background:var(--bg2);padding:.5rem}
 .map svg{width:100%;height:auto;display:block}
-/* cards, callouts */
-.callout{padding:1rem 1.2rem;border-left:4px solid var(--accent);background:var(--panel)}
-.callout.warn{border-left-color:var(--conf)}
-.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem}
-.list{padding-left:1.2rem;margin:0;display:grid;gap:.3rem}
+/* callouts, cards */
+.callout{padding:1.2rem 1.4rem;border-left:3px solid var(--sand);background:var(--panel);border-radius:0 var(--radius) var(--radius) 0}
+.callout.warn{border-left-color:var(--rust)}
+.callout h3{font-family:"Tiro Devanagari Hindi",serif}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:1.2rem}
+.list{padding-left:1.2rem;margin:0;display:grid;gap:.35rem}
 .srcs{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
-.srcs li{padding:.5rem .7rem;border:1px solid var(--line);border-radius:var(--radius);font-size:.93rem}
+.srcs li{padding:.6rem .8rem;border:1px solid var(--line);border-radius:var(--radius);font-size:.93rem;background:var(--bg2)}
 .srcs .meta{color:var(--muted);font-size:.8rem}
-.tag{display:inline-block;font-size:.75rem;padding:.05rem .45rem;border-radius:3px;background:var(--panel);border:1px solid var(--line);margin-right:.3rem}
-.legend{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;font-size:.9rem}
-.btn{display:inline-block;padding:.55rem 1rem;border-radius:999px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:500}
-.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
-.pill-row{display:flex;flex-wrap:wrap;gap:.4rem}
+.tag{display:inline-block;font-size:.76rem;padding:.1rem .55rem;border-radius:999px;background:rgba(226,180,90,.12);border:1px solid rgba(226,180,90,.35);color:var(--sand);margin-right:.3rem}
+.legend{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;font-size:.9rem;color:var(--ink2)}
+.btn{display:inline-block;padding:.7rem 1.3rem;border-radius:999px;background:var(--sand);color:#1A1406;text-decoration:none;font-weight:500}
+.btn:hover{background:#EDC36E}
+.btn.ghost{background:transparent;color:var(--sand);border:1px solid var(--sand2)}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:.3rem 1.2rem;font-size:.97rem}
+.kv dt{color:var(--sand2)} .kv dd{margin:0;color:var(--ink2)}
 /* chaupal mock */
-.chat{max-width:420px;border:1px solid var(--line);border-radius:12px;padding:.8rem;background:var(--panel);display:grid;gap:.5rem}
-.chat .m{max-width:85%;padding:.5rem .7rem;border-radius:10px;background:var(--bg);font-size:.95rem}
-.chat .m.me{margin-left:auto;background:var(--accent);color:var(--accent-ink)}
+.chat{max-width:440px;border:1px solid var(--line);border-radius:14px;padding:.9rem;background:var(--bg2);display:grid;gap:.55rem}
+.chat .m{max-width:85%;padding:.55rem .8rem;border-radius:12px;background:var(--panel);font-size:.95rem}
+.chat .m.me{margin-left:auto;background:var(--sand);color:#1A1406}
 .chat .m small{display:block;color:var(--muted);font-size:.72rem}
-.chat .m.me small{color:var(--accent-ink);opacity:.8}
-footer{border-top:1px solid var(--line);margin-top:2rem;padding-block:1.6rem 2.2rem;font-size:.9rem;color:var(--muted)}
-footer .wrap{display:grid;gap:.4rem}
-.village-head{display:grid;gap:.4rem;padding-block:1.8rem 1rem}
-.village-head .en{font-size:1rem;color:var(--muted)}
-.village-head .row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
-.kv{display:grid;grid-template-columns:auto 1fr;gap:.25rem 1rem;font-size:.95rem}
-.kv dt{color:var(--muted)} .kv dd{margin:0}
-@media (prefers-reduced-motion:no-preference){ .vgrid a,.gallery figure{transition:border-color .15s,transform .15s} .gallery figure:hover{transform:translateY(-2px)} }
-@media (max-width:480px){ body{font-size:16px} .nums b{font-size:1.6rem} .hero img{min-height:260px} }
+.chat .m.me small{color:#1A1406;opacity:.7}
+/* call band */
+.band{position:relative;overflow:hidden;border-radius:var(--radius);background:var(--bg2);min-height:340px;display:grid;align-items:end}
+.band img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:contrast(1.1) saturate(1.1) brightness(.75)}
+.band::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.1),rgba(14,16,23,.92))}
+.band .text{position:relative;z-index:1;padding:2rem clamp(1rem,4vw,2.5rem)}
+.band h2{color:#FFF}
+footer{border-top:1px solid var(--line);margin-top:2rem;padding-block:2rem 2.6rem;font-size:.9rem;color:var(--muted)}
+footer .wrap{display:grid;gap:.5rem}
+footer .tag-line{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--ink)}
+@media (prefers-reduced-motion:no-preference){ .gallery figure,.strip img{transition:transform .25s} .gallery figure:hover,.strip figure:hover img{transform:translateY(-3px)} }
+@media (max-width:480px){ body{font-size:16px} .hero{min-height:78vh} .big b{font-size:2.2rem} }
 """
 
-FONT_LINK = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yatra+One&family=Mukta:wght@400;500;700&display=swap">'
+FONT_LINK = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;700&display=swap">'
 
 
 # ----------------------------------------------------------------------------- generator
@@ -394,6 +434,7 @@ class Site:
         self.incidents = load_csv("incidents.csv")
         self.resettle = load_csv("resettlement_sites.csv")
         self.polygon = load_polygon()
+        self.quotes = load_quotes()
         self.followups = load_followups()
         self.built = date.today().isoformat()
         self.mode = "multi"  # or "single"
@@ -456,96 +497,119 @@ class Site:
 
     def footer(self, depth: int = 0) -> str:
         return f"""<footer><div class="wrap">
-<div><b>{SITE_NAME}</b> · {esc(TAGLINE)}</div>
-<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति-परियोजना। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
-<div>हर तथ्य के साथ उसकी जांच का स्तर लिखा है: {badge("verified")} {badge("corroborated")} {badge("single-source")} {badge("unverified")} {badge("conflicting")} · <a href="{self.href("srot", depth)}">तरीका और स्रोत</a></div>
-<div class="small">Phase 1 preview · डेटा {esc(self.built)} तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय लिखा है।</div>
+<div class="tag-line">{esc(TAGLINE)}</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div>हर तथ्य के साथ उसकी जांच का स्तर: {badge("verified")} {badge("corroborated")} {badge("single-source")} {badge("unverified")} {badge("conflicting")} · <a href="{self.href("srot", depth)}">तरीका और स्रोत</a></div>
+<div class="small">Phase 1 preview · डेटा {esc(self.built)} तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय है।</div>
 </div></footer>"""
 
-    # ---- pages ----------------------------------------------------------------
+    def best_still(self, slug: str, prefer_people: bool = False) -> dict | None:
+        """The most evocative permitted still for a unit: people (if allowed) > temple/shrine/ruins > landscape."""
+        prio = {"people": 0 if prefer_people else 2, "oral-history": 0 if prefer_people else 2, "temple": 1, "shrine": 1, "fort": 1, "ruins": 1, "water": 2, "landscape": 3, "title": 5, "journey": 4}
+        best, best_p = None, 99
+        for vid in self.media.get(slug, []):
+            for f in vid["frames"]:
+                pr = min([prio.get(t, 4) for t in f.get("tags", [])] or [4])
+                if pr < best_p:
+                    best, best_p = {"vid": vid, "frame": f}, pr
+        return best
+
+    def all_stills(self) -> list[tuple[str, dict, dict]]:
+        out = []
+        for slug, vids in self.media.items():
+            for vid in vids:
+                for f in vid["frames"]:
+                    if slug == "34-gaon" and "title" in f.get("tags", []):
+                        continue
+                    out.append((slug, vid, f))
+        return out
+
     def page_index(self, depth=0) -> str:
         h = lambda r: self.href(r, depth)
         hero = self.hero_image(depth)
         st = self.stats
-        media_units = [s for s in self.media if s != "34-gaon"]
-        # three latest-ish videos for the strip
-        strip = []
-        for slug in ("berawala", "kanolai", "khiyana", "khanisar", "kumbhana", "34-gaon"):
-            if len(strip) >= 3:
-                break
-            for vid in self.media.get(slug, []):
-                if vid["frames"]:
-                    strip.append((slug, vid, vid["frames"][0]))
-                    break
-        strip_html = "".join(
-            f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" src="{self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)}" alt="{esc(f["description"])}"></a>'
-            f'<figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b> · {esc(f["description"])}<br><span class="muted small">{esc(vid["credit"])}</span></figcaption></figure>'
-            for slug, vid, f in strip
-        )
-        grid = self.village_grid(depth)
+        q_html = ""
+        for q in self.quotes:
+            link = f' · <a href="{h("gaon/" + q["unit"])}">{esc(unit_name(self.by_slug[q["unit"]])[0])}</a>' if q.get("unit") in self.by_slug else ""
+            q_html += f'<blockquote><p>{esc(q["text"])}</p><cite>{esc(q["who"])}{link}</cite></blockquote>'
+        prio = {"people": 0, "oral-history": 0, "temple": 1, "shrine": 1, "fort": 1, "ruins": 1, "water": 2, "landscape": 3}
+        ranked = sorted(self.all_stills(), key=lambda x: min([prio.get(t, 4) for t in x[2].get("tags", [])] or [4]))
+        picked, seen = [], set()
+        for slug, vid, f in ranked:
+            if vid["video_id"] in seen:
+                continue
+            seen.add(vid["video_id"]); picked.append((slug, vid, f))
+        strip_html = ""
+        for slug, vid, f in picked[:12]:
+            src = self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)
+            strip_html += f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" src="{src}" alt="{esc(f["description"])}"></a><figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b>{esc(f["description"])}<span class="cr">{esc(vid["credit"])}</span></figcaption></figure>'
+        band = self.best_still("berawala") or self.best_still("kanolai")
+        band_img = f'<img loading="lazy" src="{self.images.src(band["vid"]["dir"] / band["frame"]["file"], band["vid"]["slug"], band["vid"]["video_id"], 1280, depth)}" alt="">' if band else ""
         return f"""
 <section class="hero">
-  <img src="{hero['src']}" alt="{esc(hero['alt'])}" fetchpriority="high">
+  <img class="bg" src="{hero['src']}" alt="{esc(hero['alt'])}" fetchpriority="high">
   <div class="text"><div class="wrap">
-    <p class="eyebrow" style="color:#C9C4B8">महाजन फील्ड फायरिंग रेंज · लूणकरणसर, बीकानेर</p>
+    <p class="eyebrow">महाजन फील्ड फायरिंग रेंज · लूणकरणसर, बीकानेर · 1982–86</p>
     <h1>{esc(TAGLINE)}</h1>
-    <p>1982 से 1986 के बीच लूणकरणसर तहसील के 33 या 34 गांव फायरिंग रेंज के लिए खाली कराए गए। घर, कुएं, मंदिर और तालाब आज भी रेंज के अंदर खड़े हैं। यह जगह उन गांवों की याद, उनके परिवारों और उनकी आवाज़ के लिए है।</p>
+    <p class="lede serif">चौंतीस गांव खाली कराए गए। घर, कुएं, मंदिर और तालाब आज भी रेंज के अंदर खड़े हैं, और जो लोग वहां से निकले, वे आज भी होली पर लौटते हैं। यह जगह उन गांवों की याद, उनके परिवारों और उनकी आवाज़ के लिए है।</p>
     <p class="credit">तस्वीर: {esc(hero['credit'])}</p>
   </div></div>
+  <div class="cue">↓ नीचे</div>
 </section>
 
 <div class="wrap">
 <section class="section">
-  <div class="section-head"><h2>जो अब तक पक्का पता है</h2><a class="small" href="{h('srot')}">कैसे जांचा?</a></div>
-  <div class="nums">
-    <div><b>33 / 34</b><span>गांव: सरकारी कागज़ 33 कहते हैं, लोग और अखबार 34</span></div>
-    <div><b>1,364 km²</b><span>रेंज का क्षेत्रफल (3.37 लाख एकड़), जनगणना 2011</span></div>
-    <div><b>₹64.11 करोड़</b><span>मुआवजा, लोकसभा उत्तर, 21 अगस्त 1987</span></div>
-    <div><b>₹300 / बीघा</b><span>बदले की बारानी भूमि की दर, अधिसूचना 23 नवंबर 1985</span></div>
-    <div><b>148</b><span>आवंटन प्रकरण 2025 में भी लंबित (पत्रिका)</span></div>
-    <div><b>40 साल</b><span>गांव छोड़े हुए; होली पर आज भी कुम्भाणा लौटते हैं</span></div>
+  <p class="eyebrow">एक-एक पंक्ति में</p>
+  <div class="quotes" style="margin-top:.8rem">{q_html}</div>
+</section>
+
+<section class="section">
+  <div class="section-head"><h2>जो लौटकर गए, उन्होंने यह देखा</h2><a class="small" href="{h('yaadein')}">सारे वीडियो और तस्वीरें →</a></div>
+  <div class="strip">{strip_html}</div>
+</section>
+
+<section class="section">
+  <div class="section-head"><h2>नामों की दीवार</h2><span class="small muted">{st['units_with_sources']} गांवों की कहानी मिलनी शुरू हुई · {st['units'] - st['units_with_sources']} का अभी सिर्फ़ नाम बचा है</span></div>
+  {self.village_grid(depth)}
+  <div class="wall-note"><span>उजले नाम: स्रोत मिले</span><span>धुंधले नाम: सिर्फ़ नाम, कहानी आपसे चाहिए</span><span><span style="display:inline-block;width:.45rem;height:.45rem;border-radius:50%;background:var(--green);vertical-align:middle"></span> वीडियो/तस्वीरें हैं</span><a href="{h('gaon')}">सूची का आधार और 33/34 का सवाल →</a></div>
+</section>
+
+<section class="section">
+  <p class="eyebrow" style="margin-bottom:1rem">जो अब तक पक्का पता है</p>
+  <div class="big">
+    <div><b>33 / 34</b><span>गांव। सरकारी कागज़ 33 कहते हैं, लोग और अखबार 34।</span><i>लोकसभा 1987 · पत्रिका 2022</i></div>
+    <div><b>1,364 km²</b><span>रेंज का क्षेत्रफल, दिल्ली से थोड़ा छोटा।</span><i>जनगणना 2011 · OSM</i></div>
+    <div><b>₹300</b><span>प्रति बीघा, बदले की बारानी ज़मीन की दर।</span><i>अधिसूचना 23 नवंबर 1985</i></div>
+    <div><b>₹64.11 करोड़</b><span>कुल मुआवजा, 3,12,649 बीघा निजी ज़मीन के लिए।</span><i>लोकसभा, 21 अगस्त 1987</i></div>
+    <div><b>148</b><span>बदले की ज़मीन के प्रकरण 2025 में भी लंबित।</span><i>पत्रिका, 14 फरवरी 2025</i></div>
+    <div><b>40 साल</b><span>गांव छोड़े हुए। होली पर आज भी कुम्भाणा में होलिका जलती है।</span><i>पत्रिका 2022 (एक स्रोत)</i></div>
   </div>
+  <p class="small muted" style="margin-top:.8rem"><a href="{h('samay')}">पूरी समय-रेखा 1938 से आज तक →</a></p>
 </section>
 
 <section class="section">
-  <div class="section-head"><h2>34 गांव</h2><span class="small muted">{st['units_with_sources']} गांवों के लिए कोई न कोई स्रोत मिला, बाकी के लिए अभी सिर्फ़ नाम है</span></div>
-  {grid}
-  <p class="small muted" style="margin-top:.8rem"><span class="dot full"></span> स्रोत मिले &nbsp; <span class="dot"></span> सिर्फ़ नाम &nbsp; <span class="dot media"></span> वीडियो/तस्वीरें हैं · सूची का आधार: समुदाय की सूची (Bharat Speaks, अगस्त 2025), लोकसभा 1987, पत्रिका 2022, और पारिवारिक वीडियो। पूरी सूची अभी जांच में है। <a href="{h('gaon')}">सभी गांव देखें</a></p>
-</section>
-
-<section class="section">
-  <div class="section-head"><h2>यादें</h2><a class="small" href="{h('yaadein')}">सारे वीडियो और तस्वीरें</a></div>
-  <div class="gallery">{strip_html}</div>
-</section>
-
-<section class="section">
-  <div class="cols">
-    <div class="callout">
-      <h3>यह वेबसाइट किसके लिए है</h3>
-      <p class="small" style="margin-top:.4rem">उन परिवारों के लिए जो इन गांवों से निकले और आज खाजूवाला, पूगल, रणजीतपुरा, छत्तरगढ़, शेरपुरा या महाजन में रहते हैं; उनके बच्चों के लिए जिन्होंने गांव सिर्फ़ किस्सों में सुना; और उन सबके लिए जो जानना चाहते हैं कि देश के लिए ज़मीन देने वालों के साथ क्या हुआ।</p>
-    </div>
-    <div class="callout">
-      <h3>आप क्या कर सकते हैं</h3>
-      <p class="small" style="margin-top:.4rem">अपने गांव का नाम बताइए, बुज़ुर्गों की बात रिकॉर्ड कीजिए, पुरानी तस्वीर या पट्टे की फोटो भेजिए, या सिर्फ़ यह लिखिए कि आपका परिवार किस गांव से किस गांव गया।</p>
-      <p style="margin-top:.8rem"><a class="btn" href="{h('yogdan')}">योगदान दें</a> &nbsp; <a class="btn ghost" href="{h('samay')}">पूरी कहानी पढ़ें</a></p>
-    </div>
-  </div>
+  <div class="band">{band_img}<div class="text">
+    <p class="eyebrow">आपके घर में जो है, वही इतिहास है</p>
+    <h2>अपने गांव की बात यहां रखिए</h2>
+    <p class="lede" style="max-width:52ch;margin-top:.6rem;color:#E9E3D6">बुज़ुर्गों की 15 मिनट की बात, ट्रंक में रखा पट्टा, एक पुरानी तस्वीर, या सिर्फ़ यह कि आपका परिवार किस गांव से किस गांव गया।</p>
+    <p style="margin-top:1.2rem"><a class="btn" href="{h('yogdan')}">योगदान दें</a> &nbsp; <a class="btn ghost" href="{h('gaon')}">अपना गांव खोजें</a></p>
+  </div></div>
 </section>
 </div>"""
 
     def hero_image(self, depth: int) -> dict:
         for slug, vid_id, fname, alt in (
+            ("berawala", "fb655816430875515", "0078s.jpg", "बेरावाला: छगनलाल जाखड़ अपने उजड़े गांव के मैदान को देखते हुए, जुलाई 2025"),
             ("berawala", "fb2884290418425839", "0002s.jpg", "बेरावाला: छगनलाल जाखड़ अपने उजड़े घर की मिट्टी की दीवार पर खड़े हैं, जुलाई 2025"),
         ):
             for vid in self.media.get(slug, []):
                 if vid["video_id"] == vid_id and (vid["dir"] / "frames" / fname).exists():
-                    return {"src": self.images.src(vid["dir"] / "frames" / fname, slug, vid_id, 1280, depth), "alt": alt, "credit": vid["credit"]}
-        # fallback: first still anywhere
+                    return {"src": self.images.src(vid["dir"] / "frames" / fname, slug, vid_id, 1600, depth), "alt": alt, "credit": vid["credit"]}
         for slug, vids in self.media.items():
             for vid in vids:
                 if vid["frames"]:
                     f = vid["frames"][0]
-                    return {"src": self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], 1280, depth), "alt": f["description"], "credit": vid["credit"]}
+                    return {"src": self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], 1600, depth), "alt": f["description"], "credit": vid["credit"]}
         return {"src": "", "alt": "", "credit": ""}
 
     def village_grid(self, depth: int, show_all: bool = True) -> str:
@@ -556,28 +620,31 @@ class Site:
             hi, en = unit_name(v)
             r = self.records.get(v["slug"])
             acc = r["counts"]["accepted"] if r else 0
-            has_media = bool(self.media.get(v["slug"]))
-            dots = f'<span class="dot{" full" if acc else ""}"></span>'
-            if has_media:
-                dots += '<span class="dot media"></span>'
-            info = f"{acc} स्रोत" if acc else "सिर्फ़ नाम"
-            thin = "" if acc else ' class="thin"'
-            cells.append(f'<a href="{self.href("gaon/" + v["slug"], depth)}"{thin}><span class="hi">{esc(hi)}</span><span class="en">{esc(en)}</span><span class="dots">{dots} {info}</span></a>')
-        return f'<div class="vgrid">{"".join(cells)}</div>'
+            cls = []
+            if not acc:
+                cls.append("thin")
+            if self.media.get(v["slug"]):
+                cls.append("media")
+            cls_attr = f' class="{" ".join(cls)}"' if cls else ""
+            sup = f"<small>{acc}</small>" if acc else ""
+            cells.append(f'<a href="{self.href("gaon/" + v["slug"], depth)}"{cls_attr} title="{esc(en)}: {acc} स्रोत">{esc(hi)}{sup}</a>')
+        wall = "".join(cells)
+        return f'<div class="wall">{wall}</div>'
 
     def page_gaon(self, depth=0) -> str:
         return f"""<div class="wrap">
 <section class="section">
   <p class="eyebrow">गांव</p>
   <h1>34 गांव, एक-एक करके</h1>
-  <p class="prose" style="margin-top:.6rem">हर गांव का अपना पन्ना है। जहां स्रोत मिले, वहां दावे उनकी जांच के स्तर के साथ हैं; जहां सिर्फ़ नाम है, वहां हमें आपकी मदद चाहिए। नाम समुदाय की सूची से हैं, इसलिए वर्तनी और पहचान अभी पक्की नहीं। सूची में 32 नाम थे, 2 खाली; अजीतवाणा, भानाबस्ती और नाथौर सूची में नहीं थे पर दूसरे स्रोतों में मिले।</p>
+  <p class="lede serif prose" style="margin-top:.8rem">हर गांव का अपना पन्ना है। जहां स्रोत मिले, वहां कहानी शुरू हो चुकी है; जहां सिर्फ़ नाम है, वहां आपकी याद चाहिए।</p>
+  <p class="prose small muted" style="margin-top:.6rem">नाम समुदाय की सूची से हैं, इसलिए वर्तनी और पहचान अभी पक्की नहीं। सूची में 32 नाम थे, 2 खाली; अजीतवाणा, भानाबस्ती और नाथौर सूची में नहीं थे पर दूसरे स्रोतों में मिले।</p>
 </section>
 <section class="section">
   {self.village_grid(depth)}
 </section>
 <section class="section">
-  <h2>34 की गिनती का सवाल</h2>
-  <div class="cols" style="margin-top:.8rem">
+  <h2>33 या 34?</h2>
+  <div class="cols" style="margin-top:1rem">
     <div class="callout"><b>सरकारी कागज़: 33 गांव</b><p class="small">लोकसभा उत्तर, 21 अगस्त 1987; राजस्थान उच्च न्यायालय, 8 फरवरी 2024 (अधिग्रहण 1983-84)।</p></div>
     <div class="callout"><b>लोग और अखबार: 34 गांव</b><p class="small">पत्रिका (2018, 2022), परिवारों के वीडियो, समुदाय की सूची (अधिग्रहण 1984-85)।</p></div>
   </div>
@@ -593,11 +660,21 @@ class Site:
         status = UNIT_STATUS_HI.get(v.get("status"), v.get("status", ""))
         variants = [x for x in v["names"].get("variants", []) if x not in (hi, en)][:8]
         notes = v.get("notes", "")
-        parts = [f"""<div class="wrap"><div class="village-head">
-<p class="eyebrow"><a href="{h('gaon')}">गांव</a> · {esc(status)}</p>
+        best = self.best_still(slug, prefer_people=True)
+        if best:
+            src = self.images.src(best["vid"]["dir"] / best["frame"]["file"], slug, best["vid"]["video_id"], 1600, depth)
+            bg = f'<img class="bg" src="{src}" alt="{esc(best["frame"]["description"])}" fetchpriority="high">'
+            credit = f'<p class="credit">तस्वीर: {esc(best["vid"]["credit"])}</p>'
+            cls = "vhead"
+        else:
+            bg, credit, cls = "", "", "vhead nophoto"
+        var_txt = (" · " + esc(", ".join(variants[:5]))) if variants else ""
+        parts = [f"""<section class="{cls}">{bg}<div class="text"><div class="wrap">
+<p class="eyebrow"><a href="{h('gaon')}" style="color:inherit">गांव</a> · {esc(status)}</p>
 <h1>{esc(hi)}</h1>
-<div class="en">{esc(en)}{(" · अन्य वर्तनी: " + esc(", ".join(variants))) if variants else ""}</div>
-</div>"""]
+<div class="en">{esc(en)}{var_txt}</div>
+{credit}
+</div></div></section><div class="wrap">"""]
         if not r:
             parts.append(f'<section class="section"><p>इस गांव के लिए अभी कोई स्रोत दर्ज नहीं है। {esc(notes)}</p></section></div>')
             return "".join(parts)
@@ -605,7 +682,7 @@ class Site:
         c = r["counts"]
         ws, nv = r["claims"]["well_supported"], r["claims"]["needs_verification"]
         # summary row
-        parts.append(f"""<div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-bottom:1rem">
+        parts.append(f"""<div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.4rem 0 1rem">
 <span class="tag">{c['accepted']} स्वीकृत स्रोत</span><span class="tag">{c['claims']} दावे</span><span class="tag">{len(ws)} पक्के/मिलान</span>{f'<span class="tag">{sum(len(m["frames"]) for m in self.media.get(slug, []))} तस्वीरें</span>' if self.media.get(slug) else ''}
 </div>""")
         if notes:
@@ -786,7 +863,7 @@ class Site:
                 blocks.append((f'<p class="prose small" style="margin:.4rem 0 .6rem">{esc(summary[:400])}{"…" if len(summary) > 400 else ""}</p>' if summary else "") + self.video_block(slug, vid, depth))
         return f"""<div class="wrap">
 <section class="section"><p class="eyebrow">यादें</p><h1>जो लौटकर गए, उन्होंने क्या देखा</h1>
-<p class="prose" style="margin-top:.6rem">परिवार अपने पुराने गांव जाते हैं, वीडियो बनाते हैं, फेसबुक और यूट्यूब पर डालते हैं। हमने {self.stats['videos']} वीडियो से {self.stats['stills']} तस्वीरें निकालकर हर एक का विवरण लिखा है। नीचे हर वीडियो से चुनी हुई तस्वीरें हैं; पूरी सूची शोध-भंडार में है।</p>
+<p class="lede serif prose" style="margin-top:.8rem">परिवार अपने पुराने गांव जाते हैं, वीडियो बनाते हैं, फेसबुक और यूट्यूब पर डालते हैं। हमने {self.stats['videos']} वीडियो से {self.stats['stills']} तस्वीरें निकालकर हर एक का विवरण लिखा है। नीचे हर वीडियो से चुनी हुई तस्वीरें हैं; पूरी सूची शोध-भंडार में है।</p>
 <div class="callout" style="margin-top:1rem"><b>अगला कदम: आवाज़ें</b><p class="small">बागड़ी में बुज़ुर्गों की बात मशीन नहीं पढ़ पाती। हमारी field team हर गांव के तीन-चार बुज़ुर्गों से तीन सवाल पूछकर रिकॉर्ड करेगी: गांव कैसा था, छोड़ने का दिन कैसा था, अब कौन कहां है। रिकॉर्डिंग 9:16 में, ताकि रील और वेबसाइट दोनों पर चले।</p></div>
 </section>
 <section class="section">{"".join(blocks)}</section>

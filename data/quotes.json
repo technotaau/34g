@@ -1,0 +1,11 @@
+{
+  "_doc": "Short lines shown on the site's home page. Each must come from a source already in the store or blueprint; 'who' is the attribution shown; 'unit' links to the village page.",
+  "quotes": [
+    {"text": "7 जुलाई 1986 को हमने यह गांव छोड़ा।", "who": "अक्षय गोदारा के पारिवारिक व्लॉग का शीर्षक-कार्ड, बेरावाला (2022)", "unit": "berawala", "lang_note": "मूल अंग्रेज़ी subtitle: On 7th July 1986, we left this village"},
+    {"text": "आंखों में उतर आता है आशियाना उजड़ने का दर्द।", "who": "राजस्थान पत्रिका, 29 नवंबर 2022", "unit": "34-gaon"},
+    {"text": "गांवों में बने मकान, तालाब, मंदिर आदि आज भी यहां पर मौजूद हैं।", "who": "राजस्थान पत्रिका, 2 अगस्त 2022", "unit": "34-gaon"},
+    {"text": "विस्थापित परिवार आज भी होली पर रेंज में जाकर कुम्भाणा में होलिका दहन करते हैं।", "who": "पत्रिका, 2022 (एक स्रोत)", "unit": "kumbhana"},
+    {"text": "देश के लिए भूमि देकर 40 साल से भटक रहे किसान।", "who": "राजस्थान पत्रिका, 14 फरवरी 2025", "unit": "34-gaon"},
+    {"text": "यह गांव 50-60 साल पहले था, सबसे पुराना गांव है।", "who": "@RAJESH_SARSWAT001 की reel का overlay, खानीसर", "unit": "khanisar"}
+  ]
+}
