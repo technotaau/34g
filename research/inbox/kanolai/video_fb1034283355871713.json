@@ -1,0 +1,68 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1034283355871713 on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://m.facebook.com/watch/?v=1034283355871713&_rdr",
+   "title": "पुराना गांव 34 एरिया कनोलाइई जय पिर बाबा 🐎🐎🚩🚩",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "मुकेश नायक कृष्ण नगर (61557059984599)",
+   "published_date": "2026-07-30",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video 'पुराना गांव 34 एरिया कनोलाइई जय पिर बाबा 🐎🐎🚩🚩' (0:29) by मुकेश नायक कृष्ण नगर. पुराना गांव 34 एरिया कनोलाइई जय पिर बाबा 🐎🐎🚩🚩",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: पुराना गांव 34 एरिया कनोलाइई जय पिर बाबा 🐎🐎🚩🚩",
+    "Description: पुराना गांव 34 एरिया कनोलाइई जय पिर बाबा 🐎🐎🚩🚩"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "मुकेश नायक कृष्ण नगर"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "मुकेश नायक कृष्ण नगर, Facebook, 2026, https://m.facebook.com/watch/?v=1034283355871713&_rdr",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "shrine_survives",
+     "value": "Peer Baba shrine (Kanolai Dham), whitewashed, in use",
+     "statement_hi": "कानोलाई का पीर बाबा धाम सफेद पुता हुआ है और बारिश के बाद भी लोग आते हैं (जुलाई 2026)",
+     "statement_en": "The Peer Baba shrine at Kanolai is whitewashed and visited (Jul 2026)",
+     "snippet": "frames 15-23 s"
+    },
+    {
+     "claim_key": "village_pond_exists",
+     "value": "yes (full after rains, Jul 2026)",
+     "statement_hi": "कानोलाई का तालाब जुलाई 2026 की बारिश के बाद भरा हुआ",
+     "statement_en": "Kanolai's pond was full after the July 2026 rains",
+     "snippet": "frames 24-30 s"
+    }
+   ],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "मुकेश नायक कृष्ण नगर",
+    "uploader": "61557059984599",
+    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1034283355871713.content.json",
+    "timestamps": "0 public comments; 25788 views; hashtags: ",
+    "frames": "10 stills in research/media/kanolai/fb1034283355871713/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

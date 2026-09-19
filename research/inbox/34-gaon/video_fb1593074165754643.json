@@ -1,0 +1,53 @@
+{
+ "village": "34-gaon",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1593074165754643 on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "34-gaon",
+   "url": "https://m.facebook.com/watch/?v=1593074165754643&_rdr",
+   "title": "34 गांव एरिया मे जोरदार बारिश हे",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rajuram Rajuram Dhatrwal (100055647212592)",
+   "published_date": "2026-08-10",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video '34 गांव एरिया मे जोरदार बारिश हे' (0:22) by Rajuram Rajuram Dhatrwal. 34 गांव एरिया मे जोरदार बारिश हे",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "34 गांव",
+   "evidence_snippets": [
+    "Title: 34 गांव एरिया मे जोरदार बारिश हे",
+    "Description: 34 गांव एरिया मे जोरदार बारिश हे"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rajuram Rajuram Dhatrwal"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "Rajuram Rajuram Dhatrwal, Facebook, 2026, https://m.facebook.com/watch/?v=1593074165754643&_rdr",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rajuram Rajuram Dhatrwal",
+    "uploader": "100055647212592",
+    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1593074165754643.content.json",
+    "timestamps": "0 public comments; 587 views; hashtags: ",
+    "frames": "7 stills in research/media/34-gaon/fb1593074165754643/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 9
+स्रोत: कुल 8, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 9
 
 > Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -31,10 +31,10 @@
   - महावीर गाट अपने ननिहाल, विस्थापित गांव मुटलाई, गए और 34 गांव वालों को सलाम किया। पांच फोटो: खंडहर दीवारों के बीच चार-पांच पुरुष; मिट्टी-चूने की दीवारों के अवशेष; धुंधला आकाश।
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliamentary e-library catalogue entry titled 'Mahajan Field Firing Range in Rajasthan'. Full content (likely a Lok Sabha/Rajya Sabha question or debate on the range) could not be retrieved via WebFetch — only the title snippet was accessible. Potentially relevant for official acquisition/compensat
-- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 46 · पृष्ठभूमि स्रोत)
-  - महाजन फील्ड फायरिंग रेंज (जिसकी भूमि लगभग 4 दशक पहले 34 गांवों को विस्थापित कर बनाई गई, 3.37 लाख एकड़ में फैली) पर अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त सैन्य अभ्यास होते रहे हैं। मोटलाई गांव का कोई सीधा उल्लेख नहीं है।
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - यह 2018 का पुराना संस्करण है इसी विस्थापन कहानी का: 1984-85 में महाजन क्षेत्र के 34 गांव रक्षा मंत्रालय द्वारा अधिग्रहित किए गए, परिवारों को खाजूवाला, डांटोर, पूगल, मोहनगढ़, नाचना में मुआवजा व भूमि दी गई। इस लेख में मोटलाई का नाम स्पष्ट रूप से नहीं है, केवल सामान्य संदर्भ है।
+- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 46 · पृष्ठभूमि स्रोत)
+  - महाजन फील्ड फायरिंग रेंज (जिसकी भूमि लगभग 4 दशक पहले 34 गांवों को विस्थापित कर बनाई गई, 3.37 लाख एकड़ में फैली) पर अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त सैन्य अभ्यास होते रहे हैं। मोटलाई गांव का कोई सीधा उल्लेख नहीं है।
 - [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 43 · पृष्ठभूमि स्रोत)
   - Census2011 mirror listing all ~125 villages/towns of Lunkaransar tehsil, Bikaner district. Motlai/Motlayi/Motla does not appear in the list, consistent with it being an uninhabited village absorbed into the Mahajan Field Firing Range and not separately enumerated in the 2011 census.
 
@@ -72,7 +72,9 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [पुराना गांव मुटलाई 🔥😱](https://www.youtube.com/watch?v=nESqHCtXQyo) (video · video · 2025-10-15 · स्कोर 73 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 93 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -97,7 +99,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Bajranglal Lakhotiya, Farsaram Jakhar Surnana (tagged; Surnana is a Lunkaransar-area village), Mahavir Gat (poster, maternal grandson of Motlai), Rajuram Sharma
 - **places:** Bhojasar, Dantor, Duder, Khajuwala, Khaniser, Kumbhana, Lunkaransar, Mahajan, Manera, Mohangarh, Motlai ruins, Nachna, Pugal, Thoiya
 - **events:** 1984-85 Ministry of Defence land acquisition, 1984-85 land acquisition by Ministry of Defence for Mahajan Field Firing Range, Ajeya Warrior (India-UK), India-Russia and India-Oman joint exercises, Shakti (India-France), Visit to ninhal, 5 Apr 2018, Yudh Abhyas (India-US)
-- **organizations:** Census of India, Indian Army, Ministry of Defence, Parliament of India
+- **organizations:** Census of India, Dinesh Beniwal , Indian Army, Ministry of Defence, Parliament of India
 
 ## तथ्य / दावे
 
@@ -122,12 +124,13 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
-_कोई नहीं_
+- [पुराना गांव मुटलाई 🔥😱](https://www.youtube.com/watch?v=nESqHCtXQyo) · flags: resolution_review · variant match: मुटलाई; district/nearby/clan context: ['Beniwal']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 92 · रिज़ॉल्यूशन accept (0.8) · खोज: मोटलाई महाजन फायरिंग रेंज विस्थापित
 - [महावीर गाट: विस्थापित गांव मुटलाई, मेरा ननिहाल (Facebook post, 5 Apr 2018)](https://www.facebook.com/ (Mahavir Gat, post of 5 Apr 2018 with Farsaram Jakhar Surnana and 7 others; URL not captured)) · facebook · social · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: screenshot supplied by TechnoTaau Team
+- [पुराना गांव मुटलाई 🔥😱](https://www.youtube.com/watch?v=nESqHCtXQyo) · youtube · video · स्कोर 73 · रिज़ॉल्यूशन review (0.45) · खोज: video supplied by TechnoTaau Team
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 55 · रिज़ॉल्यूशन context (0.5) · खोज: Motlai "Mahajan Field Firing Range"
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) · patrika · news · स्कोर 46 · रिज़ॉल्यूशन context (0.5) · खोज: मोटलाई महाजन फायरिंग रेंज विस्थापित
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) · patrika · news · स्कोर 46 · रिज़ॉल्यूशन context (0.5) · खोज: मोटलाई महाजन फायरिंग रेंज विस्थापित

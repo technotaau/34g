@@ -1,0 +1,55 @@
+{
+ "village": "34-gaon",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=cr-kuEiznZA on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "34-gaon",
+   "url": "https://www.youtube.com/watch?v=cr-kuEiznZA",
+   "title": "महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+   "published_date": "2025-11-03",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌' (14:30) by Dinesh Beniwal . महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav #rajadthankaithash #vlogs",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "INDIA"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "34 गांव",
+   "evidence_snippets": [
+    "Title: महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌",
+    "Description: महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav #rajadthankaithash #vlogs",
+    "Location field: INDIA"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=cr-kuEiznZA",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal ",
+    "uploader": "@Dineshbeniwalvlog",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 34 views; hashtags: 34gaav dham khiyana mahajan nathudada oldculture oldvillage oldvillagelife puranegaav puranevideo rahasthankaithash rajadthankaithash thoiya vlogs"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

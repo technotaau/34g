@@ -61,5 +61,68 @@
       }
     ],
     "competing": []
+  },
+  "clm_house_ruins_material_2c121445": {
+    "id": "clm_house_ruins_material_2c121445",
+    "claim_key": "house_ruins_material",
+    "value": "mud-wall stumps and mounds under khejri",
+    "statement_hi": "मोटासर में मिट्टी की दीवारों के ठूंठ और टीले खेजड़ी के नीचे बचे हैं (सितंबर 2025)",
+    "statement_en": "Mud-wall stumps and mounds survive at Motasar under khejri trees (Sep 2025)",
+    "sources": [
+      "src_cfa052501fd5"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_cfa052501fd5",
+        "text": "frames 3-50 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_land_cultivated_now_c0d80d42": {
+    "id": "clm_land_cultivated_now_c0d80d42",
+    "claim_key": "land_cultivated_now",
+    "value": "a crop grows on the old village land",
+    "statement_hi": "पुराने गांव की ज़मीन पर फसल बोई हुई दिखती है",
+    "statement_en": "A crop is growing on the old village land",
+    "sources": [
+      "src_cfa052501fd5"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_cfa052501fd5",
+        "text": "frames 0-14 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "मोटासर 'पुराना 34 गांव' में गिना जाता है (दिनेश बेनीवाल का reel)",
+    "statement_en": "Motasar is counted among the old 34 villages (Dinesh Beniwal reel)",
+    "sources": [
+      "src_cfa052501fd5"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_cfa052501fd5",
+        "text": "title"
+      }
+    ],
+    "competing": []
   }
 }

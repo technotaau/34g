@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 9, स्वीकृत 1, पृष्ठभूमि (context) 1, समीक्षा हेतु 6, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 10
+स्रोत: कुल 10, स्वीकृत 1, पृष्ठभूमि (context) 2, समीक्षा हेतु 6, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 10
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. The only verifiable Likhmisar places (Utrada and Dikhnada) are in Sridungargarh tehsil, not Lunkaransar; the list name may be a misidentification.
 
@@ -13,10 +13,10 @@
   - 2011 Census mirror for 'Likhmisar Utrada', a village of 555 families / population 4841 in Sridungargarh tehsil, Bikaner, 40km from Sridungargarh and 70km from Bikaner city; gram panchayat Likhamisar Dikhnada; pincode 331811.
 - [Likhmisar](https://www.geonames.org/1264927) (government · dataset · तिथि अज्ञात · स्कोर 66 · समीक्षा हेतु)
   - GeoNames lists a single 'Likhmisar' populated place at 27.898N, 73.874E, filed under Bikaner district / Sridungargarh administrative area, not Lunkaransar tehsil. This is the only GeoNames entry matching the name.
-- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
-  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) (census_mirror · dataset · 2011 · स्कोर 63 · समीक्षा हेतु)
   - Village directory entry corroborating Likhmisar Utrada's location in Sridungargarh tehsil, Bikaner, with the same 2011 census statistics as census2011.co.in.
+- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
+  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Villages/L - Jatland Wiki](https://www.jatland.com/home/Villages/L) (community_wiki · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Jatland's index of villages starting with 'L' lists both 'Likhmisar Dikhnada' and 'Likhmisar Utrada'; a related Jatland snippet ties a population figure of ~150 to the Delu Jat gotra at Likhmisar. Direct fetch of the page returned HTTP 403, so this is based on search-result snippets only and needs m
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
@@ -27,10 +27,10 @@
   - 2011 Census mirror for 'Likhmisar Utrada', a village of 555 families / population 4841 in Sridungargarh tehsil, Bikaner, 40km from Sridungargarh and 70km from Bikaner city; gram panchayat Likhamisar Dikhnada; pincode 331811.
 - [Likhmisar](https://www.geonames.org/1264927) (government · dataset · तिथि अज्ञात · स्कोर 66 · समीक्षा हेतु)
   - GeoNames lists a single 'Likhmisar' populated place at 27.898N, 73.874E, filed under Bikaner district / Sridungargarh administrative area, not Lunkaransar tehsil. This is the only GeoNames entry matching the name.
-- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
-  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) (census_mirror · dataset · 2011 · स्कोर 63 · समीक्षा हेतु)
   - Village directory entry corroborating Likhmisar Utrada's location in Sridungargarh tehsil, Bikaner, with the same 2011 census statistics as census2011.co.in.
+- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
+  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Villages/L - Jatland Wiki](https://www.jatland.com/home/Villages/L) (community_wiki · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Jatland's index of villages starting with 'L' lists both 'Likhmisar Dikhnada' and 'Likhmisar Utrada'; a related Jatland snippet ties a population figure of ~150 to the Delu Jat gotra at Likhmisar. Direct fetch of the page returned HTTP 403, so this is based on search-result snippets only and needs m
 
@@ -48,10 +48,14 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### मंदिर, लोक देवता, स्थल
 - [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱
+- [लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱](https://www.youtube.com/watch?v=0MBe7SkHP2M) (video · video · 2025-10-29 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱' (0:47) by Dinesh Beniwal . 
 
 ### त्योहार व परंपराएं
 - [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - Facebook video 'पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱' (0:46) by Dinesh Beniwal. पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱
+- [लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱](https://www.youtube.com/watch?v=0MBe7SkHP2M) (video · video · 2025-10-29 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱' (0:47) by Dinesh Beniwal . 
 
 ### भूमि, खेती, पशुपालन, नहर
 - [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -67,9 +71,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (1)
+### वीडियो (2)
 - [पुराना 34 गाँव लिखमीसर का जोहड़ा,कुआँ,मंदिर 🔥😱](https://m.facebook.com/watch/?v=1459335058470001&_rdr) (social · video · 2025-10-29 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1459335058470001.content.json · timestamps: 0 public comments; 50631 views; hashtags: 
+- [लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱](https://www.youtube.com/watch?v=0MBe7SkHP2M) (video · video · 2025-10-29 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 703 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -94,7 +100,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Hari Singh
 - **places:** Bhojrasar, Bikaner, Dantur, Duder, Khajuwala, Khanisar, Kumhana, Likhmisar Dikhnada, Manera, Mohan Garh, Motlai, Nachna, Pugal, Sridungargarh, Thoia
 - **events:** 1984-85 land acquisition for Mahajan Field Firing Range
-- **organizations:** Dinesh Beniwal, Ministry of Defence, Swami Vivekananda Vidya Ashram
+- **organizations:** Dinesh Beniwal, Dinesh Beniwal , Ministry of Defence, Swami Vivekananda Vidya Ashram
 
 ## तथ्य / दावे
 
@@ -134,5 +140,6 @@ _कोई नहीं_
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) · census_mirror · census_mirror · स्कोर 63 · रिज़ॉल्यूशन review (0.4) · खोज: Likhmisar village Bikaner Rajasthan
 - [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) · mapsofindia.com · government · स्कोर 63 · रिज़ॉल्यूशन review (0.55) · खोज: Likhmisar village Bikaner facebook youtube
 - [Villages/L - Jatland Wiki](https://www.jatland.com/home/Villages/L) · jatland · community_wiki · स्कोर 61 · रिज़ॉल्यूशन review (0.4) · खोज: site:jatland.com Likhmisar
+- [लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱](https://www.youtube.com/watch?v=0MBe7SkHP2M) · youtube · video · स्कोर 54 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
 - [स्वामी विवेकान्नद विद्या आश्रम लिखमीसर दिखनादा](https://www.facebook.com/pages/%C3%A0%C2%A4%C2%B8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%B5%C3%A0%C2%A5%C2%87%C3%A0%C2%A4%C2%95%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%A6%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%A6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%AF%C3%A0%C2%A4%C2%BE%20%C3%A0%C2%A4%C2%86%C3%A0%C2%A4%C2%B6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B0%C3%A0%C2%A4%C2%AE%20%C3%A0%C2%A4%C2%B2%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%C3%A0%C2%A4%C2%B8%C3%A0%C2%A4%C2%B0%20%C3%A0%C2%A4%C2%A6%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A6%E0%A4%BE/830895883623961/) · facebook · social · स्कोर 49 · रिज़ॉल्यूशन review (0.55) · खोज: लिखमीसर गांव facebook
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 46 · रिज़ॉल्यूशन context (0.5) · खोज: 34 गांव लिखमीसर महाजन फायरिंग रेंज

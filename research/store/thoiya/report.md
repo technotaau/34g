@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 8, स्वीकृत 5, पृष्ठभूमि (context) 2, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 1 · दावे: 12
+स्रोत: कुल 17, स्वीकृत 6, पृष्ठभूमि (context) 5, समीक्षा हेतु 1, अस्वीकृत 4, डुप्लिकेट 1 · दावे: 12
 
 > Dhatarwal village named after Thoili. Listed as 'ठोइयाँ' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -70,21 +70,33 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (2)
+### वीडियो (7)
 - [पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥](https://m.facebook.com/watch/?v=851985674182311&_rdr) (social · video · 2025-10-19 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb851985674182311.content.json · timestamps: 0 public comments; 19306 views; hashtags: 
+- [34 गाँव ठोईया का दृश्य 🔥👌](https://www.youtube.com/watch?v=mMw2XURWIMU) (video · video · 2025-12-23 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 7 views; hashtags: 
+- [ठोइया गांव में कोयले की भट्टी 🔥😱](https://www.youtube.com/watch?v=1BHVsTx8MrI) (video · video · 2025-10-27 · स्कोर 75 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 1 public comments; 702 views; hashtags: 
+- [ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife](https://www.youtube.com/watch?v=51VUCj1kJN4) (video · video · 2025-10-24 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 1 public comments; 919 views; hashtags: 
 - [34 गाँव ठोइयॉं में कच्चे घर और पंच भाइयों के घर 👌😱](https://m.facebook.com/watch/?v=1325760895182496&_rdr) (social · video · 2025-10-20 · स्कोर 55 · पृष्ठभूमि स्रोत) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1325760895182496.content.json · timestamps: 0 public comments; 24113 views; hashtags: 
+- [पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts](https://www.youtube.com/watch?v=vsR-ThXU7HE) (video · video · 2025-10-23 · स्कोर 54 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 83 views; hashtags: 
+- [34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱](https://m.facebook.com/watch/?v=2095882537884310&_rdr) (social · video · 2025-10-23 · स्कोर 53 · पृष्ठभूमि स्रोत) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb2095882537884310.content.json · timestamps: 0 public comments; 131583 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
 ### पुस्तकें व ऐतिहासिक संदर्भ (0)
 
-### सार्वजनिक सोशल मीडिया स्रोत (2)
+### सार्वजनिक सोशल मीडिया स्रोत (3)
 - [पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥](https://m.facebook.com/watch/?v=851985674182311&_rdr) (social · video · 2025-10-19 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb851985674182311.content.json · timestamps: 0 public comments; 19306 views; hashtags: 
 - [34 गाँव ठोइयॉं में कच्चे घर और पंच भाइयों के घर 👌😱](https://m.facebook.com/watch/?v=1325760895182496&_rdr) (social · video · 2025-10-20 · स्कोर 55 · पृष्ठभूमि स्रोत) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1325760895182496.content.json · timestamps: 0 public comments; 24113 views; hashtags: 
+- [34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱](https://m.facebook.com/watch/?v=2095882537884310&_rdr) (social · video · 2025-10-23 · स्कोर 53 · पृष्ठभूमि स्रोत) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb2095882537884310.content.json · timestamps: 0 public comments; 131583 views; hashtags: 
 
 ### सरकारी / कानूनी अभिलेख (0)
 
@@ -97,7 +109,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Bajranglal Lakhotiya, Bhinya Ram Roj, Dinesh Kumar Swami, Hari Singh, Kalu Dhatarwal, Nathu Dhatarwal, Rajuram Sharma, Thoili
 - **places:** Baderan, Bhojrasar, Bikaner, Dantur, Dhatri, Duder, Khajuwala, Khanisar, Kumbhana, Lunkaransar, Mahajan Field Firing Range, Manera, Mohangadh, Motlai, Nachna, Pugal, Thoiya
 - **events:** 1984-85 land acquisition, 1984-85 land acquisition for Mahajan Field Firing Range, clan migration after a war, international joint military exercises, village founding
-- **organizations:** Defence Ministry / रक्षा मंत्रालय, Dinesh Beniwal, Indian Army
+- **organizations:** Defence Ministry / रक्षा मंत्रालय, Dinesh Beniwal, Dinesh Beniwal , Indian Army
 
 ## तथ्य / दावे
 
@@ -126,14 +138,19 @@ _कोई नहीं_
 
 ## शोधकर्ता द्वारा मैनुअल समीक्षा हेतु स्रोत
 
-_कोई नहीं_
+- [ठोइया गांव में कोयले की भट्टी 🔥😱](https://www.youtube.com/watch?v=1BHVsTx8MrI) · flags: resolution_review · variant match: ठोइया; district/nearby/clan context: ['Beniwal']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [पुराणा 34 गाँव ठोइया का जोहड़ा 👌🔥](https://m.facebook.com/watch/?v=851985674182311&_rdr) · facebook · social · स्कोर 93 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) · patrika · news · स्कोर 92 · रिज़ॉल्यूशन accept (0.8) · खोज: 34 गांव ठोईयां महाजन
+- [34 गाँव ठोईया का दृश्य 🔥👌](https://www.youtube.com/watch?v=mMw2XURWIMU) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [Thoiya - Jatland Wiki](https://www.jatland.com/home/Thoiya) · jatland · community_wiki · स्कोर 87 · रिज़ॉल्यूशन accept (0.8) · खोज: Thoiya village Bikaner Rajasthan
 - [Dhatarwal - धतरवाल](https://www.jatland.com/home/Dhatarwal) · jatland · community_wiki · स्कोर 79 · रिज़ॉल्यूशन accept (0.8) · खोज: Thoiya village history Bikaner
+- [ठोइया गांव में कोयले की भट्टी 🔥😱](https://www.youtube.com/watch?v=1BHVsTx8MrI) · youtube · video · स्कोर 75 · रिज़ॉल्यूशन review (0.45) · खोज: video supplied by TechnoTaau Team
 - [Thoiya - Wikimapia](http://wikimapia.org/10793488/Thoiya) · wikimapia.org · website · स्कोर 73 · रिज़ॉल्यूशन accept (0.8) · खोज: Thoiya village history Bikaner
+- [ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife](https://www.youtube.com/watch?v=51VUCj1kJN4) · youtube · video · स्कोर 56 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
 - [34 गाँव ठोइयॉं में कच्चे घर और पंच भाइयों के घर 👌😱](https://m.facebook.com/watch/?v=1325760895182496&_rdr) · facebook · social · स्कोर 55 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
+- [पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts](https://www.youtube.com/watch?v=vsR-ThXU7HE) · youtube · video · स्कोर 54 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
+- [34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱](https://m.facebook.com/watch/?v=2095882537884310&_rdr) · facebook · social · स्कोर 53 · रिज़ॉल्यूशन context (0.5) · खोज: video supplied by TechnoTaau Team
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) · patrika · news · स्कोर 44 · रिज़ॉल्यूशन context (0.5) · खोज: ठोईयां महाजन फायरिंग रेंज विस्थापित

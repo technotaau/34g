@@ -340,5 +340,89 @@
       }
     ],
     "competing": []
+  },
+  "clm_temple_survives_8956c5cc": {
+    "id": "clm_temple_survives_8956c5cc",
+    "claim_key": "temple_survives",
+    "value": "Dada Pamma Ram Sahib ji Maharaj temple, maintained (whitewashed, red dome, marble plaque)",
+    "statement_hi": "पुराने कुम्भाणा में डाडा पम्मा राम साहिबजी महाराज का मंदिर आज भी सुरक्षित और पुता हुआ है; समाधि पर सफेद कपड़ा और माला (सितंबर 2025)",
+    "statement_en": "The Dada Pamma Ram Sahib ji Maharaj temple at old Kumbhana is maintained: whitewashed, red dome, samadhi draped and garlanded (Sep 2025)",
+    "sources": [
+      "src_7e5271a5b93e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_7e5271a5b93e",
+        "text": "frames 4-71 s; plaque text"
+      }
+    ],
+    "competing": []
+  },
+  "clm_temple_caretaker_27a7c513": {
+    "id": "clm_temple_caretaker_27a7c513",
+    "claim_key": "temple_caretaker",
+    "value": "sevak Gomaram Mindha (marble plaque)",
+    "statement_hi": "मंदिर के पट्ट पर 'सेवक गोमाराम मिंढा' का नाम",
+    "statement_en": "The marble plaque names 'sevak Gomaram Mindha'",
+    "sources": [
+      "src_7e5271a5b93e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_7e5271a5b93e",
+        "text": "plaque at 60-71 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_temple_plaque_samvat_76e5706f": {
+    "id": "clm_temple_plaque_samvat_76e5706f",
+    "claim_key": "temple_plaque_samvat",
+    "value": "संवत् 18?0 (last digits unclear)",
+    "statement_hi": "द्वार के पट्ट पर 'संवत् 18?0' लिखा है (अंक अस्पष्ट)",
+    "statement_en": "The gateway plaque gives 'Samvat 18?0' (digits unclear)",
+    "sources": [
+      "src_7e5271a5b93e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_7e5271a5b93e",
+        "text": "plaque at 4-15 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_religious_tradition_3220cddb": {
+    "id": "clm_religious_tradition_3220cddb",
+    "claim_key": "religious_tradition",
+    "value": "Nanakpanthi iconography (Ik Onkar, Guru Nanak pictures) with Shiv-Parvati",
+    "statement_hi": "मंदिर में ੴ और गुरु नानक की तस्वीरों के साथ शिव-पार्वती की तस्वीर: नानकपंथी परंपरा का संकेत",
+    "statement_en": "Ik Onkar and Guru Nanak pictures alongside Shiv-Parvati suggest a Nanakpanthi tradition",
+    "sources": [
+      "src_7e5271a5b93e"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_7e5271a5b93e",
+        "text": "frames 4-41 s"
+      }
+    ],
+    "competing": []
   }
 }

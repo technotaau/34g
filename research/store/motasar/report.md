@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 5, स्वीकृत 1, पृष्ठभूमि (context) 1, समीक्षा हेतु 2, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 3
+स्रोत: कुल 6, स्वीकृत 2, पृष्ठभूमि (context) 1, समीक्षा हेतु 2, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 6
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours.
 
@@ -47,7 +47,8 @@
   - यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए करीब चार दशक पहले विस्थापित हुए 34 गांवों के परिवारों के दर्द पर आधारित है; उदाहरण के तौर पर भोजरासर, कुम्भाना, मोतलाई, खानीसर, थोइया, मानेरा, डूडेर, खाजूवाला, डांटूर, पूगल, मोहनगढ़ और नाचना गांवों के नाम लिए गए हैं। लेख में 'मोटासर' नाम प्रत्यक्ष रूप से नह
 
 ### भूमि, खेती, पशुपालन, नहर
-_अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
+- [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) (social · video · 2025-09-27 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - Facebook video 'पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌' (0:45) by Dinesh Beniwal. पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌
 
 ### शिक्षा व विद्यालय
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
@@ -56,13 +57,17 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) (social · video · 2025-09-27 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1152422783491564.content.json · timestamps: 0 public comments; 22755 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
 ### पुस्तकें व ऐतिहासिक संदर्भ (0)
 
-### सार्वजनिक सोशल मीडिया स्रोत (0)
+### सार्वजनिक सोशल मीडिया स्रोत (1)
+- [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) (social · video · 2025-09-27 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
+  - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1152422783491564.content.json · timestamps: 0 public comments; 22755 views; hashtags: 
 
 ### सरकारी / कानूनी अभिलेख (2)
 - [Motasar Village Population - Kolayat - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69475-motasar-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 67 · समीक्षा हेतु)
@@ -76,7 +81,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Hari Singh
 - **places:** Bhojrasar, Bikaner, Dantur, Duder, Gadiyala, Khajuwala, Khaniser, Kolayat, Kumbhana, Manera, Mohangadh, Motlai, Nachna, Pugal, Thoiya
 - **events:** 1984-85 land acquisition for Mahajan Field Firing Range
-- **organizations:** Ministry of Defence
+- **organizations:** Dinesh Beniwal, Ministry of Defence
 
 ## तथ्य / दावे
 
@@ -87,6 +92,9 @@ _कोई नहीं_
 - **village_list_34** = 32 names (community list, 2 blank) · unverified · विश्वास 0.3 · स्रोत: src_967773b5f1ff
 - **name_ambiguity** = A distinct 'Motasar' village exists in Kolayat tehsil, Bikaner (pop. 443, gram panchayat Gadiyala) — not in Lunkaransar tehsil. · unverified · विश्वास 0.3 · स्रोत: src_f20739af3c1e
 - **current_administrative_status** = Motasar is not a separate listed revenue village in the current Lunkaransar tehsil village directory. · unverified · विश्वास 0.3 · स्रोत: src_c0a313e97116
+- **house_ruins_material** = mud-wall stumps and mounds under khejri · single-source · विश्वास 0.5 · स्रोत: src_cfa052501fd5
+- **land_cultivated_now** = a crop grows on the old village land · single-source · विश्वास 0.5 · स्रोत: src_cfa052501fd5
+- **village_in_34_gaon** = yes · single-source · विश्वास 0.5 · स्रोत: src_cfa052501fd5
 
 ## साझा (34 गांव) स्रोत जो इस गांव का उल्लेख करते हैं
 
@@ -99,6 +107,7 @@ _कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
+- [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) · facebook · social · स्कोर 93 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [Villages in Lunkaransar Tehsil, Bikaner, Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) · mapsofindia.com · website · स्कोर 75 · रिज़ॉल्यूशन accept (0.8) · खोज: "Motasar" Lunkaransar census village code panchayat
 - [Motasar Village Population - Kolayat - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69475-motasar-rajasthan.html) · census_mirror · census_mirror · स्कोर 67 · रिज़ॉल्यूशन review (0.55) · खोज: Motasar village Bikaner Rajasthan
 - [Motasar Village Map, PIN Code, Population | Bikaner, Rajasthan](https://www.villagemaps.in/rajasthan/motasar-kolayat-bikaner-69475/) · villagemaps.in · census_mirror · स्कोर 61 · रिज़ॉल्यूशन review (0.55) · खोज: Motasar village Bikaner Rajasthan

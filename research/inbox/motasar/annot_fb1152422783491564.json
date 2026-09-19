@@ -1,0 +1,58 @@
+{
+ "rights": "Supplied by TechnoTaau Team with permission to use; original creator credited (public Facebook reel).",
+ "ranges": [
+  [
+   0,
+   2,
+   "A green crop growing on the old Motasar land, trees on the horizon; overlay 'पुराणा 34 गाँव मोटासर'",
+   "पुराने मोटासर की ज़मीन पर हरी फसल, क्षितिज पर पेड़; overlay 'पुराणा 34 गाँव मोटासर'",
+   [
+    "landscape",
+    "crop",
+    "title"
+   ]
+  ],
+  [
+   3,
+   14,
+   "Mud-wall stumps of houses under khejri trees; a crop planted between them",
+   "खेजड़ी के नीचे घरों की मिट्टी की दीवारों के ठूंठ; बीच में बोई हुई फसल",
+   [
+    "ruins",
+    "landscape",
+    "crop"
+   ]
+  ],
+  [
+   15,
+   32,
+   "Ruined mud walls and mounds of Motasar; a family with women in red and pink and a white car visiting the site",
+   "मोटासर की मिट्टी की टूटी दीवारें और टीले; लाल-गुलाबी पोशाक में महिलाओं समेत एक परिवार और सफेद कार",
+   [
+    "ruins",
+    "people",
+    "landscape"
+   ]
+  ],
+  [
+   33,
+   38,
+   "The visiting family stands among the ruins by their car",
+   "आगंतुक परिवार कार के पास खंडहरों के बीच खड़ा",
+   [
+    "people",
+    "ruins"
+   ]
+  ],
+  [
+   39,
+   50,
+   "Khejri tree and wall stumps; closing shot of the site",
+   "खेजड़ी का पेड़ और दीवारों के ठूंठ; अंतिम दृश्य",
+   [
+    "ruins",
+    "landscape"
+   ]
+  ]
+ ]
+}

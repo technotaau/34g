@@ -614,5 +614,26 @@
       }
     ],
     "competing": []
+  },
+  "clm_oral_history_recorded_da983d4c": {
+    "id": "clm_oral_history_recorded_da983d4c",
+    "claim_key": "oral_history_recorded",
+    "value": "three elders interviewed on 'roli ka saal' (7 min, Oct 2025)",
+    "statement_hi": "तीन बुज़ुर्गों की 7 मिनट की बातचीत 'रोळी के साल' पर, जब घर के घर खाली हुए (दिनेश बेनीवाल, अक्टूबर 2025)",
+    "statement_en": "A 7-minute conversation with three elders about 'roli ka saal', when house after house emptied (Dinesh Beniwal, Oct 2025)",
+    "sources": [
+      "src_0c58aec5caeb"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_0c58aec5caeb",
+        "text": "title and frames"
+      }
+    ],
+    "competing": []
   }
 }

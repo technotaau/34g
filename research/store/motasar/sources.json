@@ -618,5 +618,125 @@
     ],
     "notes": "No mention of 'Motasar' found, but the retrieved excerpt ends mid-Chapter II (History) — later chapters/appendices likely contain the detailed village/tehsil listings and were not searched in this pass. A human researcher should open the full archive.org reader and check the index and village-list appendix directly rather than relying on this automated text search.",
     "consent": ""
+  },
+  "src_cfa052501fd5": {
+    "id": "src_cfa052501fd5",
+    "village": "motasar",
+    "url": "https://m.facebook.com/watch/?v=1152422783491564&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=1152422783491564",
+    "title": "पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Dinesh Beniwal (100023184678090)",
+    "published_date": "2025-09-27",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video 'पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌' (0:45) by Dinesh Beniwal. पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌",
+    "topics": [
+      "land_agriculture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "मोटासर",
+    "evidence_snippets": [
+      "Description: पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌",
+      "Title: पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1152422783491564&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal",
+      "uploader": "100023184678090",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1152422783491564.content.json",
+      "timestamps": "0 public comments; 22755 views; hashtags: ",
+      "frames": "15 stills in research/media/motasar/fb1152422783491564/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [
+      {
+        "claim_key": "house_ruins_material",
+        "value": "mud-wall stumps and mounds under khejri",
+        "statement_hi": "मोटासर में मिट्टी की दीवारों के ठूंठ और टीले खेजड़ी के नीचे बचे हैं (सितंबर 2025)",
+        "statement_en": "Mud-wall stumps and mounds survive at Motasar under khejri trees (Sep 2025)",
+        "snippet": "frames 3-50 s"
+      },
+      {
+        "claim_key": "land_cultivated_now",
+        "value": "a crop grows on the old village land",
+        "statement_hi": "पुराने गांव की ज़मीन पर फसल बोई हुई दिखती है",
+        "statement_en": "A crop is growing on the old village land",
+        "snippet": "frames 0-14 s"
+      },
+      {
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "मोटासर 'पुराना 34 गांव' में गिना जाता है (दिनेश बेनीवाल का reel)",
+        "statement_en": "Motasar is counted among the old 34 villages (Dinesh Beniwal reel)",
+        "snippet": "title"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Motasar",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
+      ],
+      "matched_names": [
+        "Motasar",
+        "मोटासर"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal",
+        "बेनीवाल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 93,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 6,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155224Z",
+      "run_20260919T155502Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

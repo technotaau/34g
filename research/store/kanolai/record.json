@@ -14,11 +14,11 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 9,
-    "accepted": 3,
+    "sources_total": 23,
+    "accepted": 7,
     "context": 0,
-    "review": 4,
-    "rejected": 2,
+    "review": 13,
+    "rejected": 3,
     "duplicates": 0,
     "claims": 9
   },
@@ -56,6 +56,7 @@
       "source_ids": [
         "src_ae6977b947db",
         "src_7e0f76030fe8",
+        "src_8fca4b694a84",
         "src_61e9e3b48a37"
       ]
     },
@@ -64,6 +65,7 @@
       "source_ids": [
         "src_ae6977b947db",
         "src_7e0f76030fe8",
+        "src_8fca4b694a84",
         "src_61e9e3b48a37"
       ]
     },
@@ -88,7 +90,20 @@
       "source_ids": [
         "src_ae6977b947db",
         "src_2f5657e5a37e",
+        "src_cbf83e5b5076",
+        "src_8ea6e153f47e",
+        "src_040ae9a77ae5",
+        "src_80bf9db4f333",
         "src_7e0f76030fe8",
+        "src_fee019024deb",
+        "src_4a4f8e2127b9",
+        "src_446d32c87988",
+        "src_a39e3cefdca2",
+        "src_4983ce19f83f",
+        "src_abc84f1d422a",
+        "src_2fbb7068586a",
+        "src_8fca4b694a84",
+        "src_a4751f179434",
         "src_61e9e3b48a37",
         "src_24907b87028c",
         "src_100cc543387f",
@@ -131,6 +146,7 @@
       "Vishal jagran announced on the shrine board"
     ],
     "organizations": [
+      "Dinesh Beniwal ",
       "Rssuthar Jaisalmer"
     ]
   },
@@ -479,6 +495,114 @@
       "reasons": [
         "primary name match: Kanolai"
       ]
+    },
+    {
+      "id": "src_4a4f8e2127b9",
+      "url": "https://www.youtube.com/watch?v=qoPEbONGhQ0",
+      "title": "कानोलाई से गाँव रवानगी 👌🔥",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_446d32c87988",
+      "url": "https://www.youtube.com/watch?v=DF_2GiNOixs",
+      "title": "कानोलाई का जोहड़ा 👌🔥",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_a39e3cefdca2",
+      "url": "https://www.youtube.com/watch?v=rkdJx5IZ3As",
+      "title": "खारिया कुआँ कानोलाई गाँव में 🔥😱",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_4983ce19f83f",
+      "url": "https://www.youtube.com/watch?v=aUC-9oc49N0",
+      "title": "पीर बाबा धाम कानोलाई और गाँव #oldvillagelife #shorts",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_abc84f1d422a",
+      "url": "https://www.youtube.com/watch?v=P9drItSNCU8",
+      "title": "पुराना गांव कानोलाई से कच्चा रास्ता बरलाव से होकर कुंभाना गढ़ 🔥👌",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_fee019024deb",
+      "url": "https://www.youtube.com/watch?v=QxAp0Hr2mGk",
+      "title": "कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_2fbb7068586a",
+      "url": "https://www.youtube.com/watch?v=PA086BsNcOg",
+      "title": "कानोलाई गाँव में कच्चे मकान 😱👌(पार्ट-6) #oldvillagelife #shorts",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_8fca4b694a84",
+      "url": "https://www.youtube.com/watch?v=o-g09z_Jq2k",
+      "title": "कानोलाई गाँव में हरिराम दादा का मंदिर 🛕 (पार्ट-5) #oldvillagelife #shorts",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_a4751f179434",
+      "url": "https://www.youtube.com/watch?v=uyvxCpH1fx8",
+      "title": "पुराणा गांव कानोलाई का पुराना कुआँ 😱😲 (पार्ट-4) #oldvillagelife #shorts",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
     }
   ],
   "sources": {
@@ -595,6 +719,210 @@
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=xh6IoC9xyh8",
       "is_primary": true
     },
+    "src_cbf83e5b5076": {
+      "url": "https://www.youtube.com/watch?v=L7FEYprtZWQ",
+      "title": "सन् 1984-85 में छूटे हुए 34 गाँव कानोलाई कितने घरों की आबादी थी और कौन कौन सी जातिया थी",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-22",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=L7FEYprtZWQ",
+      "is_primary": true
+    },
+    "src_8ea6e153f47e": {
+      "url": "https://www.youtube.com/watch?v=mBQXifrS8z4",
+      "title": "छूटे हुए 34 गाँव कानोलाई का नजारा 😱🔥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-06",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=mBQXifrS8z4",
+      "is_primary": true
+    },
+    "src_040ae9a77ae5": {
+      "url": "https://www.youtube.com/watch?v=N4JyKa-5xuU",
+      "title": "34 गाँव कानोलाई का सबसे बड़ा टिब्बा #34gaav #oldvillagelife #shorts #viral",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-05",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=N4JyKa-5xuU",
+      "is_primary": true
+    },
+    "src_80bf9db4f333": {
+      "url": "https://www.youtube.com/watch?v=D8HlEAxr4_w",
+      "title": "पुराणा 34 गाँव कानोलाई का जोहड़ा 😱🔥 (पार्ट-2) #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-01",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=D8HlEAxr4_w",
+      "is_primary": true
+    },
     "src_7e0f76030fe8": {
       "url": "https://www.youtube.com/watch?v=tp0mVligrls",
       "title": "खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था",
@@ -658,6 +986,439 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=tp0mVligrls",
+      "is_primary": true
+    },
+    "src_fee019024deb": {
+      "url": "https://www.youtube.com/watch?v=QxAp0Hr2mGk",
+      "title": "कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-06",
+      "language": "hi",
+      "relevance": {
+        "score": 76,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=QxAp0Hr2mGk",
+      "is_primary": true
+    },
+    "src_4a4f8e2127b9": {
+      "url": "https://www.youtube.com/watch?v=qoPEbONGhQ0",
+      "title": "कानोलाई से गाँव रवानगी 👌🔥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-11",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qoPEbONGhQ0",
+      "is_primary": true
+    },
+    "src_446d32c87988": {
+      "url": "https://www.youtube.com/watch?v=DF_2GiNOixs",
+      "title": "कानोलाई का जोहड़ा 👌🔥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-10",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=DF_2GiNOixs",
+      "is_primary": true
+    },
+    "src_a39e3cefdca2": {
+      "url": "https://www.youtube.com/watch?v=rkdJx5IZ3As",
+      "title": "खारिया कुआँ कानोलाई गाँव में 🔥😱",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-07",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=rkdJx5IZ3As",
+      "is_primary": true
+    },
+    "src_4983ce19f83f": {
+      "url": "https://www.youtube.com/watch?v=aUC-9oc49N0",
+      "title": "पीर बाबा धाम कानोलाई और गाँव #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-04",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=aUC-9oc49N0",
+      "is_primary": true
+    },
+    "src_abc84f1d422a": {
+      "url": "https://www.youtube.com/watch?v=P9drItSNCU8",
+      "title": "पुराना गांव कानोलाई से कच्चा रास्ता बरलाव से होकर कुंभाना गढ़ 🔥👌",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-07",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=P9drItSNCU8",
+      "is_primary": true
+    },
+    "src_2fbb7068586a": {
+      "url": "https://www.youtube.com/watch?v=PA086BsNcOg",
+      "title": "कानोलाई गाँव में कच्चे मकान 😱👌(पार्ट-6) #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-05",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=PA086BsNcOg",
+      "is_primary": true
+    },
+    "src_8fca4b694a84": {
+      "url": "https://www.youtube.com/watch?v=o-g09z_Jq2k",
+      "title": "कानोलाई गाँव में हरिराम दादा का मंदिर 🛕 (पार्ट-5) #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-04",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=o-g09z_Jq2k",
+      "is_primary": true
+    },
+    "src_a4751f179434": {
+      "url": "https://www.youtube.com/watch?v=uyvxCpH1fx8",
+      "title": "पुराणा गांव कानोलाई का पुराना कुआँ 😱😲 (पार्ट-4) #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-03",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=uyvxCpH1fx8",
       "is_primary": true
     },
     "src_61e9e3b48a37": {
@@ -1064,6 +1825,216 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 9,
       "at": "2026-09-07T17:02:41.096252+00:00"
+    },
+    {
+      "run_id": "run_20260919T155234Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_fb1034283355871713.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1034283355871713 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 10,
+      "at": "2026-09-19T15:52:35.043582+00:00"
+    },
+    {
+      "run_id": "run_20260919T155310Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_L7FEYprtZWQ.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=L7FEYprtZWQ on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 11,
+      "at": "2026-09-19T15:53:11.153094+00:00"
+    },
+    {
+      "run_id": "run_20260919T155320Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_qoPEbONGhQ0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=qoPEbONGhQ0 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 12,
+      "at": "2026-09-19T15:53:21.179161+00:00"
+    },
+    {
+      "run_id": "run_20260919T155324Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_DF_2GiNOixs.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=DF_2GiNOixs on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 13,
+      "at": "2026-09-19T15:53:24.842574+00:00"
+    },
+    {
+      "run_id": "run_20260919T155327Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_rkdJx5IZ3As.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=rkdJx5IZ3As on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 14,
+      "at": "2026-09-19T15:53:28.067825+00:00"
+    },
+    {
+      "run_id": "run_20260919T155331Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_mBQXifrS8z4.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=mBQXifrS8z4 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 15,
+      "at": "2026-09-19T15:53:31.831172+00:00"
+    },
+    {
+      "run_id": "run_20260919T155334Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_N4JyKa-5xuU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=N4JyKa-5xuU on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 16,
+      "at": "2026-09-19T15:53:34.853705+00:00"
+    },
+    {
+      "run_id": "run_20260919T155338Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_aUC-9oc49N0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=aUC-9oc49N0 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 17,
+      "at": "2026-09-19T15:53:38.356675+00:00"
+    },
+    {
+      "run_id": "run_20260919T155456Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_P9drItSNCU8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=P9drItSNCU8 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-19T15:54:56.625298+00:00"
+    },
+    {
+      "run_id": "run_20260919T155459Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_QxAp0Hr2mGk.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=QxAp0Hr2mGk on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:54:59.920194+00:00"
+    },
+    {
+      "run_id": "run_20260919T155502Z",
+      "file": "research/inbox/kanolai/video_fb1034283355871713.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1034283355871713 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:55:02.874051+00:00"
+    },
+    {
+      "run_id": "run_20260919T155503Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_PA086BsNcOg.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=PA086BsNcOg on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 20,
+      "at": "2026-09-19T15:55:03.679762+00:00"
+    },
+    {
+      "run_id": "run_20260919T155506Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_o-g09z_Jq2k.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=o-g09z_Jq2k on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 21,
+      "at": "2026-09-19T15:55:06.884482+00:00"
+    },
+    {
+      "run_id": "run_20260919T155510Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_uyvxCpH1fx8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=uyvxCpH1fx8 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:55:10.726169+00:00"
+    },
+    {
+      "run_id": "run_20260919T155517Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_D8HlEAxr4_w.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=D8HlEAxr4_w on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-19T15:55:17.517879+00:00"
     }
   ]
 }

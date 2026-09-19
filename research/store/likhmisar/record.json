@@ -14,9 +14,9 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 9,
+    "sources_total": 10,
     "accepted": 1,
-    "context": 1,
+    "context": 2,
     "review": 6,
     "rejected": 1,
     "duplicates": 0,
@@ -28,8 +28,8 @@
       "source_ids": [
         "src_c21a9edbe766",
         "src_4442c1903699",
-        "src_61d992c6e236",
         "src_0466b4c5eff3",
+        "src_61d992c6e236",
         "src_4c02f7639812",
         "src_a5150b8b1d53"
       ]
@@ -39,8 +39,8 @@
       "source_ids": [
         "src_c21a9edbe766",
         "src_4442c1903699",
-        "src_61d992c6e236",
         "src_0466b4c5eff3",
+        "src_61d992c6e236",
         "src_4c02f7639812"
       ]
     },
@@ -63,13 +63,15 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_250aeb6fda3e"
+        "src_250aeb6fda3e",
+        "src_3724680d2af1"
       ]
     },
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
-        "src_250aeb6fda3e"
+        "src_250aeb6fda3e",
+        "src_3724680d2af1"
       ]
     },
     "land": {
@@ -94,7 +96,8 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
-        "src_250aeb6fda3e"
+        "src_250aeb6fda3e",
+        "src_3724680d2af1"
       ]
     },
     "audio": {
@@ -154,6 +157,7 @@
     ],
     "organizations": [
       "Dinesh Beniwal",
+      "Dinesh Beniwal ",
       "Ministry of Defence",
       "Swami Vivekananda Vidya Ashram"
     ]
@@ -811,6 +815,57 @@
       "attribution": "Jatland Wiki",
       "is_primary": false
     },
+    "src_3724680d2af1": {
+      "url": "https://www.youtube.com/watch?v=0MBe7SkHP2M",
+      "title": "लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-29",
+      "language": "hi",
+      "relevance": {
+        "score": 54,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=0MBe7SkHP2M",
+      "is_primary": true
+    },
     "src_2a0bf1674eae": {
       "url": "https://www.facebook.com/pages/%C3%A0%C2%A4%C2%B8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%B5%C3%A0%C2%A5%C2%87%C3%A0%C2%A4%C2%95%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A8%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%A6%20%C3%A0%C2%A4%C2%B5%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%A6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%AF%C3%A0%C2%A4%C2%BE%20%C3%A0%C2%A4%C2%86%C3%A0%C2%A4%C2%B6%C3%A0%C2%A5%C2%8D%C3%A0%C2%A4%C2%B0%C3%A0%C2%A4%C2%AE%20%C3%A0%C2%A4%C2%B2%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%AE%C3%A0%C2%A5%C2%80%C3%A0%C2%A4%C2%B8%C3%A0%C2%A4%C2%B0%20%C3%A0%C2%A4%C2%A6%C3%A0%C2%A4%C2%BF%C3%A0%C2%A4%C2%96%C3%A0%C2%A4%C2%A8%C3%A0%C2%A4%C2%BE%C3%A0%C2%A4%C2%A6%E0%A4%BE/830895883623961/",
       "title": "स्वामी विवेकान्नद विद्या आश्रम लिखमीसर दिखनादा",
@@ -976,6 +1031,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 9,
       "at": "2026-09-19T15:47:33.009393+00:00"
+    },
+    {
+      "run_id": "run_20260919T155342Z",
+      "file": "/home/user/34g/research/inbox/likhmisar/video_0MBe7SkHP2M.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=0MBe7SkHP2M on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 10,
+      "at": "2026-09-19T15:53:43.012102+00:00"
     }
   ]
 }

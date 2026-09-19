@@ -14,10 +14,10 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 7,
+    "sources_total": 8,
     "accepted": 2,
     "context": 4,
-    "review": 0,
+    "review": 1,
     "rejected": 1,
     "duplicates": 0,
     "claims": 9
@@ -45,8 +45,8 @@
         "src_a5150b8b1d53",
         "src_2651a62df53d",
         "src_4fb2da84d5a4",
-        "src_a6f66da51d72",
         "src_c37d5179aabc",
+        "src_a6f66da51d72",
         "src_b27fa43b7bd0"
       ]
     },
@@ -91,7 +91,9 @@
     },
     "videos": {
       "label": "वीडियो",
-      "source_ids": []
+      "source_ids": [
+        "src_65915379562b"
+      ]
     },
     "audio": {
       "label": "साक्षात्कार / ऑडियो",
@@ -159,6 +161,7 @@
     ],
     "organizations": [
       "Census of India",
+      "Dinesh Beniwal ",
       "Indian Army",
       "Ministry of Defence",
       "Parliament of India"
@@ -363,7 +366,20 @@
       }
     ]
   },
-  "manual_review": [],
+  "manual_review": [
+    {
+      "id": "src_65915379562b",
+      "url": "https://www.youtube.com/watch?v=nESqHCtXQyo",
+      "title": "पुराना गांव मुटलाई 🔥😱",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: मुटलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    }
+  ],
   "sources": {
     "src_a5150b8b1d53": {
       "url": "https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463",
@@ -492,6 +508,54 @@
       ],
       "license": "Facebook post; poster's copyright",
       "attribution": "Mahavir Gat, Facebook, 5 Apr 2018",
+      "is_primary": true
+    },
+    "src_65915379562b": {
+      "url": "https://www.youtube.com/watch?v=nESqHCtXQyo",
+      "title": "पुराना गांव मुटलाई 🔥😱",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-15",
+      "language": "hi",
+      "relevance": {
+        "score": 73,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 7,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.45,
+        "reasons": [
+          "variant match: मुटलाई",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "मुटलाई"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=nESqHCtXQyo",
       "is_primary": true
     },
     "src_4fb2da84d5a4": {
@@ -758,6 +822,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 7,
       "at": "2026-09-17T18:30:00.478078+00:00"
+    },
+    {
+      "run_id": "run_20260919T155443Z",
+      "file": "/home/user/34g/research/inbox/motlai/video_nESqHCtXQyo.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=nESqHCtXQyo on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 8,
+      "at": "2026-09-19T15:54:43.448520+00:00"
     }
   ]
 }

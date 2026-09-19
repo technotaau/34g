@@ -1464,7 +1464,8 @@
     "review_flags": [],
     "runs": [
       "run_20260917T180201Z",
-      "run_20260917T180249Z"
+      "run_20260917T180249Z",
+      "run_20260919T155504Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
@@ -1850,8 +1851,8 @@
     "direct_mention": true,
     "name_form_matched": "34 गांव",
     "evidence_snippets": [
-      "Title: 34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e",
-      "Description: 34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e"
+      "Description: 34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e",
+      "Title: 34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e"
     ],
     "entities": {
       "people": [],
@@ -1915,7 +1916,501 @@
     "syndicate_group": "",
     "review_flags": [],
     "runs": [
-      "run_20260919T154004Z"
+      "run_20260919T154004Z",
+      "run_20260919T155502Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0c58aec5caeb": {
+    "id": "src_0c58aec5caeb",
+    "village": "34-gaon",
+    "url": "https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=1485439029343121",
+    "title": "पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Dinesh Beniwal (100023184678090)",
+    "published_date": "2025-10-07",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video 'पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣' (6:56) by Dinesh Beniwal. पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "34 गाँव",
+    "evidence_snippets": [
+      "Description: पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+      "Title: पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal",
+      "uploader": "100023184678090",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1485439029343121.content.json",
+      "timestamps": "0 public comments; 10213 views; hashtags: ",
+      "frames": "28 stills in research/media/34-gaon/fb1485439029343121/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [
+      {
+        "claim_key": "oral_history_recorded",
+        "value": "three elders interviewed on 'roli ka saal' (7 min, Oct 2025)",
+        "statement_hi": "तीन बुज़ुर्गों की 7 मिनट की बातचीत 'रोळी के साल' पर, जब घर के घर खाली हुए (दिनेश बेनीवाल, अक्टूबर 2025)",
+        "statement_en": "A 7-minute conversation with three elders about 'roli ka saal', when house after house emptied (Dinesh Beniwal, Oct 2025)",
+        "snippet": "title and frames"
+      }
+    ],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal",
+        "बेनीवाल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 87,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 2,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T154804Z",
+      "run_20260919T155503Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_bdc6eae09875": {
+    "id": "src_bdc6eae09875",
+    "village": "34-gaon",
+    "url": "https://m.facebook.com/watch/?v=1593074165754643&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=1593074165754643",
+    "title": "34 गांव एरिया मे जोरदार बारिश हे",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Rajuram Rajuram Dhatrwal (100055647212592)",
+    "published_date": "2026-08-10",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video '34 गांव एरिया मे जोरदार बारिश हे' (0:22) by Rajuram Rajuram Dhatrwal. 34 गांव एरिया मे जोरदार बारिश हे",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "34 गांव",
+    "evidence_snippets": [
+      "Description: 34 गांव एरिया मे जोरदार बारिश हे",
+      "Title: 34 गांव एरिया मे जोरदार बारिश हे"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rajuram Rajuram Dhatrwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Rajuram Rajuram Dhatrwal, Facebook, 2026, https://m.facebook.com/watch/?v=1593074165754643&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Rajuram Rajuram Dhatrwal",
+      "uploader": "100055647212592",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1593074165754643.content.json",
+      "timestamps": "0 public comments; 587 views; hashtags: ",
+      "frames": "7 stills in research/media/34-gaon/fb1593074165754643/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['34 गांव', '34 गाँव']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155253Z",
+      "run_20260919T155503Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_f74178b9169b": {
+    "id": "src_f74178b9169b",
+    "village": "34-gaon",
+    "url": "https://www.youtube.com/watch?v=AZ475IL2JPU",
+    "url_key": "https://www.youtube.com/watch?v=AZ475IL2JPU",
+    "title": "पुराने 34 गांवो की बाते 👌🔥",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-11-30",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराने 34 गांवो की बाते 👌🔥' (6:57) by Dinesh Beniwal . पुराने 34 गांवो की बाते 👌🔥",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गांव",
+    "evidence_snippets": [
+      "Title: पुराने 34 गांवो की बाते 👌🔥",
+      "Description: पुराने 34 गांवो की बाते 👌🔥",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=AZ475IL2JPU",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 8 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155303Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_2f2f7544c2f1": {
+    "id": "src_2f2f7544c2f1",
+    "village": "34-gaon",
+    "url": "https://www.youtube.com/watch?v=cr-kuEiznZA",
+    "url_key": "https://www.youtube.com/watch?v=cr-kuEiznZA",
+    "title": "महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-11-03",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌' (14:30) by Dinesh Beniwal . महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav #rajadthankaithash #vlogs",
+    "topics": [
+      "history",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गांव",
+    "evidence_snippets": [
+      "Title: महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌",
+      "Description: महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav #rajadthankaithash #vlogs",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=cr-kuEiznZA",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 34 views; hashtags: 34gaav dham khiyana mahajan nathudada oldculture oldvillage oldvillagelife puranegaav puranevideo rahasthankaithash rajadthankaithash thoiya vlogs"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155307Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0a8337917efc": {
+    "id": "src_0a8337917efc",
+    "village": "34-gaon",
+    "url": "https://www.youtube.com/watch?v=jtFGuwfhXLs",
+    "url_key": "https://www.youtube.com/watch?v=jtFGuwfhXLs",
+    "title": "34 गाँव में पुराना कुआँ कितना गहरा है (पार्ट-3) 😱👌 #oldvillagelife #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-02",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '34 गाँव में पुराना कुआँ कितना गहरा है (पार्ट-3) 😱👌 #oldvillagelife #shorts' (0:48) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "34 गाँव",
+    "evidence_snippets": [
+      "Title: 34 गाँव में पुराना कुआँ कितना गहरा है (पार्ट-3) 😱👌 #oldvillagelife #shorts",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=jtFGuwfhXLs",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 934 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: 34 गांव",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155513Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"

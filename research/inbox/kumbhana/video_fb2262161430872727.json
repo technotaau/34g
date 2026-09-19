@@ -1,0 +1,53 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/2262161430872727 on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://m.facebook.com/watch/?v=2262161430872727&_rdr",
+   "title": "34 गाँव कुमाना का जोहड़ा का नजारा 👌🔥 Dinesh Beniwal @#Life",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal (100023184678090)",
+   "published_date": "2025-09-22",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video '34 गाँव कुमाना का जोहड़ा का नजारा 👌🔥 Dinesh Beniwal @#Life' (0:11) by Dinesh Beniwal. 34 गाँव कुमाना का जोहड़ा का नजारा 👌🔥 Dinesh Beniwal @#Life",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: 34 गाँव कुमाना का जोहड़ा का नजारा 👌🔥 Dinesh Beniwal @#Life",
+    "Description: 34 गाँव कुमाना का जोहड़ा का नजारा 👌🔥 Dinesh Beniwal @#Life"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=2262161430872727&_rdr",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal",
+    "uploader": "100023184678090",
+    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb2262161430872727.content.json",
+    "timestamps": "0 public comments; 15964 views; hashtags: Life",
+    "frames": "5 stills in research/media/kumbhana/fb2262161430872727/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

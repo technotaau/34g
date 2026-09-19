@@ -952,5 +952,842 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_65c3025b85de": {
+    "id": "src_65c3025b85de",
+    "village": "thoiya",
+    "url": "https://m.facebook.com/watch/?v=2095882537884310&_rdr",
+    "url_key": "https://www.facebook.com/watch?v=2095882537884310",
+    "title": "34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "video",
+    "author": "Dinesh Beniwal (100023184678090)",
+    "published_date": "2025-10-23",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "Facebook video '34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱' (3:18) by Dinesh Beniwal. 34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम पहले मास्टर पिटाई बहुत करते थे 😱👌 Dinesh Beniwal",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: 34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱",
+      "Description: 34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम पहले मास्टर पिटाई बहुत करते थे 😱👌 Dinesh Beniwal"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal"
+      ]
+    },
+    "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+    "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=2095882537884310&_rdr",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal",
+      "uploader": "100023184678090",
+      "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb2095882537884310.content.json",
+      "timestamps": "0 public comments; 131583 views; hashtags: ",
+      "frames": "33 stills in research/media/thoiya/fb2095882537884310/ (manifest.json, contact_sheet.png)"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 53,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T154856Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_dd34bbda92ad": {
+    "id": "src_dd34bbda92ad",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=mMw2XURWIMU",
+    "url_key": "https://www.youtube.com/watch?v=mMw2XURWIMU",
+    "title": "34 गाँव ठोईया का दृश्य 🔥👌",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-12-23",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '34 गाँव ठोईया का दृश्य 🔥👌' (5:28) by Dinesh Beniwal . पुराने 34 गाँव जो सन् 1984-85 के अंदर सरकार ने ख़ाली करवा दिए थे सुने पूरी कहानी 🔥👌",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "ठोईया",
+    "evidence_snippets": [
+      "Title: 34 गाँव ठोईया का दृश्य 🔥👌",
+      "Description: पुराने 34 गाँव जो सन् 1984-85 के अंदर सरकार ने ख़ाली करवा दिए थे सुने पूरी कहानी 🔥👌",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=mMw2XURWIMU",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 7 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: ठोईया",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "ठोईया"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155300Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_be1f29246477": {
+    "id": "src_be1f29246477",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=t_lja4xfpzs",
+    "url_key": "https://www.youtube.com/watch?v=t_lja4xfpzs",
+    "title": "ठोईयॉं गाँव में पाठशाला आज से 40 साल पहले की 😱👌",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-28",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'ठोईयॉं गाँव में पाठशाला आज से 40 साल पहले की 😱👌' (3:00) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: ठोईयॉं गाँव में पाठशाला आज से 40 साल पहले की 😱👌",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=t_lja4xfpzs",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 556 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155347Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_57a5defbbd1c": {
+    "id": "src_57a5defbbd1c",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=1BHVsTx8MrI",
+    "url_key": "https://www.youtube.com/watch?v=1BHVsTx8MrI",
+    "title": "ठोइया गांव में कोयले की भट्टी 🔥😱",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-27",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'ठोइया गांव में कोयले की भट्टी 🔥😱' (1:12) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "ठोइया",
+    "evidence_snippets": [
+      "Title: ठोइया गांव में कोयले की भट्टी 🔥😱",
+      "Location field: INDIA",
+      "Viewer comment: भाईजी हमारे बुजुर्गों का पुराना गांव कुम्भासर था। मेउसर, खानीसर उसके पड़ोसी गांव थे। कभी कोशिश करके उस गाँव के भी दर्शन करवाना। हम आपके आभारी रहेंगे।❤"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=1BHVsTx8MrI",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 702 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.45,
+      "reasons": [
+        "variant match: ठोइया",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "ठोइया"
+      ],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 7,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260919T155407Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_68e5c38b3c37": {
+    "id": "src_68e5c38b3c37",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=yOWjSgbLFqU",
+    "url_key": "https://www.youtube.com/watch?v=yOWjSgbLFqU",
+    "title": "थोइया गांव में पुराना कुआँ 😱🫣 #oldvillagelife #vlog #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-26",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'थोइया गांव में पुराना कुआँ 😱🫣 #oldvillagelife #vlog #shorts' (1:21) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: थोइया गांव में पुराना कुआँ 😱🫣 #oldvillagelife #vlog #shorts",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=yOWjSgbLFqU",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 325 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155424Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_1696c661cbb9": {
+    "id": "src_1696c661cbb9",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=qScxlTcJVZo",
+    "url_key": "https://www.youtube.com/watch?v=qScxlTcJVZo",
+    "title": "34 पुराना गाँव ठोइयॉं में गोबर से निपा कच्चा आँगन 😱👌",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-25",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '34 पुराना गाँव ठोइयॉं में गोबर से निपा कच्चा आँगन 😱👌' (1:18) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: 34 पुराना गाँव ठोइयॉं में गोबर से निपा कच्चा आँगन 😱👌",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qScxlTcJVZo",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 227 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155428Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_447b4d6dbf18": {
+    "id": "src_447b4d6dbf18",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=51VUCj1kJN4",
+    "url_key": "https://www.youtube.com/watch?v=51VUCj1kJN4",
+    "title": "ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-24",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife' (1:35) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife",
+      "Location field: INDIA",
+      "Viewer comment: Kya hum vaha jaa sakte hai"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=51VUCj1kJN4",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 919 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 56,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155432Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_d3fba98849a2": {
+    "id": "src_d3fba98849a2",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=vsR-ThXU7HE",
+    "url_key": "https://www.youtube.com/watch?v=vsR-ThXU7HE",
+    "title": "पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-23",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts' (1:48) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=vsR-ThXU7HE",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 83 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155436Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_b40eceaa76ef": {
+    "id": "src_b40eceaa76ef",
+    "village": "thoiya",
+    "url": "https://www.youtube.com/watch?v=pPeFHeHAA6w",
+    "url_key": "https://www.youtube.com/watch?v=pPeFHeHAA6w",
+    "title": "पुराना 34 ठोइयॉं का जोहड़ा 😱🔥 #oldvillagelife #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-22",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराना 34 ठोइयॉं का जोहड़ा 😱🔥 #oldvillagelife #shorts' (1:23) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: पुराना 34 ठोइयॉं का जोहड़ा 😱🔥 #oldvillagelife #shorts",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=pPeFHeHAA6w",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 75 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "reject",
+      "confidence": 0.2,
+      "reasons": [
+        "village name not found in captured text",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 39,
+      "band": "low",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 10,
+        "resolution_conf": 3,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155439Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

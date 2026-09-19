@@ -1,0 +1,80 @@
+{
+ "video_id": "fb1795870261114842",
+ "source_url": "https://m.facebook.com/watch/?v=1795870261114842&_rdr",
+ "credit": "Dinesh Beniwal (YouTube fb1795870261114842)",
+ "extracted": "2026-09-19",
+ "every_s": 3,
+ "rights": "Supplied by TechnoTaau Team with permission to use; original creator credited (public Facebook reel).",
+ "count": 6,
+ "frames": [
+  {
+   "file": "frames/0002s.jpg",
+   "timestamp_s": 2,
+   "timestamp": "00:02",
+   "description": "Kumbhana's kachcha (earthen) johad at dusk: the earthen embankment, khejri trees, water in the distance; overlay '34 गाँव कुम्भाना का कच्चा जोहड़ा'",
+   "tags": [
+    "water",
+    "landscape",
+    "title"
+   ],
+   "description_hi": "शाम के समय कुम्भाणा का कच्चा जोहड़ा: मिट्टी की पाळ, खेजड़ी के पेड़, दूर पानी; overlay '34 गाँव कुम्भाना का कच्चा जोहड़ा'"
+  },
+  {
+   "file": "frames/0005s.jpg",
+   "timestamp_s": 5,
+   "timestamp": "00:05",
+   "description": "Kumbhana's kachcha (earthen) johad at dusk: the earthen embankment, khejri trees, water in the distance; overlay '34 गाँव कुम्भाना का कच्चा जोहड़ा'",
+   "tags": [
+    "water",
+    "landscape",
+    "title"
+   ],
+   "description_hi": "शाम के समय कुम्भाणा का कच्चा जोहड़ा: मिट्टी की पाळ, खेजड़ी के पेड़, दूर पानी; overlay '34 गाँव कुम्भाना का कच्चा जोहड़ा'"
+  },
+  {
+   "file": "frames/0008s.jpg",
+   "timestamp_s": 8,
+   "timestamp": "00:08",
+   "description": "Sunset over the plain; a small whitewashed shrine with a parked vehicle beside it",
+   "tags": [
+    "temple",
+    "shrine",
+    "landscape"
+   ],
+   "description_hi": "मैदान पर सूर्यास्त; पास में गाड़ी के साथ छोटा सफेद मंदिर"
+  },
+  {
+   "file": "frames/0011s.jpg",
+   "timestamp_s": 11,
+   "timestamp": "00:11",
+   "description": "The embankment path of the kachcha johad at dusk, scrub and trees around",
+   "tags": [
+    "water",
+    "landscape"
+   ],
+   "description_hi": "शाम को कच्चे जोहड़े की पाळ का रास्ता, आसपास झाड़ियां और पेड़"
+  },
+  {
+   "file": "frames/0014s.jpg",
+   "timestamp_s": 14,
+   "timestamp": "00:14",
+   "description": "The embankment path of the kachcha johad at dusk, scrub and trees around",
+   "tags": [
+    "water",
+    "landscape"
+   ],
+   "description_hi": "शाम को कच्चे जोहड़े की पाळ का रास्ता, आसपास झाड़ियां और पेड़"
+  },
+  {
+   "file": "frames/0017s.jpg",
+   "timestamp_s": 17,
+   "timestamp": "00:17",
+   "description": "The embankment path of the kachcha johad at dusk, scrub and trees around",
+   "tags": [
+    "water",
+    "landscape"
+   ],
+   "description_hi": "शाम को कच्चे जोहड़े की पाळ का रास्ता, आसपास झाड़ियां और पेड़"
+  }
+ ]
+}

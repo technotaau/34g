@@ -9,19 +9,20 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 18,
-    "accepted": 12,
+    "sources_total": 23,
+    "accepted": 17,
     "context": 2,
     "review": 4,
     "rejected": 0,
     "duplicates": 0,
-    "claims": 22
+    "claims": 23
   },
   "questions": {
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
         "src_25c0bae37a23",
+        "src_2f2f7544c2f1",
         "src_4fb2da84d5a4",
         "src_967773b5f1ff",
         "src_dc27e87bee50",
@@ -44,8 +45,9 @@
       "source_ids": [
         "src_25c0bae37a23",
         "src_c37d5179aabc",
-        "src_d159880ed58d",
+        "src_2f2f7544c2f1",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_4fb2da84d5a4",
         "src_967773b5f1ff",
         "src_6606deafe9c7",
@@ -80,8 +82,8 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_d159880ed58d",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_7f98544507e3",
         "src_dc27e87bee50",
         "src_8cb8a57f3723"
@@ -91,8 +93,8 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_d159880ed58d",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_a12fca6eb70b",
         "src_7f98544507e3",
         "src_dc27e87bee50",
@@ -129,7 +131,12 @@
       "label": "वीडियो",
       "source_ids": [
         "src_25c0bae37a23",
+        "src_f74178b9169b",
+        "src_2f2f7544c2f1",
+        "src_0c58aec5caeb",
+        "src_0a8337917efc",
         "src_765e0fdc17fa",
+        "src_bdc6eae09875",
         "src_7f98544507e3"
       ]
     },
@@ -152,7 +159,9 @@
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
         "src_25c0bae37a23",
+        "src_0c58aec5caeb",
         "src_765e0fdc17fa",
+        "src_bdc6eae09875",
         "src_967773b5f1ff",
         "src_a12fca6eb70b",
         "src_8cb8a57f3723"
@@ -226,9 +235,11 @@
     "organizations": [
       "Bharat Speaks (Facebook page)",
       "Dinesh Beniwal",
+      "Dinesh Beniwal ",
       "District Collector Bikaner",
       "Ministry of Defence",
       "Panchayat Samiti Lunkaransar",
+      "Rajuram Rajuram Dhatrwal",
       "Rameshwer Godara",
       "Rssuthar Jaisalmer"
     ]
@@ -852,6 +863,27 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_oral_history_recorded_da983d4c",
+        "claim_key": "oral_history_recorded",
+        "value": "three elders interviewed on 'roli ka saal' (7 min, Oct 2025)",
+        "statement_hi": "तीन बुज़ुर्गों की 7 मिनट की बातचीत 'रोळी के साल' पर, जब घर के घर खाली हुए (दिनेश बेनीवाल, अक्टूबर 2025)",
+        "statement_en": "A 7-minute conversation with three elders about 'roli ka saal', when house after house emptied (Dinesh Beniwal, Oct 2025)",
+        "sources": [
+          "src_0c58aec5caeb"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_0c58aec5caeb",
+            "text": "title and frames"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -1030,6 +1062,219 @@
       "attribution": "Rajasthan Patrika, 5 Nov 2018",
       "is_primary": false
     },
+    "src_f74178b9169b": {
+      "url": "https://www.youtube.com/watch?v=AZ475IL2JPU",
+      "title": "पुराने 34 गांवो की बाते 👌🔥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-11-30",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=AZ475IL2JPU",
+      "is_primary": true
+    },
+    "src_2f2f7544c2f1": {
+      "url": "https://www.youtube.com/watch?v=cr-kuEiznZA",
+      "title": "महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-11-03",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "history",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=cr-kuEiznZA",
+      "is_primary": true
+    },
+    "src_0c58aec5caeb": {
+      "url": "https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+      "title": "पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2025-10-07",
+      "language": "hi",
+      "relevance": {
+        "score": 87,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 2,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal",
+          "बेनीवाल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+      "is_primary": true
+    },
+    "src_0a8337917efc": {
+      "url": "https://www.youtube.com/watch?v=jtFGuwfhXLs",
+      "title": "34 गाँव में पुराना कुआँ कितना गहरा है (पार्ट-3) 😱👌 #oldvillagelife #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-02",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=jtFGuwfhXLs",
+      "is_primary": true
+    },
     "src_765e0fdc17fa": {
       "url": "https://m.facebook.com/watch/?v=1424367825337915&_rdr",
       "title": "34 गांव के फुल वीडियो आपको मेरे Youtube Channel पर मिलेगे 👉 https://youtube.com/@choraramnagariya?si=OFE_2rfacA755b4e",
@@ -1080,6 +1325,56 @@
       ],
       "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
       "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1424367825337915&_rdr",
+      "is_primary": true
+    },
+    "src_bdc6eae09875": {
+      "url": "https://m.facebook.com/watch/?v=1593074165754643&_rdr",
+      "title": "34 गांव एरिया मे जोरदार बारिश हे",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2026-08-10",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['34 गांव', '34 गाँव']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Rajuram Rajuram Dhatrwal, Facebook, 2026, https://m.facebook.com/watch/?v=1593074165754643&_rdr",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
@@ -2008,6 +2303,132 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 18,
       "at": "2026-09-19T15:40:04.493007+00:00"
+    },
+    {
+      "run_id": "run_20260919T154804Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_fb1485439029343121.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1485439029343121 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:48:04.533811+00:00"
+    },
+    {
+      "run_id": "run_20260919T155253Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_fb1593074165754643.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1593074165754643 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 20,
+      "at": "2026-09-19T15:52:54.215859+00:00"
+    },
+    {
+      "run_id": "run_20260919T155303Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_AZ475IL2JPU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=AZ475IL2JPU on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 21,
+      "at": "2026-09-19T15:53:03.896542+00:00"
+    },
+    {
+      "run_id": "run_20260919T155307Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_cr-kuEiznZA.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=cr-kuEiznZA on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:53:07.694471+00:00"
+    },
+    {
+      "run_id": "run_20260919T155502Z",
+      "file": "research/inbox/34-gaon/video_fb1424367825337915.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1424367825337915 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:55:03.272765+00:00"
+    },
+    {
+      "run_id": "run_20260919T155503Z",
+      "file": "research/inbox/34-gaon/video_fb1485439029343121.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1485439029343121 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:55:03.684959+00:00"
+    },
+    {
+      "run_id": "run_20260919T155503Z",
+      "file": "research/inbox/34-gaon/video_fb1593074165754643.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1593074165754643 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:55:04.160810+00:00"
+    },
+    {
+      "run_id": "run_20260919T155504Z",
+      "file": "research/inbox/34-gaon/video_fb3265653753626828.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/3265653753626828 on 2026-09-17",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-19T15:55:04.629730+00:00"
+    },
+    {
+      "run_id": "run_20260919T155513Z",
+      "file": "/home/user/34g/research/inbox/34-gaon/video_jtFGuwfhXLs.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=jtFGuwfhXLs on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-19T15:55:14.156986+00:00"
     }
   ]
 }

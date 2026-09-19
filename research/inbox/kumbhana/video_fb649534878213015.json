@@ -1,0 +1,82 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/649534878213015 on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://m.facebook.com/watch/?v=649534878213015&_rdr",
+   "title": "34 गांव में डाडा पम्मा जी महाराज मंदिर पुराणा गाँव कुमाणा 👌🙏",
+   "platform": "facebook",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal (100023184678090)",
+   "published_date": "2025-09-25",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "Facebook video '34 गांव में डाडा पम्मा जी महाराज मंदिर पुराणा गाँव कुमाणा 👌🙏' (2:18) by Dinesh Beniwal. 34 गांव में डाडा पम्मा जी महाराज मंदिर पुराणा गाँव कुमाणा 👌🙏",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: 34 गांव में डाडा पम्मा जी महाराज मंदिर पुराणा गाँव कुमाणा 👌🙏",
+    "Description: 34 गांव में डाडा पम्मा जी महाराज मंदिर पुराणा गाँव कुमाणा 👌🙏"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal"
+    ]
+   },
+   "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+   "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=649534878213015&_rdr",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [
+    {
+     "claim_key": "temple_survives",
+     "value": "Dada Pamma Ram Sahib ji Maharaj temple, maintained (whitewashed, red dome, marble plaque)",
+     "statement_hi": "पुराने कुम्भाणा में डाडा पम्मा राम साहिबजी महाराज का मंदिर आज भी सुरक्षित और पुता हुआ है; समाधि पर सफेद कपड़ा और माला (सितंबर 2025)",
+     "statement_en": "The Dada Pamma Ram Sahib ji Maharaj temple at old Kumbhana is maintained: whitewashed, red dome, samadhi draped and garlanded (Sep 2025)",
+     "snippet": "frames 4-71 s; plaque text"
+    },
+    {
+     "claim_key": "temple_caretaker",
+     "value": "sevak Gomaram Mindha (marble plaque)",
+     "statement_hi": "मंदिर के पट्ट पर 'सेवक गोमाराम मिंढा' का नाम",
+     "statement_en": "The marble plaque names 'sevak Gomaram Mindha'",
+     "snippet": "plaque at 60-71 s"
+    },
+    {
+     "claim_key": "temple_plaque_samvat",
+     "value": "संवत् 18?0 (last digits unclear)",
+     "statement_hi": "द्वार के पट्ट पर 'संवत् 18?0' लिखा है (अंक अस्पष्ट)",
+     "statement_en": "The gateway plaque gives 'Samvat 18?0' (digits unclear)",
+     "snippet": "plaque at 4-15 s"
+    },
+    {
+     "claim_key": "religious_tradition",
+     "value": "Nanakpanthi iconography (Ik Onkar, Guru Nanak pictures) with Shiv-Parvati",
+     "statement_hi": "मंदिर में ੴ और गुरु नानक की तस्वीरों के साथ शिव-पार्वती की तस्वीर: नानकपंथी परंपरा का संकेत",
+     "statement_en": "Ik Onkar and Guru Nanak pictures alongside Shiv-Parvati suggest a Nanakpanthi tradition",
+     "snippet": "frames 4-41 s"
+    }
+   ],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal",
+    "uploader": "100023184678090",
+    "transcript_available": "no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb649534878213015.content.json",
+    "timestamps": "0 public comments; 58953 views; hashtags: ",
+    "frames": "23 stills in research/media/kumbhana/fb649534878213015/ (manifest.json, contact_sheet.png)"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

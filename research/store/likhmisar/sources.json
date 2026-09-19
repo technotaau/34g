@@ -1055,5 +1055,100 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_3724680d2af1": {
+    "id": "src_3724680d2af1",
+    "village": "likhmisar",
+    "url": "https://www.youtube.com/watch?v=0MBe7SkHP2M",
+    "url_key": "https://www.youtube.com/watch?v=0MBe7SkHP2M",
+    "title": "लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-10-29",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱' (0:47) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "Title: लिखमिसर 34 गांव का जोहड़ा कुआँ मंदिर 👌😱",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=0MBe7SkHP2M",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 703 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Beniwal']",
+        "agent: village not directly named"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 54,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T155342Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

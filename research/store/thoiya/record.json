@@ -14,11 +14,11 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 8,
-    "accepted": 5,
-    "context": 2,
-    "review": 0,
-    "rejected": 0,
+    "sources_total": 17,
+    "accepted": 6,
+    "context": 5,
+    "review": 1,
+    "rejected": 4,
     "duplicates": 1,
     "claims": 12
   },
@@ -95,7 +95,12 @@
       "label": "वीडियो",
       "source_ids": [
         "src_e6b8fda3434a",
-        "src_89ff7bb6e254"
+        "src_dd34bbda92ad",
+        "src_57a5defbbd1c",
+        "src_447b4d6dbf18",
+        "src_89ff7bb6e254",
+        "src_d3fba98849a2",
+        "src_65c3025b85de"
       ]
     },
     "audio": {
@@ -110,7 +115,8 @@
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
         "src_e6b8fda3434a",
-        "src_89ff7bb6e254"
+        "src_89ff7bb6e254",
+        "src_65c3025b85de"
       ]
     },
     "gov": {
@@ -165,6 +171,7 @@
     "organizations": [
       "Defence Ministry / रक्षा मंत्रालय",
       "Dinesh Beniwal",
+      "Dinesh Beniwal ",
       "Indian Army"
     ]
   },
@@ -420,7 +427,20 @@
       }
     ]
   },
-  "manual_review": [],
+  "manual_review": [
+    {
+      "id": "src_57a5defbbd1c",
+      "url": "https://www.youtube.com/watch?v=1BHVsTx8MrI",
+      "title": "ठोइया गांव में कोयले की भट्टी 🔥😱",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: ठोइया",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    }
+  ],
   "sources": {
     "src_e6b8fda3434a": {
       "url": "https://m.facebook.com/watch/?v=851985674182311&_rdr",
@@ -546,6 +566,57 @@
       "attribution": "Rajasthan Patrika, Hari Singh, 29 Nov 2022",
       "is_primary": true
     },
+    "src_dd34bbda92ad": {
+      "url": "https://www.youtube.com/watch?v=mMw2XURWIMU",
+      "title": "34 गाँव ठोईया का दृश्य 🔥👌",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-23",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: ठोईया",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "ठोईया"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=mMw2XURWIMU",
+      "is_primary": true
+    },
     "src_07585bc5b0e8": {
       "url": "https://www.jatland.com/home/Thoiya",
       "title": "Thoiya - Jatland Wiki",
@@ -662,6 +733,54 @@
       "attribution": "Jatland Wiki, Dhatarwal page",
       "is_primary": false
     },
+    "src_57a5defbbd1c": {
+      "url": "https://www.youtube.com/watch?v=1BHVsTx8MrI",
+      "title": "ठोइया गांव में कोयले की भट्टी 🔥😱",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-27",
+      "language": "hi",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 7,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.45,
+        "reasons": [
+          "variant match: ठोइया",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "ठोइया"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=1BHVsTx8MrI",
+      "is_primary": true
+    },
     "src_6fa7bc3651b0": {
       "url": "http://wikimapia.org/10793488/Thoiya",
       "title": "Thoiya - Wikimapia",
@@ -712,6 +831,56 @@
       "attribution": "Wikimapia contributors",
       "is_primary": false
     },
+    "src_447b4d6dbf18": {
+      "url": "https://www.youtube.com/watch?v=51VUCj1kJN4",
+      "title": "ठोईयॉं 34 गाँव में देख लो किनका घर कहाँ हुआ करता था 👌🔥 #oldvillagelife",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-24",
+      "language": "hi",
+      "relevance": {
+        "score": 56,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=51VUCj1kJN4",
+      "is_primary": true
+    },
     "src_89ff7bb6e254": {
       "url": "https://m.facebook.com/watch/?v=1325760895182496&_rdr",
       "title": "34 गाँव ठोइयॉं में कच्चे घर और पंच भाइयों के घर 👌😱",
@@ -760,6 +929,106 @@
       ],
       "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
       "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1325760895182496&_rdr",
+      "is_primary": true
+    },
+    "src_d3fba98849a2": {
+      "url": "https://www.youtube.com/watch?v=vsR-ThXU7HE",
+      "title": "पुराना 34 गाँव ठोइयॉं में पंच भाइयो के घर 😱👌 #oldvillagelife #vlog #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-10-23",
+      "language": "hi",
+      "relevance": {
+        "score": 54,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=vsR-ThXU7HE",
+      "is_primary": true
+    },
+    "src_65c3025b85de": {
+      "url": "https://m.facebook.com/watch/?v=2095882537884310&_rdr",
+      "title": "34 गाँव ठोइयॉं में पाठशाला आज भी ब्लैक बोर्ड मौजूद पड़ा है और कुछ दीवारों पर लिखे इंग्लिश में नाम 😱",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2025-10-23",
+      "language": "hi",
+      "relevance": {
+        "score": 53,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=2095882537884310&_rdr",
       "is_primary": true
     },
     "src_a6f66da51d72": {
@@ -907,6 +1176,132 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 8,
       "at": "2026-09-19T15:47:32.709495+00:00"
+    },
+    {
+      "run_id": "run_20260919T154856Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_fb2095882537884310.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/2095882537884310 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 9,
+      "at": "2026-09-19T15:48:56.849188+00:00"
+    },
+    {
+      "run_id": "run_20260919T155300Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_mMw2XURWIMU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=mMw2XURWIMU on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 10,
+      "at": "2026-09-19T15:53:00.824514+00:00"
+    },
+    {
+      "run_id": "run_20260919T155347Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_t_lja4xfpzs.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=t_lja4xfpzs on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 11,
+      "at": "2026-09-19T15:53:48.394533+00:00"
+    },
+    {
+      "run_id": "run_20260919T155407Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_1BHVsTx8MrI.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=1BHVsTx8MrI on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 12,
+      "at": "2026-09-19T15:54:08.129801+00:00"
+    },
+    {
+      "run_id": "run_20260919T155424Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_yOWjSgbLFqU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=yOWjSgbLFqU on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 13,
+      "at": "2026-09-19T15:54:25.287819+00:00"
+    },
+    {
+      "run_id": "run_20260919T155428Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_qScxlTcJVZo.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=qScxlTcJVZo on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 14,
+      "at": "2026-09-19T15:54:29.046248+00:00"
+    },
+    {
+      "run_id": "run_20260919T155432Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_51VUCj1kJN4.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=51VUCj1kJN4 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 15,
+      "at": "2026-09-19T15:54:32.761747+00:00"
+    },
+    {
+      "run_id": "run_20260919T155436Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_vsR-ThXU7HE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=vsR-ThXU7HE on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 16,
+      "at": "2026-09-19T15:54:36.681655+00:00"
+    },
+    {
+      "run_id": "run_20260919T155439Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_pPeFHeHAA6w.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=pPeFHeHAA6w on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 17,
+      "at": "2026-09-19T15:54:39.644779+00:00"
     }
   ]
 }
