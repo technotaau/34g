@@ -79,5 +79,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 16,
     "at": "2026-09-17T18:30:00.743843+00:00"
+  },
+  {
+    "run_id": "run_20260919T153520Z",
+    "file": "research/inbox/34-gaon/fb_dharamveer_godara_post.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "Facebook post link supplied by TechnoTaau Team, 19 Sep 2026; page returns HTTP 400 to automated reads (not bypassed). Five photos arrived in the shared Drive folder minutes later; recorded under the umbrella unit until the village is confirmed.",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 17,
+    "at": "2026-09-19T15:35:20.551300+00:00"
   }
 ]

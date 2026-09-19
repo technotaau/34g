@@ -178,6 +178,8 @@ def pick_stills(manifest_path: Path) -> dict:
         "needs_permission": needs_permission,
         "frames": chosen,
         "total": len(d.get("frames", [])),
+        "kind": d.get("media_kind", "video"),
+        "pending_village": "confirm" in rights.lower() and "village" in rights.lower(),
     }
 
 
@@ -542,7 +544,8 @@ class Site:
         strip_html = ""
         for slug, vid, f in picked[:12]:
             src = self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)
-            strip_html += f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" src="{src}" alt="{esc(f["description"])}"></a><figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b>{esc(f["description"])}<span class="cr">{esc(vid["credit"])}</span></figcaption></figure>'
+            cap = f.get("description_hi") or f["description"]
+            strip_html += f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" src="{src}" alt="{esc(cap)}"></a><figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b>{esc(cap)}<span class="cr">{esc(vid["credit"])}</span></figcaption></figure>'
         band = self.best_still("berawala") or self.best_still("kanolai")
         band_img = f'<img loading="lazy" src="{self.images.src(band["vid"]["dir"] / band["frame"]["file"], band["vid"]["slug"], band["vid"]["video_id"], 1280, depth)}" alt="">' if band else ""
         return f"""
@@ -663,7 +666,7 @@ class Site:
         best = self.best_still(slug, prefer_people=True)
         if best:
             src = self.images.src(best["vid"]["dir"] / best["frame"]["file"], slug, best["vid"]["video_id"], 1600, depth)
-            bg = f'<img class="bg" src="{src}" alt="{esc(best["frame"]["description"])}" fetchpriority="high">'
+            bg = f'<img class="bg" src="{src}" alt="{esc(best["frame"].get("description_hi") or best["frame"]["description"])}" fetchpriority="high">'
             credit = f'<p class="credit">तस्वीर: {esc(best["vid"]["credit"])}</p>'
             cls = "vhead"
         else:
@@ -762,10 +765,13 @@ class Site:
         figs = []
         for f in vid["frames"]:
             src = self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)
-            figs.append(f'<figure><img loading="lazy" src="{src}" alt="{esc(f["description"])}"><figcaption><span class="t">{esc(f.get("timestamp",""))}</span>{esc(f["description"])}</figcaption></figure>')
+            cap = f.get("description_hi") or f["description"]
+            figs.append(f'<figure><img loading="lazy" src="{src}" alt="{esc(cap)}"><figcaption><span class="t">{esc(f.get("timestamp",""))}</span>{esc(cap)}</figcaption></figure>')
         url = vid["url"]
-        link = f'<a href="{esc(url)}" rel="noopener">मूल वीडियो</a>' if url.startswith("http") else ""
+        link = f'<a href="{esc(url)}" rel="noopener">{"मूल पोस्ट" if vid.get("kind") == "photos" else "मूल वीडियो"}</a>' if url.startswith("http") else ""
         note = '<span class="badge b-todo">लोगों वाली तस्वीरें अनुमति के बाद</span>' if vid["needs_permission"] else ""
+        if vid.get("pending_village"):
+            note += ' <span class="badge b-todo">गांव की पुष्टि बाकी</span>'
         title = vid["title"] or vid["credit"]
         credit = f'<span class="small muted">{esc(vid["credit"])}</span>' if vid["title"] else ""
         if figs:

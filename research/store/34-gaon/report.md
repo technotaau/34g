@@ -2,7 +2,7 @@
 
 **स्थिति:** umbrella · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 16, स्वीकृत 11, पृष्ठभूमि (context) 1, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 22
+स्रोत: कुल 17, स्वीकृत 11, पृष्ठभूमि (context) 2, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 22
 
 > Umbrella research unit for the whole displacement; sources here are shared by all villages.
 
@@ -55,10 +55,10 @@
   - महाजन फील्ड फायरिंग रेंज से विस्थापित परिवारों को भूमि आवंटन का नियम 20B, 9 सितम्बर 1977 को जोड़ा गया (2007 में पुनः अधिसूचित)।
 - [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
   - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 83)
@@ -85,10 +85,12 @@
   - उच्च न्यायालय: लूणकरणसर तहसील के 33 गांवों की भूमि 1983-84 में राजस्थान सरकार द्वारा अधिग्रहित; नकद मुआवजा और अन्य तहसीलों में समान भूमि का प्रस्ताव; 23.11.1985 की अधिसूचना से उपनिवेशन आयुक्त को आवंटन शक्ति।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 83)
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
+- [धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)](https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl) (social · social_post · तिथि अज्ञात · स्कोर 45 · पृष्ठभूमि स्रोत) · लाइसेंस: public post; photos supplied by TechnoTaau Team with permission to use
+  - पोस्ट का पाठ नहीं पढ़ा जा सका। साथ में मिली 5 तस्वीरें महाजन फील्ड फायरिंग रेंज के किसी उजड़े गांव की हैं: चूने का पक्का कुआं और पशुओं की खेळी, भरा हुआ तालाब जिसके किनारे ऊंट और जाल का पेड़, तालाब के पास सफेद देवली और पत्थर की दीवारों के खंडहर, घरों के निशान वाला रेतीला मैदान, और कुएं के अंदर का दृश
 
 ### त्योहार व परंपराएं
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -99,10 +101,12 @@
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
   - रेंज के आस-पास के गांव आज भी बहुत पिछड़े हैं; ज़्यादातर लोग झोंपड़-पट्टियों में रहते हैं। फोटो: रेत के बीच दो छप्पर वाली मिट्टी की झोंपड़ियां (झोंपड़ा), एक गाय, खेजड़ी, दूर पक्का मकान।
-- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
-  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.](https://www.youtube.com/watch?v=20Dj1Nd3Gyw) (video · video · 2025-01-29 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Bhuriya Baba Temple _South Camp Mahadeowali _Mahajan fild firing range Lunkaransar Military Area.' (6:23) by Rssuthar Jaisalmer. Bhuriya Baba Temple, South Camp Mahadeowali _20190117_103714 Kanolai Hukmiro, Abkari Sahab (Gorakh Yogi Moter, , Menpal Rebari Moter i& I am Rssuthar Jaisal
+- [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
+  - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
+- [धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)](https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl) (social · social_post · तिथि अज्ञात · स्कोर 45 · पृष्ठभूमि स्रोत) · लाइसेंस: public post; photos supplied by TechnoTaau Team with permission to use
+  - पोस्ट का पाठ नहीं पढ़ा जा सका। साथ में मिली 5 तस्वीरें महाजन फील्ड फायरिंग रेंज के किसी उजड़े गांव की हैं: चूने का पक्का कुआं और पशुओं की खेळी, भरा हुआ तालाब जिसके किनारे ऊंट और जाल का पेड़, तालाब के पास सफेद देवली और पत्थर की दीवारों के खंडहर, घरों के निशान वाला रेतीला मैदान, और कुएं के अंदर का दृश
 
 ### भूमि, खेती, पशुपालन, नहर
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
@@ -125,6 +129,8 @@
   - नाथू धतरवाल (1349) ने बादेरा के आसपास 12 गांव बसाए: खिंयाणा, सुलेरा, भिखनेरा, कुंभाणा, कोलाणा, अजीतवाणा, लाडेरा, भानाबस्ती, मेघाणा, मनेरा, ठोईया, नाथौर; 9 गांव 1981-86 में खाली कराए गए; विस्थापित संसारदेसर, करणीसर, कृष्णनगर, तख्तपुरा, सामरथा, वारानी, नाथुसर वास में बसे।
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) (news · text · 2025-02-14 · स्कोर 53 · समीक्षा हेतु)
   - 148 आवंटन प्रकरण लंबित; लगभग 350 किसान वन विभाग की भूमि से टकराव में फंसे; 17 जनवरी 2025 को उपनिवेशन विभाग की शक्तियां वापस।
+- [धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)](https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl) (social · social_post · तिथि अज्ञात · स्कोर 45 · पृष्ठभूमि स्रोत) · लाइसेंस: public post; photos supplied by TechnoTaau Team with permission to use
+  - पोस्ट का पाठ नहीं पढ़ा जा सका। साथ में मिली 5 तस्वीरें महाजन फील्ड फायरिंग रेंज के किसी उजड़े गांव की हैं: चूने का पक्का कुआं और पशुओं की खेळी, भरा हुआ तालाब जिसके किनारे ऊंट और जाल का पेड़, तालाब के पास सफेद देवली और पत्थर की दीवारों के खंडहर, घरों के निशान वाला रेतीला मैदान, और कुएं के अंदर का दृश
 
 ### शिक्षा व विद्यालय
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
@@ -149,13 +155,14 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [Rule 20B, Rajasthan Land Revenue (Allotment of Land for Agricultural Purposes) Rules 1970](https://indiankanoon.org/doc/86733848/) (legal · document · 1977-09-09 · स्कोर 68 · समीक्षा हेतु)
 - [जाट धतरवाल इतिहास (Hindi Wikipedia user page)](https://hi.wikipedia.org/wiki/सदस्य:धतरवाल_जाट) (encyclopedia · text · तिथि अज्ञात · स्कोर 56)
 
-### सार्वजनिक सोशल मीडिया स्रोत (3)
+### सार्वजनिक सोशल मीडिया स्रोत (4)
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Rameshwer Godara · uploader: 100011596120309 · transcript_available: Hindi narration, Whisper small readable (14 segments, cleaned reading in evidence) · timestamps: 0 public comments; 1442 views; hashtags: 
 - [Bharat Speaks: 'महाजन फील्ड फायरिंग रेंज के 34 गांव, क्या किसी को पूरे नाम याद हैं?' और comments में 34 गांवों की सूची](https://www.facebook.com/ (Bharat Speaks page, post of 31 Aug 2025; URL not captured)) (social · social_post · 2025-08-31 · स्कोर 75) · लाइसेंस: Facebook post; page's copyright
   - creator: unnamed commenter · timestamps: 2 images; file not retained
 - [आर के परिहार: रेंज के आस-पास के गांव आज भी झोंपड़ियों में (Facebook post)](https://www.facebook.com/ (R K Parihar, post of 28 May, URL not captured)) (social · social_post · 2026-05-28 · स्कोर 62 · समीक्षा हेतु) · लाइसेंस: Facebook post; poster's copyright
   - creator: R K Parihar · timestamps: 1 photo; file not retained
+- [धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)](https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl) (social · social_post · तिथि अज्ञात · स्कोर 45 · पृष्ठभूमि स्रोत) · लाइसेंस: public post; photos supplied by TechnoTaau Team with permission to use
 
 ### सरकारी / कानूनी अभिलेख (6)
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)
@@ -172,8 +179,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ## निकाले गए नाम (entities)
 
-- **people:** Manphool Singh Chaudhary, R K Parihar (poster), Rameshwer Godara (narrator/poster), Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
-- **places:** Chidasar, Lunkaransar, Meusar, all 32 listed villages, villages around MFFR, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
+- **people:** Dharamveer Godara (poster), Manphool Singh Chaudhary, R K Parihar (poster), Rameshwer Godara (narrator/poster), Shivraj V. Patil, नाथू धतरवाल, बजरंगलाल लखोटिया, राजूराम शर्मा, रूपा गोदारा
+- **places:** Chidasar, Lunkaransar, Meusar, all 32 listed villages, village pond, village well, villages around MFFR, whitewashed shrine by the pond, करणीसर, कुम्भाणा, कृष्णनगर, खाजूवाला, खानीसर, ठोईयां, तख्तपुरा, दंतौर, दुदेर, नाचना, नाथुसर वास, पूगल, बादेरा, भोजरासर, मणेरां, मोटलाई, मोहनगढ़, वारानी, संसारदेसर, सामरथा
 - **events:** होलिका दहन कुम्भाणा
 - **organizations:** Bharat Speaks (Facebook page), District Collector Bikaner, Ministry of Defence, Panchayat Samiti Lunkaransar, Rameshwer Godara, Rssuthar Jaisalmer
 
@@ -230,3 +237,4 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [देश के लिए भूमि देकर 40 साल से भटक रहे किसान, नहीं मिली जमीन](https://www.patrika.com/bikaner-news/farmers-have-been-wandering-for-40-years-after-giving-their-land-for-the-country-19397378) · patrika · news · स्कोर 53 · रिज़ॉल्यूशन review (0.35) · खोज: महाजन फायरिंग रेंज विस्थापित आवंटन
 - [Kumbhana thikana (rajputs.net)](https://rajputs.net/view/kumbhana) · rajputs.net · community_wiki · स्कोर 51 · रिज़ॉल्यूशन accept (0.6) · खोज: Kumbhana thikana
 - [Mahajan Field Firing Ranges polygon (OpenStreetMap way 412765540)](https://www.openstreetmap.org/way/412765540) · osm · website · स्कोर 49 · रिज़ॉल्यूशन review (0.5) · खोज: Mahajan Field Firing Range openstreetmap
+- [धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)](https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl) · facebook · social · स्कोर 45 · रिज़ॉल्यूशन context (0.5) · खोज: post link supplied by TechnoTaau Team

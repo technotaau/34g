@@ -1720,5 +1720,109 @@
     ],
     "notes": "This is the first full-ish list of the 34 found anywhere. It is community memory, not an official record: cross-check each name against the 1981 census handbook / acquisition notifications. Names absent from our earlier registry: 21 new; names in our registry but absent from the list: Chidasar, Meusar (probably = मेहुसर), Kolana (probably = कनलाई?), Ajeetwana, Bhanabasti, Nathor. Kolana vs Kanolai: the list has only कनलाई, supporting the earlier guess that they are one village.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026)"
+  },
+  "src_8cb8a57f3723": {
+    "id": "src_8cb8a57f3723",
+    "village": "34-gaon",
+    "url": "https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl",
+    "url_key": "https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl",
+    "title": "धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)",
+    "platform": "facebook",
+    "source_type": "social",
+    "media_type": "social_post",
+    "author": "Dharamveer Godara (public profile dharamveer.godara.2)",
+    "published_date": "",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "post link supplied by TechnoTaau Team"
+    ],
+    "summary": "पोस्ट का पाठ नहीं पढ़ा जा सका। साथ में मिली 5 तस्वीरें महाजन फील्ड फायरिंग रेंज के किसी उजड़े गांव की हैं: चूने का पक्का कुआं और पशुओं की खेळी, भरा हुआ तालाब जिसके किनारे ऊंट और जाल का पेड़, तालाब के पास सफेद देवली और पत्थर की दीवारों के खंडहर, घरों के निशान वाला रेतीला मैदान, और कुएं के अंदर का दृश्य। गांव का नाम पूछा गया है।",
+    "topics": [
+      "displacement",
+      "land_agriculture",
+      "land_water",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "महाजन फील्ड फायरिंग रेंज",
+      "34 गांव"
+    ],
+    "direct_mention": false,
+    "name_form_matched": "",
+    "evidence_snippets": [
+      "5 photos in the shared Drive folder (Facebook CDN names 483495661_1051059690397220_n.jpg etc.)"
+    ],
+    "entities": {
+      "people": [
+        "Dharamveer Godara (poster)"
+      ],
+      "places": [
+        "village well",
+        "village pond",
+        "whitewashed shrine by the pond"
+      ],
+      "events": [],
+      "organizations": []
+    },
+    "license": "public post; photos supplied by TechnoTaau Team with permission to use",
+    "attribution": "Dharamveer Godara (Facebook)",
+    "is_primary": true,
+    "reliability": 0.35,
+    "related_villages": [],
+    "media": {
+      "photos": 5,
+      "local_dir": "research/media/34-gaon/fb_dharamveer_godara_photos"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "context",
+      "confidence": 0.5,
+      "reasons": [
+        "village name not found in captured text",
+        "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['Godara', 'गोदारा']"
+      ],
+      "matched_names": [],
+      "geo_hits": [
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Godara",
+        "गोदारा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 45,
+      "band": "medium",
+      "factors": {
+        "name_match": 0,
+        "geo_match": 20,
+        "resolution_conf": 8,
+        "credibility": 5,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 0,
+        "media": 0,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260919T153520Z"
+    ],
+    "notes": "Files: 01 well+trough+camels, 02 pond+camels+jaal, 03 white shrine by pond, 04 sandy plain with mounds, 05 inside the well.",
+    "consent": "granted by TechnoTaau Team"
   }
 }

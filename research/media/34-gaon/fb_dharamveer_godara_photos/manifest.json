@@ -1,0 +1,82 @@
+{
+ "video_id": "fb_dharamveer_godara_photos",
+ "media_kind": "photos",
+ "source_url": "https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl",
+ "credit": "Dharamveer Godara (Facebook post; village and date to be confirmed)",
+ "extracted": "2026-09-19",
+ "rights": "Supplied by TechnoTaau Team with permission to use; original poster credited. Village not yet confirmed: files came from the shared Drive folder on 19 Sep 2026 right after the Dharamveer Godara post link, and the five Facebook CDN file names share one album prefix (10510597.../1051060033...), so they are recorded as that post's photos pending confirmation.",
+ "drive_files": {
+  "01_well-trough-camels.jpg": "1VCbFGR-Be3XXNFZQiiygRHZV0CQN7gR7 (483495661_1051059690397220_n.jpg)",
+  "02_pond-camels-jaal-tree.jpg": "1ZFI7MSGSbGPAXsKuUzCGuL-ZJVBtC7Q2 (483709091_1051060033730519_n.jpg)",
+  "03_white-shrine-by-pond.jpg": "1fkPGBxT-Q14eGNh6YhSQqlchdf7pPUP8 (483869452_1051059697063886_n.jpg)",
+  "04_sandy-plain-mounds.jpg": "1uet7B4dXp-vd2bwjpOd569hyLmDuQMvQ (483886521_1051059853730537_n.jpg)",
+  "05_inside-the-well.jpg": "1vI98bdfDAhEDpAra4yCBmNOapzGI5p-h (484439754_1051059727063883_n.jpg)"
+ },
+ "count": 5,
+ "frames": [
+  {
+   "file": "frames/01_well-trough-camels.jpg",
+   "description": "Lime-plastered village well with a masonry cattle trough (khel) on a bare plain; a herd of camels and standing water behind",
+   "description_hi": "चूने से पुता पक्का कुआं और पशुओं के पानी की खेळी; पीछे ऊंटों का झुंड और तालाब का पानी",
+   "tags": [
+    "water",
+    "well",
+    "ruins",
+    "livestock",
+    "landscape"
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "frames/02_pond-camels-jaal-tree.jpg",
+   "description": "Village pond full of water, camels on the far shore, a large jaal tree at the water's edge, a broken mud wall in front",
+   "description_hi": "पानी से भरा गांव का तालाब, दूर किनारे ऊंट, पानी के किनारे बड़ा जाल का पेड़, आगे मिट्टी की टूटी दीवार",
+   "tags": [
+    "water",
+    "livestock",
+    "landscape",
+    "ruins"
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "frames/03_white-shrine-by-pond.jpg",
+   "description": "Small whitewashed shrine with a pointed spire and stone-wall ruins beside the pond; a big jaal tree behind",
+   "description_hi": "तालाब के किनारे सफेद पुता छोटा मंदिर (देवली) और पत्थर की दीवारों के खंडहर; पीछे बड़ा जाल का पेड़",
+   "tags": [
+    "temple",
+    "shrine",
+    "ruins",
+    "water",
+    "landscape"
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "frames/04_sandy-plain-mounds.jpg",
+   "description": "Sandy plain of the old village with low mounds (house traces) and scrub to the horizon; photographer's shadow in front",
+   "description_hi": "पुराने गांव का रेतीला मैदान, घरों के निशान वाले टीले, दूर तक झाड़ियां",
+   "tags": [
+    "landscape",
+    "ruins"
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "frames/05_inside-the-well.jpg",
+   "description": "Looking down into the well: lime-stone masonry shaft, collapsed blocks and dry branches across the mouth",
+   "description_hi": "कुएं के अंदर का दृश्य: चूने-पत्थर की चिनाई, गिरे हुए ब्लॉक और मुंह पर सूखी टहनियां",
+   "tags": [
+    "water",
+    "well",
+    "ruins"
+   ],
+   "width": 720,
+   "height": 960
+  }
+ ]
+}

@@ -9,9 +9,9 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 16,
+    "sources_total": 17,
     "accepted": 11,
-    "context": 1,
+    "context": 2,
     "review": 4,
     "rejected": 0,
     "duplicates": 0,
@@ -52,10 +52,11 @@
         "src_38f66d790796",
         "src_064a2acb392d",
         "src_a12fca6eb70b",
-        "src_dc27e87bee50",
         "src_7f98544507e3",
+        "src_dc27e87bee50",
         "src_56bd5f269706",
-        "src_0e0757dd116a"
+        "src_0e0757dd116a",
+        "src_8cb8a57f3723"
       ]
     },
     "people": {
@@ -81,8 +82,9 @@
         "src_25c0bae37a23",
         "src_d159880ed58d",
         "src_a5150b8b1d53",
+        "src_7f98544507e3",
         "src_dc27e87bee50",
-        "src_7f98544507e3"
+        "src_8cb8a57f3723"
       ]
     },
     "festivals": {
@@ -92,8 +94,9 @@
         "src_d159880ed58d",
         "src_a5150b8b1d53",
         "src_a12fca6eb70b",
+        "src_7f98544507e3",
         "src_dc27e87bee50",
-        "src_7f98544507e3"
+        "src_8cb8a57f3723"
       ]
     },
     "land": {
@@ -108,7 +111,8 @@
         "src_064a2acb392d",
         "src_a12fca6eb70b",
         "src_dc27e87bee50",
-        "src_56bd5f269706"
+        "src_56bd5f269706",
+        "src_8cb8a57f3723"
       ]
     },
     "education": {
@@ -148,7 +152,8 @@
       "source_ids": [
         "src_25c0bae37a23",
         "src_967773b5f1ff",
-        "src_a12fca6eb70b"
+        "src_a12fca6eb70b",
+        "src_8cb8a57f3723"
       ]
     },
     "gov": {
@@ -173,6 +178,7 @@
   },
   "entities": {
     "people": [
+      "Dharamveer Godara (poster)",
       "Manphool Singh Chaudhary",
       "R K Parihar (poster)",
       "Rameshwer Godara (narrator/poster)",
@@ -187,7 +193,10 @@
       "Lunkaransar",
       "Meusar",
       "all 32 listed villages",
+      "village pond",
+      "village well",
       "villages around MFFR",
+      "whitewashed shrine by the pond",
       "करणीसर",
       "कुम्भाणा",
       "कृष्णनगर",
@@ -1774,6 +1783,64 @@
       "license": "ODbL, (c) OpenStreetMap contributors",
       "attribution": "OpenStreetMap contributors",
       "is_primary": false
+    },
+    "src_8cb8a57f3723": {
+      "url": "https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl",
+      "title": "धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "social_post",
+      "published_date": "",
+      "language": "hi",
+      "relevance": {
+        "score": 45,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 0,
+          "media": 0,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Godara', 'गोदारा']"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Godara",
+          "गोदारा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "land_agriculture",
+        "land_water",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "public post; photos supplied by TechnoTaau Team with permission to use",
+      "attribution": "Dharamveer Godara (Facebook)",
+      "is_primary": true
     }
   },
   "shared_umbrella_sources": [],
@@ -1858,6 +1925,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 16,
       "at": "2026-09-17T18:30:00.743843+00:00"
+    },
+    {
+      "run_id": "run_20260919T153520Z",
+      "file": "research/inbox/34-gaon/fb_dharamveer_godara_post.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "Facebook post link supplied by TechnoTaau Team, 19 Sep 2026; page returns HTTP 400 to automated reads (not bypassed). Five photos arrived in the shared Drive folder minutes later; recorded under the umbrella unit until the village is confirmed.",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 17,
+      "at": "2026-09-19T15:35:20.551300+00:00"
     }
   ]
 }

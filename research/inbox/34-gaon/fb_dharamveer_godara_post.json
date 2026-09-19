@@ -1,0 +1,65 @@
+{
+ "village": "34-gaon",
+ "agent_notes": "Facebook post link supplied by TechnoTaau Team, 19 Sep 2026; page returns HTTP 400 to automated reads (not bypassed). Five photos arrived in the shared Drive folder minutes later; recorded under the umbrella unit until the village is confirmed.",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "34-gaon",
+   "url": "https://www.facebook.com/dharamveer.godara.2/posts/pfbid0kREz1VzwrXV46fSKzn8a9R6rGMM111cVKCBHr8VbPeYC2a44iGrBvPxZmEVTAZfgl",
+   "title": "धर्मवीर गोदारा: उजड़े गांव के कुएं, तालाब और देवली की 5 तस्वीरें (Facebook post; गांव और तारीख की पुष्टि बाकी)",
+   "platform": "facebook",
+   "source_type": "social",
+   "media_type": "social_post",
+   "author": "Dharamveer Godara (public profile dharamveer.godara.2)",
+   "published_date": null,
+   "language": "hi",
+   "found_by_query": "post link supplied by TechnoTaau Team",
+   "summary": "पोस्ट का पाठ नहीं पढ़ा जा सका। साथ में मिली 5 तस्वीरें महाजन फील्ड फायरिंग रेंज के किसी उजड़े गांव की हैं: चूने का पक्का कुआं और पशुओं की खेळी, भरा हुआ तालाब जिसके किनारे ऊंट और जाल का पेड़, तालाब के पास सफेद देवली और पत्थर की दीवारों के खंडहर, घरों के निशान वाला रेतीला मैदान, और कुएं के अंदर का दृश्य। गांव का नाम पूछा गया है।",
+   "topics": [
+    "displacement",
+    "religion_temple",
+    "land_water",
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "महाजन फील्ड फायरिंग रेंज",
+    "34 गांव"
+   ],
+   "direct_mention": false,
+   "name_form_matched": null,
+   "evidence_snippets": [
+    "5 photos in the shared Drive folder (Facebook CDN names 483495661_1051059690397220_n.jpg etc.)"
+   ],
+   "entities": {
+    "people": [
+     "Dharamveer Godara (poster)"
+    ],
+    "places": [
+     "village well",
+     "village pond",
+     "whitewashed shrine by the pond"
+    ],
+    "events": [],
+    "organizations": []
+   },
+   "license": "public post; photos supplied by TechnoTaau Team with permission to use",
+   "attribution": "Dharamveer Godara (Facebook)",
+   "consent": "granted by TechnoTaau Team",
+   "is_primary": true,
+   "reliability": "community",
+   "related_villages": [],
+   "media": {
+    "photos": 5,
+    "local_dir": "research/media/34-gaon/fb_dharamveer_godara_photos"
+   },
+   "claims": [],
+   "review_flags": [
+    "village_unknown",
+    "text_not_captured",
+    "date_unknown"
+   ],
+   "notes": "Files: 01 well+trough+camels, 02 pond+camels+jaal, 03 white shrine by pond, 04 sandy plain with mounds, 05 inside the well."
+  }
+ ]
+}
