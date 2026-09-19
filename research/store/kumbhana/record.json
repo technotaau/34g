@@ -14,8 +14,8 @@
   },
   "built": "2026-09-19",
   "counts": {
-    "sources_total": 16,
-    "accepted": 9,
+    "sources_total": 19,
+    "accepted": 12,
     "context": 4,
     "review": 3,
     "rejected": 0,
@@ -53,6 +53,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_62925478178a",
         "src_8afca068e2a6",
         "src_31f3ca85e9a1",
         "src_da93acd53623",
@@ -71,6 +72,7 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_a5150b8b1d53",
+        "src_1550959b438a",
         "src_31f3ca85e9a1",
         "src_7e5271a5b93e",
         "src_2555ff299cb7",
@@ -82,6 +84,7 @@
       "source_ids": [
         "src_a5150b8b1d53",
         "src_8afca068e2a6",
+        "src_1550959b438a",
         "src_31f3ca85e9a1",
         "src_7e5271a5b93e",
         "src_2555ff299cb7",
@@ -111,9 +114,12 @@
       "source_ids": [
         "src_99ea53c3e2c8",
         "src_4d0095e05cdf",
+        "src_62925478178a",
         "src_3a0af153cf56",
         "src_9583dac46a42",
+        "src_1550959b438a",
         "src_44794c31acb6",
+        "src_8d6757cdb0de",
         "src_ef7a1980ce33",
         "src_079324b8685c",
         "src_7e5271a5b93e",
@@ -843,6 +849,59 @@
       "attribution": "Rajasthan Patrika, Loonaram Verma, 2022-11-29",
       "is_primary": true
     },
+    "src_62925478178a": {
+      "url": "https://www.youtube.com/watch?v=TiSdh8Pz-hE",
+      "title": "पुराणा 34 गाँव कुम्भाना का गढ़ कितना शानदार था 40 साल पहले 😱🔥 (पार्ट-2) #villagelife #34gaav",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-27",
+      "language": "hi",
+      "relevance": {
+        "score": 90,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कुम्भाणा",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कुम्भाणा",
+          "कुम्भाना"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "people_family"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=TiSdh8Pz-hE",
+      "is_primary": true
+    },
     "src_8afca068e2a6": {
       "url": "https://www.facebook.com/ (Pradeep Soni, post of 31 Jan 2021 at 'Field Firing Range Mahajan', with Mahender Soni and 16 others; URL not captured)",
       "title": "प्रदीप सोनी: पापा के साथ पुश्तैनी गांव कुम्भाणा (Facebook post, 31 Jan 2021)",
@@ -1009,6 +1068,58 @@
       "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=iH6Pty_wd0c",
       "is_primary": true
     },
+    "src_1550959b438a": {
+      "url": "https://www.youtube.com/watch?v=whbT1X3urU0",
+      "title": "पुराणा 34 गाँव कुम्भाना में डाडा पम्मा जी महाराज का मंदिर 👌🙏 (पार्ट-4) #oldvillagelife #34gaav",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-29",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: कुम्भाना",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कुम्भाना"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=whbT1X3urU0",
+      "is_primary": true
+    },
     "src_44794c31acb6": {
       "url": "https://m.facebook.com/watch/?v=1795870261114842&_rdr",
       "title": "34 गाँव कुम्भाना का कच्चा जोहड़ा 🔥👌",
@@ -1058,6 +1169,57 @@
       ],
       "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
       "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1795870261114842&_rdr",
+      "is_primary": true
+    },
+    "src_8d6757cdb0de": {
+      "url": "https://www.youtube.com/watch?v=qaHxfTepzaM",
+      "title": "पुराणा 34 गांव कुम्भाना में इतना पुराना कुआँ और इतना गहरा 😱🔥 (पार्ट-3) #oldvillagelife #34gaav",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-28",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: कुम्भाना",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "कुम्भाना"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qaHxfTepzaM",
       "is_primary": true
     },
     "src_31f3ca85e9a1": {
@@ -1826,6 +1988,160 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 16,
       "at": "2026-09-19T15:55:02.242420+00:00"
+    },
+    {
+      "run_id": "run_20260919T155523Z",
+      "file": "/home/user/34g/research/inbox/kumbhana/video_whbT1X3urU0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=whbT1X3urU0 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 17,
+      "at": "2026-09-19T15:55:23.741001+00:00"
+    },
+    {
+      "run_id": "run_20260919T155526Z",
+      "file": "/home/user/34g/research/inbox/kumbhana/video_qaHxfTepzaM.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=qaHxfTepzaM on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-19T15:55:27.036978+00:00"
+    },
+    {
+      "run_id": "run_20260919T155530Z",
+      "file": "/home/user/34g/research/inbox/kumbhana/video_TiSdh8Pz-hE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=TiSdh8Pz-hE on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:55:30.554244+00:00"
+    },
+    {
+      "run_id": "run_20260919T155638Z",
+      "file": "research/inbox/kumbhana/video_fb2262161430872727.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/2262161430872727 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:39.307608+00:00"
+    },
+    {
+      "run_id": "run_20260919T155639Z",
+      "file": "research/inbox/kumbhana/video_h_Ac3l-k9is.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=h_Ac3l-k9is on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:39.729601+00:00"
+    },
+    {
+      "run_id": "run_20260919T155639Z",
+      "file": "research/inbox/kumbhana/video_fb649534878213015.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/649534878213015 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:40.180933+00:00"
+    },
+    {
+      "run_id": "run_20260919T155640Z",
+      "file": "research/inbox/kumbhana/video_whbT1X3urU0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=whbT1X3urU0 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:40.595633+00:00"
+    },
+    {
+      "run_id": "run_20260919T155640Z",
+      "file": "research/inbox/kumbhana/video_ZUcxugQ67tw.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=ZUcxugQ67tw on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:41.004457+00:00"
+    },
+    {
+      "run_id": "run_20260919T155641Z",
+      "file": "research/inbox/kumbhana/video_fb1953976362088874.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1953976362088874 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:41.452681+00:00"
+    },
+    {
+      "run_id": "run_20260919T155641Z",
+      "file": "research/inbox/kumbhana/video_5I91gePlUF8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=5I91gePlUF8 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:41.858351+00:00"
+    },
+    {
+      "run_id": "run_20260919T155641Z",
+      "file": "research/inbox/kumbhana/video_TiSdh8Pz-hE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=TiSdh8Pz-hE on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 19,
+      "at": "2026-09-19T15:56:42.281388+00:00"
     }
   ]
 }

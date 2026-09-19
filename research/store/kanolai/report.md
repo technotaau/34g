@@ -2,7 +2,7 @@
 
 **स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 23, स्वीकृत 7, पृष्ठभूमि (context) 0, समीक्षा हेतु 13, अस्वीकृत 3, डुप्लिकेट 0 · दावे: 9
+स्रोत: कुल 24, स्वीकृत 7, पृष्ठभूमि (context) 0, समीक्षा हेतु 14, अस्वीकृत 3, डुप्लिकेट 0 · दावे: 9
 
 > Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel). Listed as 'कनलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -64,7 +64,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (20)
+### वीडियो (21)
 - [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 6 lines; speech segments: 5 in z3ILa3-NyU0.content.json · timestamps: 3 public comments; 123 views; hashtags: 
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) (video · video · 2025-01-13 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -81,6 +81,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: Whisper small (forced hi, beam 5): 435 segments in tp0mVligrls.content.json, but the speech is Marwari conversation and most segments are garbled; only fragment · timestamps: 4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer
 - [कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts](https://www.youtube.com/watch?v=QxAp0Hr2mGk) (video · video · 2025-10-06 · स्कोर 76 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 2 public comments; 531 views; hashtags: 
+- [कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts](https://www.youtube.com/watch?v=PsgqJGkgw-Q) (video · video · 2025-09-30 · स्कोर 76 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 1 public comments; 710 views; hashtags: 
 - [कानोलाई से गाँव रवानगी 👌🔥](https://www.youtube.com/watch?v=qoPEbONGhQ0) (video · video · 2025-12-11 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 1108 views; hashtags: 
 - [कानोलाई का जोहड़ा 👌🔥](https://www.youtube.com/watch?v=DF_2GiNOixs) (video · video · 2025-12-10 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -93,8 +95,6 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 51 views; hashtags: 
 - [कानोलाई गाँव में कच्चे मकान 😱👌(पार्ट-6) #oldvillagelife #shorts](https://www.youtube.com/watch?v=PA086BsNcOg) (video · video · 2025-10-05 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 602 views; hashtags: 
-- [कानोलाई गाँव में हरिराम दादा का मंदिर 🛕 (पार्ट-5) #oldvillagelife #shorts](https://www.youtube.com/watch?v=o-g09z_Jq2k) (video · video · 2025-10-04 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 669 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -147,6 +147,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [कानोलाई गाँव में कच्चे मकान 😱👌(पार्ट-6) #oldvillagelife #shorts](https://www.youtube.com/watch?v=PA086BsNcOg) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
 - [कानोलाई गाँव में हरिराम दादा का मंदिर 🛕 (पार्ट-5) #oldvillagelife #shorts](https://www.youtube.com/watch?v=o-g09z_Jq2k) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
 - [पुराणा गांव कानोलाई का पुराना कुआँ 😱😲 (पार्ट-4) #oldvillagelife #shorts](https://www.youtube.com/watch?v=uyvxCpH1fx8) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
+- [कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts](https://www.youtube.com/watch?v=PsgqJGkgw-Q) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
@@ -158,6 +159,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [पुराणा 34 गाँव कानोलाई का जोहड़ा 😱🔥 (पार्ट-2) #oldvillagelife #shorts](https://www.youtube.com/watch?v=D8HlEAxr4_w) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) · youtube · video · स्कोर 86 · रिज़ॉल्यूशन accept (0.65) · खोज: video supplied by TechnoTaau Team
 - [कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts](https://www.youtube.com/watch?v=QxAp0Hr2mGk) · youtube · video · स्कोर 76 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
+- [कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts](https://www.youtube.com/watch?v=PsgqJGkgw-Q) · youtube · video · स्कोर 76 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
 - [कानोलाई से गाँव रवानगी 👌🔥](https://www.youtube.com/watch?v=qoPEbONGhQ0) · youtube · video · स्कोर 74 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
 - [कानोलाई का जोहड़ा 👌🔥](https://www.youtube.com/watch?v=DF_2GiNOixs) · youtube · video · स्कोर 74 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
 - [खारिया कुआँ कानोलाई गाँव में 🔥😱](https://www.youtube.com/watch?v=rkdJx5IZ3As) · youtube · video · स्कोर 74 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team

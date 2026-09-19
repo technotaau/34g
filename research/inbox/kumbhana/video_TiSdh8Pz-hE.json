@@ -1,0 +1,57 @@
+{
+ "village": "kumbhana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=TiSdh8Pz-hE on 2026-09-19",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kumbhana",
+   "url": "https://www.youtube.com/watch?v=TiSdh8Pz-hE",
+   "title": "पुराणा 34 गाँव कुम्भाना का गढ़ कितना शानदार था 40 साल पहले 😱🔥 (पार्ट-2) #villagelife #34gaav",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+   "published_date": "2025-09-27",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'पुराणा 34 गाँव कुम्भाना का गढ़ कितना शानदार था 40 साल पहले 😱🔥 (पार्ट-2) #villagelife #34gaav' (3:00) by Dinesh Beniwal . ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "INDIA"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "कुम्भाणा",
+   "evidence_snippets": [
+    "Title: पुराणा 34 गाँव कुम्भाना का गढ़ कितना शानदार था 40 साल पहले 😱🔥 (पार्ट-2) #villagelife #34gaav",
+    "Location field: INDIA",
+    "Viewer comment: कुम्भाणा मेरे पूर्वजों का गाँव है।😢",
+    "Viewer comment: O garh hatisingh rajawat ro hai mera nanosha ro hai"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=TiSdh8Pz-hE",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal ",
+    "uploader": "@Dineshbeniwalvlog",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "2 public comments; 3329 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+   "syndicate_group": "beniwal_kumbhana_garh"
+  }
+ ]
+}

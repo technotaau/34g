@@ -2293,5 +2293,100 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_68e27e240901": {
+    "id": "src_68e27e240901",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=PsgqJGkgw-Q",
+    "url_key": "https://www.youtube.com/watch?v=PsgqJGkgw-Q",
+    "title": "कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-30",
+    "discovered_date": "2026-09-19",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts' (0:38) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts",
+      "Location field: INDIA",
+      "Viewer comment: थारो किस्यो गांव हैं?"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=PsgqJGkgw-Q",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 710 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: कानोलाई",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 76,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260919T155520Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

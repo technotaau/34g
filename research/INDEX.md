@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | महाजन के 34 गांव (34 Gaon of Mahajan) | 23 | 17 | 4 | 23 | 18 | [report](store/34-gaon/report.md) |
 | भोजरासर (Bhojrasar) | 10 | 1 | 0 | 6 | 6 | [report](store/bhojrasar/report.md) |
-| कुम्भाणा (Kumbhana) | 16 | 9 | 3 | 21 | 21 | [report](store/kumbhana/report.md) |
+| कुम्भाणा (Kumbhana) | 19 | 12 | 3 | 21 | 21 | [report](store/kumbhana/report.md) |
 | मोटलाई (Motlai) | 8 | 2 | 1 | 9 | 9 | [report](store/motlai/report.md) |
 | खानीसर (Khanisar) | 8 | 3 | 1 | 11 | 8 | [report](store/khanisar/report.md) |
 | ठोईयां (Thoiya) | 17 | 6 | 1 | 12 | 12 | [report](store/thoiya/report.md) |
@@ -19,7 +19,7 @@
 | भानाबस्ती (Bhanabasti) | 7 | 3 | 0 | 10 | 10 | [report](store/bhanabasti/report.md) |
 | नाथौर (Nathor) | 6 | 2 | 2 | 9 | 9 | [report](store/nathor/report.md) |
 | बेरावाला (Berawala) | 11 | 3 | 1 | 23 | 15 | [report](store/berawala/report.md) |
-| कानोलाई (Kanolai) | 23 | 7 | 13 | 9 | 5 | [report](store/kanolai/report.md) |
+| कानोलाई (Kanolai) | 24 | 7 | 14 | 9 | 5 | [report](store/kanolai/report.md) |
 | धन्नासर (Dhannasar) | 8 | 0 | 2 | 6 | 6 | [report](store/dhannasar/report.md) |
 | रिणा (Rina) | 0 | 0 | 0 | 1 | 1 | [report](store/rina/report.md) |
 | मोटासर (Motasar) | 6 | 2 | 2 | 6 | 6 | [report](store/motasar/report.md) |

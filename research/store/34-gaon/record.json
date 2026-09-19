@@ -44,18 +44,18 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_c37d5179aabc",
         "src_2f2f7544c2f1",
-        "src_a5150b8b1d53",
+        "src_c37d5179aabc",
         "src_d159880ed58d",
+        "src_a5150b8b1d53",
         "src_4fb2da84d5a4",
         "src_967773b5f1ff",
         "src_6606deafe9c7",
         "src_38f66d790796",
         "src_064a2acb392d",
         "src_a12fca6eb70b",
-        "src_7f98544507e3",
         "src_dc27e87bee50",
+        "src_7f98544507e3",
         "src_56bd5f269706",
         "src_0e0757dd116a",
         "src_8cb8a57f3723"
@@ -82,10 +82,10 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_a5150b8b1d53",
         "src_d159880ed58d",
-        "src_7f98544507e3",
+        "src_a5150b8b1d53",
         "src_dc27e87bee50",
+        "src_7f98544507e3",
         "src_8cb8a57f3723"
       ]
     },
@@ -93,11 +93,11 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_a5150b8b1d53",
         "src_d159880ed58d",
+        "src_a5150b8b1d53",
         "src_a12fca6eb70b",
-        "src_7f98544507e3",
         "src_dc27e87bee50",
+        "src_7f98544507e3",
         "src_8cb8a57f3723"
       ]
     },
@@ -2429,6 +2429,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 23,
       "at": "2026-09-19T15:55:14.156986+00:00"
+    },
+    {
+      "run_id": "run_20260919T155644Z",
+      "file": "research/inbox/34-gaon/video_fb1485439029343121.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1485439029343121 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-19T15:56:45.207569+00:00"
+    },
+    {
+      "run_id": "run_20260919T155645Z",
+      "file": "research/inbox/34-gaon/video_AZ475IL2JPU.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=AZ475IL2JPU on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-19T15:56:45.613207+00:00"
     }
   ]
 }
