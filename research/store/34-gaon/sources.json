@@ -1948,6 +1948,7 @@
     "name_form_matched": "34 गाँव",
     "evidence_snippets": [
       "Description: पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+      "Narration (Whisper small, hi, 58 segments): Bagri conversation not machine-readable; only name-like fragments surface (नेप्ताराम/नेतराम दादा, भीहाराम, कलडाराम, दुलाराम, जेठा, परमानाराम, लडूराम, 'दिननासर' possibly धन्नासर, 'रोली'); needs a Bagri speaker.",
       "Title: पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣"
     ],
     "entities": {
@@ -2000,7 +2001,7 @@
       "negative_hits": []
     },
     "relevance": {
-      "score": 87,
+      "score": 89,
       "band": "high",
       "factors": {
         "name_match": 30,
@@ -2010,7 +2011,7 @@
         "primary": 8,
         "corroboration": 0,
         "queries": 2,
-        "evidence": 4,
+        "evidence": 6,
         "claims": 2,
         "recency": 3,
         "media": 3,
@@ -2023,7 +2024,8 @@
     "runs": [
       "run_20260919T154804Z",
       "run_20260919T155503Z",
-      "run_20260919T155644Z"
+      "run_20260919T155644Z",
+      "run_20260920T042258Z"
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"

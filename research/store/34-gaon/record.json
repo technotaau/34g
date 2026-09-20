@@ -7,7 +7,7 @@
     "notes": "Umbrella research unit for the whole displacement; sources here are shared by all villages.",
     "location": {}
   },
-  "built": "2026-09-19",
+  "built": "2026-09-20",
   "counts": {
     "sources_total": 23,
     "accepted": 17,
@@ -44,18 +44,18 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_2f2f7544c2f1",
         "src_c37d5179aabc",
-        "src_d159880ed58d",
+        "src_2f2f7544c2f1",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_4fb2da84d5a4",
         "src_967773b5f1ff",
         "src_6606deafe9c7",
         "src_38f66d790796",
         "src_064a2acb392d",
         "src_a12fca6eb70b",
-        "src_dc27e87bee50",
         "src_7f98544507e3",
+        "src_dc27e87bee50",
         "src_56bd5f269706",
         "src_0e0757dd116a",
         "src_8cb8a57f3723"
@@ -82,10 +82,10 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_d159880ed58d",
         "src_a5150b8b1d53",
-        "src_dc27e87bee50",
+        "src_d159880ed58d",
         "src_7f98544507e3",
+        "src_dc27e87bee50",
         "src_8cb8a57f3723"
       ]
     },
@@ -93,11 +93,11 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_d159880ed58d",
         "src_a5150b8b1d53",
+        "src_d159880ed58d",
         "src_a12fca6eb70b",
-        "src_dc27e87bee50",
         "src_7f98544507e3",
+        "src_dc27e87bee50",
         "src_8cb8a57f3723"
       ]
     },
@@ -131,9 +131,9 @@
       "label": "वीडियो",
       "source_ids": [
         "src_25c0bae37a23",
+        "src_0c58aec5caeb",
         "src_f74178b9169b",
         "src_2f2f7544c2f1",
-        "src_0c58aec5caeb",
         "src_0a8337917efc",
         "src_765e0fdc17fa",
         "src_bdc6eae09875",
@@ -1001,6 +1001,59 @@
       "attribution": "Rameshwer Godara, Facebook, 2026, https://m.facebook.com/watch/?v=3265653753626828&_rdr",
       "is_primary": true
     },
+    "src_0c58aec5caeb": {
+      "url": "https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+      "title": "पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2025-10-07",
+      "language": "hi",
+      "relevance": {
+        "score": 89,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 2,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: 34 गांव",
+          "strong geo context: ['34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
+        ],
+        "matched_names": [
+          "34 गांव",
+          "34 गाँव"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Beniwal",
+          "बेनीवाल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1485439029343121&_rdr",
+      "is_primary": true
+    },
     "src_c37d5179aabc": {
       "url": "https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091",
       "title": "आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)",
@@ -1168,59 +1221,6 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=cr-kuEiznZA",
-      "is_primary": true
-    },
-    "src_0c58aec5caeb": {
-      "url": "https://m.facebook.com/watch/?v=1485439029343121&_rdr",
-      "title": "पुराने 34 गाँव में रोळी का साल में हो गए घर के घर खाली 😱🫣",
-      "platform": "facebook",
-      "source_type": "social",
-      "media_type": "video",
-      "published_date": "2025-10-07",
-      "language": "hi",
-      "relevance": {
-        "score": 87,
-        "band": "high",
-        "factors": {
-          "name_match": 30,
-          "geo_match": 20,
-          "resolution_conf": 10,
-          "credibility": 5,
-          "primary": 8,
-          "corroboration": 0,
-          "queries": 2,
-          "evidence": 4,
-          "claims": 2,
-          "recency": 3,
-          "media": 3,
-          "negative": 0
-        }
-      },
-      "resolution": {
-        "decision": "accept",
-        "confidence": 0.7,
-        "reasons": [
-          "variant match: 34 गांव",
-          "strong geo context: ['34 गांव', '34 गाँव']",
-          "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
-        ],
-        "matched_names": [
-          "34 गांव",
-          "34 गाँव"
-        ],
-        "geo_hits": [
-          "34 गांव",
-          "34 गाँव",
-          "Beniwal",
-          "बेनीवाल"
-        ],
-        "negative_hits": []
-      },
-      "topics": [
-        "media_visual"
-      ],
-      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
-      "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=1485439029343121&_rdr",
       "is_primary": true
     },
     "src_0a8337917efc": {
@@ -2457,6 +2457,20 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 23,
       "at": "2026-09-19T15:56:45.613207+00:00"
+    },
+    {
+      "run_id": "run_20260920T042258Z",
+      "file": "research/inbox/34-gaon/video_fb1485439029343121.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/1485439029343121 on 2026-09-19",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-20T04:22:58.530340+00:00"
     }
   ]
 }
