@@ -190,16 +190,21 @@
     "statement_hi": "ठोइया में घरों की जगह टीले और कटी हुई ज़मीन दिखती है",
     "statement_en": "House sites at Thoiya survive as mounds and eroded ground",
     "sources": [
+      "src_2747db40dcd6",
       "src_e6b8fda3434a"
     ],
-    "independent_sources": 1,
+    "independent_sources": 2,
     "has_strong_source": true,
-    "status": "single-source",
-    "confidence": 0.5,
+    "status": "verified",
+    "confidence": 0.9,
     "evidence": [
       {
         "source": "src_e6b8fda3434a",
         "text": "drone frames 36-63 s"
+      },
+      {
+        "source": "src_2747db40dcd6",
+        "text": "frames 3-44 s"
       }
     ],
     "competing": []
@@ -242,6 +247,69 @@
       {
         "source": "src_89ff7bb6e254",
         "text": "video title and frames 0-110 s"
+      }
+    ],
+    "competing": []
+  },
+  "clm_evacuation_order_source_7c633f14": {
+    "id": "clm_evacuation_order_source_7c633f14",
+    "claim_key": "evacuation_order_source",
+    "value": "government order to vacate Thoiya for the expansion of the MFFR",
+    "statement_hi": "सरकार ने सेना की महाजन फील्ड फायरिंग रेंज के विस्तार के लिए पूरे ठोइया गांव को खाली करने का आदेश दिया (सुनील बेनीवाल की पोस्ट)",
+    "statement_en": "The government ordered the whole of Thoiya vacated for the expansion of the Army's Mahajan Field Firing Range (Sunil Beniwal's post)",
+    "sources": [
+      "src_2747db40dcd6"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2747db40dcd6",
+        "text": "'सेना की महाजन फील्ड फायरिंग रेंज के विस्तार के लिए सरकार ने इस पूरे ठोइया गांव को खाली करने का आदेश दिया'"
+      }
+    ],
+    "competing": []
+  },
+  "clm_main_occupation_c96529e4": {
+    "id": "clm_main_occupation_c96529e4",
+    "claim_key": "main_occupation",
+    "value": "farming",
+    "statement_hi": "ठोइया के लोग खेती पर निर्भर थे और खेतों से गहरा भावनात्मक जुड़ाव रखते थे",
+    "statement_en": "Thoiya's people lived by farming and were deeply attached to their fields",
+    "sources": [
+      "src_2747db40dcd6"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2747db40dcd6",
+        "text": "post text"
+      }
+    ],
+    "competing": []
+  },
+  "clm_village_in_34_gaon_fb360f9c": {
+    "id": "clm_village_in_34_gaon_fb360f9c",
+    "claim_key": "village_in_34_gaon",
+    "value": "yes",
+    "statement_hi": "ठोइया 34 गांवों के अंचल का गांव था",
+    "statement_en": "Thoiya was one of the 34-village area",
+    "sources": [
+      "src_2747db40dcd6"
+    ],
+    "independent_sources": 1,
+    "has_strong_source": true,
+    "status": "single-source",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "source": "src_2747db40dcd6",
+        "text": "'३४ गांवों के इस पूरे अंचल में ठोइया गांव'"
       }
     ],
     "competing": []

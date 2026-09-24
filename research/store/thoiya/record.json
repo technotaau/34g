@@ -12,20 +12,21 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-19",
+  "built": "2026-09-24",
   "counts": {
-    "sources_total": 17,
-    "accepted": 6,
+    "sources_total": 18,
+    "accepted": 7,
     "context": 5,
     "review": 1,
     "rejected": 4,
     "duplicates": 1,
-    "claims": 12
+    "claims": 15
   },
   "questions": {
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_a5150b8b1d53",
         "src_07585bc5b0e8",
         "src_7da0e757971f",
@@ -42,6 +43,7 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_a5150b8b1d53",
         "src_07585bc5b0e8",
         "src_7da0e757971f",
@@ -51,6 +53,7 @@
     "people": {
       "label": "कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_a5150b8b1d53",
         "src_07585bc5b0e8",
         "src_7da0e757971f"
@@ -58,11 +61,14 @@
     },
     "culture": {
       "label": "सांस्कृतिक जानकारी",
-      "source_ids": []
+      "source_ids": [
+        "src_2747db40dcd6"
+      ]
     },
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_a5150b8b1d53",
         "src_a6f66da51d72"
       ]
@@ -70,6 +76,7 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_a5150b8b1d53",
         "src_a6f66da51d72"
       ]
@@ -77,6 +84,7 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
+        "src_2747db40dcd6",
         "src_e6b8fda3434a",
         "src_a5150b8b1d53"
       ]
@@ -95,6 +103,7 @@
       "label": "वीडियो",
       "source_ids": [
         "src_e6b8fda3434a",
+        "src_2747db40dcd6",
         "src_dd34bbda92ad",
         "src_57a5defbbd1c",
         "src_447b4d6dbf18",
@@ -115,6 +124,7 @@
       "label": "सार्वजनिक सोशल मीडिया स्रोत",
       "source_ids": [
         "src_e6b8fda3434a",
+        "src_2747db40dcd6",
         "src_89ff7bb6e254",
         "src_65c3025b85de"
       ]
@@ -172,11 +182,39 @@
       "Defence Ministry / रक्षा मंत्रालय",
       "Dinesh Beniwal",
       "Dinesh Beniwal ",
-      "Indian Army"
+      "Indian Army",
+      "Sunil Beniwal"
     ]
   },
   "claims": {
-    "well_supported": [],
+    "well_supported": [
+      {
+        "id": "clm_house_ruins_visible_fb360f9c",
+        "claim_key": "house_ruins_visible",
+        "value": "yes (mounds and eroded floors)",
+        "statement_hi": "ठोइया में घरों की जगह टीले और कटी हुई ज़मीन दिखती है",
+        "statement_en": "House sites at Thoiya survive as mounds and eroded ground",
+        "sources": [
+          "src_2747db40dcd6",
+          "src_e6b8fda3434a"
+        ],
+        "independent_sources": 2,
+        "has_strong_source": true,
+        "status": "verified",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source": "src_e6b8fda3434a",
+            "text": "drone frames 36-63 s"
+          },
+          {
+            "source": "src_2747db40dcd6",
+            "text": "frames 3-44 s"
+          }
+        ],
+        "competing": []
+      }
+    ],
     "needs_verification": [
       {
         "id": "clm_acquisition_year_e389dc21",
@@ -363,27 +401,6 @@
         "competing": []
       },
       {
-        "id": "clm_house_ruins_visible_fb360f9c",
-        "claim_key": "house_ruins_visible",
-        "value": "yes (mounds and eroded floors)",
-        "statement_hi": "ठोइया में घरों की जगह टीले और कटी हुई ज़मीन दिखती है",
-        "statement_en": "House sites at Thoiya survive as mounds and eroded ground",
-        "sources": [
-          "src_e6b8fda3434a"
-        ],
-        "independent_sources": 1,
-        "has_strong_source": true,
-        "status": "single-source",
-        "confidence": 0.5,
-        "evidence": [
-          {
-            "source": "src_e6b8fda3434a",
-            "text": "drone frames 36-63 s"
-          }
-        ],
-        "competing": []
-      },
-      {
         "id": "clm_return_visits_4b6a4bd2",
         "claim_key": "return_visits",
         "value": "former residents visit (Oct 2025)",
@@ -424,6 +441,69 @@
           }
         ],
         "competing": []
+      },
+      {
+        "id": "clm_evacuation_order_source_7c633f14",
+        "claim_key": "evacuation_order_source",
+        "value": "government order to vacate Thoiya for the expansion of the MFFR",
+        "statement_hi": "सरकार ने सेना की महाजन फील्ड फायरिंग रेंज के विस्तार के लिए पूरे ठोइया गांव को खाली करने का आदेश दिया (सुनील बेनीवाल की पोस्ट)",
+        "statement_en": "The government ordered the whole of Thoiya vacated for the expansion of the Army's Mahajan Field Firing Range (Sunil Beniwal's post)",
+        "sources": [
+          "src_2747db40dcd6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2747db40dcd6",
+            "text": "'सेना की महाजन फील्ड फायरिंग रेंज के विस्तार के लिए सरकार ने इस पूरे ठोइया गांव को खाली करने का आदेश दिया'"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_main_occupation_c96529e4",
+        "claim_key": "main_occupation",
+        "value": "farming",
+        "statement_hi": "ठोइया के लोग खेती पर निर्भर थे और खेतों से गहरा भावनात्मक जुड़ाव रखते थे",
+        "statement_en": "Thoiya's people lived by farming and were deeply attached to their fields",
+        "sources": [
+          "src_2747db40dcd6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2747db40dcd6",
+            "text": "post text"
+          }
+        ],
+        "competing": []
+      },
+      {
+        "id": "clm_village_in_34_gaon_fb360f9c",
+        "claim_key": "village_in_34_gaon",
+        "value": "yes",
+        "statement_hi": "ठोइया 34 गांवों के अंचल का गांव था",
+        "statement_en": "Thoiya was one of the 34-village area",
+        "sources": [
+          "src_2747db40dcd6"
+        ],
+        "independent_sources": 1,
+        "has_strong_source": true,
+        "status": "single-source",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "source": "src_2747db40dcd6",
+            "text": "'३४ गांवों के इस पूरे अंचल में ठोइया गांव'"
+          }
+        ],
+        "competing": []
       }
     ]
   },
@@ -451,7 +531,7 @@
       "published_date": "2025-10-19",
       "language": "hi",
       "relevance": {
-        "score": 93,
+        "score": 96,
         "band": "high",
         "factors": {
           "name_match": 30,
@@ -459,7 +539,7 @@
           "resolution_conf": 12,
           "credibility": 5,
           "primary": 8,
-          "corroboration": 0,
+          "corroboration": 3,
           "queries": 2,
           "evidence": 4,
           "claims": 6,
@@ -493,6 +573,72 @@
       ],
       "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
       "attribution": "Dinesh Beniwal, Facebook, 2025, https://m.facebook.com/watch/?v=851985674182311&_rdr",
+      "is_primary": true
+    },
+    "src_2747db40dcd6": {
+      "url": "https://m.facebook.com/watch/?v=38721517480796315&_rdr",
+      "title": "राजस्थान की तपती रेत के बीच बसा ठोइया गांव, जहाँ कभी सुबह की शुरुआत खेतों की सोंधी महक और अपनों की राम-राम से होती थी। ३४ गांवों के इस पूरे अंचल में ठोइया गांव की अपनी एक अलग ही शान थी। यहाँ के लोग सदियों से एक ही परिवार की तरह मिलकर रहते थे। दुख-सुख साझा करते, एक-दूसरे के खेतों में हाथ बंटाते और त्योहारों की खुशियाँ मिलकर मनाते थे।यहाँ के लोगों, खासकर हमारे पूर्वजों का अपनी खेती और ज़मीन से सिर्फ रोज़ी-रोटी का रिश्ता नहीं था, वह एक गहरा इमोशनल जुड़ाव था। उनके लिए अपने खेत भगवान का मंदिर थे और मिट्टी साक्षात मां। उन्होंने तपती धूप और हाड़ कंपाने वाली रातों में अपने खून-पसीने से इस धरती को सींचा था। वे अपनी ज़मीन को एक पवित्र मिशन की तरह पूजते थे।लेकिन फिर वह समय आया जब देश की रक्षा के लिए, सेना की महाजन फील्ड फायरिंग रेंज के विस्तार के लिए सरकार ने इस पूरे ठोइया गांव को खाली करने का आदेश दिया।वह खबर जैसे पूरे गांव पर बिजली बनकर गिरी। जिस मिट्टी में पुरखों की अस्थियां विसर्जित थीं, जहाँ बच्चों का बचपन बीता था, जहाँ सबने मिलकर पीढ़ियों का इतिहास लिखा था, उसे एक झटके में छोड़कर जाना था। वह मंजर शब्दों में बयां नहीं किया जा सकता। जब घर की चौखटों को चूमा जा रहा था, खेतों की मिट्टी को माथे से लगाया जा रहा था, तो बूढ़ी आँखों से बहते आंसू थमने का नाम नहीं ले रहे थे।एक तरफ अपनी छाती पर पत्थर रखकर पीढ़ियों की कमाई, लाखों की ज़मीन और घर-बार को हमेशा के लिए छोड़ने का असहनीय दुख था; तो दूसरी तरफ सीने में देश की सेना के प्रति सम्मान और राष्ट्र के लिए सर्वोच्च बलिदान देने का जज्बा था। भारी कदमों और बिलखते दिलों के साथ, ठोइया गांव के लोगों ने अपनी उस प्यारी माटी को अलविदा कहा।आज भले ही ठोइया गांव की गलियां सेना के अभ्यास और टैंकों की आवाजों के हवाले हैं, लेकिन उस ज़मीन के जर्रे-जर्रे में आज भी यहाँ रहने वाले पूर्वजों के पसीने की महक जिंदा है। वह त्याग, वह बेबसी का दर्द और देश के लिए अपनी मातृभूमि को न्योछावर कर देने का वह ऐतिहासिक बलिदान आज भी हमारी नसों में गर्व बनकर दौड़ता है।ठोइया गांव की अमर माटी और हमारे महान पूर्वजों के इस बेमिसाल त्याग को कोटि-कोटि नमन! 🙏",
+      "platform": "facebook",
+      "source_type": "social",
+      "media_type": "video",
+      "published_date": "2026-09-20",
+      "language": "hi",
+      "relevance": {
+        "score": 96,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 5,
+          "primary": 8,
+          "corroboration": 3,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 6,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Thoiya",
+          "strong geo context: ['Mahajan', 'महाजन', '34 गांव']",
+          "district/nearby/clan context: ['Beniwal', 'बेनीवाल']"
+        ],
+        "matched_names": [
+          "Thoiya",
+          "ठोइया"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Beniwal",
+          "बेनीवाल",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "displacement",
+        "history",
+        "land_agriculture",
+        "media_visual",
+        "military_range",
+        "people_family",
+        "religion_temple"
+      ],
+      "license": "Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material",
+      "attribution": "Sunil Beniwal, Facebook, 2026, https://m.facebook.com/watch/?v=38721517480796315&_rdr",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
@@ -1386,6 +1532,34 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 17,
       "at": "2026-09-19T15:56:44.785576+00:00"
+    },
+    {
+      "run_id": "run_20260924T070458Z",
+      "file": "/home/user/34g/research/inbox/thoiya/video_fb38721517480796315.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/38721517480796315 on 2026-09-24",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-24T07:04:58.570998+00:00"
+    },
+    {
+      "run_id": "run_20260924T070522Z",
+      "file": "research/inbox/thoiya/video_fb38721517480796315.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 0,
+      "updated": 1,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.facebook.com/reel/38721517480796315 on 2026-09-24",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 18,
+      "at": "2026-09-24T07:05:22.932403+00:00"
     }
   ]
 }
