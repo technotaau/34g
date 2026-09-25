@@ -47,6 +47,9 @@ UNIT_STATUS_HI = {
     "acquired": "अधिग्रहित",
     "acquired_partial": "आंशिक अधिग्रहण",
     "umbrella": "साझा इकाई",
+    "hamlet": "बास / ढाणी",
+    "alias": "दूसरा नाम",
+    "unresolved": "अनसुलझा",
 }
 SOURCE_TYPE_HI = {
     "video": "वीडियो", "news": "समाचार", "government": "सरकारी", "court": "अदालत",
@@ -700,6 +703,8 @@ class Site:
         c81 = v.get("census_1981")
         co = v.get("coordinates")
         facts = []
+        if v.get("official_list_1992"):
+            facts.append(f'1992 की सरकारी सूची ("महाजन रेंज के कुल 33 गांव", राजस्थान विधानसभा, 5 मार्च 1992): क्रमांक <b>{esc(v["official_list_1992"])}</b>')
         if c81 and c81.get("persons"):
             facts.append(f'1981 की जनगणना (आख़िरी): <b>{esc(c81["persons"])}</b> लोग, {esc(c81.get("households"))} परिवार, {esc(c81.get("area_hectares"))} हेक्टेयर (कोड {esc(c81.get("code"))}, "{esc(c81.get("name"))}"). {"2001 से जनगणना में नहीं; रेंज में शामिल।" if "absent" in c81.get("after_1981", "") else ""}')
         elif c81:
