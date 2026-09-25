@@ -33,6 +33,7 @@ def main(argv=None):
     vd.add_argument("--ocr-lang", default="hin+eng"); vd.add_argument("--whisper", default=None, help="whisper model size, e.g. small/medium (off by default)")
     vd.add_argument("--ocr-every", type=float, default=1.0, help="seconds between OCR samples"); vd.add_argument("--title", help="title for non-YouTube media"); vd.add_argument("--credit", help="who shot / supplied non-YouTube media")
     sub.add_parser("status")
+    hv = sub.add_parser("harvest-youtube", help="search YouTube for 34-gaon videos and snowball through their channels into research/leads/"); hv.add_argument("--slugs", nargs="*"); hv.add_argument("--per-query", type=int, default=20); hv.add_argument("--no-snowball", action="store_true"); hv.add_argument("--max-channels", type=int, default=40)
     si = sub.add_parser("site", help="build the static website into site/ (multi-page) and site/preview.html (single file)"); si.add_argument("--out", default=None); si.add_argument("--no-preview", action="store_true")
     args = ap.parse_args(argv)
 
@@ -84,6 +85,10 @@ def main(argv=None):
         stats = ingest(args.slug, Path(res["inbox_file"]))
         build_record(args.slug); render_report(args.slug); render_index()
         print(json.dumps({**res, "ingest": {k: stats[k] for k in ("new", "updated", "invalid", "total_after")}}, ensure_ascii=False, indent=1))
+    elif args.cmd == "harvest-youtube":
+        from .harvest import harvest
+        res = harvest(args.slugs, args.per_query, not args.no_snowball, args.max_channels, log=lambda m: print(m, flush=True))
+        print(json.dumps(res, ensure_ascii=False, indent=1))
     elif args.cmd == "site":
         from .site import build, SITE_DIR
         res = build(Path(args.out) if args.out else SITE_DIR, single=not args.no_preview)

@@ -304,3 +304,16 @@ def test_site_respects_manifest_rights(tmp_path):
                              "frames": [{"file": "frames/a.jpg", "timestamp_s": 1, "description": "elder", "tags": ["people"]}]}), encoding="utf-8")
     info = site_mod.pick_stills(m)
     assert info["needs_permission"] is False and len(info["frames"]) == 1
+
+
+# ---------- lead harvester ----------
+def test_harvest_matcher_needs_context_unless_channel_known():
+    from gaon34.harvest import Matcher, keep
+    m = Matcher(registry.load_villages())
+    hit = m.match("34 गाँव ठोईया का दृश्य")
+    assert hit["villages"] == ["thoiya"] and keep(hit)
+    namesake = m.match("रामपुरा गांव की शादी")
+    assert namesake["villages"] == ["rampura"] and not keep(namesake)
+    bare = m.match("कानोलाई का जोहड़ा")
+    assert not keep(bare) and keep(bare, channel_is_area=True)
+    assert keep(m.match("महाजन फील्ड फायरिंग रेंज का सच"))

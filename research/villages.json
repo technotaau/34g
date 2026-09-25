@@ -187,7 +187,24 @@
           "रतनगढ़"
         ]
       },
-      "notes": "Named in Patrika 2022; Sharma family resettled in Mahajan town. Listed as 'भोजरासर' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Named in Patrika 2022; Sharma family resettled in Mahajan town. Listed as 'भोजरासर' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.8128,
+        "lon": 73.7085,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Bhojrasar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "47",
+        "name": "Bhojrasar / भोजरासर",
+        "list": "populated",
+        "area_acres": "17297",
+        "houses": "28",
+        "households": "28",
+        "persons": "179",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "kumbhana",
@@ -220,7 +237,24 @@
           "Kumbhani"
         ]
       },
-      "notes": "Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site. Listed as 'कुम्भाणा' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Dhatarwal Jat village and Rathore (Ratansinghot) thikana; Holika still burnt on site. Listed as 'कुम्भाणा' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.7203,
+        "lon": 73.5996,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Kumana'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "25",
+        "name": "Kumbhana / कुंभाना",
+        "list": "populated",
+        "area_acres": "23488",
+        "houses": "189",
+        "households": "189",
+        "persons": "783",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "motlai",
@@ -241,7 +275,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.6245,
+        "lon": 73.4992,
+        "source": "US Army Map Service 1:250,000 NH 43-13 (1955, compiled from Survey of India 1913-48), label 'Motolai'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "56",
+        "name": "Motolai / मोटोलाई",
+        "list": "populated",
+        "area_acres": "12413",
+        "houses": "39",
+        "households": "44",
+        "persons": "329",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "khanisar",
@@ -259,7 +310,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "Named in Patrika 2022. Listed as 'खानीसर' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Named in Patrika 2022. Listed as 'खानीसर' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.9427,
+        "lon": 73.7285,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Khanisar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "36",
+        "name": "Khanisar / खानीसर",
+        "list": "populated",
+        "area_acres": "9767",
+        "houses": "76",
+        "households": "80",
+        "persons": "360",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "thoiya",
@@ -280,7 +348,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "Dhatarwal village named after Thoili. Listed as 'ठोइयाँ' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Dhatarwal village named after Thoili. Listed as 'ठोइयाँ' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.853,
+        "lon": 73.5765,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Thoiya'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "27",
+        "name": "Thoiyan / थोइयां",
+        "list": "populated",
+        "area_acres": "12705",
+        "houses": "44",
+        "households": "45",
+        "persons": "239",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "manera",
@@ -310,7 +395,24 @@
           "Sirohi"
         ]
       },
-      "notes": "Dhatarwal village. Listed as 'मणेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Dhatarwal village. Listed as 'मणेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.7145,
+        "lon": 73.6285,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Manera'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "26",
+        "name": "Maneran / मनेरां",
+        "list": "populated",
+        "area_acres": "17906",
+        "houses": "76",
+        "households": "76",
+        "persons": "382",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "duder",
@@ -328,7 +430,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025). 2017 MoD tender: 'Reflex Shooting Range System at Duder (East Camp), Mahajan Field Firing Range' (tenderdetail.com): the village name survives as a range camp."
+      "notes": "Named in Patrika 2022. Listed as 'दुदेर' in the community list of 34 (Bharat Speaks comments, Aug 2025). 2017 MoD tender: 'Reflex Shooting Range System at Duder (East Camp), Mahajan Field Firing Range' (tenderdetail.com): the village name survives as a range camp.",
+      "coordinates": {
+        "lat": 28.8554,
+        "lon": 73.7288,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Duder'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "45",
+        "name": "Duder / दुदेर",
+        "list": "populated",
+        "area_acres": "12861",
+        "houses": "20",
+        "households": "20",
+        "persons": "93",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "chidasar",
@@ -347,7 +466,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "Lok Sabha 1987: 83 persons paid for residential plots. A DVIDS article on Yudh Abhyas 2026 (Sept 2026) names a 'Chidasar Grand Stand' inside MFFR: the village name survives as a range feature (lead from the Tidasar run; source to be captured)."
+      "notes": "Lok Sabha 1987: 83 persons paid for residential plots. A DVIDS article on Yudh Abhyas 2026 (Sept 2026) names a 'Chidasar Grand Stand' inside MFFR: the village name survives as a range feature (lead from the Tidasar run; source to be captured).",
+      "census_1951": {
+        "code": "6",
+        "name": "Chidsar / चीडासर",
+        "list": "populated",
+        "area_acres": "5959",
+        "houses": "24",
+        "households": "24",
+        "persons": "152",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "meusar",
@@ -379,6 +509,23 @@
           "जसरासर",
           "Meusar Nokha"
         ]
+      },
+      "coordinates": {
+        "lat": 28.8943,
+        "lon": 73.6796,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Meusar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "38",
+        "name": "Meusar / मेउसर",
+        "list": "populated",
+        "area_acres": "4619",
+        "houses": "42",
+        "households": "43",
+        "persons": "229",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -412,7 +559,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024). Listed as 'खियाणों' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Old site vacated 1981-86; census Kheenyera 069262 survives outside the range. Annual Nathu Dada fair (mela) and night jagran held at Khiyana Dham inside the range; villagers admitted once a year (Shubh Journey vlog, Sep 2024). Listed as 'खियाणों' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.706,
+        "lon": 73.6712,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Khiana'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "49",
+        "name": "Khiana / खीयाना",
+        "list": "populated",
+        "area_acres": "8338",
+        "houses": "12",
+        "households": "12",
+        "persons": "47",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "kolana",
@@ -439,7 +603,18 @@
           "कोलायत"
         ]
       },
-      "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved)."
+      "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved).",
+      "census_1951": {
+        "code": "23",
+        "name": "Rekh Cholana",
+        "list": "unpopulated",
+        "area_acres": "",
+        "houses": "",
+        "households": "",
+        "persons": "",
+        "match": "probable",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "ajeetwana",
@@ -459,7 +634,18 @@
         ]
       },
       "status": "acquired_partial",
-      "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded."
+      "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded.",
+      "census_1951": {
+        "code": "58",
+        "name": "Ajitmana / अजीतमाना",
+        "list": "populated",
+        "area_acres": "3995",
+        "houses": "49",
+        "households": "53",
+        "persons": "333",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "ladera",
@@ -497,7 +683,24 @@
           "tehsil Bikaner"
         ]
       },
-      "notes": "Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified. Listed as 'लाडेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified. Listed as 'लाडेरा' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.6763,
+        "lon": 73.5873,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Ladera'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "54",
+        "name": "Ladera / लाडेरा",
+        "list": "populated",
+        "area_acres": "6230",
+        "houses": "18",
+        "households": "18",
+        "persons": "103",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "bhanabasti",
@@ -514,7 +717,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "Dhatarwal community history."
+      "notes": "Dhatarwal community history.",
+      "census_1951": {
+        "code": "24",
+        "name": "Bhana Basti",
+        "list": "unpopulated",
+        "area_acres": "",
+        "houses": "",
+        "households": "",
+        "persons": "",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "nathor",
@@ -578,6 +792,17 @@
           "Bhiwani",
           "Jhajjar"
         ]
+      },
+      "census_1951": {
+        "code": "22",
+        "name": "Berawala / बेरावाला",
+        "list": "populated",
+        "area_acres": "8450",
+        "houses": "13",
+        "households": "18",
+        "persons": "140",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -609,7 +834,24 @@
           "Kanaloi"
         ]
       },
-      "notes": "Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel). Listed as 'कनलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025)."
+      "notes": "Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel). Listed as 'कनलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+      "coordinates": {
+        "lat": 28.7789,
+        "lon": 73.4527,
+        "source": "US Army Map Service 1:250,000 NH 43-13 (1955, compiled from Survey of India 1913-48), label 'Kanolai'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "10",
+        "name": "Kanolai / कानोलाई",
+        "list": "populated",
+        "area_acres": "33147",
+        "houses": "104",
+        "households": "111",
+        "persons": "546",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "dhannasar",
@@ -682,6 +924,23 @@
           "गडियाला",
           "Motasar Kolayat"
         ]
+      },
+      "coordinates": {
+        "lat": 28.6429,
+        "lon": 73.4385,
+        "source": "US Army Map Service 1:250,000 NH 43-13 (1955, compiled from Survey of India 1913-48), label 'Motasar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "20",
+        "name": "Motasar / मोटासर",
+        "list": "populated",
+        "area_acres": "32887",
+        "houses": "57",
+        "households": "62",
+        "persons": "279",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -702,7 +961,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A cycling video names 'bhunwala' as a waypoint near Lunkaransar (Netadwas to Dugoli); check whether it is the old site or a namesake."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A cycling video names 'bhunwala' as a waypoint near Lunkaransar (Netadwas to Dugoli); check whether it is the old site or a namesake.",
+      "coordinates": {
+        "lat": 28.6456,
+        "lon": 73.5765,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Bhualo'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "55",
+        "name": "Bhunwala / भुनवाला",
+        "list": "populated",
+        "area_acres": "11921",
+        "houses": "45",
+        "households": "47",
+        "persons": "244",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "chakdo",
@@ -721,7 +997,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "census_1951": {
+        "code": "35",
+        "name": "Chad Jhod",
+        "list": "unpopulated",
+        "area_acres": "",
+        "houses": "",
+        "households": "",
+        "persons": "",
+        "match": "probable",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "dewasar",
@@ -750,6 +1037,23 @@
           "Kolayat",
           "कोलायत"
         ]
+      },
+      "coordinates": {
+        "lat": 28.8796,
+        "lon": 73.4712,
+        "source": "US Army Map Service 1:250,000 NH 43-13 (1955, compiled from Survey of India 1913-48), label 'Dewasar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "9",
+        "name": "Dewasar / देवासर",
+        "list": "populated",
+        "area_acres": "11449",
+        "houses": "21",
+        "households": "15",
+        "persons": "88",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -789,7 +1093,18 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Not in any indexed source; census village 'Kankarwala' (069297, Lunkaransar) is the nearest-sounding living village; check whether the list name is a variant of it. A school 'Kankralia Birmana' exists: Kankraliyo may be a hamlet of Birmana rather than a separate revenue village."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Not in any indexed source; census village 'Kankarwala' (069297, Lunkaransar) is the nearest-sounding living village; check whether the list name is a variant of it. A school 'Kankralia Birmana' exists: Kankraliyo may be a hamlet of Birmana rather than a separate revenue village.",
+      "census_1951": {
+        "code": "46",
+        "name": "Kankralia / कंकरालिया",
+        "list": "populated",
+        "area_acres": "5323",
+        "houses": "1",
+        "households": "1",
+        "persons": "3",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "lakhor-chhoti",
@@ -809,10 +1124,21 @@
       "status": "acquired",
       "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. GeoNames 10009714 places Lakhor Chhoti at 29.00074 N 73.67697 E (Lunkaransar tehsil); point-in-polygon test against the OSM range boundary recorded above.",
       "coordinates": {
-        "lat": 29.00074,
-        "lon": 73.67697,
-        "source": "GeoNames 10009714",
+        "lat": 29.0024,
+        "lon": 73.6655,
+        "source": "US Army Map Service 1:250,000 NH 43-10 (1955, compiled from Survey of India 1913-48), label 'Lakhor Khurd'; georeferenced by eye, about ±1 km",
         "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "32",
+        "name": "Lakhor Chhoti / लाखोर छोटी",
+        "list": "populated",
+        "area_acres": "2890",
+        "houses": "9",
+        "households": "9",
+        "persons": "46",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -831,7 +1157,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "coordinates": {
+        "lat": 28.9864,
+        "lon": 73.6565,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Lakhor Bari'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "31",
+        "name": "Lakhor Bari / लाखोर बड़ी",
+        "list": "populated",
+        "area_acres": "9707",
+        "houses": "16",
+        "households": "16",
+        "persons": "90",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "jagor",
@@ -848,7 +1191,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "coordinates": {
+        "lat": 28.9338,
+        "lon": 73.5719,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Jagor'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "8",
+        "name": "Jagore / जागोर",
+        "list": "populated",
+        "area_acres": "9118",
+        "houses": "50",
+        "households": "50",
+        "persons": "250",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "rampura",
@@ -866,7 +1226,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "coordinates": {
+        "lat": 28.985,
+        "lon": 73.7246,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Rampura'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "33",
+        "name": "Rampura / रामपुरा",
+        "list": "populated",
+        "area_acres": "7589",
+        "houses": "17",
+        "households": "17",
+        "persons": "126",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "duderiya",
@@ -884,7 +1261,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Sources for 'Duderiya' are the same as for Duder (Jatland 'Duderia', Patrika 'दुदेर'); the community list has both names at positions 15 and 23, so they may be two villages or one. A 2017 MoD tender names 'Duder (East Camp)' inside MFFR."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. Sources for 'Duderiya' are the same as for Duder (Jatland 'Duderia', Patrika 'दुदेर'); the community list has both names at positions 15 and 23, so they may be two villages or one. A 2017 MoD tender names 'Duder (East Camp)' inside MFFR.",
+      "coordinates": {
+        "lat": 28.8994,
+        "lon": 73.7181,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Duderia'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "39",
+        "name": "Duderia / दुदेरिया",
+        "list": "populated",
+        "area_acres": "3894",
+        "houses": "12",
+        "households": "12",
+        "persons": "57",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "hathusar",
@@ -902,7 +1296,24 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "coordinates": {
+        "lat": 28.9468,
+        "lon": 73.5746,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Hathusar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "7",
+        "name": "Hathusar / हाथुसर",
+        "list": "populated",
+        "area_acres": "8827",
+        "houses": "26",
+        "households": "26",
+        "persons": "152",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      }
     },
     {
       "slug": "hindor",
@@ -929,6 +1340,23 @@
           "श्रीगंगानगर",
           "Ganganagar"
         ]
+      },
+      "coordinates": {
+        "lat": 28.9679,
+        "lon": 73.5988,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Hindor'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "30",
+        "name": "Hindor / हिन्दोर",
+        "list": "populated",
+        "area_acres": "6326",
+        "houses": "26",
+        "households": "26",
+        "persons": "172",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -983,6 +1411,23 @@
           "Ganganagar",
           "श्रीगंगानगर"
         ]
+      },
+      "coordinates": {
+        "lat": 28.5917,
+        "lon": 73.5131,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Birmana'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "71",
+        "name": "Birmana / बीरमाना",
+        "list": "populated",
+        "area_acres": "4050",
+        "houses": "33",
+        "households": "32",
+        "persons": "198",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -1012,6 +1457,17 @@
           "उतरादा",
           "दिखनादा"
         ]
+      },
+      "census_1951": {
+        "code": "29",
+        "name": "Lakhmi Narainsar / लखमीनारायनसर",
+        "list": "populated",
+        "area_acres": "4515",
+        "houses": "15",
+        "households": "15",
+        "persons": "91",
+        "match": "probable",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -1039,6 +1495,23 @@
           "रतड़िया",
           "Kumbhasar Nokha"
         ]
+      },
+      "coordinates": {
+        "lat": 28.9267,
+        "lon": 73.6746,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913-48), label 'Kumbasar'; georeferenced by eye, about ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "37",
+        "name": "Khumbhasar / कुम्भासर",
+        "list": "populated",
+        "area_acres": "4002",
+        "houses": "15",
+        "households": "16",
+        "persons": "94",
+        "match": "name match",
+        "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
       }
     },
     {
@@ -1058,6 +1531,70 @@
       },
       "status": "acquired",
       "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+    },
+    {
+      "slug": "raimalwali",
+      "names": {
+        "en": "Raimalwali",
+        "hi": "रायमलवाली",
+        "variants": [
+          "Raimalwali",
+          "Raemalwali",
+          "रायमल वाली",
+          "रायमलवाली"
+        ]
+      },
+      "status": "acquired_probable",
+      "notes": "Added 25 Sep 2026 from the 1951 Census village directory (code 21, 275 persons, 39 houses) and the 1955 AMS map, where it lies inside the range polygon. Absent from Census 2011 in every Bikaner tehsil. Not on the community list of 34; ask elders.",
+      "coordinates": {
+        "lat": 28.6565,
+        "lon": 73.4654,
+        "source": "US Army Map Service 1:250,000 NH 43-13 (1955), label 'Raemalwali'; ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "21",
+        "name": "Raimalwali / रायमल वाली",
+        "list": "populated",
+        "area_acres": "26319",
+        "houses": "39",
+        "households": "41",
+        "persons": "275",
+        "match": "name match",
+        "source": "Census of India 1951, DCH Bikaner Part II"
+      }
+    },
+    {
+      "slug": "nakrasar",
+      "names": {
+        "en": "Nakrasar",
+        "hi": "नाकरासर",
+        "variants": [
+          "Nakrasar",
+          "Nakrasar",
+          "नाकरासर",
+          "नकरासर"
+        ]
+      },
+      "status": "acquired_probable",
+      "notes": "Added 25 Sep 2026 from the 1951 Census village directory (code 28, 71 persons, 9 houses) and the 1955 AMS map, where it lies inside the range polygon. Absent from Census 2011 in every Bikaner tehsil. Not on the community list of 34; ask elders.",
+      "coordinates": {
+        "lat": 28.9192,
+        "lon": 73.6373,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955), label 'Nakrasar'; ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1951": {
+        "code": "28",
+        "name": "Nakrasar / नाकरासर",
+        "list": "populated",
+        "area_acres": "7802",
+        "houses": "9",
+        "households": "9",
+        "persons": "71",
+        "match": "name match",
+        "source": "Census of India 1951, DCH Bikaner Part II"
+      }
     }
   ]
 }

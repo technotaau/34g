@@ -680,7 +680,14 @@ class Site:
 {credit}
 </div></div></section><div class="wrap">"""]
         if not r:
-            parts.append(f'<section class="section"><p>इस गांव के लिए अभी कोई स्रोत दर्ज नहीं है। {esc(notes)}</p></section></div>')
+            c51 = v.get("census_1951") or {}
+            co = v.get("coordinates") or {}
+            extra = ""
+            if c51.get("persons"):
+                extra += f'<p class="small">1951 की जनगणना: <b>{esc(c51["persons"])}</b> लोग, {esc(c51.get("households"))} परिवार, {esc(c51.get("area_acres"))} एकड़ (कोड {esc(c51.get("code"))}).</p>'
+            if co.get("lat"):
+                extra += f'<p class="small">जगह: {co["lat"]}, {co["lon"]} ({"रेंज-सीमा के अंदर" if co.get("inside_range_polygon") else "रेंज-सीमा के बाहर"}).</p>'
+            parts.append(f'<section class="section">{"<div class=callout>" + extra + "</div>" if extra else ""}<p style="margin-top:1rem">इस गांव के लिए अभी कोई वीडियो या लेख दर्ज नहीं है। {esc(notes)}</p><p style="margin-top:.8rem"><a class="btn" href="{h("yogdan")}">इस गांव के बारे में बताइए</a></p></section></div>')
             return "".join(parts)
 
         c = r["counts"]
@@ -689,6 +696,17 @@ class Site:
         parts.append(f"""<div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.4rem 0 1rem">
 <span class="tag">{c['accepted']} स्वीकृत स्रोत</span><span class="tag">{c['claims']} दावे</span><span class="tag">{len(ws)} पक्के/मिलान</span>{f'<span class="tag">{sum(len(m["frames"]) for m in self.media.get(slug, []))} तस्वीरें</span>' if self.media.get(slug) else ''}
 </div>""")
+        c51 = v.get("census_1951")
+        co = v.get("coordinates")
+        facts = []
+        if c51 and c51.get("list") == "populated":
+            facts.append(f'1951 की जनगणना: <b>{esc(c51.get("persons"))}</b> लोग, {esc(c51.get("households"))} परिवार, {esc(c51.get("houses"))} घर, {esc(c51.get("area_acres"))} एकड़ (कोड {esc(c51.get("code"))}, "{esc(c51.get("name"))}"{", मिलान संभावित" if c51.get("match") == "probable" else ""})')
+        elif c51:
+            facts.append(f'1951 की जनगणना में गैर-आबाद राजस्व गांव "{esc(c51.get("name"))}" (कोड {esc(c51.get("code"))}){", मिलान संभावित" if c51.get("match") == "probable" else ""}')
+        if co and co.get("lat"):
+            facts.append(f'जगह: {co["lat"]}, {co["lon"]} ({"रेंज-सीमा के अंदर" if co.get("inside_range_polygon") else "रेंज-सीमा के बाहर"}; {esc(co.get("source", "")[:80])})')
+        if facts:
+            parts.append('<div class="callout" style="margin-bottom:1rem">' + "".join(f'<p class="small">{x}</p>' for x in facts) + '</div>')
         if notes:
             parts.append(f'<p class="prose small muted">{esc(notes)}</p>')
 
@@ -800,11 +818,21 @@ class Site:
             def Y(lat): return H - pad - (lat - miny) * s
             pts = " ".join(f"{X(lo):.1f},{Y(la):.1f}" for lo, la in poly)
             pins = []
+            ctx = DATA_DIR / "ams_1955_villages.geojson"
+            if ctx.exists():
+                for f in json.loads(ctx.read_text(encoding="utf-8"))["features"]:
+                    pr = f["properties"]
+                    lo, la = f["geometry"]["coordinates"]
+                    if pr.get("project_slug") or not (minx - .05 <= lo <= maxx + .05 and miny - .05 <= la <= maxy + .05):
+                        continue
+                    x, y = X(lo), Y(la)
+                    if 0 <= x <= W and 0 <= y <= H:
+                        pins.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--muted)"/><text x="{x+8:.1f}" y="{y+4:.1f}" font-size="13" fill="var(--muted)" font-family="Mukta,sans-serif">{esc(pr["name_on_map"])}</text>')
             for v in self.villages:
                 co = v.get("coordinates")
                 if co and co.get("lat"):
                     x, y = X(co["lon"]), Y(co["lat"])
-                    pins.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="var(--accent)" stroke="var(--bg)" stroke-width="2"/><text x="{x+12:.1f}" y="{y+5:.1f}" font-size="20" fill="var(--ink)" font-family="Mukta,sans-serif">{esc(v["names"]["hi"])}</text>')
+                    pins.append(f'<a href="{self.href("gaon/" + v["slug"], depth)}"><circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="var(--sand)" stroke="var(--bg)" stroke-width="2"/><text x="{x+11:.1f}" y="{y+6:.1f}" font-size="19" fill="var(--ink)" font-family="Mukta,sans-serif">{esc(v["names"]["hi"])}</text></a>')
             ticks = []
             for lon in (73.3, 73.4, 73.5, 73.6, 73.7, 73.8):
                 if minx <= lon <= maxx:
@@ -814,23 +842,25 @@ class Site:
                     ticks.append(f'<text x="6" y="{Y(lat)+5:.1f}" font-size="14" fill="var(--muted)" font-family="Mukta,sans-serif">{lat}°N</text>')
             # approximate compass labels for neighbouring towns (direction only, not plotted as points)
             svg = f"""<svg viewBox="0 0 {W} {H}" role="img" aria-label="महाजन फील्ड फायरिंग रेंज की सीमा (OpenStreetMap)">
-<polygon points="{pts}" fill="var(--accent)" fill-opacity=".12" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="{pts}" fill="#E2B45A" fill-opacity=".07" stroke="#E0774A" stroke-width="2.5" stroke-dasharray="8 5" stroke-linejoin="round"/>
 {"".join(ticks)}{"".join(pins)}
-<text x="{W/2:.0f}" y="{H/2:.0f}" font-size="30" text-anchor="middle" fill="var(--ink)" fill-opacity=".55" font-family="'Yatra One',serif">यहां 34 गांव थे</text>
-<text x="{pad}" y="28" font-size="16" fill="var(--muted)" font-family="Mukta,sans-serif">उत्तर-पश्चिम: महाजन, अर्जुनसर · पूर्व: कालू, राजासर · उत्तर: सूरतगढ़ सीमा</text>
+
 </svg>"""
         rows = "".join(
-            f"<tr><td>{esc(v['names']['hi'])}</td><td>{esc(v['names']['en'])}</td><td>{'हां (GeoNames)' if v.get('coordinates') else 'नहीं'}</td></tr>"
+            f"<tr><td>{esc(v['names']['hi'])}</td><td>{esc(v['names']['en'])}</td><td>{(str(v['coordinates']['lat']) + ', ' + str(v['coordinates']['lon'])) if v.get('coordinates') else '—'}</td><td class='num'>{esc((v.get('census_1951') or {}).get('persons', '—'))}</td><td class='num'>{esc((v.get('census_1951') or {}).get('code', '—'))}</td></tr>"
             for v in self.villages if v.get("unit_type") != "umbrella"
         )
         return f"""<div class="wrap">
-<section class="section"><p class="eyebrow">नक्शा</p><h1>रेंज की सीमा, और उसके अंदर की खाली जगह</h1>
-<p class="prose" style="margin-top:.6rem">यह सीमा OpenStreetMap पर बनी है (way 412765540, ODbL)। क्षेत्रफल लगभग 1,364 वर्ग किमी, यानी दिल्ली से थोड़ा छोटा। 34 गांवों में से अभी सिर्फ़ एक (लखोर छोटी) का पुराना स्थान किसी नक्शे में मिला है। बाकी गांव कहां थे, यह बुज़ुर्गों की याद, पुराने पट्टों और 1981 की जनगणना पुस्तिका से भरना है।</p></section>
+<section class="section"><p class="eyebrow">नक्शा</p><h1>गांव कहां थे</h1>
+<p class="lede serif prose" style="margin-top:.8rem">सुनहरे बिंदु वे गांव हैं जो 1955 के नक्शे पर आज की रेंज-सीमा के अंदर छपे हैं; धूसर बिंदु वे पड़ोसी गांव जो आज भी आबाद हैं। दोनों का यह बंटवारा ही बताता है कि कौन से गांव रेंज में गए।</p>
+<p class="prose small muted" style="margin-top:.6rem">स्रोत: US Army Map Service 1:250,000, शीट NH 43-10, 43-13, 43-14 (1955, Survey of India 1913-48 से), हाथ से georeference, जगह ±1 किमी। सीमा: OpenStreetMap way 412765540 (ODbL)। गांवों की पहचान 1951 की जनगणना से; पूरी पद्धति "स्रोत" पन्ने पर।</p></section>
 <section class="section"><div class="map">{svg}</div>
 <p class="small muted" style="margin-top:.6rem">Phase 2 में यह नक्शा ज़ूम होने वाला (MapLibre) बनेगा: 1981 के गांव, 1987 के आवंटन चक 100–200 किमी पश्चिम में, और वे गांव जहां आज भी धमाके सुनाई देते हैं।</p></section>
+<section class="section"><h2>1951 बनाम 2011: कौन से गांव ग़ायब हुए</h2>
+<p class="prose" style="margin-top:.6rem">1951 की जनगणना में लूणकरणसर तहसील के 146 आबाद गांव थे। उनमें से 28 गांव, जिनमें 5,620 लोग और 1,070 परिवार रहते थे, 2011 की जनगणना में बीकानेर ज़िले में कहीं नहीं हैं, और उनका कुल क्षेत्रफल (लगभग 1,318 वर्ग किमी) आज की रेंज (1,364 वर्ग किमी) के लगभग बराबर है। <span class="badge b-ok">पक्का</span> सरकारी अभिलेख; गांव-वार मिलान <span class="badge b-one">हमारा विश्लेषण</span>।</p></section>
 <section class="section"><h2>गांव के नाम, रेंज के नक्शे पर आज</h2>
 <p class="prose" style="margin-top:.6rem">सेना के अभ्यासों की खबरों में पुराने गांवों के नाम रेंज की जगहों के रूप में मिलते हैं: चिड़ासर ग्रैंड स्टैंड, दुदेर ईस्ट कैंप, खानीसर और हाथूसर टैंक रेंज। यानी नाम ज़मीन पर बचे हैं, गांव नहीं। इसे अभी <span class="badge b-one">एक स्रोत</span> मानिए।</p></section>
-<section class="section"><h2>किस गांव का स्थान पता है</h2><div class="tbl"><table><thead><tr><th>गांव</th><th>English</th><th>स्थान (अक्षांश-देशांतर)</th></tr></thead><tbody>{rows}</tbody></table></div></section>
+<section class="section"><h2>किस गांव का स्थान पता है</h2><div class="tbl"><table><thead><tr><th>गांव</th><th>English</th><th>1955 की जगह (अक्षांश, देशांतर)</th><th>1951 आबादी</th><th>1951 कोड</th></tr></thead><tbody>{rows}</tbody></table></div></section>
 </div>"""
 
     def page_samay(self, depth=0) -> str:

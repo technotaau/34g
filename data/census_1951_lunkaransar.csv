@@ -1,0 +1,172 @@
+list,serial,code_1951,name_roman,name_nagri,area_acres,houses,households,persons,males,females,census_2011,status_2011,project_slug
+populated,1,154,Adsar,अडसर,10403,57,59,311,173,138,69334,lunkaransar_2011,
+populated,2,58,Ajitmana,अजीतमाना,3995,49,53,333,161,172,69245 Ajeetmana,lunkaransar_2011,ajeetwana
+populated,3,69,Aloda,अलोडा,2691,2,2,11,5,6,69250 Alauda,lunkaransar_2011,
+populated,4,64,Amaran,अमरान,6414,29,30,82,50,32,,not_in_2011,
+populated,5,86,Arjansar,अरजनसर,2948,4,4,22,15,7,69209 Arjunsar Station?,lunkaransar_2011,
+populated,6,44,Asrasar,असरासर,3006,7,7,40,17,23,69207,lunkaransar_2011,
+populated,7,78,Baderan,बडेरान,13740,38,38,191,103,88,69233,lunkaransar_2011,
+populated,8,102,Bakhusar,बखुसर,4960,30,30,185,99,86,69307,lunkaransar_2011,
+populated,9,61,Baladesar,बाला देसर,5978,18,18,93,53,40,69229,lunkaransar_2011,
+populated,10,131,Bamanwali,बामनावाली,4333,64,64,273,137,136,69269,lunkaransar_2011,
+populated,11,152,Basti Charnan,बस्ती चारनान,4811,1,1,5,2,3,,not_in_2011,
+populated,12,148,Basti Delwa,बस्ती देलवा,1179,28,29,139,67,72,Sridungargarh 69846 Delwan?,moved_tehsil,
+populated,13,151,Basti Jogian,बस्ती जोगीयान,1121,46,47,272,146,126,69318 Jogiyasan?,lunkaransar_2011,
+populated,14,22,Berawala,बेरावाला,8450,13,18,140,71,69,,not_in_2011,berawala
+populated,15,109,Baderan,बाडेरां,7890,30,30,158,77,81,69294 Bhaderan,lunkaransar_2011,
+populated,16,125,Bhadwan,भादवां,4165,37,37,202,95,107,69263,lunkaransar_2011,
+populated,17,5,Bhandsar,भांडसर,12454,36,39,261,146,115,Chhatargarh 69785,moved_tehsil,
+populated,18,51,Bhiknera,भीकनेरा,5874,27,27,169,87,82,69237 Bheekhnera,lunkaransar_2011,
+populated,19,47,Bhojrasar,भोजरासर,17297,28,28,179,102,77,,not_in_2011,bhojrasar
+populated,20,55,Bhunwala,भुनवाला,11921,45,47,244,128,116,,not_in_2011,bhunwala
+populated,21,66,Binjarwali,बींजारवाली,13563,59,65,293,165,128,69248,lunkaransar_2011,
+populated,22,71,Birmana,बीरमाना,4050,33,32,198,111,87,69240 Beermana,lunkaransar_2011,birmana
+populated,23,172,Chandsar,चांदसर,2536,31,30,136,71,65,69337,lunkaransar_2011,
+populated,24,167,Chhatasar,छटासर,7834,22,22,142,72,70,69330,lunkaransar_2011,
+populated,25,6,Chidsar,चीडासर,5959,24,24,152,84,68,,not_in_2011,chidasar
+populated,26,73,Delana Bara,डेलाना बडा,12488,53,53,345,211,134,69239,lunkaransar_2011,
+populated,27,74,Delana Chhota,डेलना छोटा,8289,5,5,23,11,12,69236,lunkaransar_2011,
+populated,28,9,Dewasar,देवासर,11449,21,15,88,50,38,,not_in_2011,dewasar
+populated,29,147,Dhani Bhopalaram,ढाणी भोपालाराम,,24,24,110,58,52,69285,lunkaransar_2011,
+populated,30,163,Dhani Pandusar,ढाणी पांडुसर,8164,60,58,272,156,116,69328,lunkaransar_2011,
+populated,31,161,Dhirdan,धीरदान,10014,36,33,180,93,87,69326,lunkaransar_2011,
+populated,32,135,Dhirera,धीरेरा,3891,46,50,263,136,127,69275 Dheereran,lunkaransar_2011,
+populated,33,45,Duder,दुदेर,12861,20,20,93,52,41,,not_in_2011,duder
+populated,34,39,Duderia,दुदेरिया,3894,12,12,57,37,20,,not_in_2011,duderiya
+populated,35,126,Dudiyali,डुडियाली,2705,43,43,203,111,92,69265 Doodiwali?,lunkaransar_2011,
+populated,36,101,Dulchasar,डुलचासर,8639,23,25,118,64,54,69306,lunkaransar_2011,
+populated,37,137,Dulmeran,डुलमेरान,7530,11,24,129,71,58,69276 Dulmera,lunkaransar_2011,
+populated,38,169,Gerabdesar,गरबदेसर,22243,131,131,695,364,331,69332,lunkaransar_2011,
+populated,39,115,Gatan,गाटान,4000,1,1,7,5,2,69253 Gantan,lunkaransar_2011,
+populated,40,1,Gabana @ Lalewari,गबाना उर्फ लालेवाली,5906,13,12,69,34,35,,not_in_2011,
+populated,41,16,Gheghra,घेघरा,16084,21,25,126,69,57,Chhatargarh 69805,moved_tehsil,
+populated,42,92,Ghisura,घीसूरा,6556,25,25,149,77,72,69224,lunkaransar_2011,
+populated,43,108,Gopliyan,गोपलियान,12011,30,30,203,122,81,69312,lunkaransar_2011,
+populated,44,17,Gorisar,गोरीसर,8706,11,13,53,30,23,,not_in_2011,
+populated,45,80,Gusaiana,गुसाईना,5310,9,9,59,32,27,69230,lunkaransar_2011,
+populated,46,129,Hafasar,हाफासर,10799,21,21,120,64,56,69267,lunkaransar_2011,
+populated,47,138,Hansera,हंसेरा,7837,239,239,751,427,324,69277,lunkaransar_2011,
+populated,48,7,Hathusar,हाथुसर,8827,26,26,152,79,73,,not_in_2011,hathusar
+populated,49,30,Hindor,हिन्दोर,6326,26,26,172,87,85,,not_in_2011,hindor
+populated,50,8,Jagore,जागोर,9118,50,50,250,140,110,,not_in_2011,jagor
+populated,51,140,Jakadwala,जाकडवाला,3014,3,3,18,9,9,69278 Jakhar Wala,lunkaransar_2011,
+populated,52,43,Jaswantsar,जसवन्तसर,8915,14,14,60,33,27,69208,lunkaransar_2011,
+populated,53,132,Jesa,जेसा,6059,43,43,232,121,111,69272 Jaisan?,lunkaransar_2011,
+populated,54,97,Jetpur,जैतपुर,50620,380,432,1876,976,900,69214 Jaitpur,lunkaransar_2011,
+populated,55,168,Kagasar,कागासर,5750,27,28,158,100,58,69331,lunkaransar_2011,
+populated,56,146,Kakar Ichchha,काकड़ इछा,3117,1,1,5,2,3,69283,lunkaransar_2011,
+populated,57,76,Kakarwara,काकड़ वाला,13425,79,81,412,232,180,69297 Kankarwala,lunkaransar_2011,
+populated,58,145,Kal kal Muklera,कलकल मुकलेरा,3567,1,1,7,4,3,69284,lunkaransar_2011,
+populated,59,158,Kalu,कालू,32910,523,531,2736,1322,1414,69323,lunkaransar_2011,
+populated,60,149,Kalwas,कालवास,5713,28,28,146,82,64,69316,lunkaransar_2011,
+populated,61,46,Kankralia,कंकरालिया,5323,1,1,3,2,1,,not_in_2011,kankraliyo
+populated,62,10,Kanolai,कानोलाई,33147,104,111,546,289,257,,not_in_2011,kanolai
+populated,63,104,Kapurisar,कपुरीसर,12112,104,148,638,355,283,69310,lunkaransar_2011,
+populated,64,156,Karnisar,करनीसर,759,106,6,36,22,14,69335 Bas Karnisar?,lunkaransar_2011,
+populated,65,62,Kela,केला,35479,151,151,732,424,308,Chhatargarh 69833 Kelan,moved_tehsil,
+populated,66,36,Khanisar,खानीसर,9767,76,80,360,197,163,,not_in_2011,khanisar
+populated,67,171,Khapharsar,खाफरसर,2667,8,8,80,36,44,69338,lunkaransar_2011,
+populated,68,142,Khari,खारी,7134,88,102,416,205,211,69280,lunkaransar_2011,
+populated,69,3,Kharwara,खारवारा,32611,50,76,283,154,129,,not_in_2011,
+populated,70,49,Khiana,खीयाना,8338,12,12,47,26,21,,not_in_2011,khiyana
+populated,71,70,Khilerian,खीलेरीयां,6561,43,44,284,160,124,69242,lunkaransar_2011,
+populated,72,124,Khimeran,खीमेरां,4743,90,90,525,266,259,,not_in_2011,
+populated,73,79,Khokharana,खोखराना,12621,87,92,471,248,223,69241,lunkaransar_2011,
+populated,74,159,Kishnasar,कीशनासर,12031,35,38,256,124,132,69315,lunkaransar_2011,
+populated,75,130,Kisturia,किस्तूरीया,9952,10,10,50,26,24,69268,lunkaransar_2011,
+populated,76,170,Kubia,कुबीया,3016,3,3,12,6,6,69339,lunkaransar_2011,
+populated,77,143,Khujti,कुजटी,15056,59,59,293,142,151,69281,lunkaransar_2011,
+populated,78,25,Kumbhana,कुंभाना,23488,189,189,783,428,355,,not_in_2011,kumbhana
+populated,79,37,Khumbhasar,कुम्भासर,4002,15,16,94,49,45,,not_in_2011,kumbhasar
+populated,80,61,Kunda,कुन्डा,11403,3,3,15,10,5,Chhatargarh 69838,moved_tehsil,
+populated,81,54,Ladera,लाडेरा,6230,18,18,103,60,43,,not_in_2011,ladera
+populated,82,11,Lakhansar,लाखनसर,7593,19,21,100,50,50,Chhatargarh 69793,moved_tehsil,
+populated,83,57,Lakhawar,लखावर,7593,19,19,170,85,85,69244,lunkaransar_2011,
+populated,84,75,Lakhmi Narainsar,लखमीनारायनसर,2402,38,38,218,107,111,69235 Laxminarayansar,lunkaransar_2011,
+populated,85,31,Lakhor Bari,लाखोर बड़ी,9707,16,16,90,45,45,,not_in_2011,lakhor-moti
+populated,86,32,Lakhor Chhoti,लाखोर छोटी,2890,9,9,46,25,21,,not_in_2011,lakhor-chhoti
+populated,87,122,Lalera,लालेरा,3579,8,8,51,31,20,69252 Laleran,lunkaransar_2011,
+populated,88,83,Lalera Patta,लालेरा पट्टा,3279,6,6,51,20,31,69226 Lalera Patta Mahajan,lunkaransar_2011,
+populated,89,29,Lakhmi Narainsar,लखमीनारायनसर,4515,15,15,91,50,41,,not_in_2011,likhmisar?
+populated,90,18,Mahadeowali,महादेववाली,22208,43,52,450,247,203,,not_in_2011,
+populated,91,93,Mahajan,महाजन,26800,297,302,1289,675,614,69228,lunkaransar_2011,
+populated,92,65,Makrasar,मकडासर,8112,76,76,446,242,204,69247,lunkaransar_2011,
+populated,93,105,Malkisar,मालकीसर,17371,91,91,459,251,208,69304,lunkaransar_2011,
+populated,94,164,Manaparsar,मनापारसर,3377,39,41,230,124,106,69325,lunkaransar_2011,
+populated,95,26,Maneran,मनेरां,17906,76,76,382,212,170,,not_in_2011,manera
+populated,96,79,Manoharia,मनोहरिया,11266,42,42,302,157,145,69232,lunkaransar_2011,
+populated,97,133,Mehrana,मेहराना,2970,12,12,57,29,28,69273 Maharana,lunkaransar_2011,
+populated,98,38,Meusar,मेउसर,4619,42,43,229,132,97,,not_in_2011,meusar
+populated,99,85,Mithria,मिठडीया,9800,37,37,144,85,59,69210,lunkaransar_2011,
+populated,100,94,Mohkampura,मोहकमपुरा,7579,17,18,113,59,54,69299,lunkaransar_2011,
+populated,101,20,Motasar,मोटासर,32887,57,62,279,132,147,,not_in_2011,motasar
+populated,102,56,Motolai,मोटोलाई,12413,39,44,329,172,157,,not_in_2011,motlai
+populated,103,127,Mukleran,मुकलेरां,1475,5,5,20,10,10,69264 Doodimuklera?,lunkaransar_2011,
+populated,104,67,Musalki,मुसलकी,3020,20,20,83,47,36,69249,lunkaransar_2011,
+populated,105,173,Nakodesar,नकोदेसर,6694,5,5,230,127,103,69340,lunkaransar_2011,
+populated,106,28,Nakrasar,नाकरासर,7802,9,9,71,45,26,,not_in_2011,nakrasar
+populated,107,157,Nathusar,नाथुसर,5541,7,16,73,38,35,69333,lunkaransar_2011,
+populated,108,160,Nathwana,नाथवाना,6935,92,100,588,297,291,69313,lunkaransar_2011,
+populated,109,162,Pancharan @ Amarpura,पंचारा उर्फ अमरपुरा,11227,53,53,283,164,119,69327,lunkaransar_2011,
+populated,110,112,Phuldesar,फुलदेसर,4895,58,58,327,200,127,69290 Chak Phooldesar?,lunkaransar_2011,
+populated,111,34,Phuleji,फलेजी,7519,44,45,231,123,108,69203,lunkaransar_2011,
+populated,112,107,Pperan,पिपेरान,3362,80,80,309,192,117,69295 Peepera,lunkaransar_2011,
+populated,113,21,Raimalwali,रायमल वाली,26319,39,41,275,154,121,,not_in_2011,raimalwali
+populated,114,166,Rajasar @ Karnisar,राजासर उर्फ करनीसर,12240,98,98,538,281,257,69329,lunkaransar_2011,
+populated,115,60,Rajasar @ Bhatiyan,राजासर उर्फ भाटीयान,36810,108,108,415,258,157,Chhatargarh 69841,moved_tehsil,
+populated,116,165,Rajpuria @ Hudan,राजपुरीया उर्फ हुडान,8890,55,55,257,130,127,69324,lunkaransar_2011,
+populated,117,98,Rambag,रामबाग,3748,47,47,306,173,133,69223,lunkaransar_2011,
+populated,118,33,Rampura,रामपुरा,7589,17,17,126,69,57,,not_in_2011,rampura
+populated,119,41,Ramsar,रामसर,5587,19,19,117,67,50,69206 Ramsara,lunkaransar_2011,
+populated,120,87,Ranisar,रानीसर,3262,16,16,100,55,45,69220,lunkaransar_2011,
+populated,121,14,Raner,रानेर,60137,55,63,297,174,123,Chhatargarh 69797,moved_tehsil,
+populated,122,155,Rahwasar,राहवासर,4154,23,29,173,94,79,69336 Rawansar,lunkaransar_2011,
+populated,123,82,Ratnisar,रतनीसर,5102,17,17,108,49,59,69227,lunkaransar_2011,
+populated,124,113,Rojhan,रोजां,6291,39,39,258,142,116,69289,lunkaransar_2011,
+populated,125,98,Sabnia,साबनीया,764,53,57,390,211,179,69212,lunkaransar_2011,
+populated,126,134,Saderan,सादेरां,3955,7,7,45,24,21,69274,lunkaransar_2011,
+populated,127,19,Sadolai,साडोलाई,13695,84,58,295,157,138,Chhatargarh 69837,moved_tehsil,
+populated,128,63,Sardarpura,सरदारपुरा,22013,19,19,76,45,31,Chhatargarh 69832,moved_tehsil,
+populated,129,15,Sansardesar,संसारदेसर,13947,17,22,142,73,69,Chhatargarh 69807,moved_tehsil,
+populated,130,111,Seniwala,सनीवाला,5577,19,19,117,69,48,69291 Sehniwala,lunkaransar_2011,
+populated,131,144,Shehjarasar,सेहजरासर,20015,160,160,785,415,370,69319,lunkaransar_2011,
+populated,132,103,Shekhsar,शेखसर,22753,204,207,1057,509,548,69309,lunkaransar_2011,
+populated,133,96,Sherpura,शेरपुरा,30193,119,136,760,390,370,69217,lunkaransar_2011,
+populated,134,128,Sodhwali,सोढवाली,13240,52,52,331,191,140,69266,lunkaransar_2011,
+populated,135,68,Subhalai,सुभलाई,4794,43,43,254,132,122,69243 Shobholai,lunkaransar_2011,
+populated,136,50,Sulera,सुलेरा,6451,16,16,97,49,48,69234 Soolera,lunkaransar_2011,
+populated,137,100,Suni,सूनी,23965,78,101,498,244,254,69305 Suin,lunkaransar_2011,
+populated,138,141,Surnana,सुरनाणा,8246,76,77,496,262,234,69282,lunkaransar_2011,
+populated,139,4,Takhatpura,तखतपुरा,7983,16,17,100,54,46,Chhatargarh 69784,moved_tehsil,
+populated,140,99,Taliwala,टालीवाला,6701,15,17,123,57,66,69215,lunkaransar_2011,
+populated,141,27,Thoiyan,थोइयां,12705,44,45,239,141,98,,not_in_2011,thoiya
+populated,142,150,Uchrangdesar,उचरंगदेसर,4308,24,24,121,67,54,69317,lunkaransar_2011,
+populated,143,110,Udana,ऊदाना,7589,6,6,43,22,21,69292,lunkaransar_2011,
+populated,144,139,Udesian,उदेसीयां,2399,16,16,86,40,46,69257,lunkaransar_2011,
+populated,145,117,Unchairo,उंचैडो,3711,8,8,32,17,15,69256,lunkaransar_2011,
+populated,146,136,Uttamdesar,उत्तमदेसर,8036,55,17,255,131,124,69270,lunkaransar_2011,
+unpopulated,1,2,Sherpura Thikana khar bara,,,,,,,,,,
+unpopulated,2,23,Rekh Cholana,,,,,,,,,,kolana?
+unpopulated,3,24,Bhana Basti,,,,,,,,,,bhanabasti
+unpopulated,4,35,Chad Jhod,,,,,,,,,,chakdo?
+unpopulated,5,40,Jagat Singhpura,,,,,,,,,,
+unpopulated,6,42,Chak Asrasar,,,,,,,,,,
+unpopulated,7,45,Shodan Pura,,,,,,,,,,
+unpopulated,8,52,Rekh Megana,,,,,,,,,,
+unpopulated,9,53,Rekh Ajitmana,,,,,,,,,,ajeetwana
+unpopulated,10,59,Karmali,,,,,,,,,,
+unpopulated,11,77,Tejana,,,,,,,,,,
+unpopulated,12,84,Chak Bhawaria,,,,,,,,,,
+unpopulated,13,88,Chak Arjansar,,,,,,,,,,
+unpopulated,14,89,Suraj Pura,,,,,,,,,,
+unpopulated,15,90,Ranjitpura,,,,,,,,,,
+unpopulated,16,95,Bidsangrev,,,,,,,,,,
+unpopulated,17,106,Bham Malkisar,,,,,,,,,,
+unpopulated,18,114,Bajawas,,,,,,,,,,
+unpopulated,19,116,Hamirwas,,,,,,,,,,
+unpopulated,20,118,Sareh Netawas,,,,,,,,,,
+unpopulated,21,119,Sareh Buchawas,,,,,,,,,,
+unpopulated,22,120,Sareh Bichhalwas,,,,,,,,,,
+unpopulated,23,121,Khatiawas,,,,,,,,,,
+unpopulated,24,123,Bhogiya,,,,,,,,,,
+unpopulated,25,153,Bhanipura,,,,,,,,,,

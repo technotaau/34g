@@ -135,3 +135,10 @@ Material supplied by TechnoTaau Team carries `consent: granted by TechnoTaau Tea
 - Evidence labels on every claim: पक्का (verified), मिलान (corroborated), एक स्रोत (single-source), जांच बाकी (unverified), विरोधी स्रोत (conflicting), straight from the verification ladder.
 - Rights: a still whose manifest `rights` says permission or consent is still needed is shown only if it is not tagged `people`; a video whose stills are all people shows a placeholder note instead. Material with "Supplied by TechnoTaau Team with permission to use" is shown in full, credited.
 - Rebuild after any ingest/verify run and commit `site/` together with the store so the preview matches the data. `docs/oral-history-guide.md` is the one-page field guide for the recordings that feed the "यादें" page.
+
+## 10. Lead harvesting and archives
+
+- `python -m gaon34 harvest-youtube [--slugs ...] [--per-query 20] [--max-channels 40]`: bilingual query set per village plus umbrella queries, then a full listing (videos, shorts, streams) of every seed channel (`research/config/seed_channels.json`) and of the channels that produced search hits. Matching keeps a title when it names a village and carries area context (34 gaon, Mahajan, firing range, Lunkaransar, "old village", 1984-86 ...), or names the area outright; on a known 34-gaon channel the village name alone is enough (`context_from_channel: true`). Output: `research/leads/youtube.jsonl` (merged across runs, `known` marks what is already in the store) and `youtube_summary.md`. `--slugs -` runs the channel pass only.
+- Social web and archives leads come from research agents and are written to `research/leads/social_web.jsonl` and `archives.jsonl` with notes. Downloaded public-domain files live in `research/leads/files/`.
+- Leads are not evidence. Promote a lead with `python -m gaon34 video <slug> <url>` (it then goes through resolution, scoring and verification like any source).
+- The Census 1951 transcription (`data/census_1951_lunkaransar.csv`) and the 1955 map points (`data/ams_1955_villages.geojson`) feed `villages.json` (`census_1951`, `coordinates`) and the site's map and village pages.

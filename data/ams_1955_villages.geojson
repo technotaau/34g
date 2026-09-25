@@ -1,0 +1,855 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Lakhor Bari",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 3.3,
+    "project_slug": "lakhor-moti"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6565,
+     28.9864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Rampura",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 0.9,
+    "project_slug": "rampura"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7246,
+     28.985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Hindor",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 4.3,
+    "project_slug": "hindor"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5988,
+     28.9679
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Hathusar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.8,
+    "project_slug": "hathusar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5746,
+     28.9468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Jagor",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.7,
+    "project_slug": "jagor"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5719,
+     28.9338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Nakrasar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 10.6,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6373,
+     28.9192
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Kumbasar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 7.6,
+    "project_slug": "kumbhasar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6746,
+     28.9267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Khanisar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 2.3,
+    "project_slug": "khanisar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7285,
+     28.9427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Jagsingpura",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.6,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.74,
+     28.925
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Meusar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.9,
+    "project_slug": "meusar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6796,
+     28.8943
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Duderia",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 2.6,
+    "project_slug": "duderiya"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7181,
+     28.8994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Dhani Duder",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 10.7,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6277,
+     28.8724
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Thoiya",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 10.0,
+    "project_slug": "thoiya"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5765,
+     28.853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Amarpura",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.5,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6777,
+     28.8527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Duder",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.9,
+    "project_slug": "duder"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7288,
+     28.8554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Bhojrasar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.6,
+    "project_slug": "bhojrasar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7085,
+     28.8128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Barjansar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 10.4,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5604,
+     28.7633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Seodanpur",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 1.1,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7219,
+     28.7698
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Kumana",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 4.3,
+    "project_slug": "kumbhana"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5996,
+     28.7203
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Manera",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.9,
+    "project_slug": "manera"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6285,
+     28.7145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Khiana",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.0,
+    "project_slug": "khiyana"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6712,
+     28.706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Ladera",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 2.3,
+    "project_slug": "ladera"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5873,
+     28.6763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Bhikhnera",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 1.1,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6323,
+     28.6808
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Sulera",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 2.9,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6615,
+     28.6702
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Bhualo",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.4,
+    "project_slug": "bhunwala"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5765,
+     28.6456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Meghano",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 0.6,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5977,
+     28.6412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Birmana",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": true,
+    "km_to_boundary": 0.4,
+    "project_slug": "birmana"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5131,
+     28.5917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Ramsara",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 0.4,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7692,
+     28.9311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Asrasar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 0.7,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7808,
+     28.8881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Jasuntsar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 1.0,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7854,
+     28.8748
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Lolera",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 4.8,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8219,
+     28.8622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Mahajan",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 9.9,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.84,
+     28.7851
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Arjansar",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 14.7,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.9392,
+     28.9277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Gesura",
+    "sheet": "NH 43-14",
+    "inside_range_polygon": false,
+    "km_to_boundary": 10.3,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8604,
+     28.8124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Kharbara",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": false,
+    "km_to_boundary": 5.0,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4181,
+     28.9388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Bhansar",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": false,
+    "km_to_boundary": 2.7,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4865,
+     28.9639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Dewasar",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": true,
+    "km_to_boundary": 2.2,
+    "project_slug": "dewasar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4712,
+     28.8796
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Lakhanwala",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": false,
+    "km_to_boundary": 5.7,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.3473,
+     28.8677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Sherpura Dhani",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": false,
+    "km_to_boundary": 11.0,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.3462,
+     28.9432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Kanolai",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.3,
+    "project_slug": "kanolai"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4527,
+     28.7789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Madiali (Bari)",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": false,
+    "km_to_boundary": 4.8,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.3088,
+     28.7034
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Raemalwali",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": true,
+    "km_to_boundary": 7.0,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4654,
+     28.6565
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Motasar",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": true,
+    "km_to_boundary": 5.1,
+    "project_slug": "motasar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4385,
+     28.6429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Motolai",
+    "sheet": "NH 43-13",
+    "inside_range_polygon": true,
+    "km_to_boundary": 2.2,
+    "project_slug": "motlai"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4992,
+     28.6245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Lakhor Khurd",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": true,
+    "km_to_boundary": 1.4,
+    "project_slug": "lakhor-chhoti"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6655,
+     29.0024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Phuleji",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": false,
+    "km_to_boundary": 1.8,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7549,
+     29.0222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Gopalsar",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": false,
+    "km_to_boundary": 3.9,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.6541,
+     29.0624
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Hinjrasar",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": false,
+    "km_to_boundary": 3.6,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5951,
+     29.0597
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Bhopalpura",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": false,
+    "km_to_boundary": 4.8,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5304,
+     29.0512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name_on_map": "Kumgarh",
+    "sheet": "NH 43-10",
+    "inside_range_polygon": false,
+    "km_to_boundary": 3.5,
+    "project_slug": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7226,
+     29.058
+    ]
+   }
+  }
+ ]
+}

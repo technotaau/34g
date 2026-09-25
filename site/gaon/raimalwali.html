@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>रायमलवाली · 34 गांव</title>
+<meta name="description" content="गांव उजड़े, जड़ें नहीं।">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;700&display=swap">
+<style>
+/* Single-theme, deliberately: the desert at night. Every colour is set explicitly. */
+:root{
+  --bg:#0E1017; --bg2:#151824; --panel:#1B1F2C; --line:#2A2F3E; --ink:#F1ECE2; --ink2:#D8D1C4; --muted:#9A937F;
+  --sand:#E2B45A; --sand2:#B98A3A; --green:#8DBB74; --rust:#E0774A; --indigo:#7F8FFF;
+  --ok:#8DBB74; --one:#E2B45A; --todo:#8B8577; --conf:#E0774A;
+  --radius:8px; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Mukta","Noto Sans Devanagari",system-ui,sans-serif;font-size:17px;line-height:1.65;font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+a{color:var(--sand);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--sand);outline-offset:3px}
+img{max-width:100%;height:auto;display:block}
+h1,h2,h3{font-family:"Rozha One","Noto Serif Devanagari",serif;font-weight:400;line-height:1.15;text-wrap:balance;margin:0;letter-spacing:-.005em}
+h1{font-size:clamp(2.4rem,6vw,4.6rem)}
+h2{font-size:clamp(1.8rem,3.6vw,2.7rem)}
+h3{font-size:1.3rem}
+p{margin:0}
+.serif{font-family:"Tiro Devanagari Hindi","Noto Serif Devanagari",serif}
+.wrap{max-width:1160px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
+.prose{max-width:66ch}
+.eyebrow{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--sand);font-weight:500}
+.muted{color:var(--muted)} .small{font-size:.9rem} .lede{font-size:clamp(1.1rem,1.6vw,1.35rem);line-height:1.55;color:var(--ink2)}
+.stack{display:grid;gap:.7rem}
+.section{padding-block:clamp(2.4rem,6vw,5rem)}
+.section+.section{border-top:1px solid var(--line)}
+.section-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1.5rem;margin-bottom:1.4rem}
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:rgba(14,16,23,.82);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:1rem;min-height:60px}
+.brand{font-family:"Rozha One",serif;font-size:1.5rem;color:var(--ink);text-decoration:none;white-space:nowrap;line-height:1}
+.brand small{font-family:"Mukta",sans-serif;font-size:.7rem;color:var(--muted);margin-left:.5rem;letter-spacing:.1em}
+nav.main{display:flex;gap:.1rem;min-width:0;overflow-x:auto;scrollbar-width:none;margin-left:auto}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{white-space:nowrap;padding:.4rem .7rem;border-radius:999px;text-decoration:none;color:var(--ink2);font-size:.95rem}
+nav.main a:hover{color:var(--ink)}
+nav.main a[aria-current="page"]{background:var(--sand);color:#1A1406;font-weight:500}
+/* photo treatment */
+.ph{filter:contrast(1.08) saturate(1.12)}
+/* hero */
+.hero{position:relative;min-height:min(86vh,860px);display:grid;align-items:end;overflow:hidden;background:var(--bg2)}
+.hero .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:60% 35%;filter:contrast(1.1) saturate(1.15) brightness(.92)}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.25) 0%,rgba(14,16,23,.05) 35%,rgba(14,16,23,.55) 62%,rgba(14,16,23,.96) 100%),linear-gradient(90deg,rgba(14,16,23,.55) 0%,rgba(14,16,23,0) 55%)}
+.hero .text{position:relative;z-index:1;padding-block:clamp(2rem,6vw,4.5rem) clamp(1.6rem,4vw,3rem)}
+.hero h1{font-size:clamp(3rem,9.5vw,7.4rem);line-height:1.05;color:#FFFFFF;text-shadow:0 4px 30px rgba(0,0,0,.55)}
+.hero .lede{max-width:56ch;margin-top:1rem;color:#E9E3D6;text-shadow:0 2px 12px rgba(0,0,0,.6)}
+.hero .credit{font-size:.78rem;color:#B9B2A2;margin-top:1.2rem;letter-spacing:.03em}
+.hero .cue{position:absolute;right:clamp(16px,4vw,40px);bottom:1.6rem;z-index:1;color:#C9C2B1;font-size:.75rem;letter-spacing:.14em;text-transform:uppercase}
+@media (prefers-reduced-motion:no-preference){
+  .hero .bg{animation:kb 28s ease-out both}
+  @keyframes kb{from{transform:scale(1.08) translate(1.5%,0)}to{transform:scale(1) translate(0,0)}}
+  .hero h1,.hero .lede,.hero .credit{animation:rise 1.1s cubic-bezier(.2,.7,.2,1) both}
+  .hero .lede{animation-delay:.25s}.hero .credit{animation-delay:.45s}
+  @keyframes rise{from{opacity:.001;transform:translateY(14px)}to{opacity:1;transform:none}}
+}
+/* quotes strip */
+.quotes{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.4rem 1rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.quotes blockquote{flex:0 0 min(78vw,520px);scroll-snap-align:start;margin:0;padding:1.6rem 1.6rem 1.4rem;background:var(--panel);border-radius:var(--radius);border-top:3px solid var(--sand);display:grid;align-content:space-between;gap:1rem}
+.quotes p{font-family:"Tiro Devanagari Hindi","Noto Serif Devanagari",serif;font-size:clamp(1.25rem,2.1vw,1.6rem);line-height:1.45;color:var(--ink)}
+.quotes cite{font-style:normal;font-size:.82rem;color:var(--muted)}
+.quotes cite a{color:var(--sand2)}
+/* film strip */
+.strip{display:flex;gap:.8rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.4rem 1rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.strip figure{flex:0 0 min(84vw,440px);scroll-snap-align:start;margin:0}
+.strip img{aspect-ratio:3/2;object-fit:cover;width:100%;border-radius:var(--radius);filter:contrast(1.08) saturate(1.12)}
+.strip figcaption{padding:.5rem .1rem 0;font-size:.88rem;line-height:1.45;color:var(--ink2)}
+.strip figcaption b{font-family:"Rozha One",serif;font-weight:400;font-size:1.05rem;color:var(--sand);margin-right:.4rem}
+.strip figcaption .cr{display:block;color:var(--muted);font-size:.76rem;margin-top:.15rem}
+/* wall of names */
+.wall{display:flex;flex-wrap:wrap;gap:.25rem .9rem;align-items:baseline}
+.wall a{font-family:"Rozha One",serif;font-size:clamp(1.7rem,3.6vw,3rem);line-height:1.25;text-decoration:none;color:var(--ink);position:relative;padding-inline:.1rem}
+.wall a.thin{color:var(--muted);font-family:"Tiro Devanagari Hindi",serif;font-size:clamp(1.35rem,2.8vw,2.3rem)}
+.wall a small{font-family:"Mukta",sans-serif;font-size:.7rem;color:var(--sand2);vertical-align:super;margin-left:.15rem;letter-spacing:.05em}
+.wall a.media::after{content:"";display:inline-block;width:.45rem;height:.45rem;border-radius:50%;background:var(--green);margin-left:.35rem;vertical-align:middle}
+.wall a:hover{color:var(--sand)}
+.wall-note{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;margin-top:1.2rem;font-size:.88rem;color:var(--muted)}
+/* big numbers */
+.big{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1px;background:var(--line);border-block:1px solid var(--line)}
+.big div{background:var(--bg);padding:1.6rem 1.2rem 1.4rem}
+.big b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(2.4rem,4.6vw,4rem);line-height:1;color:var(--sand)}
+.big span{display:block;margin-top:.6rem;color:var(--ink2);font-size:.95rem;max-width:26ch}
+.big i{font-style:normal;display:block;color:var(--muted);font-size:.78rem;margin-top:.3rem}
+/* badges */
+.badge{display:inline-block;font-size:.72rem;line-height:1.3;padding:.15rem .55rem;border-radius:999px;border:1px solid currentColor;white-space:nowrap;vertical-align:middle;letter-spacing:.02em}
+.b-ok{color:var(--ok)} .b-one{color:var(--one)} .b-todo{color:var(--todo);border-style:dashed} .b-conf{color:var(--conf)}
+/* claims */
+.claims{list-style:none;padding:0;margin:0;display:grid;gap:.6rem}
+.claims li{display:grid;grid-template-columns:auto 1fr;gap:.7rem;align-items:start;padding:.8rem 1rem;border-left:3px solid var(--line);background:var(--panel);border-radius:0 var(--radius) var(--radius) 0;font-size:1.02rem}
+.claims li.ok{border-left-color:var(--ok)} .claims li.one{border-left-color:var(--one)} .claims li.conf{border-left-color:var(--conf)}
+.claims .why{font-size:.86rem;color:var(--muted);grid-column:1/-1}
+/* gallery grid */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:.8rem}
+.gallery figure{margin:0;background:var(--panel);border-radius:var(--radius);overflow:hidden}
+.gallery img{aspect-ratio:16/10;object-fit:cover;width:100%;filter:contrast(1.08) saturate(1.12)}
+.gallery figcaption{padding:.5rem .7rem .7rem;font-size:.85rem;line-height:1.45;color:var(--ink2)}
+.gallery figcaption .t{color:var(--sand2);font-size:.74rem;margin-right:.4rem}
+.video{padding-block:1.4rem}
+.video+.video{border-top:1px solid var(--line)}
+.video header{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin-bottom:.8rem}
+.video h3{font-family:"Tiro Devanagari Hindi",serif;font-size:1.25rem;color:var(--ink)}
+/* village header */
+.vhead{position:relative;min-height:min(62vh,600px);display:grid;align-items:end;overflow:hidden;background:var(--bg2)}
+.vhead .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 45%;filter:contrast(1.1) saturate(1.15) brightness(.9)}
+.vhead.nophoto{min-height:280px;background:radial-gradient(120% 90% at 20% 100%,#2A2416 0%,var(--bg2) 55%,var(--bg) 100%)}
+.vhead::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.15) 0%,rgba(14,16,23,.35) 45%,rgba(14,16,23,.97) 100%)}
+.vhead .text{position:relative;z-index:1;padding-block:2.5rem 1.6rem;display:grid;gap:.5rem}
+.vhead h1{font-size:clamp(3rem,9vw,6.4rem);line-height:1.05;color:#FFF;text-shadow:0 4px 30px rgba(0,0,0,.55)}
+.vhead .en{font-family:"Tiro Devanagari Hindi",serif;color:#D9D2C3;font-size:1.15rem}
+.vhead .row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-top:.4rem}
+.vhead .credit{font-size:.75rem;color:#B9B2A2}
+/* tables */
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius)}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--panel);font-weight:500;white-space:nowrap;color:var(--ink2)}
+tr:last-child td{border-bottom:0}
+td.num{text-align:right;white-space:nowrap}
+/* timeline */
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);margin-left:.6rem}
+.tl li{position:relative;padding:.2rem 0 1.8rem 1.6rem}
+.tl li::before{content:"";position:absolute;left:-8px;top:.9rem;width:14px;height:14px;border-radius:50%;background:var(--bg);border:2px solid var(--sand)}
+.tl li.visthapan::before{background:var(--sand)}
+.tl .when{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--sand)}
+.tl .phase{font-size:.74rem;color:var(--muted);letter-spacing:.08em;margin-left:.6rem;text-transform:uppercase}
+.tl b{display:block;font-family:"Tiro Devanagari Hindi",serif;font-weight:400;font-size:1.25rem;margin:.2rem 0 .25rem}
+.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.7rem;margin-bottom:1.4rem}
+.phases div{padding:1rem;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel)}
+.phases b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:1.25rem;color:var(--sand)}
+/* map */
+.map{border:1px solid var(--line);border-radius:var(--radius);background:var(--bg2);padding:.5rem}
+.map svg{width:100%;height:auto;display:block}
+/* callouts, cards */
+.callout{padding:1.2rem 1.4rem;border-left:3px solid var(--sand);background:var(--panel);border-radius:0 var(--radius) var(--radius) 0}
+.callout.warn{border-left-color:var(--rust)}
+.callout h3{font-family:"Tiro Devanagari Hindi",serif}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:1.2rem}
+.list{padding-left:1.2rem;margin:0;display:grid;gap:.35rem}
+.srcs{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.srcs li{padding:.6rem .8rem;border:1px solid var(--line);border-radius:var(--radius);font-size:.93rem;background:var(--bg2)}
+.srcs .meta{color:var(--muted);font-size:.8rem}
+.tag{display:inline-block;font-size:.76rem;padding:.1rem .55rem;border-radius:999px;background:rgba(226,180,90,.12);border:1px solid rgba(226,180,90,.35);color:var(--sand);margin-right:.3rem}
+.legend{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;font-size:.9rem;color:var(--ink2)}
+.btn{display:inline-block;padding:.7rem 1.3rem;border-radius:999px;background:var(--sand);color:#1A1406;text-decoration:none;font-weight:500}
+.btn:hover{background:#EDC36E}
+.btn.ghost{background:transparent;color:var(--sand);border:1px solid var(--sand2)}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:.3rem 1.2rem;font-size:.97rem}
+.kv dt{color:var(--sand2)} .kv dd{margin:0;color:var(--ink2)}
+/* chaupal mock */
+.chat{max-width:440px;border:1px solid var(--line);border-radius:14px;padding:.9rem;background:var(--bg2);display:grid;gap:.55rem}
+.chat .m{max-width:85%;padding:.55rem .8rem;border-radius:12px;background:var(--panel);font-size:.95rem}
+.chat .m.me{margin-left:auto;background:var(--sand);color:#1A1406}
+.chat .m small{display:block;color:var(--muted);font-size:.72rem}
+.chat .m.me small{color:#1A1406;opacity:.7}
+/* call band */
+.band{position:relative;overflow:hidden;border-radius:var(--radius);background:var(--bg2);min-height:340px;display:grid;align-items:end}
+.band img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:contrast(1.1) saturate(1.1) brightness(.75)}
+.band::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,16,23,.1),rgba(14,16,23,.92))}
+.band .text{position:relative;z-index:1;padding:2rem clamp(1rem,4vw,2.5rem)}
+.band h2{color:#FFF}
+footer{border-top:1px solid var(--line);margin-top:2rem;padding-block:2rem 2.6rem;font-size:.9rem;color:var(--muted)}
+footer .wrap{display:grid;gap:.5rem}
+footer .tag-line{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--ink)}
+@media (prefers-reduced-motion:no-preference){ .gallery figure,.strip img{transition:transform .25s} .gallery figure:hover,.strip figure:hover img{transform:translateY(-3px)} }
+@media (max-width:480px){ body{font-size:16px} .hero{min-height:78vh} .big b{font-size:2.2rem} }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap"><a class="brand" href="../index.html">34 गांव<small>34gaon.com</small></a><nav class="main" aria-label="मुख्य"><a href="../index.html">घर</a><a href="../gaon.html" aria-current="page">गांव</a><a href="../naksha.html">नक्शा</a><a href="../samay.html">समय-रेखा</a><a href="../yaadein.html">यादें</a><a href="../asar.html">रेंज का असर</a><a href="../basera.html">नया बसेरा</a><a href="../chaupal.html">चौपाल</a><a href="../yogdan.html">योगदान</a><a href="../srot.html">स्रोत</a></nav></div></header>
+<main><section class="vhead nophoto"><div class="text"><div class="wrap">
+<p class="eyebrow"><a href="../gaon.html" style="color:inherit">गांव</a> · acquired_probable</p>
+<h1>रायमलवाली</h1>
+<div class="en">Raimalwali · Raemalwali, रायमल वाली</div>
+
+</div></div></section><div class="wrap"><section class="section"><div class=callout><p class="small">1951 की जनगणना: <b>275</b> लोग, 41 परिवार, 26319 एकड़ (कोड 21).</p><p class="small">जगह: 28.6565, 73.4654 (रेंज-सीमा के अंदर).</p></div><p style="margin-top:1rem">इस गांव के लिए अभी कोई वीडियो या लेख दर्ज नहीं है। Added 25 Sep 2026 from the 1951 Census village directory (code 21, 275 persons, 39 houses) and the 1955 AMS map, where it lies inside the range polygon. Absent from Census 2011 in every Bikaner tehsil. Not on the community list of 34; ask elders.</p><p style="margin-top:.8rem"><a class="btn" href="../yogdan.html">इस गांव के बारे में बताइए</a></p></section></div></main>
+<footer><div class="wrap">
+<div class="tag-line">गांव उजड़े, जड़ें नहीं।</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div>हर तथ्य के साथ उसकी जांच का स्तर: <span class="badge b-ok">पक्का</span> <span class="badge b-ok">मिलान</span> <span class="badge b-one">एक स्रोत</span> <span class="badge b-todo">जांच बाकी</span> <span class="badge b-conf">विरोधी स्रोत</span> · <a href="../srot.html">तरीका और स्रोत</a></div>
+<div class="small">Phase 1 preview · डेटा 2026-09-25 तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय है।</div>
+</div></footer>
+</body>
+</html>
