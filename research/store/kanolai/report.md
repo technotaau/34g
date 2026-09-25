@@ -1,8 +1,8 @@
 # कानोलाई (Kanolai) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 24, स्वीकृत 7, पृष्ठभूमि (context) 0, समीक्षा हेतु 14, अस्वीकृत 3, डुप्लिकेट 0 · दावे: 9
+स्रोत: कुल 33, स्वीकृत 9, पृष्ठभूमि (context) 0, समीक्षा हेतु 20, अस्वीकृत 3, डुप्लिकेट 1 · दावे: 9
 
 > Named in the Rssuthar Jaisalmer vlog (Jan 2025): 'खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया'; tags mention Peer Baba ka Jaal and Heerji ki Samadhi. Possibly the same place as Kolana (कोलाणा) of the Dhatarwal list; unresolved. Kanolai families (Suthar) now live at Ramnagar, Lunkaransar tehsil (Rssuthar Jaisalmer channel). Listed as 'कनलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).
 
@@ -17,6 +17,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327. वीडियो (जून 2021 की फुटेज) में पीर जी महाराज कानोलाई धाम का मंदिर, ट्रैक्टर से पुराने 
+- [संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211](https://www.youtube.com/watch?v=ayVDHZUaY5o) (video · video · 2026-07-01 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211' (2:09) by Rssuthar Jaisalmer. संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) (video · video · 2025-01-13 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी' (24:52) by Rssuthar Jaisalmer. Kanolai Village Date _30-11-2012 Mahajan Field Firing Range Village Kanolai in Lunkaransar (Bikaner) Raj. बेहद खूबसूरत आबाद गाँव था कानोलाई जिसे सन 1986 म
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) (video · video · 2025-01-30 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -56,6 +58,10 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 ### भूमि, खेती, पशुपालन, नहर
 - [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.' (2:59) by Rssuthar Jaisalmer. Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327. वीडियो (जून 2021 की फुटेज) में पीर जी महाराज कानोलाई धाम का मंदिर, ट्रैक्टर से पुराने 
+- [#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814](https://www.youtube.com/watch?v=gH9LyJqWZk0) (video · video · 2026-07-29 · स्कोर 61 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video '#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814' (1:12) by Rssuthar Jaisalmer. #Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814
+- [महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!](https://www.youtube.com/watch?v=YoILEd1-mS8) (video · video · 2021-10-21 · स्कोर 59 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!' (0:17) by Rssuthar Jaisalmer. 
 
 ### शिक्षा व विद्यालय
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
@@ -64,9 +70,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (21)
+### वीडियो (29)
 - [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) (video · video · 2025-02-26 · स्कोर 92) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 6 lines; speech segments: 5 in z3ILa3-NyU0.content.json · timestamps: 3 public comments; 123 views; hashtags: 
+- [संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211](https://www.youtube.com/watch?v=ayVDHZUaY5o) (video · video · 2026-07-01 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 2 public comments; 192 views; hashtags: 
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) (video · video · 2025-01-13 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: no caption tracks (manual or auto) · timestamps: 2 public comments; 175 views; hashtags: Bikaner Kanolai Lunkaransar Mahajanfieldfiringrange Village
 - [सन् 1984-85 में छूटे हुए 34 गाँव कानोलाई कितने घरों की आबादी थी और कौन कौन सी जातिया थी](https://www.youtube.com/watch?v=L7FEYprtZWQ) (video · video · 2025-12-22 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -77,6 +85,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 124 views; hashtags: 
 - [पुराणा 34 गाँव कानोलाई का जोहड़ा 😱🔥 (पार्ट-2) #oldvillagelife #shorts](https://www.youtube.com/watch?v=D8HlEAxr4_w) (video · video · 2025-10-01 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 1 public comments; 386 views; hashtags: 
+- [पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney](https://www.youtube.com/watch?v=XVAN07aRHhY) (video · video · 2025-09-26 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 · uploader: @Apna465RD · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 483 views; hashtags: 
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) (video · video · 2025-01-30 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Rssuthar Jaisalmer · uploader: @RssutharJaisalmer · transcript_available: Whisper small (forced hi, beam 5): 435 segments in tp0mVligrls.content.json, but the speech is Marwari conversation and most segments are garbled; only fragment · timestamps: 4 public comments; 377 views; hashtags: HeerjikiSamadhi Kanolai Mahajanfildfiringrangelunkaransar PeerBabaKaJaal RssutharJaisalmer
 - [कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts](https://www.youtube.com/watch?v=QxAp0Hr2mGk) (video · video · 2025-10-06 · स्कोर 76 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
@@ -91,10 +101,6 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 609 views; hashtags: 
 - [पीर बाबा धाम कानोलाई और गाँव #oldvillagelife #shorts](https://www.youtube.com/watch?v=aUC-9oc49N0) (video · video · 2025-12-04 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 228 views; hashtags: 
-- [पुराना गांव कानोलाई से कच्चा रास्ता बरलाव से होकर कुंभाना गढ़ 🔥👌](https://www.youtube.com/watch?v=P9drItSNCU8) (video · video · 2025-10-07 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 51 views; hashtags: 
-- [कानोलाई गाँव में कच्चे मकान 😱👌(पार्ट-6) #oldvillagelife #shorts](https://www.youtube.com/watch?v=PA086BsNcOg) (video · video · 2025-10-05 · स्कोर 74 · समीक्षा हेतु) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - channel: Dinesh Beniwal  · uploader: @Dineshbeniwalvlog · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 602 views; hashtags: 
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -111,7 +117,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** 
 - **places:** Heer ji ki Madhi (samadhi with red flag), Heer ji ki Madhi (white shrine under a large tree), Peer ji Maharaj Kanolai Dham (shrine with jaal tree and bell offerings), Peer ji Maharaj Kanolai Dham (shrine), lime-plastered house ruins of Kanolai, old well/tanka of Kanolai
 - **events:** Return visit of elderly former residents, January 2019 (footage date in file names), Vishal jagran announced on the shrine board
-- **organizations:** Dinesh Beniwal , Rssuthar Jaisalmer
+- **organizations:** Dinesh Beniwal , Rssuthar Jaisalmer, 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝
 
 ## तथ्य / दावे
 
@@ -148,15 +154,23 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [कानोलाई गाँव में हरिराम दादा का मंदिर 🛕 (पार्ट-5) #oldvillagelife #shorts](https://www.youtube.com/watch?v=o-g09z_Jq2k) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
 - [पुराणा गांव कानोलाई का पुराना कुआँ 😱😲 (पार्ट-4) #oldvillagelife #shorts](https://www.youtube.com/watch?v=uyvxCpH1fx8) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
 - [कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts](https://www.youtube.com/watch?v=PsgqJGkgw-Q) · flags: resolution_review · primary name match: कानोलाई; district/nearby/clan context: ['Beniwal']
+- [कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012](https://www.youtube.com/watch?v=1I1fhPX3r2M) · flags: resolution_review · primary name match: कानोलाई
+- [ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?](https://www.youtube.com/watch?v=B8GmRwI9U3Q) · flags: resolution_review · primary name match: कानोलाई
+- [हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई](https://www.youtube.com/watch?v=IT-mm3pUInA) · flags: resolution_review · primary name match: कानोलाई
+- [पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451](https://www.youtube.com/watch?v=VfBaUl0520Q) · flags: resolution_review · primary name match: Kanolai
+- [महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!](https://www.youtube.com/watch?v=YoILEd1-mS8) · flags: resolution_review · primary name match: कानोलाई
+- [#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814](https://www.youtube.com/watch?v=gH9LyJqWZk0) · flags: resolution_review · primary name match: कानोलाई
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [Kanolai, a beautiful village of Mahajan Field Firing Range. 05 VID_20210623_091327.](https://www.youtube.com/watch?v=z3ILa3-NyU0) · youtube · video · स्कोर 92 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
+- [संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211](https://www.youtube.com/watch?v=ayVDHZUaY5o) · youtube · video · स्कोर 90 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [खूबसूरत कानोलाई गाँव _ पीर जी की जाल _ लटकते टोकरे _ कुँए में से पानी निकालते हुए _ हीर जी की मढ़ी](https://www.youtube.com/watch?v=xh6IoC9xyh8) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [सन् 1984-85 में छूटे हुए 34 गाँव कानोलाई कितने घरों की आबादी थी और कौन कौन सी जातिया थी](https://www.youtube.com/watch?v=L7FEYprtZWQ) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [छूटे हुए 34 गाँव कानोलाई का नजारा 😱🔥](https://www.youtube.com/watch?v=mBQXifrS8z4) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [34 गाँव कानोलाई का सबसे बड़ा टिब्बा #34gaav #oldvillagelife #shorts #viral](https://www.youtube.com/watch?v=N4JyKa-5xuU) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [पुराणा 34 गाँव कानोलाई का जोहड़ा 😱🔥 (पार्ट-2) #oldvillagelife #shorts](https://www.youtube.com/watch?v=D8HlEAxr4_w) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
+- [पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney](https://www.youtube.com/watch?v=XVAN07aRHhY) · youtube · video · स्कोर 88 · रिज़ॉल्यूशन accept (0.7) · खोज: video supplied by TechnoTaau Team
 - [खूबसूरत आबाद गाँव था कानोलाई (कन्हळाई) जिसे सन 1986 में महाजन फील्ड फायरिंग रेंज में ले लिया गया था](https://www.youtube.com/watch?v=tp0mVligrls) · youtube · video · स्कोर 86 · रिज़ॉल्यूशन accept (0.65) · खोज: video supplied by TechnoTaau Team
 - [कानोलाई गाँव में पीर बाबा का मन्दिर 👌🙏 (पार्ट-7) #oldvillagelife #shorts](https://www.youtube.com/watch?v=QxAp0Hr2mGk) · youtube · video · स्कोर 76 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
 - [कानोलाई गाँव पुराणा 34 उठे हुए गाँव 40 साल पहले के 😱🔥 (पार्ट-1) #oldvillagelife #34gaav #shorts](https://www.youtube.com/watch?v=PsgqJGkgw-Q) · youtube · video · स्कोर 76 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
@@ -170,5 +184,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - [पुराणा गांव कानोलाई का पुराना कुआँ 😱😲 (पार्ट-4) #oldvillagelife #shorts](https://www.youtube.com/watch?v=uyvxCpH1fx8) · youtube · video · स्कोर 74 · रिज़ॉल्यूशन review (0.55) · खोज: video supplied by TechnoTaau Team
 - [आइए आज हम हुणताराम सुथार धामु रामनगर (कानोलाई) के खेत चलते हैं जहाँ राजस्थानी मेवा मतीरा खाते हैं।](https://www.youtube.com/watch?v=1Trtx9oNsOs) · youtube · video · स्कोर 72 · रिज़ॉल्यूशन review (0.4) · खोज: video supplied by TechnoTaau Team
 - [ग्रामीण जीवन _ सुभाष सुथार कानोलाई (अटल जी) व राजू सुथार थिराना (काबरे साहब)_ सन 2011-12 का विडियो](https://www.youtube.com/watch?v=boOPyrBQxBU) · youtube · video · स्कोर 63 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?](https://www.youtube.com/watch?v=B8GmRwI9U3Q) · youtube · video · स्कोर 63 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई](https://www.youtube.com/watch?v=IT-mm3pUInA) · youtube · video · स्कोर 63 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451](https://www.youtube.com/watch?v=VfBaUl0520Q) · youtube · video · स्कोर 63 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
 - [अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥](https://www.youtube.com/watch?v=rI1mLJ5oPDQ) · youtube · video · स्कोर 61 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
 - [Barsalpur Bhurasar Farm | Kanaram Suthar Kanolai, Ghorakh yogi, Dr. Rajesh, Rssuthar Jaisalmer etc.](https://www.youtube.com/watch?v=jXeounYD1uA) · youtube · video · स्कोर 61 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012](https://www.youtube.com/watch?v=1I1fhPX3r2M) · youtube · video · स्कोर 61 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814](https://www.youtube.com/watch?v=gH9LyJqWZk0) · youtube · video · स्कोर 61 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team
+- [महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!](https://www.youtube.com/watch?v=YoILEd1-mS8) · youtube · video · स्कोर 59 · रिज़ॉल्यूशन review (0.35) · खोज: video supplied by TechnoTaau Team

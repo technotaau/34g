@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=B8GmRwI9U3Q on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+   "title": "ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2026-07-04",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?' (1:57) by Rssuthar Jaisalmer. रोई माथै ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ माथै च्यूँ घालेः? 20260519_062930",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "कानोलाई",
+   "evidence_snippets": [
+    "Title: ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+    "Description: रोई माथै ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ माथै च्यूँ घालेः? 20260519_062930",
+    "Viewer comment: Amazing video 😯😲😂😁😄😛😝"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "1 public comments; 432 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

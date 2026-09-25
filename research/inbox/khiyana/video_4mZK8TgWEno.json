@@ -1,0 +1,51 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=4mZK8TgWEno on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=4mZK8TgWEno",
+   "title": "श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "State Informative (@stateinformative4521)",
+   "published_date": "2022-09-20",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange' (0:37) by State Informative. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Khiyana",
+   "evidence_snippets": [
+    "Title: श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "State Informative"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "State Informative, YouTube, 2022, https://www.youtube.com/watch?v=4mZK8TgWEno",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "State Informative",
+    "uploader": "@stateinformative4521",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 62 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

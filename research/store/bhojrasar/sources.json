@@ -1117,5 +1117,93 @@
       "run_20260905T174840Z"
     ],
     "notes": "Explains why Bhojrasar has no standalone modern census/village page: it was administratively absorbed. Also listed on mapsofindia.com and localbodydata.com (village code 69202) — both blocked/redirected on fetch in this pass and worth a manual look."
+  },
+  "src_df177b42e12e": {
+    "id": "src_df177b42e12e",
+    "village": "bhojrasar",
+    "url": "https://www.youtube.com/watch?v=_aMqlahP44Y",
+    "url_key": "https://www.youtube.com/watch?v=_aMqlahP44Y",
+    "title": "34 gav में हमारा पुराना gav भोजरासर",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Anil Kumar Sarswa (@anilkumarsarswa4035)",
+    "published_date": "2023-06-22",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '34 gav में हमारा पुराना gav भोजरासर' (3:09) by Anil Kumar Sarswa. ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "भोजरासर",
+    "evidence_snippets": [
+      "Title: 34 gav में हमारा पुराना gav भोजरासर"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Anil Kumar Sarswa"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Anil Kumar Sarswa, YouTube, 2023, https://www.youtube.com/watch?v=_aMqlahP44Y",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Anil Kumar Sarswa",
+      "uploader": "@anilkumarsarswa4035",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 296 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: भोजरासर"
+      ],
+      "matched_names": [
+        "भोजरासर"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 59,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110234Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

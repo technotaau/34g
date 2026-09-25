@@ -1,8 +1,8 @@
 # रामपुरा (Rampura) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 1, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 2
+स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 2
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.
 
@@ -25,6 +25,8 @@
   - इस पृष्ठ पर लूणकरणसर तहसील (बीकानेर) के 125 गांवों की जनगणना 2011 आधारित सूची दी गई है। 'Rampura' नाम इस सूची में नहीं मिला; निकटतम मिलते-जुलते नाम Rambagh, Ramsara, Ranisar हैं।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
+- [34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial](https://www.youtube.com/watch?v=a56MCbcn7qs) (video · video · 2023-12-31 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video '34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial' (11:46) by Local live15. देश की रक्षा प्रणाली को मजबूत बनाने के लिए राजस्थान के बीकानेर जिला के महाजन तहसील के 34 गांव जिनको फील्ड फायरिंग रेंज बनाने के लिये खाली करवा दिया छतरगढ़ जाते वक्त
 - [बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह](https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/) (news · text · 2026-09-18 · स्कोर 76)
   - बीकानेर के मुक्ता प्रसाद थाना क्षेत्र में 'रामपुरा' में एक फायरिंग/गोलीबारी की घटना पर रिपोर्ट, जिसका कारण कैंपर वाहन को लेकर भुगतान विवाद बताया गया है। यह घटना सैन्य फायरिंग रेंज या विस्थापन से असंबंधित एक आपराधिक मामला है।
 - [Rajasthan District Gazetteers: Bikaner](https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt) (archive · book · 1966 · स्कोर 54 · पृष्ठभूमि स्रोत)
@@ -45,6 +47,8 @@
   - Google Play पर 'Rampura Gaon' नामक एक ऐप, डेवलपर सरजीत राठौड़ (Surjeet Rathore)। ऐप विवरण पेज स्वतः पूरी तरह fetch नहीं हो सका, इसलिए यह किस राज्य/जिले के रामपुरा गांव हेतु है यह पुष्ट नहीं हो पाया।
 
 ### मंदिर, लोक देवता, स्थल
+- [34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial](https://www.youtube.com/watch?v=a56MCbcn7qs) (video · video · 2023-12-31 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video '34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial' (11:46) by Local live15. देश की रक्षा प्रणाली को मजबूत बनाने के लिए राजस्थान के बीकानेर जिला के महाजन तहसील के 34 गांव जिनको फील्ड फायरिंग रेंज बनाने के लिये खाली करवा दिया छतरगढ़ जाते वक्त
 - [बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह](https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/) (news · text · 2026-09-18 · स्कोर 76)
   - बीकानेर के मुक्ता प्रसाद थाना क्षेत्र में 'रामपुरा' में एक फायरिंग/गोलीबारी की घटना पर रिपोर्ट, जिसका कारण कैंपर वाहन को लेकर भुगतान विवाद बताया गया है। यह घटना सैन्य फायरिंग रेंज या विस्थापन से असंबंधित एक आपराधिक मामला है।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 44 · पृष्ठभूमि स्रोत)
@@ -53,6 +57,8 @@
   - जाटलैंड विकी पर महाजन (लूणकरणसर, बीकानेर) का पेज मौजूद है। ऐसे पेजों में सामान्यतः निकटवर्ती गांवों, गोत्रों और स्थानीय इतिहास की जानकारी होती है, परंतु स्वचालित रूप से पेज एक्सेस नहीं हो सका।
 
 ### त्योहार व परंपराएं
+- [34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial](https://www.youtube.com/watch?v=a56MCbcn7qs) (video · video · 2023-12-31 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video '34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial' (11:46) by Local live15. देश की रक्षा प्रणाली को मजबूत बनाने के लिए राजस्थान के बीकानेर जिला के महाजन तहसील के 34 गांव जिनको फील्ड फायरिंग रेंज बनाने के लिये खाली करवा दिया छतरगढ़ जाते वक्त
 - [बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह](https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/) (news · text · 2026-09-18 · स्कोर 76)
   - बीकानेर के मुक्ता प्रसाद थाना क्षेत्र में 'रामपुरा' में एक फायरिंग/गोलीबारी की घटना पर रिपोर्ट, जिसका कारण कैंपर वाहन को लेकर भुगतान विवाद बताया गया है। यह घटना सैन्य फायरिंग रेंज या विस्थापन से असंबंधित एक आपराधिक मामला है।
 - [Rampura Gaon](https://play.google.com/store/apps/details?id=com.surjeetrathore.rampura&hl=en_GB) (website · document · तिथि अज्ञात · स्कोर 72 · समीक्षा हेतु)
@@ -72,7 +78,9 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial](https://www.youtube.com/watch?v=a56MCbcn7qs) (video · video · 2023-12-31 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: Local live15 · uploader: @Local_liveNagendra · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 94 views; hashtags: army bhajanlalsharma bikaner diyakumari localnews modi rampura shivrajsinghchouhan
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -96,7 +104,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Hari Singh, K. K. Sehgal, Mukesh Vishnoi, Surjeet Rathore
 - **places:** Bhojrasar, Bikaner, Dantur, Duder, Khajuwala, Khanisar, Kumbhana, Lunkaransar, Mahajan, Maneran, Mohangadh, Motlai, Mukta Prasad, Nachna, Pugal, Rambagh, Ramsara, Ranisar, Thoiya
 - **events:** Mahajan Field Firing Range land acquisition 1984-85, firing/payment dispute incident
-- **organizations:** Bikaner Police, Census of India, Directorate of District Gazetteers, Rajasthan, Jatland, Ministry of Defence, Rajasthan Patrika
+- **organizations:** Bikaner Police, Census of India, Directorate of District Gazetteers, Rajasthan, Jatland, Local live15, Ministry of Defence, Rajasthan Patrika
 
 ## तथ्य / दावे
 
@@ -118,6 +126,7 @@ _कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
+- [34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial](https://www.youtube.com/watch?v=a56MCbcn7qs) · youtube · video · स्कोर 90 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह](https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/) · voiceofbikaner.com · news · स्कोर 76 · रिज़ॉल्यूशन accept (0.8) · खोज: रामपुरा महाजन फायरिंग रेंज विस्थापित
 - [Rampura Gaon](https://play.google.com/store/apps/details?id=com.surjeetrathore.rampura&hl=en_GB) · play.google.com · website · स्कोर 72 · रिज़ॉल्यूशन review (0.55) · खोज: 34 gaon Rampura Mahajan
 - [Rajasthan District Gazetteers: Bikaner](https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt) · archive_org · archive · स्कोर 54 · रिज़ॉल्यूशन context (0.5) · खोज: "Rampura" Bikaner gazetteer archive.org book

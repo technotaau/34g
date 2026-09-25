@@ -1,8 +1,8 @@
 # मोटासर (Motasar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 2, पृष्ठभूमि (context) 1, समीक्षा हेतु 2, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 6
+स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 1, समीक्षा हेतु 2, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 6
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours.
 
@@ -25,6 +25,8 @@
   - कोलायत तहसील के मोटासर गांव का मानचित्र और पिनकोड (334303) पेज; वही कोलायत वाला गांव जो census2011 पर मिला, लूणकरणसर/महाजन क्षेत्र से भिन्न प्रतीत होता है।
 
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
+- [बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार](https://www.youtube.com/watch?v=WANuSwaZhsE) (video · video · 2022-11-06 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार' (0:59) by ssso news. बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार बड़ी खबर इस समय की बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव से आ 
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए करीब चार दशक पहले विस्थापित हुए 34 गांवों के परिवारों के दर्द पर आधारित है; उदाहरण के तौर पर भोजरासर, कुम्भाना, मोतलाई, खानीसर, थोइया, मानेरा, डूडेर, खाजूवाला, डांटूर, पूगल, मोहनगढ़ और नाचना गांवों के नाम लिए गए हैं। लेख में 'मोटासर' नाम प्रत्यक्ष रूप से नह
 
@@ -57,9 +59,11 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (1)
+### वीडियो (2)
 - [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) (social · video · 2025-09-27 · स्कोर 93) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - channel: Dinesh Beniwal · uploader: 100023184678090 · transcript_available: no caption tracks (manual or auto); burned-in subtitle OCR: 0 lines; speech segments: 0 in fb1152422783491564.content.json · timestamps: 0 public comments; 22755 views; hashtags: 
+- [बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार](https://www.youtube.com/watch?v=WANuSwaZhsE) (video · video · 2022-11-06 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: ssso news · uploader: @sssonews · transcript_available: no caption tracks (manual or auto) · timestamps: 0 public comments; 544 views; hashtags: badikhabre bikaner hiranshikar livenews mahajan_field_firing_range motasarvillage sssonews
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -81,7 +85,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Hari Singh
 - **places:** Bhojrasar, Bikaner, Dantur, Duder, Gadiyala, Khajuwala, Khaniser, Kolayat, Kumbhana, Manera, Mohangadh, Motlai, Nachna, Pugal, Thoiya
 - **events:** 1984-85 land acquisition for Mahajan Field Firing Range
-- **organizations:** Dinesh Beniwal, Ministry of Defence
+- **organizations:** Dinesh Beniwal, Ministry of Defence, ssso news
 
 ## तथ्य / दावे
 
@@ -108,6 +112,7 @@ _कोई नहीं_
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
 - [पुराणा 34 गाँव मोटासर यह गांव किस किस का था बताओ 🔥👌](https://m.facebook.com/watch/?v=1152422783491564&_rdr) · facebook · social · स्कोर 93 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
+- [बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार](https://www.youtube.com/watch?v=WANuSwaZhsE) · youtube · video · स्कोर 86 · रिज़ॉल्यूशन accept (0.8) · खोज: video supplied by TechnoTaau Team
 - [Villages in Lunkaransar Tehsil, Bikaner, Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/) · mapsofindia.com · website · स्कोर 75 · रिज़ॉल्यूशन accept (0.8) · खोज: "Motasar" Lunkaransar census village code panchayat
 - [Motasar Village Population - Kolayat - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69475-motasar-rajasthan.html) · census_mirror · census_mirror · स्कोर 67 · रिज़ॉल्यूशन review (0.55) · खोज: Motasar village Bikaner Rajasthan
 - [Motasar Village Map, PIN Code, Population | Bikaner, Rajasthan](https://www.villagemaps.in/rajasthan/motasar-kolayat-bikaner-69475/) · villagemaps.in · census_mirror · स्कोर 61 · रिज़ॉल्यूशन review (0.55) · खोज: Motasar village Bikaner Rajasthan

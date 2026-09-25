@@ -1,0 +1,52 @@
+{
+ "village": "motasar",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=WANuSwaZhsE on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "motasar",
+   "url": "https://www.youtube.com/watch?v=WANuSwaZhsE",
+   "title": "बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "ssso news (@sssonews)",
+   "published_date": "2022-11-06",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार' (0:59) by ssso news. बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार बड़ी खबर इस समय की बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव से आ रही है जहां पर चिंगारा हिरण को गोली मारी गई , और मृत हिरण को मोटरसाइकिल पर डालकर ले जाया जा रहा था इंद्राज बिश्नोई …",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Motasar",
+   "evidence_snippets": [
+    "Title: बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार",
+    "Description: बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव की रोही में फिर हुआ हिरण का शिकार बड़ी खबर इस समय की बीकानेर के महाजन फील्ड फायरिंग रेंज एरिया के मोटासर गांव से आ रही है जहां पर चिंगारा …"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "ssso news"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "ssso news, YouTube, 2022, https://www.youtube.com/watch?v=WANuSwaZhsE",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "ssso news",
+    "uploader": "@sssonews",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 544 views; hashtags: badikhabre bikaner hiranshikar livenews mahajan_field_firing_range motasarvillage sssonews"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

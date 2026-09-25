@@ -1,0 +1,55 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=sXtp4JXsTfg on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=sXtp4JXsTfg",
+   "title": "पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-08-02",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling' (2:21) by Rssuthar Jaisalmer. 09 Wrestler Jethuram Meghwal 20190924_061002",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "नाथू दादा मंदिर"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खींयाणा",
+   "evidence_snippets": [
+    "Title: पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling",
+    "Description: 09 Wrestler Jethuram Meghwal 20190924_061002",
+    "Location field: नाथू दादा मंदिर"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=sXtp4JXsTfg",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 99 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

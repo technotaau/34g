@@ -1,0 +1,52 @@
+{
+ "village": "hathusar",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=tRTmMU342wM on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "hathusar",
+   "url": "https://www.youtube.com/watch?v=tRTmMU342wM",
+   "title": "#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "INDIAN RURAL FARMER (@Indianruralfarmer77)",
+   "published_date": "2024-11-06",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video '#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video' (2:24) by INDIAN RURAL FARMER. हाथुसर गांव कि जिरो ग्राउंड रिपोर्ट सभी मेरे विडीयो को लाईक सारे और कोमेट जरूर करें किस किस का पुराना गांव हाथुसर है और अभी वर्तमान में आप हाथुसर गांव सरकार के उठाने पर कहा निवास कर रहे हैं जरूर बताएं थोड़ा कन्यफियोजन है हाथुसर गांव दो थै या एक जरूर बताएं 30 साल पहले सरकार ने 34 गांवों को …",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "हाथुसर",
+   "evidence_snippets": [
+    "Title: #हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video",
+    "Description: हाथुसर गांव कि जिरो ग्राउंड रिपोर्ट सभी मेरे विडीयो को लाईक सारे और कोमेट जरूर करें किस किस का पुराना गांव हाथुसर है और अभी वर्तमान में आप हाथुसर गांव सरकार के उठाने पर कहा निवास कर रहे हैं जरूर …"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "INDIAN RURAL FARMER"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "INDIAN RURAL FARMER, YouTube, 2024, https://www.youtube.com/watch?v=tRTmMU342wM",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "INDIAN RURAL FARMER",
+    "uploader": "@Indianruralfarmer77",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "2 public comments; 989 views; hashtags: shortvideo"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=4lrNHPs1VwY on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=4lrNHPs1VwY",
+   "title": "खियाणा धाम 🚩🚩 #viral #shorts",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Nathu Dada Studio (@nathudadastudio)",
+   "published_date": "2022-12-15",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'खियाणा धाम 🚩🚩 #viral #shorts' (0:36) by Nathu Dada Studio. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "खियाणा",
+   "evidence_snippets": [
+    "Title: खियाणा धाम 🚩🚩 #viral #shorts",
+    "Viewer comment: जय श्री नाथू दादा 🙏🏼🙏🏼🙏🏼🙏🏼"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Nathu Dada Studio"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=4lrNHPs1VwY",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Nathu Dada Studio",
+    "uploader": "@nathudadastudio",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "2 public comments; 42 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

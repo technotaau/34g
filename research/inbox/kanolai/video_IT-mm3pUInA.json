@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=IT-mm3pUInA on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=IT-mm3pUInA",
+   "title": "हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2026-07-02",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई' (1:30) by Rssuthar Jaisalmer. हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम सुथार धामु कानोलाई 20260702_082111",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "कानोलाई",
+   "evidence_snippets": [
+    "Title: हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+    "Description: हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम सुथार धामु कानोलाई 20260702_082111",
+    "Viewer comment: Thar Desert Men 😂😂😂"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=IT-mm3pUInA",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "1 public comments; 299 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

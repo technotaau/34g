@@ -1,6 +1,6 @@
 # कंकरालियो (Kankraliyo) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 5, स्वीकृत 1, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 2
 
@@ -25,12 +25,12 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [Rajasthan District Gazetteers: Bikaner (OCR full text)](https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt) (archive · book · 1972 · स्कोर 54 · पृष्ठभूमि स्रोत)
   - OCR full text of the 1972 Rajasthan District Gazetteer for Bikaner, on the Internet Archive / Digital Library of India. Discusses Lunkaransar tahsil administrative details and mentions the Mahajan community generally, but the OCR text contains no occurrence of Kankraliyo/Kankraliya in any spelling c
+- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 44 · पृष्ठभूमि स्रोत)
+  - Patrika article on joint international military exercises (with US, UK, Russia, France, Oman forces) held on the abandoned village land of Mahajan Field Firing Range. General military/range background; no specific village names including Kankraliyo are mentioned.
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - Earlier (2018) Patrika version of the same feature on farmers displaced by the 1984-85 acquisition of 34 villages for Mahajan Field Firing Range. Names Khajuwala, Dantor, Pugal, Mohangarh and Nachna as resettlement-related villages; does not mention Kankraliyo. Describes the persistent grief of form
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - Rajasthan Patrika feature on the ~37-year-old emotional toll of the 1984-85 acquisition of 34 villages for Mahajan Field Firing Range. Names several displaced/resettled villages (Bhojrasar, Kumbhana, Motlai, Khanesar, Thohiya, Manera, Duder, Khajuwala, Dantor, Pugal, Mohangarh, Nachna) and describes
-- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 44 · पृष्ठभूमि स्रोत)
-  - Patrika article on joint international military exercises (with US, UK, Russia, France, Oman forces) held on the abandoned village land of Mahajan Field Firing Range. General military/range background; no specific village names including Kankraliyo are mentioned.
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
@@ -47,12 +47,12 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
   - Rajasthan Patrika feature on the ~37-year-old emotional toll of the 1984-85 acquisition of 34 villages for Mahajan Field Firing Range. Names several displaced/resettled villages (Bhojrasar, Kumbhana, Motlai, Khanesar, Thohiya, Manera, Duder, Khajuwala, Dantor, Pugal, Mohangarh, Nachna) and describes
 
 ### भूमि, खेती, पशुपालन, नहर
+- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 44 · पृष्ठभूमि स्रोत)
+  - Patrika article on joint international military exercises (with US, UK, Russia, France, Oman forces) held on the abandoned village land of Mahajan Field Firing Range. General military/range background; no specific village names including Kankraliyo are mentioned.
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - Earlier (2018) Patrika version of the same feature on farmers displaced by the 1984-85 acquisition of 34 villages for Mahajan Field Firing Range. Names Khajuwala, Dantor, Pugal, Mohangarh and Nachna as resettlement-related villages; does not mention Kankraliyo. Describes the persistent grief of form
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - Rajasthan Patrika feature on the ~37-year-old emotional toll of the 1984-85 acquisition of 34 villages for Mahajan Field Firing Range. Names several displaced/resettled villages (Bhojrasar, Kumbhana, Motlai, Khanesar, Thohiya, Manera, Duder, Khajuwala, Dantor, Pugal, Mohangarh, Nachna) and describes
-- [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 44 · पृष्ठभूमि स्रोत)
-  - Patrika article on joint international military exercises (with US, UK, Russia, France, Oman forces) held on the abandoned village land of Mahajan Field Firing Range. General military/range background; no specific village names including Kankraliyo are mentioned.
 
 ### शिक्षा व विद्यालय
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_

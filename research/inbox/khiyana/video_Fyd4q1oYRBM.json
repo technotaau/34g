@@ -1,0 +1,51 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=Fyd4q1oYRBM on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+   "title": "#एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Kumbharam thakan (@kumbharamthakan6716)",
+   "published_date": "2022-09-22",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video '#एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner' (5:17) by Kumbharam thakan. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "खिंयाणा",
+   "evidence_snippets": [
+    "Title: #एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Kumbharam thakan"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Kumbharam thakan, YouTube, 2022, https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Kumbharam thakan",
+    "uploader": "@kumbharamthakan6716",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 76 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

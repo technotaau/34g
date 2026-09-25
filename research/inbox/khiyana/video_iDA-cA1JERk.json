@@ -1,0 +1,52 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=iDA-cA1JERk on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=iDA-cA1JERk",
+   "title": "नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "facts KailashSharma (@factsKailashSharma)",
+   "published_date": "2025-09-17",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana' (8:55) by facts KailashSharma. नाथु दादा धाम खिंयारा महावीर सांखला ।। दादा तांण छतरी ।। Nathu Dada Dham khinyara Mela 2025 #nathu_dada_khinyara #nathu_dada_dham #nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "खिंयाणा",
+   "evidence_snippets": [
+    "Title: नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana",
+    "Description: नाथु दादा धाम खिंयारा महावीर सांखला ।। दादा तांण छतरी ।। Nathu Dada Dham khinyara Mela 2025 #nathu_dada_khinyara #nathu_dada_dham #nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ …"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "facts KailashSharma"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "facts KailashSharma, YouTube, 2025, https://www.youtube.com/watch?v=iDA-cA1JERk",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "facts KailashSharma",
+    "uploader": "@factsKailashSharma",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "3 public comments; 85 views; hashtags: mahaveer_sankhla_bhajan nathu_ nathu_dada_bhajan nathu_dada_dham nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara nathu_dada_khinyara nathu_dada_mela2025 nathu_dada_song महाजन_फील्ड_फायरिंग_रेंज"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

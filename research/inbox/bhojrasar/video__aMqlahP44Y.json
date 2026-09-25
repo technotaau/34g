@@ -1,0 +1,51 @@
+{
+ "village": "bhojrasar",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=_aMqlahP44Y on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "bhojrasar",
+   "url": "https://www.youtube.com/watch?v=_aMqlahP44Y",
+   "title": "34 gav में हमारा पुराना gav भोजरासर",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Anil Kumar Sarswa (@anilkumarsarswa4035)",
+   "published_date": "2023-06-22",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video '34 gav में हमारा पुराना gav भोजरासर' (3:09) by Anil Kumar Sarswa. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "भोजरासर",
+   "evidence_snippets": [
+    "Title: 34 gav में हमारा पुराना gav भोजरासर"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Anil Kumar Sarswa"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Anil Kumar Sarswa, YouTube, 2023, https://www.youtube.com/watch?v=_aMqlahP44Y",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Anil Kumar Sarswa",
+    "uploader": "@anilkumarsarswa4035",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 296 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

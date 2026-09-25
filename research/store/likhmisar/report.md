@@ -1,6 +1,6 @@
 # लिखमीसर (Likhmisar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 10, स्वीकृत 1, पृष्ठभूमि (context) 2, समीक्षा हेतु 6, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 10
 
@@ -13,10 +13,10 @@
   - 2011 Census mirror for 'Likhmisar Utrada', a village of 555 families / population 4841 in Sridungargarh tehsil, Bikaner, 40km from Sridungargarh and 70km from Bikaner city; gram panchayat Likhamisar Dikhnada; pincode 331811.
 - [Likhmisar](https://www.geonames.org/1264927) (government · dataset · तिथि अज्ञात · स्कोर 66 · समीक्षा हेतु)
   - GeoNames lists a single 'Likhmisar' populated place at 27.898N, 73.874E, filed under Bikaner district / Sridungargarh administrative area, not Lunkaransar tehsil. This is the only GeoNames entry matching the name.
-- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
-  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) (census_mirror · dataset · 2011 · स्कोर 63 · समीक्षा हेतु)
   - Village directory entry corroborating Likhmisar Utrada's location in Sridungargarh tehsil, Bikaner, with the same 2011 census statistics as census2011.co.in.
+- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
+  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Villages/L - Jatland Wiki](https://www.jatland.com/home/Villages/L) (community_wiki · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Jatland's index of villages starting with 'L' lists both 'Likhmisar Dikhnada' and 'Likhmisar Utrada'; a related Jatland snippet ties a population figure of ~150 to the Delu Jat gotra at Likhmisar. Direct fetch of the page returned HTTP 403, so this is based on search-result snippets only and needs m
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
@@ -27,10 +27,10 @@
   - 2011 Census mirror for 'Likhmisar Utrada', a village of 555 families / population 4841 in Sridungargarh tehsil, Bikaner, 40km from Sridungargarh and 70km from Bikaner city; gram panchayat Likhamisar Dikhnada; pincode 331811.
 - [Likhmisar](https://www.geonames.org/1264927) (government · dataset · तिथि अज्ञात · स्कोर 66 · समीक्षा हेतु)
   - GeoNames lists a single 'Likhmisar' populated place at 27.898N, 73.874E, filed under Bikaner district / Sridungargarh administrative area, not Lunkaransar tehsil. This is the only GeoNames entry matching the name.
-- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
-  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Likhmisar Utrada Village in Sridungargarh (Bikaner) Rajasthan | villageinfo.in](https://villageinfo.in/rajasthan/bikaner/sridungargarh/likhmisar-utrada.html) (census_mirror · dataset · 2011 · स्कोर 63 · समीक्षा हेतु)
   - Village directory entry corroborating Likhmisar Utrada's location in Sridungargarh tehsil, Bikaner, with the same 2011 census statistics as census2011.co.in.
+- [Likhmisar Dikhnada Village | Map of Likhmisar Dikhnada Village in Sridungargarh Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/sridungargarh/likhmisar-dikhnada.html) (government · map · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
+  - MapsOfIndia confirms 'Likhmisar Dikhnada' is a separate village also in Sridungargarh tehsil, Bikaner district (a sibling to Likhmisar Utrada), reinforcing that both known 'Likhmisar' places sit outside Lunkaransar tehsil.
 - [Villages/L - Jatland Wiki](https://www.jatland.com/home/Villages/L) (community_wiki · text · तिथि अज्ञात · स्कोर 61 · समीक्षा हेतु)
   - Jatland's index of villages starting with 'L' lists both 'Likhmisar Dikhnada' and 'Likhmisar Utrada'; a related Jatland snippet ties a population figure of ~150 to the Delu Jat gotra at Likhmisar. Direct fetch of the page returned HTTP 403, so this is based on search-result snippets only and needs m
 

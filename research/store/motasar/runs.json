@@ -39,5 +39,19 @@
     "flag": "budget_starved: rerun recommended",
     "total_after": 6,
     "at": "2026-09-19T15:55:02.468740+00:00"
+  },
+  {
+    "run_id": "run_20260925T110207Z",
+    "file": "/home/user/34g/research/inbox/motasar/video_WANuSwaZhsE.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=WANuSwaZhsE on 2026-09-25",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-25T11:02:07.137968+00:00"
   }
 ]

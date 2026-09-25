@@ -690,5 +690,97 @@
     ],
     "notes": "IMPORTANT FOR HUMAN REVIEW: this is the single most promising and most uncertain lead found. If true, it would directly connect the acquired village's name to a still-used military place-name inside the range (common pattern: firing ranges keep the old village names as zone/target-area labels). Needs a human to open the Wikimapia/Google Maps/OSM page in a real browser (WebFetch returned empty content here) and, ideally, satellite imagery or a military OSINT map to confirm.",
     "consent": ""
+  },
+  "src_07a0af4a4084": {
+    "id": "src_07a0af4a4084",
+    "village": "hathusar",
+    "url": "https://www.youtube.com/watch?v=tRTmMU342wM",
+    "url_key": "https://www.youtube.com/watch?v=tRTmMU342wM",
+    "title": "#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "INDIAN RURAL FARMER (@Indianruralfarmer77)",
+    "published_date": "2024-11-06",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video' (2:24) by INDIAN RURAL FARMER. हाथुसर गांव कि जिरो ग्राउंड रिपोर्ट सभी मेरे विडीयो को लाईक सारे और कोमेट जरूर करें किस किस का पुराना गांव हाथुसर है और अभी वर्तमान में आप हाथुसर गांव सरकार के उठाने पर कहा निवास कर रहे हैं जरूर बताएं थोड़ा कन्यफियोजन है हाथुसर गांव दो थै या एक जरूर बताएं 30 साल पहले सरकार ने 34 गांवों को …",
+    "topics": [
+      "land_agriculture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "हाथुसर",
+    "evidence_snippets": [
+      "Title: #हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video",
+      "Description: हाथुसर गांव कि जिरो ग्राउंड रिपोर्ट सभी मेरे विडीयो को लाईक सारे और कोमेट जरूर करें किस किस का पुराना गांव हाथुसर है और अभी वर्तमान में आप हाथुसर गांव सरकार के उठाने पर कहा निवास कर रहे हैं जरूर …"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "INDIAN RURAL FARMER"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "INDIAN RURAL FARMER, YouTube, 2024, https://www.youtube.com/watch?v=tRTmMU342wM",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "INDIAN RURAL FARMER",
+      "uploader": "@Indianruralfarmer77",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 989 views; hashtags: shortvideo"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: हाथुसर",
+        "strong geo context: ['34 गांव', '34 गाँव']"
+      ],
+      "matched_names": [
+        "हाथुसर"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 85,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110237Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

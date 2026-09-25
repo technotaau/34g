@@ -675,5 +675,108 @@
     ],
     "notes": "नकारात्मक साक्ष्य: यदि रामपुरा वास्तव में लूणकरणसर तहसील का एक अलग राजस्व गांव था, तो यह 2011 की सूची में सूचीबद्ध नहीं दिखता — संभव है कि यह 1982-84 भूमि अधिग्रहण के बाद विलीन/विलुप्त हो गया हो, किसी अन्य नाम/तहसील में दर्ज हो, या मूल Facebook सूची में नाम गलत/मिश्रित हो (जैसा कि मूल नोट्स में पहले से संदेह जताया गया है)। मानव सत्यापन आवश्यक।",
     "consent": ""
+  },
+  "src_4d4bb0c80639": {
+    "id": "src_4d4bb0c80639",
+    "village": "rampura",
+    "url": "https://www.youtube.com/watch?v=a56MCbcn7qs",
+    "url_key": "https://www.youtube.com/watch?v=a56MCbcn7qs",
+    "title": "34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Local live15 (@Local_liveNagendra)",
+    "published_date": "2023-12-31",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial' (11:46) by Local live15. देश की रक्षा प्रणाली को मजबूत बनाने के लिए राजस्थान के बीकानेर जिला के महाजन तहसील के 34 गांव जिनको फील्ड फायरिंग रेंज बनाने के लिये खाली करवा दिया छतरगढ़ जाते वक्त रास्ते में एक बुजुर्ग व्यक्ति ने गाड़ी में चलने के लिए हाथ का इशारा दिया तपता चला कि वह व्यक्ति विस्थापित गांव रामपुरा से है पुरानी बातें की …",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "CHATARGARH"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Rampura",
+    "evidence_snippets": [
+      "Title: 34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial",
+      "Description: देश की रक्षा प्रणाली को मजबूत बनाने के लिए राजस्थान के बीकानेर जिला के महाजन तहसील के 34 गांव जिनको फील्ड फायरिंग रेंज बनाने के लिये खाली करवा दिया छतरगढ़ जाते वक्त रास्ते में एक बुजुर्ग व्यक्ति ने गाड़ी में …",
+      "Location field: CHATARGARH"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Local live15"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Local live15, YouTube, 2023, https://www.youtube.com/watch?v=a56MCbcn7qs",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Local live15",
+      "uploader": "@Local_liveNagendra",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 94 views; hashtags: army bhajanlalsharma bikaner diyakumari localnews modi rampura shivrajsinghchouhan"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: रामपुरा",
+        "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+        "district/nearby/clan context: ['बीकानेर']"
+      ],
+      "matched_names": [
+        "रामपुरा"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "34 गांव",
+        "34 गाँव",
+        "फायरिंग रेंज",
+        "विस्थापित",
+        "बीकानेर",
+        "राजस्थान"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 90,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110240Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

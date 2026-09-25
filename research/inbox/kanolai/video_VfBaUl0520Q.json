@@ -1,0 +1,53 @@
+{
+ "village": "kanolai",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=VfBaUl0520Q on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "kanolai",
+   "url": "https://www.youtube.com/watch?v=VfBaUl0520Q",
+   "title": "पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2026-07-02",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451' (1:24) by Rssuthar Jaisalmer. पीर जी की मढ़ी 20260517_183451",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "Kanolai",
+   "evidence_snippets": [
+    "Title: पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+    "Description: पीर जी की मढ़ी 20260517_183451",
+    "Viewer comment: Bahut yaad aati hai kanolai Village ki 😢"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=VfBaUl0520Q",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "1 public comments; 247 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

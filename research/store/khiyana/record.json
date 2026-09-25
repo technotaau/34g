@@ -12,14 +12,14 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-19",
+  "built": "2026-09-25",
   "counts": {
-    "sources_total": 19,
-    "accepted": 13,
+    "sources_total": 37,
+    "accepted": 28,
     "context": 5,
-    "review": 1,
+    "review": 3,
     "rejected": 0,
-    "duplicates": 0,
+    "duplicates": 1,
     "claims": 19
   },
   "questions": {
@@ -44,9 +44,15 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_8e8a851a7dec",
+        "src_d07ff2349186",
         "src_f8ed99a1785c",
+        "src_82479a65d206",
         "src_d816c2b00dd1",
         "src_da33d836896a",
+        "src_a77099c58059",
+        "src_6b995fba34c3",
+        "src_7437c1e48e8a",
         "src_12fb097b02c4",
         "src_a30396979513",
         "src_5ef31983c7f1",
@@ -71,6 +77,7 @@
     "culture": {
       "label": "सांस्कृतिक जानकारी",
       "source_ids": [
+        "src_25d08e25bab2",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f"
@@ -80,10 +87,13 @@
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
         "src_f8ed99a1785c",
+        "src_82479a65d206",
         "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_654585ebcb8b",
         "src_58181afd64a7",
+        "src_a77099c58059",
+        "src_654585ebcb8b",
+        "src_45380ab38c87",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -94,11 +104,15 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
+        "src_25d08e25bab2",
         "src_f8ed99a1785c",
+        "src_82479a65d206",
         "src_d816c2b00dd1",
         "src_da33d836896a",
-        "src_654585ebcb8b",
         "src_58181afd64a7",
+        "src_a77099c58059",
+        "src_654585ebcb8b",
+        "src_45380ab38c87",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
         "src_7da0e757971f",
@@ -128,14 +142,31 @@
     "videos": {
       "label": "वीडियो",
       "source_ids": [
+        "src_25d08e25bab2",
         "src_f8ed99a1785c",
         "src_d816c2b00dd1",
+        "src_82479a65d206",
+        "src_8e8a851a7dec",
+        "src_d07ff2349186",
         "src_da33d836896a",
         "src_58181afd64a7",
         "src_654585ebcb8b",
+        "src_6b995fba34c3",
+        "src_a77099c58059",
         "src_bf43bd9c771a",
         "src_12fb097b02c4",
-        "src_a30396979513"
+        "src_7437c1e48e8a",
+        "src_0a9faea16fbe",
+        "src_45380ab38c87",
+        "src_547a1348c83a",
+        "src_a30396979513",
+        "src_0b9038366502",
+        "src_b33cc76acf6c",
+        "src_0540bb487421",
+        "src_aa8fe461f718",
+        "src_5b7e4422e311",
+        "src_b42020961323",
+        "src_222055310e88"
       ]
     },
     "audio": {
@@ -233,14 +264,21 @@
       "नाथूदादा का देहावसान (VS 1444 / 1387 CE)"
     ],
     "organizations": [
+      "@744XT Lover",
       "Dhatarwal gotra",
+      "Dinesh Beniwal ",
       "Indian Army",
       "Khinyera Gram Panchayat",
+      "Kumbharam thakan",
+      "MKB Music ",
       "Ministry of Defence",
       "Ministry of Defence / रक्षा मंत्रालय",
+      "Nathu Dada Studio",
       "Rssuthar Jaisalmer",
       "Sansad e-Library / Parliament of India",
       "Shubh Journey",
+      "State Informative",
+      "facts KailashSharma",
       "धतरवाल जाट समाज"
     ]
   },
@@ -660,9 +698,89 @@
       "reasons": [
         "primary name match: Khiyana"
       ]
+    },
+    {
+      "id": "src_5b7e4422e311",
+      "url": "https://www.youtube.com/watch?v=21j2g4kBqrc",
+      "title": "दादा जी आया आँगने खियाणा भजन 👌👌 #bhajan #nathudada #khiyana #mahiveersankhla",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Khiyana",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
+    },
+    {
+      "id": "src_aa8fe461f718",
+      "url": "https://www.youtube.com/watch?v=qNxijIUBt6k",
+      "title": "महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "variant match: खीयाणा",
+        "district/nearby/clan context: ['Beniwal']"
+      ]
     }
   ],
   "sources": {
+    "src_25d08e25bab2": {
+      "url": "https://www.youtube.com/watch?v=YkQuyPfAoJ0",
+      "title": "नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-10-01",
+      "language": "hi",
+      "relevance": {
+        "score": 90,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['Nathu Dada', 'नाथू दादा', 'खिंयाणा धाम']",
+          "district/nearby/clan context: ['धतरवाल']"
+        ],
+        "matched_names": [
+          "Khiyana",
+          "खिंयाणा",
+          "खिंयाणा धाम",
+          "Nathu Dada Dham"
+        ],
+        "geo_hits": [
+          "Nathu Dada",
+          "नाथू दादा",
+          "खिंयाणा धाम",
+          "धतरवाल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "MKB Music , YouTube, 2024, https://www.youtube.com/watch?v=YkQuyPfAoJ0",
+      "is_primary": true
+    },
     "src_f8ed99a1785c": {
       "url": "https://www.youtube.com/watch?v=S3RMmydQupE",
       "title": "Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926",
@@ -776,6 +894,172 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=vVP-LlMw4p4",
+      "is_primary": true
+    },
+    "src_82479a65d206": {
+      "url": "https://www.youtube.com/watch?v=sXtp4JXsTfg",
+      "title": "पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-08-02",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: खींयाणा",
+          "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']",
+          "district/nearby/clan context: ['Meghwal', 'मेघवाल']"
+        ],
+        "matched_names": [
+          "खींयाणा",
+          "नाथू दादा धोरा"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "नाथू दादा धोरा",
+          "नाथू दादा",
+          "Meghwal",
+          "मेघवाल"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=sXtp4JXsTfg",
+      "is_primary": true
+    },
+    "src_8e8a851a7dec": {
+      "url": "https://www.youtube.com/watch?v=_qDGclQAF74",
+      "title": "नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-16",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+        ],
+        "matched_names": [
+          "Khiyana",
+          "खिंयाणा",
+          "खिंयाणा महाजन"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Nathu Dada"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "facts KailashSharma, YouTube, 2025, https://www.youtube.com/watch?v=_qDGclQAF74",
+      "is_primary": true
+    },
+    "src_d07ff2349186": {
+      "url": "https://www.youtube.com/watch?v=739XybVH1JE",
+      "title": "नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-17",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: खिंयाणा",
+          "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+        ],
+        "matched_names": [
+          "खिंयाणा"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "MKB Music , YouTube, 2025, https://www.youtube.com/watch?v=739XybVH1JE",
       "is_primary": true
     },
     "src_da33d836896a": {
@@ -944,6 +1228,119 @@
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=gTBzm76BYSE",
       "is_primary": true
     },
+    "src_6b995fba34c3": {
+      "url": "https://www.youtube.com/watch?v=OtGOtktELRw",
+      "title": "#नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2023-06-24",
+      "language": "hi",
+      "relevance": {
+        "score": 87,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['Mahajan', 'महाजन', 'महाजन फील्ड फायरिंग रेंज']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Nathu Dada",
+          "नाथू दादा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "@744XT Lover, YouTube, 2023, https://www.youtube.com/watch?v=OtGOtktELRw",
+      "is_primary": true
+    },
+    "src_a77099c58059": {
+      "url": "https://www.youtube.com/watch?v=nfxrJGTVwYE",
+      "title": "रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-08-03",
+      "language": "hi",
+      "relevance": {
+        "score": 87,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खींयाणा",
+          "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']"
+        ],
+        "matched_names": [
+          "खींयाणा",
+          "नाथू दादा धोरा"
+        ],
+        "geo_hits": [
+          "Mahajan",
+          "महाजन",
+          "Mahajan Field Firing Range",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "नाथू दादा धोरा",
+          "नाथू दादा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=nfxrJGTVwYE",
+      "is_primary": true
+    },
     "src_bf43bd9c771a": {
       "url": "https://www.youtube.com/watch?v=YGDc75dU39g",
       "title": "Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan",
@@ -1075,6 +1472,213 @@
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=uEc6MLyHxIA",
       "is_primary": true
     },
+    "src_7437c1e48e8a": {
+      "url": "https://www.youtube.com/watch?v=iDA-cA1JERk",
+      "title": "नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-17",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: खिंयाणा",
+          "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+        ],
+        "matched_names": [
+          "खिंयाणा",
+          "Khinyana",
+          "Nathu Dada Dham"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "Nathu Dada"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "facts KailashSharma, YouTube, 2025, https://www.youtube.com/watch?v=iDA-cA1JERk",
+      "is_primary": true
+    },
+    "src_0a9faea16fbe": {
+      "url": "https://www.youtube.com/watch?v=6X4r8Mv1J9A",
+      "title": "नाथू दादा धाम खियाणा महावीर सांखला शानदार प्रस्तुति 🔥👌 #Nathudadakhiyanadham #mahiveersankhla",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-16",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['नाथू दादा']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "खियाणा",
+          "नाथू दादा धाम"
+        ],
+        "geo_hits": [
+          "नाथू दादा",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=6X4r8Mv1J9A",
+      "is_primary": true
+    },
+    "src_45380ab38c87": {
+      "url": "https://www.youtube.com/watch?v=77Zi9oLr8gk",
+      "title": "नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-19",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['नाथू दादा']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "नाथू दादा",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=77Zi9oLr8gk",
+      "is_primary": true
+    },
+    "src_547a1348c83a": {
+      "url": "https://www.youtube.com/watch?v=oG2DydaZuIE",
+      "title": "बहुत ही सुन्दर आवाज भाई की नाथू दादा खियाणा 👌❤️ #nathudada #bhajan",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-16",
+      "language": "hi",
+      "relevance": {
+        "score": 86,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['नाथू दादा']",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "नाथू दादा",
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=oG2DydaZuIE",
+      "is_primary": true
+    },
     "src_a30396979513": {
       "url": "https://www.youtube.com/watch?v=PvdlJFmC6OI",
       "title": "Mahajan field firing range Nathu Dada Dhora Kheyana wrestling competition.",
@@ -1127,6 +1731,157 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=PvdlJFmC6OI",
+      "is_primary": true
+    },
+    "src_0b9038366502": {
+      "url": "https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+      "title": "#एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-09-22",
+      "language": "hi",
+      "relevance": {
+        "score": 84,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: खिंयाणा",
+          "strong geo context: ['महाजन', 'नाथू दादा']",
+          "district/nearby/clan context: ['Bikaner']"
+        ],
+        "matched_names": [
+          "खिंयाणा",
+          "खिंयाणा महाजन"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "नाथू दादा",
+          "Bikaner"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Kumbharam thakan, YouTube, 2022, https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+      "is_primary": true
+    },
+    "src_b33cc76acf6c": {
+      "url": "https://www.youtube.com/watch?v=4lrNHPs1VwY",
+      "title": "खियाणा धाम 🚩🚩 #viral #shorts",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-12-15",
+      "language": "hi",
+      "relevance": {
+        "score": 83,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['Nathu Dada', 'नाथू दादा']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "Nathu Dada",
+          "नाथू दादा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=4lrNHPs1VwY",
+      "is_primary": true
+    },
+    "src_0540bb487421": {
+      "url": "https://www.youtube.com/watch?v=ecKaMb_mQyo",
+      "title": "गाँव खियाणा में जन्म लियो दादा Nathu dada status vidio #shorts  #nathudada  #viral  #sunitaswami",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-10-11",
+      "language": "hi",
+      "relevance": {
+        "score": 83,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['Nathu Dada', 'नाथू दादा']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "Nathu Dada",
+          "नाथू दादा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=ecKaMb_mQyo",
       "is_primary": true
     },
     "src_587f45f5d5d9": {
@@ -1240,6 +1995,54 @@
       "attribution": "Uday Pal Choudhary Rlp, Facebook",
       "is_primary": true
     },
+    "src_aa8fe461f718": {
+      "url": "https://www.youtube.com/watch?v=qNxijIUBt6k",
+      "title": "महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-12-27",
+      "language": "hi",
+      "relevance": {
+        "score": 75,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 7,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.45,
+        "reasons": [
+          "variant match: खीयाणा",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "खीयाणा"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qNxijIUBt6k",
+      "is_primary": true
+    },
     "src_f525760f12bd": {
       "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F",
       "title": "सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)",
@@ -1309,6 +2112,103 @@
       "attribution": "Hindi Wikipedia user page, धतरवाल जाट (uploader), undated",
       "is_primary": false
     },
+    "src_5b7e4422e311": {
+      "url": "https://www.youtube.com/watch?v=21j2g4kBqrc",
+      "title": "दादा जी आया आँगने खियाणा भजन 👌👌 #bhajan #nathudada #khiyana #mahiveersankhla",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-17",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.55,
+        "reasons": [
+          "primary name match: Khiyana",
+          "district/nearby/clan context: ['Beniwal']"
+        ],
+        "matched_names": [
+          "Khiyana",
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "Beniwal"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=21j2g4kBqrc",
+      "is_primary": true
+    },
+    "src_b42020961323": {
+      "url": "https://www.youtube.com/watch?v=uYluLBM-9fQ",
+      "title": "कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-10-29",
+      "language": "hi",
+      "relevance": {
+        "score": 74,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['Nathu Dada']"
+        ],
+        "matched_names": [
+          "Khiyana"
+        ],
+        "geo_hits": [
+          "Nathu Dada"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=uYluLBM-9fQ",
+      "is_primary": true
+    },
     "src_d9fbc336ba0e": {
       "url": "http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Khinyera",
       "title": "Khinyera Village - Bikaner",
@@ -1361,6 +2261,55 @@
       "license": "",
       "attribution": "onefivenine.com village directory",
       "is_primary": false
+    },
+    "src_222055310e88": {
+      "url": "https://www.youtube.com/watch?v=4mZK8TgWEno",
+      "title": "श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-09-20",
+      "language": "hi",
+      "relevance": {
+        "score": 72,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 10,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: Khiyana",
+          "strong geo context: ['नाथू दादा']"
+        ],
+        "matched_names": [
+          "Khiyana",
+          "नाथू दादा धाम"
+        ],
+        "geo_hits": [
+          "नाथू दादा"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "State Informative, YouTube, 2022, https://www.youtube.com/watch?v=4mZK8TgWEno",
+      "is_primary": true
     },
     "src_7da0e757971f": {
       "url": "https://www.jatland.com/home/Dhatarwal",
@@ -1973,6 +2922,258 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 19,
       "at": "2026-09-17T17:42:50.514483+00:00"
+    },
+    {
+      "run_id": "run_20260925T110142Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_OtGOtktELRw.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=OtGOtktELRw on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 20,
+      "at": "2026-09-25T11:01:43.259369+00:00"
+    },
+    {
+      "run_id": "run_20260925T110149Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_nfxrJGTVwYE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=nfxrJGTVwYE on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 21,
+      "at": "2026-09-25T11:01:49.569925+00:00"
+    },
+    {
+      "run_id": "run_20260925T110152Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_sXtp4JXsTfg.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=sXtp4JXsTfg on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 22,
+      "at": "2026-09-25T11:01:52.706732+00:00"
+    },
+    {
+      "run_id": "run_20260925T110155Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_Fyd4q1oYRBM.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=Fyd4q1oYRBM on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 23,
+      "at": "2026-09-25T11:01:55.607785+00:00"
+    },
+    {
+      "run_id": "run_20260925T110158Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_YkQuyPfAoJ0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YkQuyPfAoJ0 on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 24,
+      "at": "2026-09-25T11:01:59.245666+00:00"
+    },
+    {
+      "run_id": "run_20260925T110203Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video__qDGclQAF74.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=_qDGclQAF74 on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 25,
+      "at": "2026-09-25T11:02:03.985640+00:00"
+    },
+    {
+      "run_id": "run_20260925T110212Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_739XybVH1JE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=739XybVH1JE on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 26,
+      "at": "2026-09-25T11:02:12.857051+00:00"
+    },
+    {
+      "run_id": "run_20260925T110216Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_C327eGMssag.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=C327eGMssag on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 27,
+      "at": "2026-09-25T11:02:16.718537+00:00"
+    },
+    {
+      "run_id": "run_20260925T110219Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_4mZK8TgWEno.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=4mZK8TgWEno on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 28,
+      "at": "2026-09-25T11:02:19.824426+00:00"
+    },
+    {
+      "run_id": "run_20260925T110230Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_iDA-cA1JERk.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=iDA-cA1JERk on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 29,
+      "at": "2026-09-25T11:02:31.060645+00:00"
+    },
+    {
+      "run_id": "run_20260925T110247Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_21j2g4kBqrc.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=21j2g4kBqrc on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 30,
+      "at": "2026-09-25T11:02:47.525025+00:00"
+    },
+    {
+      "run_id": "run_20260925T110250Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_4lrNHPs1VwY.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=4lrNHPs1VwY on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 31,
+      "at": "2026-09-25T11:02:51.257558+00:00"
+    },
+    {
+      "run_id": "run_20260925T110254Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_6X4r8Mv1J9A.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=6X4r8Mv1J9A on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 32,
+      "at": "2026-09-25T11:02:54.598091+00:00"
+    },
+    {
+      "run_id": "run_20260925T110257Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_77Zi9oLr8gk.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=77Zi9oLr8gk on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 33,
+      "at": "2026-09-25T11:02:57.982369+00:00"
+    },
+    {
+      "run_id": "run_20260925T110314Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_ecKaMb_mQyo.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=ecKaMb_mQyo on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 34,
+      "at": "2026-09-25T11:03:15.367841+00:00"
+    },
+    {
+      "run_id": "run_20260925T110321Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_oG2DydaZuIE.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=oG2DydaZuIE on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 35,
+      "at": "2026-09-25T11:03:22.150034+00:00"
+    },
+    {
+      "run_id": "run_20260925T110324Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_qNxijIUBt6k.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=qNxijIUBt6k on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 36,
+      "at": "2026-09-25T11:03:25.066544+00:00"
+    },
+    {
+      "run_id": "run_20260925T110327Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_uYluLBM-9fQ.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=uYluLBM-9fQ on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 37,
+      "at": "2026-09-25T11:03:28.458446+00:00"
     }
   ]
 }

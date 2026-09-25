@@ -1,8 +1,8 @@
 # हाथूसर (Hathusar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
-स्रोत: कुल 6, स्वीकृत 1, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 3
+स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 3
 
 > From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.
 
@@ -48,6 +48,8 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
 
 ### भूमि, खेती, पशुपालन, नहर
+- [#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video](https://www.youtube.com/watch?v=tRTmMU342wM) (video · video · 2024-11-06 · स्कोर 85) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video '#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video' (2:24) by INDIAN RURAL FARMER. हाथुसर गांव कि जिरो ग्राउंड रिपोर्ट सभी मेरे विडीयो को लाईक सारे और कोमेट जरूर करें किस किस का पुराना गांव हाथुसर है और अभी वर्तमान में आप हाथुसर गांव सरकार के उठाने पर कहा निवास कर रहे है
 - [Mahajan Field Firing Range in Rajasthan (Unstarred Question No. 4236)](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · 1987-08-21 · स्कोर 58 · पृष्ठभूमि स्रोत)
   - Lok Sabha Unstarred Question No. 4236 (8th Lok Sabha, 21 Aug 1987), addressed to the Ministry of Defence, on the Mahajan Field Firing Range in Rajasthan. MPs Shivraj V. Patil and Manphool Singh are listed. Only catalogue metadata was retrievable; the underlying PDF (question text and government's an
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
@@ -62,7 +64,9 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 
 ### ऐतिहासिक/वर्तमान फोटो (0)
 
-### वीडियो (0)
+### वीडियो (1)
+- [#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video](https://www.youtube.com/watch?v=tRTmMU342wM) (video · video · 2024-11-06 · स्कोर 85) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - channel: INDIAN RURAL FARMER · uploader: @Indianruralfarmer77 · transcript_available: no caption tracks (manual or auto) · timestamps: 2 public comments; 989 views; hashtags: shortvideo
 
 ### साक्षात्कार / ऑडियो (0)
 
@@ -86,7 +90,7 @@ _अभी कोई स्रोत नहीं मिला। मैनु�
 - **people:** Manphool Singh, Shivraj V. Patil
 - **places:** Bhojrasar, Dantaur, Duder, Khajuwala, Khanisar, Kumhana, Maneran, Mohangadh, Motlai, Nachna, Pugal, Thoiyan
 - **events:** India-France 2015/2019, India-Russia 2013/2015, India-UK 2017 joint exercises, India-USA 2021, Mahajan Field Firing Range land acquisition, Parliamentary question on Mahajan Field Firing Range, land acquisition, 1984-85
-- **organizations:** Defence Ministry, Defence Ministry / रक्षा मंत्रालय, Indian Army, Lok Sabha, Ministry of Defence
+- **organizations:** Defence Ministry, Defence Ministry / रक्षा मंत्रालय, INDIAN RURAL FARMER, Indian Army, Lok Sabha, Ministry of Defence
 
 ## तथ्य / दावे
 
@@ -108,6 +112,7 @@ _कोई नहीं_
 
 ## सभी स्वीकृत स्रोत (स्कोर क्रम में)
 
+- [#हाथुसरगाव 38 साल पहले सरकार ने उठा दिये थे 34 गांव    को #video](https://www.youtube.com/watch?v=tRTmMU342wM) · youtube · video · स्कोर 85 · रिज़ॉल्यूशन accept (0.6) · खोज: video supplied by TechnoTaau Team
 - [Field Firing Range Mahajan (Wikimapia)](http://wikimapia.org/33551695/Field-Firing-Range-Mahajan) · wikimapia.org · website · स्कोर 75 · रिज़ॉल्यूशन accept (0.8) · खोज: Hathusar "Mahajan Field Firing Range"
 - [Mahajan Field Firing Range in Rajasthan (Unstarred Question No. 4236)](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) · sansad · government · स्कोर 58 · रिज़ॉल्यूशन context (0.5) · खोज: Hathusar "Mahajan Field Firing Range"
 - [Rajasthan District Gazetteers: Bikaner (full text)](https://archive.org/stream/in.ernet.dli.2015.146804/2015.146804.Rajasthan-Distict-Gazetteers-Bikaner_djvu.txt) · archive_org · archive · स्कोर 54 · रिज़ॉल्यूशन context (0.5) · खोज: "Hathusar" Bikaner gazetteer OR book OR archive.org

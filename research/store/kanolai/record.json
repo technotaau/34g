@@ -12,14 +12,14 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-19",
+  "built": "2026-09-25",
   "counts": {
-    "sources_total": 24,
-    "accepted": 7,
+    "sources_total": 33,
+    "accepted": 9,
     "context": 0,
-    "review": 14,
+    "review": 20,
     "rejected": 3,
-    "duplicates": 0,
+    "duplicates": 1,
     "claims": 9
   },
   "questions": {
@@ -35,6 +35,7 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_ae6977b947db",
+        "src_ca10892df96c",
         "src_2f5657e5a37e",
         "src_7e0f76030fe8",
         "src_100cc543387f"
@@ -72,7 +73,9 @@
     "land": {
       "label": "भूमि, खेती, पशुपालन, नहर",
       "source_ids": [
-        "src_ae6977b947db"
+        "src_ae6977b947db",
+        "src_50471c35b7e9",
+        "src_032941f26648"
       ]
     },
     "education": {
@@ -89,11 +92,13 @@
       "label": "वीडियो",
       "source_ids": [
         "src_ae6977b947db",
+        "src_ca10892df96c",
         "src_2f5657e5a37e",
         "src_cbf83e5b5076",
         "src_8ea6e153f47e",
         "src_040ae9a77ae5",
         "src_80bf9db4f333",
+        "src_9b3ba9d08f3f",
         "src_7e0f76030fe8",
         "src_fee019024deb",
         "src_68e27e240901",
@@ -107,8 +112,14 @@
         "src_a4751f179434",
         "src_61e9e3b48a37",
         "src_24907b87028c",
+        "src_c64f8f9bc53c",
+        "src_093f289695ad",
+        "src_0a66f3ed4cc3",
         "src_100cc543387f",
-        "src_a4f128ed55c6"
+        "src_a4f128ed55c6",
+        "src_064c9a8bb493",
+        "src_50471c35b7e9",
+        "src_032941f26648"
       ]
     },
     "audio": {
@@ -148,7 +159,8 @@
     ],
     "organizations": [
       "Dinesh Beniwal ",
-      "Rssuthar Jaisalmer"
+      "Rssuthar Jaisalmer",
+      "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝"
     ]
   },
   "claims": {
@@ -616,6 +628,72 @@
         "primary name match: कानोलाई",
         "district/nearby/clan context: ['Beniwal']"
       ]
+    },
+    {
+      "id": "src_064c9a8bb493",
+      "url": "https://www.youtube.com/watch?v=1I1fhPX3r2M",
+      "title": "कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_c64f8f9bc53c",
+      "url": "https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+      "title": "ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_093f289695ad",
+      "url": "https://www.youtube.com/watch?v=IT-mm3pUInA",
+      "title": "हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_0a66f3ed4cc3",
+      "url": "https://www.youtube.com/watch?v=VfBaUl0520Q",
+      "title": "पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: Kanolai"
+      ]
+    },
+    {
+      "id": "src_032941f26648",
+      "url": "https://www.youtube.com/watch?v=YoILEd1-mS8",
+      "title": "महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
+    },
+    {
+      "id": "src_50471c35b7e9",
+      "url": "https://www.youtube.com/watch?v=gH9LyJqWZk0",
+      "title": "#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814",
+      "flags": [
+        "resolution_review"
+      ],
+      "reasons": [
+        "primary name match: कानोलाई"
+      ]
     }
   ],
   "sources": {
@@ -672,6 +750,61 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2025, https://www.youtube.com/watch?v=z3ILa3-NyU0",
+      "is_primary": true
+    },
+    "src_ca10892df96c": {
+      "url": "https://www.youtube.com/watch?v=ayVDHZUaY5o",
+      "title": "संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-01",
+      "language": "hi",
+      "relevance": {
+        "score": 90,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फील्ड फायरिंग रेंज']",
+          "district/nearby/clan context: ['बीकानेर']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "लूणकरणसर",
+          "महाजन फील्ड फायरिंग रेंज",
+          "फायरिंग रेंज",
+          "बीकानेर"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=ayVDHZUaY5o",
       "is_primary": true
     },
     "src_2f5657e5a37e": {
@@ -934,6 +1067,56 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=D8HlEAxr4_w",
+      "is_primary": true
+    },
+    "src_9b3ba9d08f3f": {
+      "url": "https://www.youtube.com/watch?v=XVAN07aRHhY",
+      "title": "पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2025-09-26",
+      "language": "hi",
+      "relevance": {
+        "score": 88,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 10,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.7,
+        "reasons": [
+          "primary name match: कानोलाई",
+          "strong geo context: ['34 गांव', '34 गाँव']"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [
+          "34 गांव",
+          "34 गाँव",
+          "Rajasthan"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=XVAN07aRHhY",
       "is_primary": true
     },
     "src_7e0f76030fe8": {
@@ -1577,6 +1760,142 @@
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=boOPyrBQxBU",
       "is_primary": true
     },
+    "src_c64f8f9bc53c": {
+      "url": "https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+      "title": "ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-04",
+      "language": "hi",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+      "is_primary": true
+    },
+    "src_093f289695ad": {
+      "url": "https://www.youtube.com/watch?v=IT-mm3pUInA",
+      "title": "हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-02",
+      "language": "hi",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=IT-mm3pUInA",
+      "is_primary": true
+    },
+    "src_0a66f3ed4cc3": {
+      "url": "https://www.youtube.com/watch?v=VfBaUl0520Q",
+      "title": "पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-02",
+      "language": "hi",
+      "relevance": {
+        "score": 63,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: Kanolai"
+        ],
+        "matched_names": [
+          "Kanolai",
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=VfBaUl0520Q",
+      "is_primary": true
+    },
     "src_100cc543387f": {
       "url": "https://www.youtube.com/watch?v=rI1mLJ5oPDQ",
       "title": "अपना पुराना गाँव घर देखकर आज भी आँखें नम हो जाती है! कानोलाई गाँव सन 1986 में उजड़ हो चुका था 😥",
@@ -1666,6 +1985,143 @@
       ],
       "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
       "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=jXeounYD1uA",
+      "is_primary": true
+    },
+    "src_064c9a8bb493": {
+      "url": "https://www.youtube.com/watch?v=1I1fhPX3r2M",
+      "title": "कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-28",
+      "language": "hi",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=1I1fhPX3r2M",
+      "is_primary": true
+    },
+    "src_50471c35b7e9": {
+      "url": "https://www.youtube.com/watch?v=gH9LyJqWZk0",
+      "title": "#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2026-07-29",
+      "language": "hi",
+      "relevance": {
+        "score": 61,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "land_agriculture",
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=gH9LyJqWZk0",
+      "is_primary": true
+    },
+    "src_032941f26648": {
+      "url": "https://www.youtube.com/watch?v=YoILEd1-mS8",
+      "title": "महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2021-10-21",
+      "language": "hi",
+      "relevance": {
+        "score": 59,
+        "band": "medium",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 0,
+          "resolution_conf": 5,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 4,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "review",
+        "confidence": 0.35,
+        "reasons": [
+          "primary name match: कानोलाई"
+        ],
+        "matched_names": [
+          "कानोलाई"
+        ],
+        "geo_hits": [],
+        "negative_hits": []
+      },
+      "topics": [
+        "land_agriculture",
+        "media_visual"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Rssuthar Jaisalmer, YouTube, 2021, https://www.youtube.com/watch?v=YoILEd1-mS8",
       "is_primary": true
     }
   },
@@ -2110,6 +2566,132 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 24,
       "at": "2026-09-19T15:55:20.716947+00:00"
+    },
+    {
+      "run_id": "run_20260925T110146Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_ayVDHZUaY5o.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=ayVDHZUaY5o on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 25,
+      "at": "2026-09-25T11:01:46.368588+00:00"
+    },
+    {
+      "run_id": "run_20260925T110222Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_XVAN07aRHhY.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=XVAN07aRHhY on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 26,
+      "at": "2026-09-25T11:02:23.289655+00:00"
+    },
+    {
+      "run_id": "run_20260925T110226Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_STdDhudFyRc.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=STdDhudFyRc on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 27,
+      "at": "2026-09-25T11:02:27.212596+00:00"
+    },
+    {
+      "run_id": "run_20260925T110244Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_1I1fhPX3r2M.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=1I1fhPX3r2M on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 28,
+      "at": "2026-09-25T11:02:44.384870+00:00"
+    },
+    {
+      "run_id": "run_20260925T110300Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_B8GmRwI9U3Q.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=B8GmRwI9U3Q on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 29,
+      "at": "2026-09-25T11:03:00.987449+00:00"
+    },
+    {
+      "run_id": "run_20260925T110304Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_IT-mm3pUInA.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=IT-mm3pUInA on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 30,
+      "at": "2026-09-25T11:03:04.963830+00:00"
+    },
+    {
+      "run_id": "run_20260925T110307Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_VfBaUl0520Q.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=VfBaUl0520Q on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 31,
+      "at": "2026-09-25T11:03:08.084896+00:00"
+    },
+    {
+      "run_id": "run_20260925T110311Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_YoILEd1-mS8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=YoILEd1-mS8 on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 32,
+      "at": "2026-09-25T11:03:12.097236+00:00"
+    },
+    {
+      "run_id": "run_20260925T110318Z",
+      "file": "/home/user/34g/research/inbox/kanolai/video_gH9LyJqWZk0.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=gH9LyJqWZk0 on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 33,
+      "at": "2026-09-25T11:03:18.560199+00:00"
     }
   ]
 }

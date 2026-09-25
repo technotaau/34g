@@ -1,6 +1,6 @@
 # मणेरां (Manera) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
@@ -9,10 +9,10 @@
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
-  - Census2011 mirror lists all 125 villages of Lunkaransar tehsil with population figures; Manera/Maneran does not appear as an independent entry. Closest name matches are unrelated villages 'Manafarsar' and 'Manohariya'. This absence is consistent with Manera having been vacated for military use and f
 - [Dhatarwal - धतरवाल (Jatland Wiki)](https://www.jatland.com/home/Dhatarwal) (community_wiki · text · तिथि अज्ञात · स्कोर 79)
   - जाटलैंड के अनुसार धतरवाल जाटों द्वारा बसाए गए 12 गांवों में मणेरां (Manera) शामिल है, जिसकी स्थापना असू के बड़े पुत्र मेना ने की थी। असू, नाथू धतरवाल के छोटे भाई थे। नाथू धतरवाल ने वि.सं. 1406 (1349 ई.) में बादेरा (बीकानेर) में नरसी गोदारा की पुत्री रूपा गोदारा से विवाह किया और लूणकरणसर क्षेत्र के ब
+- [Villages & Towns in Lunkaransar Tehsil of Bikaner, Rajasthan](https://www.census2011.co.in/data/subdistrict/475-lunkaransar-bikaner-rajasthan.html) (census_mirror · dataset · 2011 · स्कोर 79)
+  - Census2011 mirror lists all 125 villages of Lunkaransar tehsil with population figures; Manera/Maneran does not appear as an independent entry. Closest name matches are unrelated villages 'Manafarsar' and 'Manohariya'. This absence is consistent with Manera having been vacated for military use and f
 - [Mahajan Field Firing Range in Rajasthan](https://elibrary.sansad.in/items/7618c5ab-c33b-47d4-bb73-e1507d1532b4) (government · document · तिथि अज्ञात · स्कोर 55 · पृष्ठभूमि स्रोत)
   - Parliament e-library (Sansad) catalog entry titled 'Mahajan Field Firing Range in Rajasthan', almost certainly a Lok Sabha/Rajya Sabha starred/unstarred question-and-answer on the range's history, land acquisition, or compensation. Automated fetch only returned the title; the underlying PDF/answer t
 - [Mahajan Fieldfiring Range Village in Lunkaransar (Bikaner) Rajasthan](https://villageinfo.in/rajasthan/bikaner/lunkaransar/mahajan-fieldfiring-range.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 42 · पृष्ठभूमि स्रोत)

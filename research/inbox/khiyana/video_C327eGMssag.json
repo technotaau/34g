@@ -1,0 +1,52 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=C327eGMssag on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=C327eGMssag",
+   "title": "नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "MKB Music  (@mkbmusic01)",
+   "published_date": "2025-09-18",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति' (9:00) by MKB Music . नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "खिंयाणा",
+   "evidence_snippets": [
+    "Title: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+    "Description: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "MKB Music "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "MKB Music , YouTube, 2025, https://www.youtube.com/watch?v=C327eGMssag",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "MKB Music ",
+    "uploader": "@mkbmusic01",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "2 public comments; 5605 views; hashtags: mahaveer_sankhla_bhajan nathu_dada_mela prakash_das_ji_maharaj"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

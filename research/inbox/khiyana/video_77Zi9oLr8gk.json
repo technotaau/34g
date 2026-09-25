@@ -1,0 +1,54 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=77Zi9oLr8gk on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=77Zi9oLr8gk",
+   "title": "नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+   "published_date": "2025-09-19",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥' (0:34) by Dinesh Beniwal . ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "INDIA"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खियाणा",
+   "evidence_snippets": [
+    "Title: नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥",
+    "Location field: INDIA"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Dinesh Beniwal "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=77Zi9oLr8gk",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Dinesh Beniwal ",
+    "uploader": "@Dineshbeniwalvlog",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "0 public comments; 1936 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

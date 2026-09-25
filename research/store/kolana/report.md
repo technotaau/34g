@@ -1,6 +1,6 @@
 # कोलाणा (Kolana) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-19 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 7, स्वीकृत 4, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
 
@@ -44,20 +44,20 @@
 _अभी कोई स्रोत नहीं मिला। मैनुअल शोध आवश्यक।_
 
 ### मंदिर, लोक देवता, स्थल
-- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
-  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [Chetan Patel Kolana](https://en.wikipedia.org/wiki/Chetan_Patel_Kolana) (encyclopedia · text · तिथि अज्ञात · स्कोर 75)
   - यह विकिपीडिया पृष्ठ चेतन पटेल कोलाणा नामक एक व्यक्ति (कोटा जिले के पीपल्दा विधानसभा क्षेत्र से 16वीं राजस्थान विधानसभा के सदस्य) के बारे में है। यह हमारे शोध विषय बीकानेर/लूणकरणसर के कोलाणा गांव से असंबंधित प्रतीत होता है।
+- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
+  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 48 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट बताती है कि लगभग चार दशक पहले महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों को विस्थापित किया गया था; उनके मकान, तालाब और मंदिर आज भी खंडहर के रूप में मौजूद हैं। कोलाणा का नाम सीधे नहीं लिया गया।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - राजस्थान पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए विस्थापित गांवों के निवासियों के दर्द पर केंद्रित है। इसमें भोजरासर, कुम्हाना, मोतलाई, खानीसर, ठोईया, मनेरा और डूडर गांवों का नाम लिया गया है, जो धतरवाल-वंश सूची में कोलाणा के पड़ोसी/सहोदर गांवों (ठोईया, मनेरा) से मेल खाते हैं, लेकिन कोल
 
 ### त्योहार व परंपराएं
-- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
-  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [Chetan Patel Kolana](https://en.wikipedia.org/wiki/Chetan_Patel_Kolana) (encyclopedia · text · तिथि अज्ञात · स्कोर 75)
   - यह विकिपीडिया पृष्ठ चेतन पटेल कोलाणा नामक एक व्यक्ति (कोटा जिले के पीपल्दा विधानसभा क्षेत्र से 16वीं राजस्थान विधानसभा के सदस्य) के बारे में है। यह हमारे शोध विषय बीकानेर/लूणकरणसर के कोलाणा गांव से असंबंधित प्रतीत होता है।
+- [Kolana Village | Map of Kolana Village in Lunkaransar Tehsil, Bikaner of Rajasthan](https://www.mapsofindia.com/villages/rajasthan/bikaner/lunkaransar/kolana.html) (website · map · तिथि अज्ञात · स्कोर 75)
+  - यह पेज कोलाणा गांव को लूणकरणसर तहसील, बीकानेर, राजस्थान के अंतर्गत सूचीबद्ध करता है और गूगल मैप पर इसका स्थान दिखाने का दावा करता है। यह पते के मिलान की पुष्टि करता है लेकिन जनसंख्या या अन्य विस्तृत आंकड़े नहीं देता।
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 48 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट बताती है कि लगभग चार दशक पहले महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों को विस्थापित किया गया था; उनके मकान, तालाब और मंदिर आज भी खंडहर के रूप में मौजूद हैं। कोलाणा का नाम सीधे नहीं लिया गया।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)

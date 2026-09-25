@@ -1,0 +1,56 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=nfxrJGTVwYE on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=nfxrJGTVwYE",
+   "title": "रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+   "published_date": "2024-08-03",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️' (2:11) by Rssuthar Jaisalmer. 15-16 Mahajan Field Firing Range Date & Time _20190924_064818",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "नाथू दादा मंदिर"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खींयाणा",
+   "evidence_snippets": [
+    "Title: रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️",
+    "Description: 15-16 Mahajan Field Firing Range Date & Time _20190924_064818",
+    "Location field: नाथू दादा मंदिर",
+    "Viewer comment: मेला कब होता है भाई"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Rssuthar Jaisalmer"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=nfxrJGTVwYE",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Rssuthar Jaisalmer",
+    "uploader": "@RssutharJaisalmer",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "1 public comments; 170 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

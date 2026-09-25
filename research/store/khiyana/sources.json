@@ -2249,5 +2249,1735 @@
       "run_20260917T174250Z"
     ],
     "notes": "MANUAL FOLLOW-UP: open in a browser, note post date and text, download photos to Drive folder as khiyana_fb_udaypal_<n>.jpg, then re-ingest. Ask poster for permission before website use."
+  },
+  "src_6b995fba34c3": {
+    "id": "src_6b995fba34c3",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=OtGOtktELRw",
+    "url_key": "https://www.youtube.com/watch?v=OtGOtktELRw",
+    "title": "#नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "@744XT Lover (@pradeepmoond4203)",
+    "published_date": "2023-06-24",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '#नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव' (0:41) by @744XT Lover. ",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "MAHAJAN FIELDFIRING RANGE"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खियाणा",
+    "evidence_snippets": [
+      "Title: #नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव",
+      "Location field: MAHAJAN FIELDFIRING RANGE",
+      "Viewer comment: Jay Nathu dada ji ❤❤"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "@744XT Lover"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "@744XT Lover, YouTube, 2023, https://www.youtube.com/watch?v=OtGOtktELRw",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "@744XT Lover",
+      "uploader": "@pradeepmoond4203",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 3882 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['Mahajan', 'महाजन', 'महाजन फील्ड फायरिंग रेंज']"
+      ],
+      "matched_names": [
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Nathu Dada",
+        "नाथू दादा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 87,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110142Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_a77099c58059": {
+    "id": "src_a77099c58059",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=nfxrJGTVwYE",
+    "url_key": "https://www.youtube.com/watch?v=nfxrJGTVwYE",
+    "title": "रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-08-03",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️' (2:11) by Rssuthar Jaisalmer. 15-16 Mahajan Field Firing Range Date & Time _20190924_064818",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खींयाणा",
+    "evidence_snippets": [
+      "Title: रोझङी रो पहलवान | नाथू दादा धोरा खींयाणा | महाजन फील्ड फायरिंग रेंज की दंगल कुश्ती ❤️",
+      "Description: 15-16 Mahajan Field Firing Range Date & Time _20190924_064818",
+      "Location field: नाथू दादा मंदिर",
+      "Viewer comment: मेला कब होता है भाई"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=nfxrJGTVwYE",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 170 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: खींयाणा",
+        "strong geo context: ['Mahajan', 'महाजन', 'Mahajan Field Firing Range']"
+      ],
+      "matched_names": [
+        "खींयाणा",
+        "नाथू दादा धोरा"
+      ],
+      "geo_hits": [
+        "Mahajan",
+        "महाजन",
+        "Mahajan Field Firing Range",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "नाथू दादा धोरा",
+        "नाथू दादा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 87,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110149Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_82479a65d206": {
+    "id": "src_82479a65d206",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=sXtp4JXsTfg",
+    "url_key": "https://www.youtube.com/watch?v=sXtp4JXsTfg",
+    "title": "पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2024-08-02",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling' (2:21) by Rssuthar Jaisalmer. 09 Wrestler Jethuram Meghwal 20190924_061002",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "नाथू दादा मंदिर"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खींयाणा",
+    "evidence_snippets": [
+      "Title: पहलवान जेठूराम मेघवाल की कुश्ती | नाथू दादा धोरा खींयाणा (महाजन फील्ड फायरिंग रेंज) | Wrestling",
+      "Description: 09 Wrestler Jethuram Meghwal 20190924_061002",
+      "Location field: नाथू दादा मंदिर"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2024, https://www.youtube.com/watch?v=sXtp4JXsTfg",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 99 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: खींयाणा",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']",
+        "district/nearby/clan context: ['Meghwal', 'मेघवाल']"
+      ],
+      "matched_names": [
+        "खींयाणा",
+        "नाथू दादा धोरा"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "नाथू दादा धोरा",
+        "नाथू दादा",
+        "Meghwal",
+        "मेघवाल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110152Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0b9038366502": {
+    "id": "src_0b9038366502",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+    "url_key": "https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+    "title": "#एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Kumbharam thakan (@kumbharamthakan6716)",
+    "published_date": "2022-09-22",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '#एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner' (5:17) by Kumbharam thakan. ",
+    "topics": [
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाणा",
+    "evidence_snippets": [
+      "Title: #एक शाम#नाथू दादा के नाम#धाम खिंयाणा #महाजन फायरिंग फील्ड़ रेंज# bikaner"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Kumbharam thakan"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Kumbharam thakan, YouTube, 2022, https://www.youtube.com/watch?v=Fyd4q1oYRBM",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Kumbharam thakan",
+      "uploader": "@kumbharamthakan6716",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 76 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: खिंयाणा",
+        "strong geo context: ['महाजन', 'नाथू दादा']",
+        "district/nearby/clan context: ['Bikaner']"
+      ],
+      "matched_names": [
+        "खिंयाणा",
+        "खिंयाणा महाजन"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "नाथू दादा",
+        "Bikaner"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 84,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110155Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_25d08e25bab2": {
+    "id": "src_25d08e25bab2",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=YkQuyPfAoJ0",
+    "url_key": "https://www.youtube.com/watch?v=YkQuyPfAoJ0",
+    "title": "नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "MKB Music  (@mkbmusic01)",
+    "published_date": "2024-10-01",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन' (10:14) by MKB Music . Mkb music - 7424835816 नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावीर सांखला । नाथू दादा खिन्यारा धाम । Mahaveer Sankhla #nathu_dada_khinyara #mhara_hansla_re_udja_udja_hansle_wali_chal #hansla_song #mahaveersankhla #म्हारा_हंसला_रे #mahvir_sakhla #mahavir_sakla #mahaveer_sakla_ka_song #hansla_virel_song #song_virel म्हारा हंसला रे महावीर सांखला का भजन हंसला म्हारा महावीर महावीर …",
+    "topics": [
+      "culture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन",
+      "Description: Mkb music - 7424835816 नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावीर सांखला । नाथू दादा खिन्यारा धाम । Mahaveer Sankhla #nathu_dada_khinyara …",
+      "Viewer comment: Jy nathu dada dham khiyana 🙏",
+      "Viewer comment: जय नाथू दादा धतरवाल",
+      "Viewer comment: Superbb song 🎵 ♥️",
+      "Viewer comment: Jay nathu dada 🫀🫀",
+      "Viewer comment: Jai ho dada ji maharaj ❤🙏🙏🙏🙏🙏"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "MKB Music "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "MKB Music , YouTube, 2024, https://www.youtube.com/watch?v=YkQuyPfAoJ0",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "MKB Music ",
+      "uploader": "@mkbmusic01",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "15 public comments; 14221 views; hashtags: hansla_song hansla_virel_song mahaveer_sakla_ka_song mahaveersankhla mahavir_sakla mahvir_sakhla mhara_hansla_re_udja_udja_hansle_wali_chal nathu_dada_khinyara song_virel म्हारा_हंसला_रे"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Nathu Dada', 'नाथू दादा', 'खिंयाणा धाम']",
+        "district/nearby/clan context: ['धतरवाल']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "खिंयाणा",
+        "खिंयाणा धाम",
+        "Nathu Dada Dham"
+      ],
+      "geo_hits": [
+        "Nathu Dada",
+        "नाथू दादा",
+        "खिंयाणा धाम",
+        "धतरवाल"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 90,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110158Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_8e8a851a7dec": {
+    "id": "src_8e8a851a7dec",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=_qDGclQAF74",
+    "url_key": "https://www.youtube.com/watch?v=_qDGclQAF74",
+    "title": "नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "facts KailashSharma (@factsKailashSharma)",
+    "published_date": "2025-09-16",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति' (3:46) by facts KailashSharma. नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति Nathu Dada bhajan by mahaveer sankhla नाथु दादा भजन गायक महावीर सांखला #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela Nathu Dada Mela 2025 Mahaveer Sankhla Mahaveer Sankhla Bhajan Mahaver sankhla new bhajan Mahra hansla bhajan mahaver sankhla Ran sangram bhaya bina suno Mahaveer sankhla khiyana bhajan Khiyana mela …",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+      "Description: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति Nathu Dada bhajan by mahaveer sankhla नाथु दादा भजन गायक महावीर सांखला #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela Nathu Dada Mela 2025 Mahaveer Sankhla Mahaveer Sankhla Bhajan …",
+      "Viewer comment: Jay nathu dada maharaj ❤❤❤"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "facts KailashSharma"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "facts KailashSharma, YouTube, 2025, https://www.youtube.com/watch?v=_qDGclQAF74",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "facts KailashSharma",
+      "uploader": "@factsKailashSharma",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "6 public comments; 378 views; hashtags: mahaveer_sankhla_bhajan nathu_dada_mela prakash_das_ji_maharaj"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "खिंयाणा",
+        "खिंयाणा महाजन"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Nathu Dada"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110203Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_d07ff2349186": {
+    "id": "src_d07ff2349186",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=739XybVH1JE",
+    "url_key": "https://www.youtube.com/watch?v=739XybVH1JE",
+    "title": "नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "MKB Music  (@mkbmusic01)",
+    "published_date": "2025-09-17",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज' (10:55) by MKB Music . नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाणा",
+    "evidence_snippets": [
+      "Title: नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज",
+      "Description: नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+      "Viewer comment: Gjb mahavir ji ❤",
+      "Viewer comment: ❤❤❤❤❤❤❤❤❤❤mahavir. Ji",
+      "Viewer comment: Bhut sunder bhai ❤❤"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "MKB Music "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "MKB Music , YouTube, 2025, https://www.youtube.com/watch?v=739XybVH1JE",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "MKB Music ",
+      "uploader": "@mkbmusic01",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "24 public comments; 36313 views; hashtags: mahaveer_sankhla_bhajan nathu_ nathu_dada_bhajan nathu_dada_mela2025 nathu_dada_song महाजन_फील्ड_फायरिंग_रेंज"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: खिंयाणा",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [
+        "खिंयाणा"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110212Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_42272bf58702": {
+    "id": "src_42272bf58702",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=C327eGMssag",
+    "url_key": "https://www.youtube.com/watch?v=C327eGMssag",
+    "title": "नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "MKB Music  (@mkbmusic01)",
+    "published_date": "2025-09-18",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति' (9:00) by MKB Music . नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाणा",
+    "evidence_snippets": [
+      "Title: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति",
+      "Description: नाथु दादा धाम खिंयाणा महाजन फील्ड फायरिंग रेंज में प्रकासदाश जी महाराज की बहुत सुंदर प्रस्तुति #mahaveer_sankhla_bhajan #prakash_das_ji_maharaj #nathu_dada_mela"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "MKB Music "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "MKB Music , YouTube, 2025, https://www.youtube.com/watch?v=C327eGMssag",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "MKB Music ",
+      "uploader": "@mkbmusic01",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 5605 views; hashtags: mahaveer_sankhla_bhajan nathu_dada_mela prakash_das_ji_maharaj"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: खिंयाणा",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [
+        "खिंयाणा",
+        "खिंयाणा महाजन"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "src_8e8a851a7dec",
+    "syndicate_group": "",
+    "review_flags": [
+      "duplicate"
+    ],
+    "runs": [
+      "run_20260925T110216Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_222055310e88": {
+    "id": "src_222055310e88",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=4mZK8TgWEno",
+    "url_key": "https://www.youtube.com/watch?v=4mZK8TgWEno",
+    "title": "श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "State Informative (@stateinformative4521)",
+    "published_date": "2022-09-20",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange' (0:37) by State Informative. ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: श्री नाथू दादा धाम (khiyana) 13th विशाल जागरण 19- sep-2022 #Mahajanfieldfiringrange"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "State Informative"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "State Informative, YouTube, 2022, https://www.youtube.com/watch?v=4mZK8TgWEno",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "State Informative",
+      "uploader": "@stateinformative4521",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 62 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['नाथू दादा']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "नाथू दादा धाम"
+      ],
+      "geo_hits": [
+        "नाथू दादा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 72,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 2,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110219Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_7437c1e48e8a": {
+    "id": "src_7437c1e48e8a",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=iDA-cA1JERk",
+    "url_key": "https://www.youtube.com/watch?v=iDA-cA1JERk",
+    "title": "नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "facts KailashSharma (@factsKailashSharma)",
+    "published_date": "2025-09-17",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana' (8:55) by facts KailashSharma. नाथु दादा धाम खिंयारा महावीर सांखला ।। दादा तांण छतरी ।। Nathu Dada Dham khinyara Mela 2025 #nathu_dada_khinyara #nathu_dada_dham #nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खिंयाणा",
+    "evidence_snippets": [
+      "Title: नाथु दादा धाम खिंयारा महावीर सांखला ।। धोरा धरती में गाड़ी फसगी ।। Nathu Dada Dham khinyana",
+      "Description: नाथु दादा धाम खिंयारा महावीर सांखला ।। दादा तांण छतरी ।। Nathu Dada Dham khinyara Mela 2025 #nathu_dada_khinyara #nathu_dada_dham #nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ …"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "facts KailashSharma"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "facts KailashSharma, YouTube, 2025, https://www.youtube.com/watch?v=iDA-cA1JERk",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "facts KailashSharma",
+      "uploader": "@factsKailashSharma",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 85 views; hashtags: mahaveer_sankhla_bhajan nathu_ nathu_dada_bhajan nathu_dada_dham nathu_dada_dham_mahaveer_sankhlanathu_dada_khinyara nathu_dada_khinyara nathu_dada_mela2025 nathu_dada_song महाजन_फील्ड_फायरिंग_रेंज"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: खिंयाणा",
+        "strong geo context: ['महाजन', 'महाजन फील्ड फायरिंग रेंज', 'फायरिंग रेंज']"
+      ],
+      "matched_names": [
+        "खिंयाणा",
+        "Khinyana",
+        "Nathu Dada Dham"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "Nathu Dada"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110230Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_5b7e4422e311": {
+    "id": "src_5b7e4422e311",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=21j2g4kBqrc",
+    "url_key": "https://www.youtube.com/watch?v=21j2g4kBqrc",
+    "title": "दादा जी आया आँगने खियाणा भजन 👌👌 #bhajan #nathudada #khiyana #mahiveersankhla",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-17",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'दादा जी आया आँगने खियाणा भजन 👌👌 #bhajan #nathudada #khiyana #mahiveersankhla' (0:30) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: दादा जी आया आँगने खियाणा भजन 👌👌 #bhajan #nathudada #khiyana #mahiveersankhla",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=21j2g4kBqrc",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 1089 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.55,
+      "reasons": [
+        "primary name match: Khiyana",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "Khiyana",
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 74,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 8,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110247Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_b33cc76acf6c": {
+    "id": "src_b33cc76acf6c",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=4lrNHPs1VwY",
+    "url_key": "https://www.youtube.com/watch?v=4lrNHPs1VwY",
+    "title": "खियाणा धाम 🚩🚩 #viral #shorts",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Nathu Dada Studio (@nathudadastudio)",
+    "published_date": "2022-12-15",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'खियाणा धाम 🚩🚩 #viral #shorts' (0:36) by Nathu Dada Studio. ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खियाणा",
+    "evidence_snippets": [
+      "Title: खियाणा धाम 🚩🚩 #viral #shorts",
+      "Viewer comment: जय श्री नाथू दादा 🙏🏼🙏🏼🙏🏼🙏🏼"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Nathu Dada Studio"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=4lrNHPs1VwY",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Nathu Dada Studio",
+      "uploader": "@nathudadastudio",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 42 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['Nathu Dada', 'नाथू दादा']"
+      ],
+      "matched_names": [
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "Nathu Dada",
+        "नाथू दादा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 83,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110250Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0a9faea16fbe": {
+    "id": "src_0a9faea16fbe",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=6X4r8Mv1J9A",
+    "url_key": "https://www.youtube.com/watch?v=6X4r8Mv1J9A",
+    "title": "नाथू दादा धाम खियाणा महावीर सांखला शानदार प्रस्तुति 🔥👌 #Nathudadakhiyanadham #mahiveersankhla",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-16",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथू दादा धाम खियाणा महावीर सांखला शानदार प्रस्तुति 🔥👌 #Nathudadakhiyanadham #mahiveersankhla' (0:27) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: नाथू दादा धाम खियाणा महावीर सांखला शानदार प्रस्तुति 🔥👌 #Nathudadakhiyanadham #mahiveersankhla",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=6X4r8Mv1J9A",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 12824 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['नाथू दादा']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "खियाणा",
+        "नाथू दादा धाम"
+      ],
+      "geo_hits": [
+        "नाथू दादा",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110254Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_45380ab38c87": {
+    "id": "src_45380ab38c87",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=77Zi9oLr8gk",
+    "url_key": "https://www.youtube.com/watch?v=77Zi9oLr8gk",
+    "title": "नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-19",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥' (0:34) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual",
+      "religion_temple"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खियाणा",
+    "evidence_snippets": [
+      "Title: नाथू दादा मेला कुश्ती खियाणा धाम 😱🔥",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=77Zi9oLr8gk",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 1936 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['नाथू दादा']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "नाथू दादा",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110257Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0540bb487421": {
+    "id": "src_0540bb487421",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=ecKaMb_mQyo",
+    "url_key": "https://www.youtube.com/watch?v=ecKaMb_mQyo",
+    "title": "गाँव खियाणा में जन्म लियो दादा Nathu dada status vidio #shorts  #nathudada  #viral  #sunitaswami",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Nathu Dada Studio (@nathudadastudio)",
+    "published_date": "2022-10-11",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'गाँव खियाणा में जन्म लियो दादा Nathu dada status vidio #shorts  #nathudada  #viral  #sunitaswami' (0:53) by Nathu Dada Studio. नाथू दादा भजन, nathu dada bhajan, nathu dada ke bhajan, nathu dada new bhajan, nathu dada ka bhajan ajay thori, nathu dada, नाथू दादा का भजन, नाथू दादा, नाथू दादा की कथा, नाथू दादा की छावली, nathu dada ka bhajan, नाथू दादा की आरती, नाथू दादा के भजन, parkash mali, nathudada bhajan, हनुमान लावा, nathudada bhajan, hanuman lawa,hanuman lava,hanuman lava …",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "खियाणा",
+    "evidence_snippets": [
+      "Title: गाँव खियाणा में जन्म लियो दादा Nathu dada status vidio #shorts  #nathudada  #viral  #sunitaswami",
+      "Description: नाथू दादा भजन, nathu dada bhajan, nathu dada ke bhajan, nathu dada new bhajan, nathu dada ka bhajan ajay thori, nathu dada, नाथू दादा का भजन, नाथू दादा, नाथू दादा की कथा, नाथू दादा की छावली, nathu dada ka bhajan, …"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Nathu Dada Studio"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=ecKaMb_mQyo",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Nathu Dada Studio",
+      "uploader": "@nathudadastudio",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 425 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.6,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['Nathu Dada', 'नाथू दादा']"
+      ],
+      "matched_names": [
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "Nathu Dada",
+        "नाथू दादा"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 83,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 9,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110314Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_547a1348c83a": {
+    "id": "src_547a1348c83a",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=oG2DydaZuIE",
+    "url_key": "https://www.youtube.com/watch?v=oG2DydaZuIE",
+    "title": "बहुत ही सुन्दर आवाज भाई की नाथू दादा खियाणा 👌❤️ #nathudada #bhajan",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-09-16",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'बहुत ही सुन्दर आवाज भाई की नाथू दादा खियाणा 👌❤️ #nathudada #bhajan' (1:24) by Dinesh Beniwal . ",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "खियाणा",
+    "evidence_snippets": [
+      "Title: बहुत ही सुन्दर आवाज भाई की नाथू दादा खियाणा 👌❤️ #nathudada #bhajan",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=oG2DydaZuIE",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 218 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "variant match: खियाणा",
+        "strong geo context: ['नाथू दादा']",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "खियाणा"
+      ],
+      "geo_hits": [
+        "नाथू दादा",
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 86,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110321Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_aa8fe461f718": {
+    "id": "src_aa8fe461f718",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=qNxijIUBt6k",
+    "url_key": "https://www.youtube.com/watch?v=qNxijIUBt6k",
+    "title": "महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Dinesh Beniwal  (@Dineshbeniwalvlog)",
+    "published_date": "2025-12-27",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌' (5:41) by Dinesh Beniwal . महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "INDIA"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+      "Description: महावीर साँखला के बहुत ही सुंदर भजन नाथु दादा धाम खीयाणा 🔥👌",
+      "Location field: INDIA"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Dinesh Beniwal "
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Dinesh Beniwal , YouTube, 2025, https://www.youtube.com/watch?v=qNxijIUBt6k",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Dinesh Beniwal ",
+      "uploader": "@Dineshbeniwalvlog",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 5 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.45,
+      "reasons": [
+        "variant match: खीयाणा",
+        "district/nearby/clan context: ['Beniwal']"
+      ],
+      "matched_names": [
+        "खीयाणा"
+      ],
+      "geo_hits": [
+        "Beniwal"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 75,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 7,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110324Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_b42020961323": {
+    "id": "src_b42020961323",
+    "village": "khiyana",
+    "url": "https://www.youtube.com/watch?v=uYluLBM-9fQ",
+    "url_key": "https://www.youtube.com/watch?v=uYluLBM-9fQ",
+    "title": "कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Nathu Dada Studio (@nathudadastudio)",
+    "published_date": "2022-10-29",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana' (5:59) by Nathu Dada Studio. कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana @Sunita_Swami_Official_ @HarshvardhanJain02738 @rajuswami @BBBBINDASGOSWAMI @swamistudionagaur @BageshwarDhamSarkar @RDCRajasthani @RDCMoviez @RangiloRajasthani-u1b @rajuswami @Apexranirangiliofficial @RajuPunjabilive @tulchharamchoudhary423 @gaganchoudharyofi query #Tejajisong #lilan_pyari #Superhit Sunita Swami || Tejaji राजल बाई लेेओ बिरा ने बधाय || तेजल आयो आंगणे !! Sunita Swami Official Live Bhajan music Rajal Choudhary || …",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Khiyana",
+    "evidence_snippets": [
+      "Title: कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana",
+      "Description: कांई कारण आयो बन्दा ।। Kai karan aayo banda !! सुनीता स्वामी ¡¡ att nathu dada mandir khiyana @Sunita_Swami_Official_ @HarshvardhanJain02738 @rajuswami @BBBBINDASGOSWAMI @swamistudionagaur @BageshwarDhamSarkar @RDCRajasthani @RDCMoviez @RangiloRajasthani-u1b @rajuswami @Apexranirangiliofficial @RajuPunjabilive @tulchharamchoudhary423 @gaganchoudharyofi query #Tejajisong #lilan_pyari #Superhit Sunita Swami || Tejaji …"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Nathu Dada Studio"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Nathu Dada Studio, YouTube, 2022, https://www.youtube.com/watch?v=uYluLBM-9fQ",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Nathu Dada Studio",
+      "uploader": "@nathudadastudio",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 74 views; hashtags: Superhit Tejajisong balakbanari balakbanri deshnok hanumanlava hanumanlawa indianmusic lilan_pyari nathudada nathudadabhajan nathudadamela nathudadasong parkashmali rajalbai ramnivasrao sunitaswami te"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: Khiyana",
+        "strong geo context: ['Nathu Dada']"
+      ],
+      "matched_names": [
+        "Khiyana"
+      ],
+      "geo_hits": [
+        "Nathu Dada"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 74,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 10,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110327Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

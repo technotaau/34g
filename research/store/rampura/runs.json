@@ -11,5 +11,19 @@
     "agent_notes": "Rampura is extremely hard to isolate: searches for 'Rampura'/'रामपुरा' + Bikaner overwhelmingly surface the unrelated Rampuria Havelis (a Bikaner city heritage site) and dozens of same-named villages elsewhere in India (Nagaur, Jalaun, Tonk, Sirohi, Neemuch, Jaipur, etc.), none of which are in Lunkaransar/Mahajan. The census2011.co.in mirror's list of all 125 Lunkaransar-tehsil villages does NOT include any 'Rampura' (closest names: Rambagh, Ramsara, Ranisar). The one solid 2022 Rajasthan Patrika feature on the 34-village Mahajan Field Firing Range displacement (by Hari Singh) names 12 specifi",
     "total_after": 6,
     "at": "2026-09-18T09:41:40.629100+00:00"
+  },
+  {
+    "run_id": "run_20260925T110240Z",
+    "file": "/home/user/34g/research/inbox/rampura/video_a56MCbcn7qs.json",
+    "input": 1,
+    "invalid": 0,
+    "new": 1,
+    "updated": 0,
+    "errors": [],
+    "searches_used": 0,
+    "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=a56MCbcn7qs on 2026-09-25",
+    "flag": "budget_starved: rerun recommended",
+    "total_after": 7,
+    "at": "2026-09-25T11:02:41.081304+00:00"
   }
 ]

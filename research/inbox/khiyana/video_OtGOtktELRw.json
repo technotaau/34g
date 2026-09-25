@@ -1,0 +1,55 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=OtGOtktELRw on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=OtGOtktELRw",
+   "title": "#नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "@744XT Lover (@pradeepmoond4203)",
+   "published_date": "2023-06-24",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video '#नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव' (0:41) by @744XT Lover. ",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "MAHAJAN FIELDFIRING RANGE"
+   ],
+   "direct_mention": true,
+   "name_form_matched": "खियाणा",
+   "evidence_snippets": [
+    "Title: #नाथू दादा मन्दिर धाम खियाणा महाजन फील्ड फायरिंग रेंज में पूराणा गांव",
+    "Location field: MAHAJAN FIELDFIRING RANGE",
+    "Viewer comment: Jay Nathu dada ji ❤❤"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "@744XT Lover"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "@744XT Lover, YouTube, 2023, https://www.youtube.com/watch?v=OtGOtktELRw",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "@744XT Lover",
+    "uploader": "@pradeepmoond4203",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "3 public comments; 3882 views; hashtags: "
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=739XybVH1JE on 2026-09-25",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=739XybVH1JE",
+   "title": "नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "MKB Music  (@mkbmusic01)",
+   "published_date": "2025-09-17",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज' (10:55) by MKB Music . नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [],
+   "direct_mention": true,
+   "name_form_matched": "खिंयाणा",
+   "evidence_snippets": [
+    "Title: नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज",
+    "Description: नाथु दादा धाम खिंयाणा से लाइव महावीर सांखला । धोरा धरती में गाड़ी फसगी । महाजन फील्ड फायरिंग रेंज #nathu_ dada_dham #nathu_dada_song #महाजन_फील्ड_फायरिंग_रेंज #nathu_dada_bhajan #mahaveer_sankhla_bhajan #nathu_dada_mela2025",
+    "Viewer comment: Gjb mahavir ji ❤",
+    "Viewer comment: ❤❤❤❤❤❤❤❤❤❤mahavir. Ji",
+    "Viewer comment: Bhut sunder bhai ❤❤"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "MKB Music "
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "MKB Music , YouTube, 2025, https://www.youtube.com/watch?v=739XybVH1JE",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "MKB Music ",
+    "uploader": "@mkbmusic01",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "24 public comments; 36313 views; hashtags: mahaveer_sankhla_bhajan nathu_ nathu_dada_bhajan nathu_dada_mela2025 nathu_dada_song महाजन_फील्ड_फायरिंग_रेंज"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

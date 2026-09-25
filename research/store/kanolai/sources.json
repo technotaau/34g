@@ -2388,5 +2388,835 @@
     ],
     "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
     "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_ca10892df96c": {
+    "id": "src_ca10892df96c",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=ayVDHZUaY5o",
+    "url_key": "https://www.youtube.com/watch?v=ayVDHZUaY5o",
+    "title": "संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-01",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211' (2:09) by Rssuthar Jaisalmer. संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211",
+    "topics": [
+      "displacement",
+      "media_visual",
+      "military_range"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211",
+      "Description: संत हीराराम सुथार की मढ़ी कानोलाई गाँव। महाजन फील्ड फायरिंग रेंज लूणकरणसर बीकानेर 20260517_180211",
+      "Viewer comment: Beautiful video ❤"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=ayVDHZUaY5o",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "2 public comments; 192 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.8,
+      "reasons": [
+        "primary name match: कानोलाई",
+        "strong geo context: ['महाजन', 'लूणकरणसर', 'महाजन फील्ड फायरिंग रेंज']",
+        "district/nearby/clan context: ['बीकानेर']"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "महाजन",
+        "लूणकरणसर",
+        "महाजन फील्ड फायरिंग रेंज",
+        "फायरिंग रेंज",
+        "बीकानेर"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 90,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 12,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110146Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_9b3ba9d08f3f": {
+    "id": "src_9b3ba9d08f3f",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=XVAN07aRHhY",
+    "url_key": "https://www.youtube.com/watch?v=XVAN07aRHhY",
+    "title": "पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝 (@Apna465RD)",
+    "published_date": "2025-09-26",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney' (5:33) by 𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝. पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) ​⁠ @ShubhJourney",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "RAJASTHAN"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) @ShubhJourney",
+      "Description: पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) ​⁠ @ShubhJourney",
+      "Location field: RAJASTHAN"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝, YouTube, 2025, https://www.youtube.com/watch?v=XVAN07aRHhY",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "𝐀𝐩𝐧𝐚 𝟒𝟔𝟓 𝐑𝐝",
+      "uploader": "@Apna465RD",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 483 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: कानोलाई",
+        "strong geo context: ['34 गांव', '34 गाँव']"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [],
+    "runs": [
+      "run_20260925T110222Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_9bdfaf5b2580": {
+    "id": "src_9bdfaf5b2580",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=STdDhudFyRc",
+    "url_key": "https://www.youtube.com/watch?v=STdDhudFyRc",
+    "title": "पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव)",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "𝐑𝐚𝐣𝐚𝐬𝐭𝐡𝐚𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 (@RajsthanJourney)",
+    "published_date": "2025-09-22",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव)' (5:33) by 𝐑𝐚𝐣𝐚𝐬𝐭𝐡𝐚𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲. पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) 40 साल पुराणा कानोलाई गाँव #VillageLife, #DailyRoutine, #TravelBlog, #HomeTour, #FarmLife, #RuralLife, #DesiVibes, #VillageVlogs, #TraditionalLiving, #IndianCulture, , #DesiLife, #VillageTour, #FarmingLife, #RuralIndia, #IndianTradition, #CulturalVlog, #HeritageOfIndia, #IndianVillages, #VillageTourism, #TravelVlogs, , #FarmVlogs, #VillageCulture, farm house vlog farmhouse construction village life vlog desi lifestyle farm house in village …",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [
+      "RAJASTHAN"
+    ],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव)",
+      "Description: पुराणा 34 गाँव का 40 साल बाद का नज़ारा आज भी यहाँ सुकून मिलता हैं (कानोलाई गाँव) 40 साल पुराणा कानोलाई गाँव #VillageLife, #DailyRoutine, #TravelBlog, #HomeTour, #FarmLife, #RuralLife, #DesiVibes, #VillageVlogs, #TraditionalLiving, #IndianCulture, , #DesiLife, #VillageTour, #FarmingLife, #RuralIndia, #IndianTradition, #CulturalVlog, #HeritageOfIndia, …",
+      "Location field: RAJASTHAN"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "𝐑𝐚𝐣𝐚𝐬𝐭𝐡𝐚𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "𝐑𝐚𝐣𝐚𝐬𝐭𝐡𝐚𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲, YouTube, 2025, https://www.youtube.com/watch?v=STdDhudFyRc",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "𝐑𝐚𝐣𝐚𝐬𝐭𝐡𝐚𝐧 𝐉𝐨𝐮𝐫𝐧𝐞𝐲",
+      "uploader": "@RajsthanJourney",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "0 public comments; 746 views; hashtags: CulturalVlog DailyRoutine DesiLife DesiVibes FarmLife FarmVlogs FarmingLife HeritageOfIndia HomeTour IndianCulture IndianTradition IndianVillages RuralIndia RuralLife TraditionalLiving TravelBlog Trav"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "accept",
+      "confidence": 0.7,
+      "reasons": [
+        "primary name match: कानोलाई",
+        "strong geo context: ['34 गांव', '34 गाँव']"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [
+        "34 गांव",
+        "34 गाँव",
+        "Rajasthan"
+      ],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 88,
+      "band": "high",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 20,
+        "resolution_conf": 10,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "src_9b3ba9d08f3f",
+    "syndicate_group": "",
+    "review_flags": [
+      "duplicate"
+    ],
+    "runs": [
+      "run_20260925T110226Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_064c9a8bb493": {
+    "id": "src_064c9a8bb493",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=1I1fhPX3r2M",
+    "url_key": "https://www.youtube.com/watch?v=1I1fhPX3r2M",
+    "title": "कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-28",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012' (1:00) by Rssuthar Jaisalmer. 6 DKD Rawla कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012",
+      "Description: 6 DKD Rawla कभी-कभी छोटे बच्चों की तरह रूठ जाते हैं गोपाल सुथार धामु कानोलाई! #RealComedy#😀😁 20250313_174012"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=1I1fhPX3r2M",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 106 views; hashtags: RealComedy"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 61,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110244Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_c64f8f9bc53c": {
+    "id": "src_c64f8f9bc53c",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+    "url_key": "https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+    "title": "ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-04",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?' (1:57) by Rssuthar Jaisalmer. रोई माथै ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ माथै च्यूँ घालेः? 20260519_062930",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ (रोई) माथै च्यूँ घालेः?",
+      "Description: रोई माथै ना इज खादण न ना पीवण न पछै भी कानोलाई (रामनगर) गायाँ रा ग्वाळिया गायाँ न खोङ माथै च्यूँ घालेः? 20260519_062930",
+      "Viewer comment: Amazing video 😯😲😂😁😄😛😝"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=B8GmRwI9U3Q",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 432 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 63,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110300Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_093f289695ad": {
+    "id": "src_093f289695ad",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=IT-mm3pUInA",
+    "url_key": "https://www.youtube.com/watch?v=IT-mm3pUInA",
+    "title": "हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-02",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई' (1:30) by Rssuthar Jaisalmer. हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम सुथार धामु कानोलाई 20260702_082111",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम धामु कानोलाई",
+      "Description: हँसी-ठिठोळी! मामा बुआ के दो भाईयों की घर की चौपाल। हुकमाराम सुथार हरदासवाली व कानाराम सुथार धामु कानोलाई 20260702_082111",
+      "Viewer comment: Thar Desert Men 😂😂😂"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=IT-mm3pUInA",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 299 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 63,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110304Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_0a66f3ed4cc3": {
+    "id": "src_0a66f3ed4cc3",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=VfBaUl0520Q",
+    "url_key": "https://www.youtube.com/watch?v=VfBaUl0520Q",
+    "title": "पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-02",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451' (1:24) by Rssuthar Jaisalmer. पीर जी की मढ़ी 20260517_183451",
+    "topics": [
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: पीर जी की मढ़ी कानोलाई गाँव। रामनगर गाँव से श्रद्धालु फेरी लगाने आते हैं। 20260517_183451",
+      "Description: पीर जी की मढ़ी 20260517_183451",
+      "Viewer comment: Bahut yaad aati hai kanolai Village ki 😢"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=VfBaUl0520Q",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 247 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: Kanolai"
+      ],
+      "matched_names": [
+        "Kanolai",
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 63,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 6,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110307Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_032941f26648": {
+    "id": "src_032941f26648",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=YoILEd1-mS8",
+    "url_key": "https://www.youtube.com/watch?v=YoILEd1-mS8",
+    "title": "महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2021-10-21",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video 'महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!' (0:17) by Rssuthar Jaisalmer. ",
+    "topics": [
+      "land_agriculture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "Kanolai",
+    "evidence_snippets": [
+      "Title: महेन्द्र सुथार धामु कानोलाई (रामनगर) खेती के साथ-साथ सदा प्यारे वन्य जीवों की सदा रक्षा करते हैं!",
+      "Viewer comment: Hii kya muje apke contact number mil skte h"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2021, https://www.youtube.com/watch?v=YoILEd1-mS8",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "3 public comments; 1282 views; hashtags: "
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 59,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 1,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110311Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
+  },
+  "src_50471c35b7e9": {
+    "id": "src_50471c35b7e9",
+    "village": "kanolai",
+    "url": "https://www.youtube.com/watch?v=gH9LyJqWZk0",
+    "url_key": "https://www.youtube.com/watch?v=gH9LyJqWZk0",
+    "title": "#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814",
+    "platform": "youtube",
+    "source_type": "video",
+    "media_type": "video",
+    "author": "Rssuthar Jaisalmer (@RssutharJaisalmer)",
+    "published_date": "2026-07-29",
+    "discovered_date": "2026-09-25",
+    "language": "hi",
+    "found_by_query": [
+      "video supplied by TechnoTaau Team"
+    ],
+    "summary": "YouTube video '#Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814' (1:12) by Rssuthar Jaisalmer. #Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814",
+    "topics": [
+      "land_agriculture",
+      "media_visual"
+    ],
+    "period": "2016_present",
+    "geo_mentions": [],
+    "direct_mention": true,
+    "name_form_matched": "कानोलाई",
+    "evidence_snippets": [
+      "Title: #Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814",
+      "Description: #Tractor#Driver#6DKD#Rawla#Farmer# ड्राइवर बाबू महेन्द्र सुथार धामु कानोलाई वाले! 🥰 20250304_125814"
+    ],
+    "entities": {
+      "people": [],
+      "places": [],
+      "events": [],
+      "organizations": [
+        "Rssuthar Jaisalmer"
+      ]
+    },
+    "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+    "attribution": "Rssuthar Jaisalmer, YouTube, 2026, https://www.youtube.com/watch?v=gH9LyJqWZk0",
+    "is_primary": true,
+    "reliability": 0.4,
+    "related_villages": [],
+    "media": {
+      "channel": "Rssuthar Jaisalmer",
+      "uploader": "@RssutharJaisalmer",
+      "transcript_available": "no caption tracks (manual or auto)",
+      "timestamps": "1 public comments; 212 views; hashtags: 6DKD Driver Farmer Rawla Tractor"
+    },
+    "claims": [],
+    "resolution": {
+      "decision": "review",
+      "confidence": 0.35,
+      "reasons": [
+        "primary name match: कानोलाई"
+      ],
+      "matched_names": [
+        "कानोलाई"
+      ],
+      "geo_hits": [],
+      "negative_hits": []
+    },
+    "relevance": {
+      "score": 61,
+      "band": "medium",
+      "factors": {
+        "name_match": 30,
+        "geo_match": 0,
+        "resolution_conf": 5,
+        "credibility": 6,
+        "primary": 8,
+        "corroboration": 0,
+        "queries": 2,
+        "evidence": 4,
+        "claims": 0,
+        "recency": 3,
+        "media": 3,
+        "negative": 0
+      }
+    },
+    "duplicate_of": "",
+    "syndicate_group": "",
+    "review_flags": [
+      "resolution_review"
+    ],
+    "runs": [
+      "run_20260925T110318Z"
+    ],
+    "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing.",
+    "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited"
   }
 }

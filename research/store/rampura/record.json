@@ -12,10 +12,10 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-19",
+  "built": "2026-09-25",
   "counts": {
-    "sources_total": 6,
-    "accepted": 1,
+    "sources_total": 7,
+    "accepted": 2,
     "context": 4,
     "review": 1,
     "rejected": 0,
@@ -42,6 +42,7 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
+        "src_4d4bb0c80639",
         "src_1bdf00f2f65e",
         "src_c818a97c39d5",
         "src_a5150b8b1d53",
@@ -64,6 +65,7 @@
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
+        "src_4d4bb0c80639",
         "src_1bdf00f2f65e",
         "src_a5150b8b1d53",
         "src_f07a8c256ae6"
@@ -72,6 +74,7 @@
     "festivals": {
       "label": "त्योहार व परंपराएं",
       "source_ids": [
+        "src_4d4bb0c80639",
         "src_1bdf00f2f65e",
         "src_1e12806d4cc4",
         "src_a5150b8b1d53",
@@ -94,7 +97,9 @@
     },
     "videos": {
       "label": "वीडियो",
-      "source_ids": []
+      "source_ids": [
+        "src_4d4bb0c80639"
+      ]
     },
     "audio": {
       "label": "साक्षात्कार / ऑडियो",
@@ -162,6 +167,7 @@
       "Census of India",
       "Directorate of District Gazetteers, Rajasthan",
       "Jatland",
+      "Local live15",
       "Ministry of Defence",
       "Rajasthan Patrika"
     ]
@@ -242,6 +248,64 @@
     }
   ],
   "sources": {
+    "src_4d4bb0c80639": {
+      "url": "https://www.youtube.com/watch?v=a56MCbcn7qs",
+      "title": "34 गांव में से उठे गांव रामपुरा के  बुजुर्ग से छणिक मुलाकात।.      👍👍👍, @JhalkoBikanerOfficial",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2023-12-31",
+      "language": "hi",
+      "relevance": {
+        "score": 90,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 12,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.8,
+        "reasons": [
+          "primary name match: रामपुरा",
+          "strong geo context: ['महाजन', '34 गांव', '34 गाँव']",
+          "district/nearby/clan context: ['बीकानेर']"
+        ],
+        "matched_names": [
+          "रामपुरा"
+        ],
+        "geo_hits": [
+          "महाजन",
+          "34 गांव",
+          "34 गाँव",
+          "फायरिंग रेंज",
+          "विस्थापित",
+          "बीकानेर",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "displacement",
+        "media_visual",
+        "military_range",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Local live15, YouTube, 2023, https://www.youtube.com/watch?v=a56MCbcn7qs",
+      "is_primary": true
+    },
     "src_1bdf00f2f65e": {
       "url": "https://www.voiceofbikaner.com/bikaner-major-twist-in-rampura-firing-case-complainant-seen-carrying-a-weapon-in-cctv-footage-payment-dispute-emerges-as-cause/",
       "title": "बीकानेर: रामपुरा फायरिंग कांड में बड़ा ट्विस्ट, सीसीटीवी में परिवादी ही हथियार के साथ दिखा, पेमेंट विवाद बना वजह",
@@ -593,6 +657,20 @@
       "agent_notes": "Rampura is extremely hard to isolate: searches for 'Rampura'/'रामपुरा' + Bikaner overwhelmingly surface the unrelated Rampuria Havelis (a Bikaner city heritage site) and dozens of same-named villages elsewhere in India (Nagaur, Jalaun, Tonk, Sirohi, Neemuch, Jaipur, etc.), none of which are in Lunkaransar/Mahajan. The census2011.co.in mirror's list of all 125 Lunkaransar-tehsil villages does NOT include any 'Rampura' (closest names: Rambagh, Ramsara, Ranisar). The one solid 2022 Rajasthan Patrika feature on the 34-village Mahajan Field Firing Range displacement (by Hari Singh) names 12 specifi",
       "total_after": 6,
       "at": "2026-09-18T09:41:40.629100+00:00"
+    },
+    {
+      "run_id": "run_20260925T110240Z",
+      "file": "/home/user/34g/research/inbox/rampura/video_a56MCbcn7qs.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=a56MCbcn7qs on 2026-09-25",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 7,
+      "at": "2026-09-25T11:02:41.081304+00:00"
     }
   ]
 }
