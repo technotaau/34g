@@ -75,7 +75,7 @@
 | लोकसभा Q.4519, 12 अगस्त 2016 (PDF server error) | eparlib.sansad.in | खुला |
 | Jatland पृष्ठ (Dhatarwal, Sherpura, Mahajan, Duderia): bot-block | browser में खोलें | खुला |
 | 1961/1971/1981/2001 जनगणना पुस्तिका, बीकानेर | मिल गईं (research/leads/files) | पूरा 2026-09-25 |
-| 1991 जनगणना पुस्तिका, बीकानेर | Census Digital Library में नहीं; जयपुर जनगणना निदेशालय या दिल्ली Census Library (2A मानसिंह रोड) | खुला |
+| 1991 जनगणना, बीकानेर | गांव-वार डेटा मिला (NADA catalog 43577): रेंज 1991 में ही एक गांव (0013, 1,36,411 हे., गैर-आबाद); छपी पुस्तिका ऑनलाइन नहीं, वैकल्पिक: DCO राजस्थान, जयपुर से scan | पूरा 2026-09-25 (डेटा) |
 | Jatland: Lunkaransar, Mahajan, Converted Villages पन्ने | सामान्य browser से खोलें (यहां से 403) | खुला |
 | लोकसभा प्रश्न 4519 और 5 अगस्त 1986 की बहस | eparlib.sansad.in (यहां से connection reset) | खुला |
 | Facebook/Instagram के अंदर की खोज, groups, comments | web search से 11 ही लिंक मिले; team को login करके खोजना होगा (docs/data-collection-playbook.md भाग 3) | खुला |

@@ -198,6 +198,15 @@
       "title": "32 गांवों की जगह एक नाम: Mahajan Fieldfiring Range",
       "text": "2001 की जनगणना में ये गांव नहीं हैं; उनकी जगह एक गैर-आबाद 'गांव' है, 'Mahajan Fieldfiring Range' (कोड 00509900), जो 1991 में ही बन चुका था। 2011 में इसका क्षेत्रफल 1,36,406 हेक्टेयर।",
       "source": "https://censusindia.gov.in/nada/index.php/catalog/43862"
+    },
+    {
+      "when": "1991 की जनगणना",
+      "sort": 1991.1,
+      "phase": "aaj",
+      "status": "pakka",
+      "title": "गांवों की जगह एक गैर-आबाद 'गांव'",
+      "text": "1991 की जनगणना में लूणकरणसर का गांव क्रमांक 0013 'Mahajan Field Firing Range' है: 1,36,411 हेक्टेयर, एक भी घर नहीं। 1981 के 32 गांवों में से कोई अलग से दर्ज नहीं।",
+      "source": "https://censusindia.gov.in/nada/index.php/catalog/43577"
     }
   ]
 }
