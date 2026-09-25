@@ -2,7 +2,7 @@
 
 तैयार: TechnoTaau Team शोध सत्र, 25 सितंबर 2026
 
-रिकॉर्ड: `research/leads/legal.jsonl` (108 पंक्तियां)। फ़ाइलें: `research/leads/files/legal/` (PDF, पेज-इमेज, `judgments/` में फ़ैसलों का पाठ, `text_extracts/` में OCR अंश)।
+रिकॉर्ड: `research/leads/legal.jsonl` (110 पंक्तियां)। फ़ाइलें: `research/leads/files/legal/` (PDF, पेज-इमेज, `judgments/` में फ़ैसलों का पाठ, `text_extracts/` में OCR अंश)।
 मुख्य स्रोत: archive.org पर Parliament Digital Library (eparlib) और Rajasthan Vidhan Sabha कार्यवाही की मिरर प्रतियां (full-text search), elibrary.sansad.in (DSpace API), indiankanoon.org।
 सावधानी: archive.org का OCR अक्सर अंक "1" छोड़ देता है (987 = 1987, 92 = 192)। नीचे के सभी मुख्य अंक पेज-इमेज या PDF से मिलाकर लिखे गए हैं।
 
