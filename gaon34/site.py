@@ -581,12 +581,12 @@ class Site:
 <section class="section">
   <p class="eyebrow" style="margin-bottom:1rem">जो अब तक पक्का पता है</p>
   <div class="big">
-    <div><b>33 / 34</b><span>गांव। सरकारी कागज़ 33 कहते हैं, लोग और अखबार 34।</span><i>लोकसभा 1987 · पत्रिका 2022</i></div>
+    <div><b>33 / 34</b><span>गांव। सरकार 33 कहती है, लोग 34; जनगणना में 32 राजस्व गांव ग़ायब होते हैं।</span><i>लोकसभा 1987 · जनगणना 1981/2001</i></div>
     <div><b>1,364 km²</b><span>रेंज का क्षेत्रफल, दिल्ली से थोड़ा छोटा।</span><i>जनगणना 2011 · OSM</i></div>
     <div><b>₹300</b><span>प्रति बीघा, बदले की बारानी ज़मीन की दर।</span><i>अधिसूचना 23 नवंबर 1985</i></div>
     <div><b>₹64.11 करोड़</b><span>कुल मुआवजा, 3,12,649 बीघा निजी ज़मीन के लिए।</span><i>लोकसभा, 21 अगस्त 1987</i></div>
     <div><b>148</b><span>बदले की ज़मीन के प्रकरण 2025 में भी लंबित।</span><i>पत्रिका, 14 फरवरी 2025</i></div>
-    <div><b>40 साल</b><span>गांव छोड़े हुए। होली पर आज भी कुम्भाणा में होलिका जलती है।</span><i>पत्रिका 2022 (एक स्रोत)</i></div>
+    <div><b>16,018</b><span>लोग, 2,198 परिवार: इन गांवों की आख़िरी गिनती।</span><i>जनगणना 1981</i></div>
   </div>
   <p class="small muted" style="margin-top:.8rem"><a href="{h('samay')}">पूरी समय-रेखा 1938 से आज तक →</a></p>
 </section>
@@ -697,8 +697,13 @@ class Site:
 <span class="tag">{c['accepted']} स्वीकृत स्रोत</span><span class="tag">{c['claims']} दावे</span><span class="tag">{len(ws)} पक्के/मिलान</span>{f'<span class="tag">{sum(len(m["frames"]) for m in self.media.get(slug, []))} तस्वीरें</span>' if self.media.get(slug) else ''}
 </div>""")
         c51 = v.get("census_1951")
+        c81 = v.get("census_1981")
         co = v.get("coordinates")
         facts = []
+        if c81 and c81.get("persons"):
+            facts.append(f'1981 की जनगणना (आख़िरी): <b>{esc(c81["persons"])}</b> लोग, {esc(c81.get("households"))} परिवार, {esc(c81.get("area_hectares"))} हेक्टेयर (कोड {esc(c81.get("code"))}, "{esc(c81.get("name"))}"). {"2001 से जनगणना में नहीं; रेंज में शामिल।" if "absent" in c81.get("after_1981", "") else ""}')
+        elif c81:
+            facts.append(f'1981 की जनगणना: गैर-आबाद राजस्व गांव "{esc(c81.get("name"))}" ({esc(c81.get("area_hectares"))} हेक्टेयर, कोड {esc(c81.get("code"))}). {"2001 से रेंज में शामिल।" if "absent" in c81.get("after_1981", "") else ""}')
         if c51 and c51.get("list") == "populated":
             facts.append(f'1951 की जनगणना: <b>{esc(c51.get("persons"))}</b> लोग, {esc(c51.get("households"))} परिवार, {esc(c51.get("houses"))} घर, {esc(c51.get("area_acres"))} एकड़ (कोड {esc(c51.get("code"))}, "{esc(c51.get("name"))}"{", मिलान संभावित" if c51.get("match") == "probable" else ""})')
         elif c51:
@@ -857,7 +862,7 @@ class Site:
 <section class="section"><div class="map">{svg}</div>
 <p class="small muted" style="margin-top:.6rem">Phase 2 में यह नक्शा ज़ूम होने वाला (MapLibre) बनेगा: 1981 के गांव, 1987 के आवंटन चक 100–200 किमी पश्चिम में, और वे गांव जहां आज भी धमाके सुनाई देते हैं।</p></section>
 <section class="section"><h2>1951 बनाम 2011: कौन से गांव ग़ायब हुए</h2>
-<p class="prose" style="margin-top:.6rem">1951 की जनगणना में लूणकरणसर तहसील के 146 आबाद गांव थे। उनमें से 28 गांव, जिनमें 5,620 लोग और 1,070 परिवार रहते थे, 2011 की जनगणना में बीकानेर ज़िले में कहीं नहीं हैं, और उनका कुल क्षेत्रफल (लगभग 1,318 वर्ग किमी) आज की रेंज (1,364 वर्ग किमी) के लगभग बराबर है। <span class="badge b-ok">पक्का</span> सरकारी अभिलेख; गांव-वार मिलान <span class="badge b-one">हमारा विश्लेषण</span>।</p></section>
+<p class="prose" style="margin-top:.6rem">1981 की जनगणना में लूणकरणसर तहसील के 32 राजस्व गांव (29 आबाद, 3 गैर-आबाद) ऐसे हैं जो 2001 की जनगणना में नहीं हैं; उनकी जगह एक गैर-आबाद "गांव" दर्ज है: "Mahajan Fieldfiring Range"। 1981 में इन गांवों में 16,018 लोग और 2,198 परिवार रहते थे, और इनका कुल क्षेत्रफल (1,35,171 हेक्टेयर) रेंज के क्षेत्रफल (1,36,406 हेक्टेयर) से 0.9% के अंदर मिलता है। <span class="badge b-ok">पक्का</span> जनगणना 1951, 1981, 2001, 2011।</p></section>
 <section class="section"><h2>गांव के नाम, रेंज के नक्शे पर आज</h2>
 <p class="prose" style="margin-top:.6rem">सेना के अभ्यासों की खबरों में पुराने गांवों के नाम रेंज की जगहों के रूप में मिलते हैं: चिड़ासर ग्रैंड स्टैंड, दुदेर ईस्ट कैंप, खानीसर और हाथूसर टैंक रेंज। यानी नाम ज़मीन पर बचे हैं, गांव नहीं। इसे अभी <span class="badge b-one">एक स्रोत</span> मानिए।</p></section>
 <section class="section"><h2>किस गांव का स्थान पता है</h2><div class="tbl"><table><thead><tr><th>गांव</th><th>English</th><th>1955 की जगह (अक्षांश, देशांतर)</th><th>1951 आबादी</th><th>1951 कोड</th></tr></thead><tbody>{rows}</tbody></table></div></section>

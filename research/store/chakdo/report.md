@@ -4,7 +4,7 @@
 
 स्रोत: कुल 5, स्वीकृत 0, पृष्ठभूमि (context) 4, समीक्षा हेतु 0, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 3
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in Census 1951 or 1981 under this name; 'Chak Jor' (1981 2/2/35) survives in 2011. Unresolved.
 
 ## मुख्य प्रश्न
 

@@ -4,7 +4,7 @@
 
 स्रोत: कुल 7, स्वीकृत 2, पृष्ठभूमि (context) 4, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 2
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: Census 1981 has both 'Rampura' (2/2/33, 437 persons) and 'Kanolai with Bas-Rampura' (a hamlet of Kanolai).
 
 ## मुख्य प्रश्न
 

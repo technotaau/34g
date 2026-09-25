@@ -30,7 +30,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `data/timeline.json` | The dated timeline (1938 to 2026) in Hindi with a status tag per event, rendered on the site's समय-रेखा page. |
 | `data/census_1951_lunkaransar.csv` | Census 1951 village directory of Lunkaransar tehsil (146 populated + 25 unpopulated), transcribed, each row matched against Census 2011 and to our village units. |
 | `data/ams_1955_villages.geojson` | Village positions read from the 1955 US Army Map Service 1:250,000 sheets, with inside/outside-range test. |
-| `docs/1951-census-1955-map-findings.md` | The finding: 28 populated villages of 1951 vanish by 2011, lie inside the range on the 1955 map, and their area matches the range. |
+| `docs/census-village-list-findings.md` | The finding: 28 populated villages of 1951 vanish by 2011, lie inside the range on the 1955 map, and their area matches the range. |
 | `docs/data-collection-playbook.md` | Who collects what (Claude vs team), search terms for YouTube/Facebook/Instagram, what Claude cannot reach, the intake sheet. |
 | `python -m gaon34 harvest-youtube` | YouTube lead harvester: bilingual queries per village, then full listing of every channel that films the 34 gaon; writes `research/leads/`. |
 | `research/leads/` | Raw leads (YouTube, social web, archives) and the downloaded archive files (1951 census PDF, AMS map sheets). |

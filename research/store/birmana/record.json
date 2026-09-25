@@ -4,7 +4,7 @@
     "name_en": "Birmana",
     "name_hi": "बिरमाणा",
     "status": "acquired_partial",
-    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded.",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -36,8 +36,8 @@
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_422b38b8c4ee",
         "src_5f0f5989363d",
+        "src_422b38b8c4ee",
         "src_9865c663cb12",
         "src_5861b990efb6"
       ]

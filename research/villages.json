@@ -204,6 +204,16 @@
         "persons": "179",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/49",
+        "name": "Bhojrasar",
+        "status": "inhabited",
+        "area_hectares": "7256",
+        "persons": "497",
+        "households": "75",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -254,6 +264,16 @@
         "persons": "783",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/18",
+        "name": "Kummana with Bas-Dhannasar",
+        "status": "inhabited",
+        "area_hectares": "9505",
+        "persons": "1245",
+        "households": "213",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -292,6 +312,16 @@
         "persons": "329",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/81",
+        "name": "Motolai",
+        "status": "inhabited",
+        "area_hectares": "5023",
+        "persons": "1196",
+        "households": "140",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -327,6 +357,16 @@
         "persons": "360",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/41",
+        "name": "Khanisar",
+        "status": "inhabited",
+        "area_hectares": "3953",
+        "persons": "945",
+        "households": "114",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -365,6 +405,16 @@
         "persons": "239",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/26",
+        "name": "Thoia",
+        "status": "inhabited",
+        "area_hectares": "5141",
+        "persons": "673",
+        "households": "82",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -412,6 +462,16 @@
         "persons": "382",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/25",
+        "name": "Manera",
+        "status": "inhabited",
+        "area_hectares": "7247",
+        "persons": "829",
+        "households": "131",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -447,6 +507,16 @@
         "persons": "93",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/48",
+        "name": "Dooder",
+        "status": "inhabited",
+        "area_hectares": "5204",
+        "persons": "401",
+        "households": "57",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -477,6 +547,16 @@
         "persons": "152",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/29",
+        "name": "Cheedasar",
+        "status": "inhabited",
+        "area_hectares": "2717",
+        "persons": "446",
+        "households": "64",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -526,6 +606,16 @@
         "persons": "229",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/45",
+        "name": "Meusar",
+        "status": "inhabited",
+        "area_hectares": "1869",
+        "persons": "672",
+        "households": "84",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -576,6 +666,16 @@
         "persons": "47",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/50",
+        "name": "Khinyana",
+        "status": "inhabited",
+        "area_hectares": "3373",
+        "persons": "181",
+        "households": "23",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -603,7 +703,7 @@
           "कोलायत"
         ]
       },
-      "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved).",
+      "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved). 25 Sep 2026: probable match 'Rekh Chudana' (1981 2/2/19, uninhabited, 392 ha; 1951 'Rekh Cholana' code 23); absent after 1981. Name match not certain.",
       "census_1951": {
         "code": "23",
         "name": "Rekh Cholana",
@@ -614,6 +714,16 @@
         "persons": "",
         "match": "probable",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/19",
+        "name": "Rekh Chudana",
+        "status": "uninhabited",
+        "area_hectares": "392",
+        "persons": "",
+        "households": "",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -634,7 +744,7 @@
         ]
       },
       "status": "acquired_partial",
-      "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded.",
+      "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded. 25 Sep 2026: only 'Rekh Ajeetmana' (1981 2/2/22, uninhabited, 256 ha) vanished; the inhabited village Ajeetmana (2/2/83) survives. Partial acquisition.",
       "census_1951": {
         "code": "58",
         "name": "Ajitmana / अजीतमाना",
@@ -645,6 +755,28 @@
         "persons": "333",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981_extra": [
+        {
+          "code": "2/2/83",
+          "name": "Ajeetmana",
+          "status": "inhabited",
+          "area_hectares": "1617",
+          "persons": "915",
+          "households": "122",
+          "after_1981": "survives in Lunkaransar (2001/2011) - matched by name, verify spelling",
+          "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
+        }
+      ],
+      "census_1981": {
+        "code": "2/2/22",
+        "name": "Rekh Ajeetmana",
+        "status": "uninhabited",
+        "area_hectares": "256",
+        "persons": "",
+        "households": "",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -700,6 +832,16 @@
         "persons": "103",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/21",
+        "name": "Ladera",
+        "status": "inhabited",
+        "area_hectares": "2521",
+        "persons": "323",
+        "households": "46",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -728,6 +870,16 @@
         "persons": "",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/20",
+        "name": "Rekh Bhanabasti",
+        "status": "uninhabited",
+        "area_hectares": "423",
+        "persons": "",
+        "households": "",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -757,7 +909,7 @@
           "नाथूसर"
         ]
       },
-      "notes": "Principal Dhatarwal village named after Nathu Dhatarwal."
+      "notes": "Principal Dhatarwal village named after Nathu Dhatarwal. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders."
     },
     {
       "slug": "berawala",
@@ -803,6 +955,16 @@
         "persons": "140",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/17",
+        "name": "Beranwala",
+        "status": "inhabited",
+        "area_hectares": "3420",
+        "persons": "319",
+        "households": "40",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -851,6 +1013,16 @@
         "persons": "546",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/7",
+        "name": "Kanolai with Bas-Rampura",
+        "status": "inhabited",
+        "area_hectares": "13527",
+        "persons": "1551",
+        "households": "215",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -868,8 +1040,8 @@
           "Dhannasar Bikaner"
         ]
       },
-      "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there.",
+      "status": "hamlet",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there. 25 Sep 2026: Census 1981 lists 'Kummana with Bas-Dhannasar' (2/2/18): Dhannasar was a bas (hamlet) of Kumbhana, not a separate revenue village.",
       "disambiguation": {
         "negative_terms": [
           "Rawatsar",
@@ -897,8 +1069,8 @@
           "Rina Bikaner"
         ]
       },
-      "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "status": "alias",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: Census 1981 lists 'Raimalwali @ Reena' (2/2/16): Rina/Reena is another name of Raimalwali."
     },
     {
       "slug": "motasar",
@@ -941,6 +1113,16 @@
         "persons": "279",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/15",
+        "name": "Motasar",
+        "status": "inhabited",
+        "area_hectares": "13309",
+        "persons": "662",
+        "households": "88",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -978,6 +1160,16 @@
         "persons": "244",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/23",
+        "name": "Bhunwala",
+        "status": "inhabited",
+        "area_hectares": "4825",
+        "persons": "705",
+        "households": "106",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -997,7 +1189,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in Census 1951 or 1981 under this name; 'Chak Jor' (1981 2/2/35) survives in 2011. Unresolved.",
       "census_1951": {
         "code": "35",
         "name": "Chad Jhod",
@@ -1054,6 +1246,16 @@
         "persons": "88",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/6",
+        "name": "Devasar",
+        "status": "inhabited",
+        "area_hectares": "4474",
+        "persons": "471",
+        "households": "68",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1074,7 +1276,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders."
     },
     {
       "slug": "kankraliyo",
@@ -1104,6 +1306,16 @@
         "persons": "3",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/47",
+        "name": "Kankraliya",
+        "status": "inhabited",
+        "area_hectares": "2154",
+        "persons": "182",
+        "households": "29",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1139,6 +1351,16 @@
         "persons": "46",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/32",
+        "name": "Lakhor Chhoti",
+        "status": "inhabited",
+        "area_hectares": "1169",
+        "persons": "247",
+        "households": "32",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1174,6 +1396,16 @@
         "persons": "90",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/31",
+        "name": "Lakhor Bari",
+        "status": "inhabited",
+        "area_hectares": "3928",
+        "persons": "420",
+        "households": "53",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1208,6 +1440,16 @@
         "persons": "250",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/27",
+        "name": "Jagor",
+        "status": "inhabited",
+        "area_hectares": "3689",
+        "persons": "714",
+        "households": "77",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1226,7 +1468,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: Census 1981 has both 'Rampura' (2/2/33, 437 persons) and 'Kanolai with Bas-Rampura' (a hamlet of Kanolai).",
       "coordinates": {
         "lat": 28.985,
         "lon": 73.7246,
@@ -1243,6 +1485,16 @@
         "persons": "126",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/33",
+        "name": "Rampura",
+        "status": "inhabited",
+        "area_hectares": "3095",
+        "persons": "437",
+        "households": "64",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1278,6 +1530,16 @@
         "persons": "57",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/44",
+        "name": "Dooderiya",
+        "status": "inhabited",
+        "area_hectares": "1575",
+        "persons": "145",
+        "households": "21",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1313,6 +1575,16 @@
         "persons": "152",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/28",
+        "name": "Hathoosar",
+        "status": "inhabited",
+        "area_hectares": "3572",
+        "persons": "606",
+        "households": "79",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1357,6 +1629,16 @@
         "persons": "172",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/30",
+        "name": "Hindor",
+        "status": "inhabited",
+        "area_hectares": "2560",
+        "persons": "318",
+        "households": "54",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1375,7 +1657,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.",
       "disambiguation": {
         "negative_terms": [
           "Tidiyasar",
@@ -1403,7 +1685,7 @@
         ]
       },
       "status": "acquired_partial",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded.",
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking.",
       "disambiguation": {
         "negative_terms": [
           "Suratgarh",
@@ -1428,6 +1710,16 @@
         "persons": "198",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/80",
+        "name": "Beermana",
+        "status": "inhabited",
+        "area_hectares": "1639",
+        "persons": "618",
+        "households": "85",
+        "after_1981": "present 2001 (00513700) & 2011, but 2001 DCH gives NO 1991 code (absent from 1991 list?) - check",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1466,8 +1758,18 @@
         "houses": "15",
         "households": "15",
         "persons": "91",
-        "match": "probable",
+        "match": "confirmed by Census 1971/1981 (code 42 Likhmisar)",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/42",
+        "name": "Likhmisar",
+        "status": "inhabited",
+        "area_hectares": "1827",
+        "persons": "345",
+        "households": "38",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1512,6 +1814,16 @@
         "persons": "94",
         "match": "name match",
         "source": "Census of India 1951, District Census Handbook Bikaner, Part II, Tehsil Lunkaransar (pub. 1956)"
+      },
+      "census_1981": {
+        "code": "2/2/43",
+        "name": "Kumbhasar",
+        "status": "inhabited",
+        "area_hectares": "1649",
+        "persons": "274",
+        "households": "38",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1530,7 +1842,7 @@
         ]
       },
       "status": "acquired",
-      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification."
+      "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders."
     },
     {
       "slug": "raimalwali",
@@ -1544,7 +1856,7 @@
           "रायमलवाली"
         ]
       },
-      "status": "acquired_probable",
+      "status": "acquired",
       "notes": "Added 25 Sep 2026 from the 1951 Census village directory (code 21, 275 persons, 39 houses) and the 1955 AMS map, where it lies inside the range polygon. Absent from Census 2011 in every Bikaner tehsil. Not on the community list of 34; ask elders.",
       "coordinates": {
         "lat": 28.6565,
@@ -1562,6 +1874,16 @@
         "persons": "275",
         "match": "name match",
         "source": "Census of India 1951, DCH Bikaner Part II"
+      },
+      "census_1981": {
+        "code": "2/2/16",
+        "name": "Raimalwali @ Reena",
+        "status": "inhabited",
+        "area_hectares": "10651",
+        "persons": "813",
+        "households": "115",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     },
     {
@@ -1576,7 +1898,7 @@
           "नकरासर"
         ]
       },
-      "status": "acquired_probable",
+      "status": "acquired",
       "notes": "Added 25 Sep 2026 from the 1951 Census village directory (code 28, 71 persons, 9 houses) and the 1955 AMS map, where it lies inside the range polygon. Absent from Census 2011 in every Bikaner tehsil. Not on the community list of 34; ask elders.",
       "coordinates": {
         "lat": 28.9192,
@@ -1594,6 +1916,48 @@
         "persons": "71",
         "match": "name match",
         "source": "Census of India 1951, DCH Bikaner Part II"
+      },
+      "census_1981": {
+        "code": "2/2/46",
+        "name": "Nakrasar",
+        "status": "inhabited",
+        "area_hectares": "3157",
+        "persons": "335",
+        "households": "41",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
+      }
+    },
+    {
+      "slug": "jagatsinghpura",
+      "names": {
+        "en": "Jagatsinghpura",
+        "hi": "जगतसिंहपुरा",
+        "variants": [
+          "Jagatsinghpura",
+          "Jagat Singhpura",
+          "Jagsingpura",
+          "जगतसिंहपुरा",
+          "जगत सिंहपुरा"
+        ]
+      },
+      "status": "acquired",
+      "notes": "Added 25 Sep 2026 from the 1981 Census (inhabited, 66 persons, 11 households; absent from 2001/2011, i.e. inside the range). Unpopulated revenue village in 1951 (code 40); 'Jagsingpura' on the 1955 AMS map, inside the range polygon. Not on the community list.",
+      "coordinates": {
+        "lat": 28.925,
+        "lon": 73.74,
+        "source": "US Army Map Service 1:250,000 NH 43-14 (1955), label 'Jagsingpura'; ±1 km",
+        "inside_range_polygon": true
+      },
+      "census_1981": {
+        "code": "2/2/40",
+        "name": "Jagatsinghpura",
+        "status": "inhabited",
+        "area_hectares": "1710",
+        "persons": "66",
+        "households": "11",
+        "after_1981": "absent from Census 2001 and 2011; merged into 'Mahajan Fieldfiring Range' (2001 code 00509900, 2011 code 069202)",
+        "source": "Census of India 1981, District Census Handbook Bikaner, Part XIII-A & B (Series-18 Rajasthan), Tehsil Lunkaransar village directory; NADA catalog 29013"
       }
     }
   ]

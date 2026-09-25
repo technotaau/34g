@@ -4,7 +4,7 @@
 
 स्रोत: कुल 6, स्वीकृत 2, पृष्ठभूमि (context) 2, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
-> Principal Dhatarwal village named after Nathu Dhatarwal.
+> Principal Dhatarwal village named after Nathu Dhatarwal. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
 
 ## मुख्य प्रश्न
 

@@ -4,7 +4,7 @@
     "name_en": "Ajeetwana",
     "name_hi": "अजीतवाणा",
     "status": "acquired_partial",
-    "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded.",
+    "notes": "Census Ajeetmana 069245 survives; may be partially acquired or re-founded. 25 Sep 2026: only 'Rekh Ajeetmana' (1981 2/2/22, uninhabited, 256 ha) vanished; the inhabited village Ajeetmana (2/2/83) survives. Partial acquisition.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -51,8 +51,8 @@
         "src_f07a8c256ae6",
         "src_c818a97c39d5",
         "src_a6f66da51d72",
-        "src_c37d5179aabc",
-        "src_a5150b8b1d53"
+        "src_a5150b8b1d53",
+        "src_c37d5179aabc"
       ]
     },
     "people": {

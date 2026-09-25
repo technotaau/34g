@@ -1,10 +1,10 @@
 # धन्नासर (Dhannasar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** hamlet · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 8, स्वीकृत 0, पृष्ठभूमि (context) 6, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 6
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Dhannasar exists in Rawatsar tehsil, Hanumangarh; all direct web hits point there. 25 Sep 2026: Census 1981 lists 'Kummana with Bas-Dhannasar' (2/2/18): Dhannasar was a bas (hamlet) of Kumbhana, not a separate revenue village.
 
 ## मुख्य प्रश्न
 
@@ -43,10 +43,10 @@
   - बीकानेर जिला गजेटियर का पूर्ण टेक्स्ट archive.org पर उपलब्ध है। खोजे गए अंश में 'धन्नासर'/'Dhanasar' का सीधा उल्लेख नहीं मिला, परंतु लूणकरणसर तहसील (वैकल्पिक वर्तनी 'Lonkaransar') और 'महाजन' (सामाजिक समूह के रूप में) का उल्लेख है। यह गजेटियर गांव-स्तरीय शोध हेतु महत्वपूर्ण प्राथमिक स्रोत बना रहेगा -
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 48 · पृष्ठभूमि स्रोत)
   - रक्षा मंत्रालय ने 1984-85 में महाजन क्षेत्र के 34 गांवों की जमीन अधिग्रहित कर महाजन फील्ड फायरिंग रेंज बनाई। विस्थापित परिवारों को घर, पेड़, कृषि भूमि का मुआवजा और खाजूवाला/पूगल जैसे सिंचित क्षेत्रों में जमीन दी गई, पर पैतृक गांव खोने का दर्द आज भी बना है। लेख में भोजरासर, कुम्भाणा, मोटलाई, खानीसर, 
-- [आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
-  - 1984-85 में महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि अधिगृहीत करने की कहानी दोहराते हुए यह लेख बताता है कि किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़ और नाचना में सिंचित भूमि आवंटित हुई। 34 वर्ष बाद भी उजड़े आशियाने का दर्द ताजा है। धन्नासर का नाम अलग से नहीं है।
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - यह लेख बताता है कि करीब चार दशक पहले 34 गांवों को विस्थापित कर 3.37 लाख एकड़ में महाजन फील्ड फायरिंग रेंज बनाई गई, जहां अमेरिका, ब्रिटेन, रूस, फ्रांस और ओमान की सेनाओं के साथ संयुक्त अभ्यास हो चुके हैं। खाली गांवों के खंडहर अब सैन्य अभ्यास में 'नकली गांव' के रूप में उपयोग होते हैं। धन्नासर का उल्लेख
+- [आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range | Patrika News](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
+  - 1984-85 में महाजन फायरिंग रेंज हेतु 34 गांवों की भूमि अधिगृहीत करने की कहानी दोहराते हुए यह लेख बताता है कि किसानों को खाजूवाला, डांटोर, पूगल, मोहनगढ़ और नाचना में सिंचित भूमि आवंटित हुई। 34 वर्ष बाद भी उजड़े आशियाने का दर्द ताजा है। धन्नासर का नाम अलग से नहीं है।
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [Dhannasar - Jatland Wiki](https://www.jatland.com/home/Dhannasar) (community_wiki · text · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)

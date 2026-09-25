@@ -42,3 +42,4 @@
 | कचराणा (Kachrana) | 6 | 0 | 0 | 1 | 1 | [report](store/kachrana/report.md) |
 | रायमलवाली (Raimalwali) | – | – | – | – | – | _अभी शोध नहीं_ |
 | नाकरासर (Nakrasar) | – | – | – | – | – | _अभी शोध नहीं_ |
+| जगतसिंहपुरा (Jagatsinghpura) | – | – | – | – | – | _अभी शोध नहीं_ |

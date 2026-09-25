@@ -4,7 +4,7 @@
 
 स्रोत: कुल 5, स्वीकृत 0, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 5
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
 
 ## मुख्य प्रश्न
 
