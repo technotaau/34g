@@ -1,0 +1,1305 @@
+                          WASTELAND MAPPING PROJECT PHASE - V
+
+
+
+WASTELANDS IN
+BIKANER DISTRICT, RAJASTHAN
+
+
+
+
+GHEESA LAL
+
+
+
+
+                                ,
+
+
+
+  ".3RII
+  ICAR
+
+
+
+
+D~VISION OF NATURAL RESOURCES AND ENVIRONMENT
+.CENTRAl ARID ZONE RESEARCH INSTITUTE (lCAR)
+JODHPUR .. 342003
+1999
+                          WASTELAND MAPPING PROJECT PHASE - V
+
+
+
+
+WASTELANDS IN
+BIKANER DISTRICT, RAJASTHAN
+
+
+
+
+GHEESA LAL
+
+
+
+
+  1IJIi~
+  ICAR
+
+
+
+
+DIVISION OF NATURAL RESOURCES AND ENVIRONMENT
+CENTRAL ARID ZONE RESEARCH INSTITUTE (ICAR)
+JODHPUR-342 003
+1999
+                    CONTRIBUTORS
+
+
+
+
+PROJECT LEADER           BALAK RAM
+
+
+
+
+ASSOCIATE               GHEESA LAL
+
+
+
+
+TECHNICAL SUPPORT       A.R. MALAKAR
+                        J.S. CHAUHAN
+                        BAJRANG LAL PRAJAPATI
+                        SUMER SINGH GEHLOT
+
+
+
+
+CONSULTANT              SURENDRA SINGH
+                                 FOREWORD
+
+
+        The--   hoC ewiA:it e<myl-t"em; ~ iAAe.t-er\.t C01'l.ID-~ d«.e". to-
+1M'l{r;u.t0W'cWW- cUwr.at'U/ condir~ ~ rr~ 1'laturc;U, veynu-~
+13~ thet U+1pv~ ~O\4J'tt\; of ~ cuuL 'liN~ p~ula:t't.OY'v
+rnwe- y"~ i-VIt ove¥-e1Lp1.oi,;t;v.r1.Or\; CLf"\.d, ~ ,of ~ at'\.d.- wctte¥-
+Y"eynu-~   'fh.4.- ~ ~ ~ ~cuia.t'&.OrV M\d,- ~L{£cctt't.OY'v
+pY"~ IWOY'de¥ to- ~e-~~rrOm!fw'ther ~etdat't.OY'v~pur
+them; iN\! ~ pVod«c;t'lOW ~~ PVope¥" ~ CU'ld" rnapp~
+w~     "T"he- CVV~ of ~ Y"~tCns ~~ at'\.d.- Vepet'tt"'We-
+~datzv~GIS ~ hctr mcuie-~tliIMv very e.aw ~quidv
+wi£h. ~ Ct(;CU.retcy.
+
+       'f'he, CAZ'RI, ~ it¥ i.t'l.cepLIoOrV ~ bu.w ~ i-VIt ~~
+~pV~ cMI.d.- rnapp~ of n.cttw"etL V~C%' a.t'ldt e.voW~ ~
+for thei,r- ~ ~ 'f'he, VepGVtmetl.t' of sPC«;el, GOVe¥"nmet'\.t of
+I~ Y~ thet cap~, ru:v.,.e- ikd'tfi,e<L CAZ'RI ~ at'\IlA'rqJ~
+woy]c, ce.n.tYe- lM-'t.iL i-twolNed.- i-t'V 'thei..I'" pY'eu--~ pv0:f~ '/..ike,. w~
+rnappi+1.ft, ~ COVe¥" rnapp~ GU'Idt I~~ M~ for
+S~Ve.velopmet'lt' (IMSV). under· p~V of~pvOW~thet
+~ofW~M~p~ofH~rva.ndt~~d4tYi.d}'we¥"e­
+~to-CAZ'RI. Wetter~ ~UM'\f cuuL ~ciYf-{t ewe- mafOY'
+pY'~ of the- 13~ d.4tYLct £M'\.d., fflhAK i-mpCMZ ~.\4- W ~LCtk
+rhi,.:y L~ €M'UL ww.c}v ~ muiy ~ bu.w c;a..yV~ out" oY\; 1:50,000
+~ ~ ~                      (vecWr)   dat'cv ha.-ve- be.erv cr~ IM'UieY GIS
+etWi¥onm.et'\.t i-VIt   the- ~ of NaturaL Reww--~ In{oywu;t:t'1.Or\; Sy~
+(N'RIS).
+
+       It w hoped". tM..t (he,. daa;v ba-w... crea.md... i-VIt thet pY'Oject a.t'ld-
+cUweA.opwt.et'\t" nu:hni.qUR4' ~ for Y~ of w~ wiUt
+be... ~ for p~¥ £M'\.d., ~ .~¥ for th.eMr ~~
+cUweA.opmet1t:
+
+
+
+
+JODHPUR                                                               A.S. FARODA
+May28,1999                                                                  Director
+                                       PREFACE
+
+
+         Wastelands constitute nearly 22.98 per cent of the total geographical area of our
+country. In arid Rajasthan, abou~' 35 per cent area is occupied by such degraded and
+desertified lands. This accounts for 9.7 per cent of country's total wastelands. For
+rehabilitation and sustainable development, identification; mapping and characterisation of
+wastelands is a pre-requisite. The widespectrum capability of Remote Sensing and GIS
+technology had now made it possible to create uptodate natural resources spatial and non
+spatial database accurately, efficiently as well as time and cost effective.
+
+        Realising the need, the Department of Space, Govt. of India has, launched Wasteland
+Mapping Project in the year 1986. . Under Phase-V of this programme it is planned to
+complete wasteland mapping of 192 districts of the country. Present study is a part' of this
+programme. It is an endeavour to carry out wasteland mapping of Bikaner district on 1:50,000
+scale and creation of digital (vector) data base under GIS environment. The present status,
+characteristics, spatial distribution and environmental impact of different categories of
+wastelands are discussed. For rehabilitation and development of such degraded and
+problematic lands suitable technologies have also been suggested.
+
+        We are highly grateful to Dr. N.C. Gautam, Group Director, NRSA for gIvIng
+opportunity to undertake this study. Dr. R. Nagaraja, Head, LUS and Dr. Ravishankar have
+constantly monitored the progress of the project work and extended guidance for which we
+are highly thankful. Dr. J.R. Sharma, Project Director and Head, RRSSC, Jodhpur deserve
+our special thanks for sustained cooperation and for carrying out quality assessment of
+thematic maps and GIS output.
+
+       The Collector, Bikaner and other district officials have made available valuable
+secondary data and suggestfons. Sincere. thanks are placed at"! record for their generous
+help.
+
+         Dr. A.S. Faroda, Director, CAZRI has taken keen interest and has been prime source
+of encouragement and guidance for which we owe a debt of gratitude. We are extremely
+grateful to Er. M.A. Khan (ex-Head) and Dr. I.C. Gupta (present Head) of Division of NRE for
+providing all the facilities and to CP Cell for processing this project.
+
+       The Divisional staff, Photography team, Drivers, Technical, Supporting and other staff
+members have always helped and substantially contributed to complete the task in time. and
+hence deserve our appreciation and thanks.
+
+
+
+
+                                                                                BALAK RAM
+                                                                               GHEESA LAL
+ 1.     INTRODUCTION
+         The Wasteland Development Board, Government of India, recently felt
+ the need to have an upto date information and maps of our country on
+ wastelands, their statistics and their different wasteland categories on district
+ level for development planning. For this purpose, the Department of Space
+ (NRSA), Govt. of India was entrusted with this responsibility to complete the
+ semi-detailed district level wasteland mapping using remotely sensed data on
+ 1:50,000 scale for the entire country. Under Phase V of this programme, the
+wasteland mapping of 192 districts of the country is to be completed. The
+wasteland mapping of Bikaner district of Rajasthan which is lying in the
+region no.6 and basin no. D~(; and B and located in the agro-climatic zone
+XIV of arid zone of western Rajasthan, has been done by Central Arid Zone
+Research Institute, Jodhpur of the Indian Council of Agricultural Research.
+The study was done with the help of geo-coded IRS LlSS II and III data of
+January and October 1998 and Survey of 'India topographical maps on
+1:50,000 scale supported with limited sample checking and available existing
+resource inventories like land revenue records and forest data collected from
+DFO Bikaner. The maps have been digitized, digital (vector) data base has
+been created under GIS environment and final statistics have been
+generated on CD, hard copy transparent film.
+        Bikaner district. the north-western district of arid zone of Rajasthan
+(falling in the zone of rainfall 300-180 mm and below) is characterised by
+hostile climate, sandy and duny lands, meagre surface and groundwater
+resources, poor carrying capacity of I~nd and low production. Under such
+adverse situations the wasteland mapping based on IRS data will provide a
+scientific approach for classification of wastelands and to know their status of
+degradation and will generate valuable data on wastelands. The technologies
+and preventive measures are also suggested for improvement, rehabilitation
+and development of different categories of wastelands.
+
+
+
+2.     STUDY AREA
+        Bikaner district lies in the north-west of R.ajasthan in the heart of 'Thar'
+desert. Th~ district in the west extends upto the international boundary with
+Cholistan district of Pakistan and on the north, east and south, it is bounded
+by district of Ganganagar, Churu, Nagaur, Jodhpur and Jaisalmer. "the
+district is situated between the latitude 2r11' to 29°03' north and longitude
+71°54' to 74°12' east comprising a total area of 27,244 sq km. The district is
+covered with 60 SOl topographical sheets on 1:50,000 scale of which
+effective coverage are 49 (Fig. 1 and Table 4). It accommodates about
+12,11,140 (729998 rural and 481142 urban) people in its four tehsils
+(6,42,555 male and 5,68,590 female) viz .. Bikaner, Nokha, Kolayat and
+Lunkaransar which is 2.8 per cent of the state population with a density of
+population 44 persons per sq km as per 1991 census. The urban population·
+                                                                                          AP OF IIIAIII DIITRICT, RA~AITHA••
+                                                                                           ICM.Ip • f . l' , If . If ' , , rIC... .
+                                                                                                        , "
+
+
+
+
+                                         {:~
+                                         I      8
+                                                                         ."OoeAL
+
+                                     .
+                      44 s !/' ···'·4.!...,....... . " 44!                  44iS
+                                                                                D
+
+
+                       /                             \.
+                                                     ....
+                                                            ",
+             /
+       l&!.r· ••
+        ,6                 ...!!..
+                             4
+                                             44!.
+                                                •
+                                                       44~
+                                                             : .'''' , , .. -'44-
+                                                                              ""'tr"'1:
+
+                                                                               "
+                                                             "
+                                                                                    I~" - ....,-1••.,-,~""
+ 2e-     I
+. 0'
+
+
+
+
+                                                .,
+                                             4'.4.
+
+
+
+
+                 0'                                                                                                      74 t         27
+                                                                                                                                       o
+                                                                     FIG. 1.
+constitute 39.7 per cent concentrated in seven towns viz., Bikaner, Napasar,
+Gangashahar, Deshnokh, Kolayat, Lunkaransar and Nokha while rural
+population comprises 60.3 per cent lives in 580 inhabited villages in the
+district while, 67 villages are uninhabited. The 86.8 per cent population is
+based on agriculture while remaining 13.2 per cent people engaged in other
+works likel government service, industries and other household industries.
+Total livestock in the district as per 1992 livestock census are 25,31,365
+which provides better opportunity to the people for their enhancement of
+economic condition.
+
+
+3.     GEOGRAPHICAL DESCRIPTION
+         The western, south western, northern and north eastern part of the
+district are largely covered with dunes of different types and magnitude with
+flat to undulating interdunal plains. The central, eastern and southern parts
+of the district constitute largely the flat and undulating aggraded alluvial
+plains. There are no hills, and no rivulets or streams of any significance.
+Small ephemeral streams flow in the vicinity of Kolayat and Gajner. Natural
+inland depressions which retain some water during the summer are located
+near Lunkaransar, Kolayat, Jamsar and Nal. The general elevation of the
+district plain varies between 152 to 300 metres above mean sea level sloping
+generally towards north-west. The sand dunes, range in height from 6 to 45
+metres, suggesting the ribbed appearance of a seashore. Construction of
+Indira Gandhi canal in its western parts had led to activation of the stable
+dune field to a large extent. The migrating sand is, however, threatening the
+canals and roads, besides spreading eastwards. At places salinity hazards
+and undesirable rise of water table are also developing in the canal command
+area.
+
+3.1 CLIMATE
+         Climate of the district ranges from arid in the east to extremely arid in
+the west and is characterised by large extremes of temperature, erratic and
+low rainfall with high evaporation. The mean annual rainfall of the district is
+247 mm varying from 300 mm in the east to 180 mm in the west bordering
+Pakistan. The bulk of rainfall occurs from June to September, maximum
+occurring in the month of August. The usuaf onset of active monsoon is in
+the month of July. The rainfall variability in the district from year to year is
+high and standard deviation from normal annual exceeds 100 mm particularly
+at all 'stations with coefficient of variability ranging from 50 to 65% for different
+recording stations.
+         Winter temperatures in the district are fairly low and there is a
+probability of frost occurrence once in the three years and sometimes
+temperature come down to _2° in the month of January.
+
+
+
+
+                                                                                    2
+        High temperatures in the district starts from April onward and May and
+ June are the hottest months of the year. During this period, dry hot winds
+ and dust storms occur frequently. From April to June temperatures exceed
+40°C in most of the years arid in some years temperature above 4rC have
+been recorded. The wind regime during the hot months is from the direction
+of west and south-west
+               I
+                          and wind speeds increase from average of 6.5 km/h
+in March to 13.5 km/h in June.
+        With ~he, onset of monsoon in late June or early July, the day
+temperature~ fall to 38°C in July to 36°C in August and September. The
+diurnal variation in the temperature during the season is about 10°C. Wind
+direction during monsoon is mainly from south westerly direction with mean
+speeds decreasing from 12.8 km/h in July to 9.4 km/h in September with 24
+to 28% as coefficient of variability.
+            I
+
+
+
+
+ 3.2 GEOLOGY
+         The district of Bikaner is a vast sandy tract. Three of its four tehsils,
+ namely, Bikaner, Lunkaransar mostly, Nokha and part of Kolayat are covered
+with sand. Rocks locally known as Magra are found in the south-western
+portion of the district, which is part of Kolayat tehsil. In other parts of the
+district, sand layer has been found while digging extensive and deep wells
+upto a depth of 45 metres. In the hard or the Magra area, various types of
+sand stone, clay and lime stone have been revealed at different levels. At a
+depth of 32 m horizontal beds of various rocks belonging to the Eocene age
+have been found which shows that this area was subjected to sedimentation
+of sand stones for a pretty long time. Similar sedimentary formations of the
+same age have been found in the south-western part of Pakistan also. The
+geological formations of Eocene age are well represented in the
+neighbourhood of Bikaner city. The strata consists of thick white and buff
+lime stones and shales. Lignite and beds of fuller's earth occur in these
+formations.
+
+3.3 SOILS
+        Soils of the district are predominantly light textured, weak structured
+and well drained. Soil distribution in the district is related to landforms.
+Moderately deep to very deep, loamy sands, sandy loam and loam soils
+occur on the flat aggraded older alluvial plains and flat interdunal plains.
+Deep to very deep, fine sandy to fine loamy sand occur, on the undulating
+sandy aggraded older alluvial plains and undulating interdunal plains and
+very deep fine sands on the dunes. All the soils are calcareous, amount of
+calcium carbonate increases with depth merging at lower depths with lime
+concretionary zone particularly in the flat aggraded older alluvial plains and
+the flat interdunal plains. The arid climate in the district has resulted largely
+in physica.1 weathering of parent material giving rise to more of coarse fraction
+than fine clay material in the soils.
+
+
+                                                                                 ,
+                                                                                 -'
+3.4 VEGETATION
+         The vegetation of .. Bikaner district falls under the natural division of
+deciduous forest. The trees and bushes which grow there are insufficient
+even to fulfil the local requirements for construction of houses, making
+agricultural implements and for fuel purposes. The most common tree found
+ in the district is khejri (Prosopis cineraria). Other trees are: rohira (Tecomella
+undulata), ber (Ziziphus jujube) and jal or pilu (Salvadora oleoides). Some
+other trees found on embankments in the vicinity of tanks or in the gardens
+are shisham (Dalbergia sisso~), ber (Ficus bengalensis), pipal (Ficus
+religiosa) , siris (Albizzia lebbek), etc. ,Among the shrubs found in the region
+mention may be made of aak (Calotropis procera), jhar beri (Ziziphus
+nummularia),          phog      (Cal/igonum      polygonoides),      bui     (Aerva
+pseudotomentosa), pala (Ziziphus rotundifolia) and ker (Capparis decidua)
+while' in some scattered pockets hiloxlon is also available in sufficient
+quantity. The grass community which is prevalent in the district are Lasiurus
+sindicus~ Panicum turgidum and Cenchrus barbatus, etc. and are available
+throughout the district. The saline depressions and saline interdunal areas
+are dominated by halophytic scrub vegetation with Sporobolus marginatus-
+Eleusine compressa as grass community.
+
+
+
+4.     DATA USED
+       The study of wasteland mapping was conducted with the help of geo-
+coded IRS-USS-II and LlSS-1l1 False Colour Composite (FCC) data of
+January 1998 and October 1998, Survey of India topographical maps of
+1 :50,000 scale and supported with limited ground truth collection. Beside
+this, available and existing resource inventories like Land Revenue Record
+data which were collected from district headquarters and forest data collected
+from DFO, Bikaner. Administrative boundaries like district, tehsil and village
+boundaries, their village names and code numbers were incorporated from
+the district census handbook of Bikaner district 1991. The major roads like
+National Highway, State Highway and other important roads which are
+connecting the medium to big size of villages are also taken from the district
+road map from PWD. The Watershed Atlas of India was used for taking the
+boundaries of region, basin, catchments and SUb-catchments and further mini
+and micro watershed boundaries are delineated taking into account the
+slope, elevation and local heights provided in the 501 topographical maps.
+The final data and statistics generated through the GIS as per detailed
+methodology given in Wasteland Manual prepared by NRSA.
+
+
+
+
+                                                                                 -I
+FLOW CHART FOR GENERATING DIGTAL DATA BASE FOR
+WASTELANT USING VISUAL INTERPRETATION TECHNIQUES
+
+      .-----------~---f.D:a~t:a~s:o~ur=c~c~----------------------,
+
+                           Satellite Data
+                           IRS LlSS -III
+
+
+                         IVisulllinterprcllltlon ~ Olher            Transfer tho
+                                                        Scason      village boundary
+                                                         Datil      onto topa base
+                                                        Available   on 1:50,000
+
+                          IGround Verification ~~""""t------,J
+                                    .
+
+
+
+
+              FIG. 2         : Visual Methodology
+· 5.   METHODOLOGY
+           Wasteland mapping of Bikaner district was carried out by visual
+  interpretation and GIS techniques as described in the Manual of Procedure
+ for Preparation of Wasteland Digital Data Base using Remote Sensing and
+  GIS Techniques (1997). False Colour Composite (FCC) on 1:50,000 scale
+  made from IRS-LISS-li and LlSS-III, combined bands 2, 3 and 4 February
+  1997, January 1998, October 1998, and SOl Topographical Maps on
+  1:50,000 scales were uset;l as base material to prepare the toposheet wise
+ wasteland maps for the year 1998. Study is more based on shape, size,
+ tone, texture and pattern of the different wasteland categories. The spatial
+ distrib!,Jtion and extent of each wasteland categories are shown in the maps
+ and their area statistics generated through the GIS output. Bikaner district
+ covering 49 effective coverage on 1:50,000 scale were prepared in four
+ layers i.e. wasteland layer, base layer, administrative layer and watershed
+ layer. Therefore, the final maps have the detailed wasteland informations.
+The base details are taken from SOl topographical sheets and village
+ boundaries from district census handbook of 1991 and codified. The region,
+ basin and catchment boundaries were delineated and codified as per
+Watershed Atlas of India. Based on terrain and heights micro and mini
+watersheds were also delineated. The. ground truth information of query
+points of all representing categories were recorded and field photographs
+were also taken. The land revenue record data were also collected from
+district headquarters, Bikaner.
+          The data base including digitizing, editing, labelling, projection and
+transformation, edge matching, overlaying and statistics generation,
+boundaries of watersheds and their types and also provided the
+administrative layer on 49 coverage through the ARCIINFO GIS system. The
+flow chart for generating digital data base for wasteland mapping given in
+Manual of Wasteland Mapping (1997) was followed in complete GIS system
+(Fig. 2).
+
+
+
+6.     CATEGORYWISE SPATIAL DISTRIBUTION OF
+       WASTELANDS
+        The statistics generated through the GIS reflects that largest area
+among all the major wasteland categories has been mapped under sand
+desertic (sandy waste) i.e. 10.01% followed by land with or without scrub,
+degraded pastures/grazing land, under utilised/degraded forest land, gullied
+land, waterlogged land, mining wasteland and land affected by salinity which
+covers 8.23%, 2.47%, 0.29%, 0.27%, 0.13%, 0.05% and 0.01 % of the total
+district area, respectively. The area under different wasteland categories are
+given in Table 1,2 and Fig. 3.
+   ,
+ Distribution ot Wastelands in Bikaner District
+
+
+
+
+                              0.24%
+                                  1.25%
+
+
+                                                            38.33%
+46.65%
+
+
+
+
+                                     11.50%
+
+
+
+
+          o Gullied and/or ravinous land
+          Ii] Upland with or without scrub
+
+          IJ Waterlogged and marshy land
+          o Land affected by salinity/alkalinity (inland)
+          o Under utilised/degraded notified forest land
+          o Degraded pastures/grazing land
+          [] Sand-deserticlcoastal
+          EJ Mining/industrial wasteland
+
+
+
+
+                         Fig. 3
+       The detailed wasteland statistics of the district for the year 1997-98 is
+given in Table 2 and their spatial distribution has been shown on 49 coverage
+of 1:50,000 scale attached with the report. Watershed-wise distribution of
+wastelands is given in Table 3. Brief description of the wasteland categories
+and their characteristics are as under.
+
+6.1 GULLIED LANDS (Plate 1 and 2)
+       This category of '"Yastelands covers 0.27% of the total geographical
+and 2.16% of the total wastelands. It occurred mostly around Kolayat upland
+and gravelly region where there are only a few small rock outcrops of
+vindhyan sandstone of about 1-2 metres height in the region. Few local short
+intermittent and ephemeral channels originated and have formed the gullies
+in the north-east of Bithnok, north of Madhogarh and west of Kotri area. The
+land has been incised by water into gullies of different depth and width. The
+large areas around Mal, Gajner and Kolayat which is aggraded older alluvial
+plain and eroded rocky and gravelly surface of Kolayat upland region and
+have potential getting runoff into Kolayat and Gajner tank and in some
+depressional areas where gullies are formed as a result of localised surface
+runoff has affected the unconsolidated material resulting in the formation of
+perceptible channels and caused undulating terrain. Around Kolayat and
+Golri area at some places murram, fuller'S earth and soft white stones are
+also mined which are locally used for making limestone and for house
+building material. Vegetations are very sparse and occur along runnets and
+pockets of soil accumulation. Prosopis ju/iflora, Acacia torti/is, Capparis
+decidua, Ca/otropis procera, Tephrosia purpurea and Grewia tenax form the
+sparse vegetation community. Grasses are very poor due to hard surface,
+shallow soil and low rainfall.
+
+6.2 LAND WITH OR WITHOUT SCRUB (Plate 3 and 4)             .
+        This category of wastelands constitutes about 8.23% of the district and
+38.33% of the total wasteland area. Without scrub part of this category is
+more associated with upland, gravelly and shallow soil lands which are
+devoid of vegetation. The lands with scrub have been mapped in hummocky
+areas, sandy undulating terrain and in stabilised high dunes where density of
+vegetation or scrub is high. Such type of lands occur near Kolayat towards
+north of National Highway, north of Pitharon ki Dhani, around Nokhra, north
+of Navagaon, south-west of Diyatra, north of Gura and south of Khari Chama
+in a gravelly areas. Largest pocket of this category with scrub have been
+delineated in west of Mahajan village around Meusar, Hindov, Kanolai, Buala
+(covering 34 villages under firing range toposheet no. 44 H/5, 6, 9, 10 and
+13) and other large and small scattered pockets in north-western part of the
+district near Tarsula Toba, Kalewa Toba and along the Pakistan border near
+Sasad Kund Bhagawala, north of Chhamb, south of Bithnok, Shekhawali ki
+Dhani, south and east of Deli, east of Chhilan, Gulam Aliwala and around
+Randhisar. Gravelly and shallow soil areas are mostly without scrub, dunes
+
+                                                                              ()
+and sandy undulating areas are having some vegetations and scrubs like
+Capparis decidua, Crota/aria burhia, Ca/otropis procera, Calligonum
+po/ygonoides,     Zizyphus     nummu/aria,   Acacia jacquemontii,       Aerva
+pseudotomentosa, Leptadenia pyrotechnica, Cenchrus biflorus, Aristida
+funiculata and Panicum turgidum are the common bushes and grasses. In
+this category the grass cover is very poor, otherwise it can be better utilised
+for grazing· purposes. Lo~ and erratic rainfall are the major constraints to
+develop this land into grazing ,lands.
+
+6.3 WATERLOGGED LAND (Plate 5 and 6)
+        This category comprises of 0.13% of the total geographical and 0.61 %
+area of the total wastelands of the district. Two large pockets have been
+delineat~d and mapped along the main I.G. canal south of Gegra at 507 RD
+and west of Amarpura at 750 RD. Besides, several small pockets of this
+category occur along some canal distributaries i.e. south-east of Rawatwali
+Dhani and east of Chhamb area. At RD 507 and RD 750 the excess water of
+canal has been drained out through the weirs in interdunal and depressional
+areas to just save the canal from damage by excess overflow water. But this
+inunded water in interdunal and in depressional areas have created the
+problem of water logging. These pockets have been easily delineated from
+IRS data giving black tone in an irregular shape in interdunal areas. Due to
+gypicious hard strata stagnated water from a long period has created a
+problem of marshy land and salinity in fields of fringe areas and lowered the
+crop productivity. In near future surrounding fields may be converted into
+saline pockets. Before diverting the excess canal water in these interdunal
+areas and in depressional areas, these were good cultivated fields in kharif
+as well as in rabi seasons, but now these areas have been converted into
+water logged areas which are wastelands. Due to constant standing water
+several valuable trees and shrubs have been damaged and mainly
+mesophytic and hydrophytic species consisting of Typha angustata, Imperata
+cylindrical, Arundo donax and Saccharum spontaneum have come up.
+
+ 6.4 LAND AFFECTED BY SALINITY (Plate 7 and 8)
+         This category of wastelands identified and mapped only in north of
+ Lunkaransar and covers about 0.01 % of the geographical area and 0.07% of
+the total wastelands of the district. It is easily identified on the imagery of
+ LlSS-111 FCC of October 1998 giving in dark blue tone ih rainy season due to
+ stagna~ed water. This is a natural saline depression. This land is located in a
+ depression and unproductive and bare of vegetation and looks like a whitish
+due to salinity in summer season. But some salt loving plants like Prosopis
+julif/ora, Sa/vadora persica and Sporobo/us marginatus, E/eusina compressa
+ and some unpalatable grasses come up in the rainy season. In dry season a
+whitish crystal layers of salt is visible but salt extraction is uneconomic.
+ 6.5 UNDERUTILISED/DEGRADED NOTIFIED FOREST (Plate 9 and 10)
+        Forest area in this district are deciduous and are highly in degraded
+ condition because of erratic and low rainfall, extremes of temperature and
+ high evaporation loss of moisture, converting the district into a typical arid
+ tract. Hence, whatever plantations are done either dried up without water or
+ has bee~ eaten by the animals. In this category only one area has been
+ mapped. as a degraded notified forest i.e. BIR in between Udramsar,
+ Surdhana, Godhwana ahd/Gharisar covering an area 0.29% of the district
+ and 1.35% of the total wastelands of Bikaner. It is in highly degraded
+ condition having very scattered trees and bushes like Prosopis cineraria,
+Zizyphus jujube, Calotropis procera and scattered Capparis decidua are the
+common trees and bushes.
+      I Forest Department has undertaken various departmental programmes
+and plantations have been done at several places like Nal, Gajner, Kolayat,
+along th~ highway Bikaner to Mahajan village these areas are not included in
+the notified forest. These are in highly degraded condition due to open
+grazing having very scattered trees and bushes like Zizyphus jujube,
+Prosopis cineraria, Calotropis procera and Capparis decidua are the common
+trees and bushes. The plantations are done along the main canal and its
+distributaries are flourishing well as a shelter belts but these areas have not
+yet been included under notified forest, and hence area under notified forest
+is very negligible.
+
+6.6 DEGRADED PASTURES/GRAZING LANDS (Plate11 and 12)
+       This category of wastelands comprises of 2.47% of the total
+geographical and 11.50% of the total wastelands of the district. This
+category of wastelands includes the permanent pastures, orans, agor, bir,
+and land under tanks and nadis and roadside strip lands which are common
+property resources under the direct control of village panchayat or
+Government. Almost all the villages have the common grazing lands. The
+village tanks/nadis also invariable exist in these grazing lands. Due to
+constant and uncontrolled grazing and increaSing livestock pressure these
+grazing lands are in highly degraded condition. Mostly this category has
+been delineated and mapped around the settlements, tanks and temples in
+the south-east part of the district having distinct boundaries and light red tone
+of October imagery and at some places give light whitish tone on the IRS
+data due to its degradation. The pressure of livestoek population is very high
+and carrying capacity of this land is very low.
+       These lands are distributed throughout the district in small to large in
+size because every villages have some area under common pasture lands.
+Large pockets of this category occur in villages like Deshnokh, Jailu, Hadda,
+Akasar, Bholasar, Uditpur, Lakhansar, Bikanpur, Gariyala, Gura, Kolayat,
+Khari-Charna, Girajsar, around Gangapura, north of Sevra, Kalu, Kalasar,
+west of Bikaner city, Shobhasar, Jaimalsar, Karnisar, Sarunda, Napasar,
+Himatsar and SW of Gangasahar. In rainy season only seasonal grasses
+
+                                                                               s
+come up in natural way and grazed in a short period. Removal" of plant cover
+accelerated the process of soil erosion and siltation of water tanks.
+        The herbaceous ground flora in the grazing lands is in extremely poor
+condition and i~ represented by lower level successional species like
+Eragrostis, Oropetium thomaeum, E/eusine compressa, Panicum turgidum,
+Aristida funicu/ata,
+           I
+                     Crota/aria burhia associated with non-palatable thorny
+species of Fagonia cretica, Corchorus depressus, Tephrosia purpurea,
+Lepidagathis trainervis and E;uphorbia granu/ata, etc. The sparse and scanty
+vegetation cover of these degraded grazing lands is not adequate to meet the
+grazing demand of livestock population. Orans are in comparatively better
+condition due to their religious sanctity, but these too do not have optimum
+grass cover as there is no control on grazing of livestock. They are only
+having the stands of trees and shrubs since their cutting is prohibited.
+
+ 6.7 SANDY AREA (DESERTIC) (Plate 13 and 14)
+          Stabilised, semi-stabilised, dissected and active sand dunes 8 to 45 m
+ height and undulating sandy plains with high hummocks and fence line ridges
+ where cultivation is not possible have been classified and mapped under this
+ category. It covers largest area amongst the wasteland categories i.e.
+ 10.01 % of the geographical area and 46.65% of the total wastelands of the
+ district. Due to higher reflectance sand dunes and sandy hummock appear in
+ light yellowish and sometimes light greenish tone on the IRS data. Most of
+the lands are allotted and private property of farmers but due to low and
+erratic rainfall and wind velocity in the region, these lands are not c.ultivated.
+Moreover, high dunes in accessible for cultivation. Mostly, crest of the dunes
+are devoid of vegetation and wind erosion/deposition is the dominant hazard.
+Some vegetations have been observed on the low sloping side of windward
+side and foot of the dune in leeward side. Large pockets of this category
+have been mapped south of Khajewala, south of Rasubai, east of Deli, north
+of Bhanipura, around Aangneu, around Sunesal and north of Chhilan, while
+small to medium in size scattered pockets are distributed throughout the
+district. Common vegetation on this category are Leptadenia pyratechnica,
+Calligonum po/ygonoides, Acacia jacquemontii, Aerva pseudotomentosa,
+Crata/aria burhia, Cenchrus biflorus, Aristida funicu/ata and Panicum
+turgidum, etc. The density of Calligonum po/ygonoides is declining day by
+day and this specie is endanger due to its large scale cutting by villagers for
+fuel purpose.
+
+6.8 MINING WASTELANDS (Plate15 and 16)
+       This category of wastelands comprises 0.05% of the total geographical
+area and 0.24% of the total wastelands of the district. This category is
+associated with gypsum available under the shallow soil depth and earlier it
+was under mining but at present it is out of use. This unit has been
+delineated and mapped near Jamsar, south of Dhirera Railway Station and
+east of Utamdesar, Bharu gypsum area in north of Badrasar and east of
+
+                                                                                l)
+ Kawani village. Earlier these pockets were rich in gypsum production but
+ now this mineral is almost at finishing stage and pits and heap of residue
+waste materials are turned upside down and vegetation cover completely
+destroyed and mine spoils represent complete desertized sites in whitish tone
+in degraded condition with shallow soil on the imagery in interdunal flat areas.
+The Acacia tortilis, Aerva pseudotomentosa, Leptadenia pyratechnica,
+Cenchr/;s biflorus, Aristida funicu/ata, Crata/aria burhia and Fagonia cretica
+are the scattered and scallty plant species in degraded condition due its lost
+fertility status in these pockets. Moreover, due to climatic an9 prevailing
+edaphic constraints large to small mining muck heaps are devoid of any
+biological activity. Actually the mining activity should start with a planning of
+revegetation of the spoiled site/mining dumps and their subsequent
+maintenance and management. In the past almost all the open mined areas
+were: left to the mercy of nature. Low rainfall, high temperature and wind
+speed in summer, low water holding capacity of soil, deep and
+brackish/saline groundwater has further aggravated their degradation.
+
+
+7.     RECOMMENDATION FOR WASTELAND RECLA-
+       MATION AND MANAGEMENT
+ 7.1 GULLIED WASTELANDS
+       These lands are located in gentle to moderate slope of Kolayat and
+Gajner upland area. The land has been incised by the water into gullies of
+different depth and width. For such lands, the control measures suggested
+including gully plugging, stream training and providing suitable vegetation
+cover to check the further degradation of these lands. For gully plugging
+grasses like Cynodon dactylon and Desmostachya bipinnata, should be
+gro~n on gully slopes and banks.      Trees like Acacia torti/is, A. senegal,
+Acacia nilotica and shrubs suited to that area like Balanites aegyptiaca,
+Prosopis juliflora and Zizyphus nummularia should be grown. Dead wood
+and tings of trees may be erected at certain interval in gully to slow down of
+running water. Such type of plantations in the gullied lands will check- the
+further degradation of these areas and ultimately ameliorate local
+environmental condition and provide fuelwood and timber resource to the
+local people.
+
+7.2 LAND WITH OR WITHOUT SCRUB
+       The rocky/stony and gravelly upland occurs in the surrounding of
+Kolayat, Gajner, Nal, Khari Charna, around Randhisar, Nokhra and Diyatra
+area in eroded topography without scrub and in scattered pockets of this unit
+in north-western part have been mapped with scrub. These lands are
+recommended for fast growing trees and on the rocky gravelly uplands
+shrubs and trees can be planted with the halfmoon terrace and/or in contour
+
+
+
+                                                                               10
+ trenches depending on the situation. The moisture conservation measure
+ recommend for these lands are halfmoon terrace and contour trenching at the
+ interval of 15 to 20 m depending upon the slope of the lands. The
+ recommended energy plant species are Acacia bivenosa, Prosopis cineraria,
+ Prosopis juliflora, Euphorbia caducifolia, Acacia tortilis, Eucalyptus, Acacia
+ senega(, Zizyphus nummularia, Capparis decidua and Maytenus emarginata.
+ The plqht species will check the further degradation of these lands and will
+ provide fuelwood and top leaf for fodder. These type of energy plantation will
+ ultimately ameliorate the 'local environmental condition and enrich the fuel
+ wood ,and timber resource for the local people. It shall also save cowdung for
+ the use as an organic manure.
+        The areas of lands with scrub have been mapped in the north-western
+ part of the district near Kundal, east of Beriyanwala, north of Khajuwala,
+south of Bariya, west of Ranjeetpura, north of Pabni Toba, west of
+Bhaguwala Toba and Ghulam Aliwala villages. These lands are associated
+with semi-stabilised sand dunes, hummocky undulating plains, scattered
+transverse dunes and sandy flat older alluvial plains with different types of
+vegetative cover.        The sparse shrubs and grasses like Calligonum
+po/ygonoides, Acacia jacquemontii, Leptadenia pyrotechnica, Aerva
+pseudotomentosa, Ha/oxylon salicornicum, Ca/otropis procera, Zizyphus
+nummularia and grasses like Lasiurus sindicus and Panicum turgidum are in
+degraded state. Major constraints are very low rainfall, open grazing and
+cutting of trees and shrubs for fuel purpose and high wind erosion/deposition.
+Therefore, this category should be revegetated and rehabilitated with suitable
+sturdy plants and grasses with soil moisture conservation measures and
+brought into silvipasture system. The open grazing should be controlled and
+tree and plant cutting should be prohibited. These should be developed in
+rangelands so that fodder problem can be solved for the increasing pressure
+of livestock in the region.
+
+7.3 WATERLOGGED AREAS
+         The excess water drained out through the weirs and seepage from
+Indira Gandhi main canal system and its distributaries has created
+waterlogging problem in parts of the command area. The most grazing
+examples are at RD 507 and 750 and in some scattered pockets in the
+district. These waterlogged areas are currently infested with obnoxious
+weeds like Arundo donax, Saccharum spontaneulJ1, Typha angustata, etc.
+and are without any use. If the weeds are removed and pisciculture is '
+intrpduced the ecology of the waterlogged depressions may improve.
+Moreover, these two major areas are located at RD 507 and 750 of main IG
+canal and well connected with canal side road and good transport network.
+Hence, these can be easily supplied to the available market in the state. This
+pisciculture practices will give higher economic returns to the· state
+government.
+
+
+
+                                                                             II
+         These areas need immediate remedial measures like dewatering of
+ponded water, perforated PVC pipe line of drainage and reclamation of the
+degraded land.       Suggested efficient delivery and on-farm utilisation of
+irrigation water holds key to realise maximum benefit from the costly imported
+water. Seepage from erected earthen bunds around the waterlogged areas
+in cultivated fields should be checked through the masonry structures so that
+agricuhural fields could be saved from rising salinity.
+
+7.4 ~AND AFFECTED       ay   SALINITY
+        In the natural salt affected lands near Lunkaransar it is highly saline
+and are devoid of vegetation. However, the margins or fringe areas have
+slightly less saline environment, where some salt tolerant bushes grow. Such
+areas may be planted with shrubs like Prosopis pallida, Prosopis tamarugo,
+PrQsopis chinensis and Atriplex sp. Which are fast growing and can withstand
+high salinity. Other salt tolerant species like Tamarix diocia and Salvadora
+oleoides may also be planted. These species have high value for fuelwood.
+
+7.5 UNDERUTILISED/DEGRADED NOTIFIED FOREST LAND
+    This category is in highly degraded condition and looks like a scrub forest
+in the field. The tree species are very negligible except Prosopis cineraria
+which is also available in scattered form. More dominant plant species are
+Zizyphus jujube, Zizyphus nummularia, Capparis decidua, Calligonum
+polygonoides, Leptadenia pyrotechnica and Aerva pseudotomentosa which
+are not in the category of trees. Therefore, replantation should be initiated
+with choosing the right species, planting of sturdy stocks in time and deep,
+timely replacement of casualties and after care. Cutting and lopping should
+be strictly prohibited with proper watch and ward. Presently fencing is broken
+at several places and grazing is being done by the surrounding villagers.
+Therefore, area needs fencing of barbed wire and grazing should be stopped
+and replantation should be done with proper soil and water conservation
+measures. Major plant species suitable for this land are Acacia senegal,
+Prosopis cineraria, Capparis decidua, Ziziphus jujube, Parkinsonia oculeata,
+Salva dora oleoides, Azadirachta indica, Grewiz tenax, Albizzia lebbeck,
+Maytenus emarginata, Acacia torti/is and Tecomella undulata.
+
+7.6 DEGRADED PASTURES/GRAZING LAND
+        Village grazinglands and pastures ocyur in scattered pockets
+throughout the district small to large in size in highly degraded condition and
+often suffer from wind erosion/deposition. The browse resources have been
+severely exploited, while the grazing resources are almost non-existent.
+Such lands have been recommended for grass reseeding and tree/shrub
+plantation. Depending on the occurrence these may have varied landform
+a.nd soil types. Therefore, before adopting the recommendations site specific
+situation should be kept in mind.
+
+
+
+                                                                             12
+         The main objective is to provide a palatable vegetation cover on these
+  lands and regeneration of the degraded vegetation cover by providing
+  suitable soil and moisture conservation measure and the protection. The
+  approach should be ecologically suitable and acceptable to local people. The
+  species suitable for grazing requirement and also as per requirement of the
+ habitat are selected. Local vegetation surrounding the rehabilitation site can
+ be taken as an indicator for selection of suitable species. Since most of the
+ pastures/grazinglands/orans are associated with village tanks/nadis at their
+ downslope end, the degradation and encroachment of these lands lead to
+ more inflow of sediments in the tanks/nadis. Therefore, first of all it is
+ necessary to provide fencing and plantation of Acacia torti/is around these
+ lands for effective control of animals and then revegetation and rehabilitation
+ should be done with the sturdy shrub and grass species. The high yielding
+ perennial grasses like Lasiurus sindicus, Cenchrus ciliaris, Cenchrus
+ setigerus and Panicum turgidum should be grown with the onset of monsoon.
+ These species are more suitable for these lands and will provide nutritious
+ fodder to the livestock of this region. After two years establishment of these
+ grasses, the pasture land may be opened for deferred rotation grazing or only
+ cutting of grass may be allowed for sustained forage production.
+         The techniques of CAZRI given for the development of desert area
+ should be adopted. Contour furrows, 60 cm wide and 25 cm deep are
+ constructed in grasslands at a distance of 10-15 m apart, across the slope of
+the land. In an another technique of inter-row water harvesting (IRWH)
+system in which 30 cm wide ditch alternate legumes/shrubs are grown on the
+edge of the ditch. The grass seeds are pelleted by mixing grass seed, clay,
+FYM and sand in 1:30:5:5 in a pellet making device. Pellets of 0.5 cm
+diameter are prepared and sown in the either in contour furrows or in IRWH
+system. The seed rate varies from 2.5 to 7.5 kg/ha for direct seed sowing of
+different types of grasses. For planting trees in the grazing land/oran lands
+piting-discing technique should be followed. Unmanaged grazing should be
+stopped for better forage production.
+        The district falls in the zone of 150 to 300 mm rainfall where after 3
+years of protection and controlled grazing the degraded conditions of
+grasslands can be improved and their yield may be increased two to three
+times. The yield of these grazing lands further can be increased significantly
+after adopting soil and moisture conservation measures, reseeding and
+proper silvipastoral management system. CAZf31 recommended that under
+this rainfall zone trees P.cineraria, Zizyphus species, C.mopane, H.binata,
+A.senegal and A.tortilis showed great adaptability with L.sindicus, C.ciliaris
+and Cymbopogon grass species on marginal and submarginal lands and also
+check the movement of sands towards the agricultural lands.
+
+7.7 SANDY AREA (DESERTIC)
+.      This category of wastelands sprawled over throughout the district
+small to large in size of scattered pockets. These areas of dunes like crest,
+    top and side flanks are bare and devoid of vegetation due" to high wind
+    velocity, scanty rainfall, sandy soil texture with loose single grained structure,
+    extreme variation of diurnal and annual temperatures, evaporative demand of
+    the atmosphere and biotic interference have resulted into reactivation and
+   wind erosion hazards. Wind erosion is doubly harmful as both areas, from
+   where the I soil is removed and where it is deposited, lower the crop
+   productivity. of the surrounding cultivated fields. Therefore, sandy waste in
+   the form of sand dunes need/ immediate remedial measures like sand dune
+   stabilisation practices. Sand dune control measure will not be successful
+   until and unless it ensures stabilisation of the sandy landscape upwind of the
+   dunes proper. Often the downwind nasal part of the dunes are considered
+   for stabilisation, while the other parts are left to uncontrolled grazing and
+   cultivation. Such practices also lead to failure of the control programme. It is,
+. therefore, suggested that the sand dune stabilisation programme may be
+   more wide-based, and include stabilisation of upwind plains by fixing barriers
+   in parallel strips or in chessboard pattern using locally available shrubs, etc.
+  to act as micro-wind breaks.
+           CAZRI suggested that grasses and shrubs are most suitable for sand
+  dune stabilisation, instead of trees in the arid region. Local available plant
+  species may be given preference in the programme. In the north-western
+  part L.sindicus, P.turgidum and E.compressa grasses, as well as
+  Z.nummularia, Calligonum polygonoides, Haloxylon salicomicum, Acacia
+ jacquemontii, Aerva pseudotomentosa and Leptadenia pyrotechnica shrubs
+  are dominant, while in southern part L.sindicus, E.compressa, Crota/aria
+  burhia, Aristida funiculata and Fagonia cretica grasses occur with
+  L.pyrotechnica,      A.pseudotomentosa,         Z.nummularia,     C.decidua     and
+  Calotropis procera shrubs. These and other local grasses and shrubs and
+  Citrullus colocynthis creeper may be used for sand dune stabilisation, but
+  controlled grazing of dune forests is of utmost importance.
+           The most durable and economic approach to stabilise the active and
+  fresh sand dunes is through the establishment of vegetative cover in which
+ three major steps are: (i) protection from biotic interference, (ii) establishment
+ of micro-wind breaks, and (iii) revegetation of sand dunes with strict watch
+  and ward arrangements. Sand dune plantation forests have largely been
+ justified on protective consideration; however, with increase in population,
+ such plantations are considered an important source of woody biomass and
+ fodder. Protection of dune forests from pests and disease is an important
+ part of overall management.
+
+7.8 MINING WASTELANDS
+       In Bikaner district, the mining activity is carried out by opencast mining
+method of the non-metallic minerals like gypsum, fuller's earth and white clay.
+Out of these gypsum mining covers the largest part and this activity inflict
+damaged the large area of land surface. In these opencast mining the
+environmental degradation is evidently unavoidable. In mining process the
+
+
+                                                                                    14
+       x             nO,~O/OUMP                             X
+ +
+3m
+                             }
+                         SLOPE
+                                       ---_
+                                    5 0/0                       3m
+                                                                  -t
+ -t-
+ 3m
+                                                                  -+-
+ i-                      S LO PE ~ 0/0
+                                                                3r- :
+ 5m                                                               ~m
+                             r
+ +     y
+                           P LAN
+                                                            Y     +-
+
+                                  LoosE SURFACE
+                                              COMPACTED
+
+
+
+
+                  CROSS      SECTION-XV
+
+MICRO-CATCH. WATER HARVESTING
+
+
+
+
+               DETAILS                  X-SECTION
+
+       HALF-MOON TERRACES
+
+           x                                        X
+
+           ~_~30R ~m~                                   h--~:
+           F- ~                                         +-o-z",
+
+
+
+
+           l----~-o----~-o-----o--~~~:
+           y                                        y
+
+
+
+
+                         CROSS   SECTION-~Y
+
+
+
+
+RIDGE. P. FURROW WATEr? HI\fWESTING SYSTEM
+
+                   - \ FiG.             4
+lands have been turned upside down, the vegetation .cover completely
+destroyed, fertility status of the area reached to zero level which caused total
+loss of biomass. Therefore, rehabilitation of mined wastelands should be
+taken up taking into account the characterisation of spoils and hydrological
+features, etc. The productivity of rehabilitating site should either be equal to
+or exceed that of pre-mining stage. The revegetating material should include
+the produG'tive and protective plant cover of such species which are well
+adapted to the terrain and climatic
+                                 ,       conditions of the area. Hence in the
+characterisation of vegetation, the neighbouring areas adjacent to mined site,
+may be surveyed to evaluate the suitable species of trees, shrubs and
+grasses, etc., which could be easily and successfully be grown on the mine
+spoils.
+        ''1 gypsum mined wastelands CAZRI recommended several trees,
+shrubs and grasses which are most suitable for development of such areas in
+arid lands with proper soil and water conservation measures. The trees like
+Acacia toTtilis, A. senegal, Prosopis juliflora, Albizzia amara, P.cineraria,
+Salvadora persica, Pithecellobium dulce and Tamarix aphylla, while the
+shrubs are Parkinsonia acu/eata, Dichrostachys nutans, Cercidium floridum,
+Colophospermum mopane,              Capparis decidua       and    grasses   like
+Desmostachys bipinnata, Cenchrus ciliaris, Cymbopogon jwarancusa, etc.
+These shrubs and trees can be planted with half moon terrace and/or in
+contour trenches depending on the situation (Fig. 4).
+
+
+
+8.     CONCLUSION
+        The study of wasteland mapping reveals that about 584574 ha or
+21.46% land is under different categories of wastelands and land with or
+without scrub, pastures/grazing lands and sandy area (desertic) are sprawled
+over throughout the district while gullied land, waterlogged, land affected by
+salinity, degraded notified forest and mining wastelands are occurred in
+limited pockets. Among all the wasteland categories, sandy waste covers the
+largest land i.e. 10.01 % of the total geographical area of the district followed
+by land with or without scrub (8.23%), degraded pastures (2.47%), degraded
+notified forest (0.29%), gullied land (0.27%), waterlogged land (0.13%),
+mining wasteland (0.05%) and land affected by salinity (0.01 %). All the
+categories are under degraded state. Moderate to seyere wind erosion and
+deposition, constantly increasing waterlogging and salinity, large scale
+removal of natural vegetation and over utilisation of pastures are major
+problems of the region. Therefore, for their development some measures
+and technologies have also been suggested. Waterlogged areas near by
+irrigated fields are further deteriorating the agricultural lands. Therefore, in
+this ca.se further detailed study using high resolution remote sensing data is
+required.
+
+
+
+                                                                               15
+                             REFERENCES
+CAZRI, 1974. Report on Basic Resources of Bikaner District (Rajasthan).
+Census of' India, 1991. District census handbook of Bikaner district
+     (Raja'sthan ).
+                           .-
+Gheesa Lal, 1990. Report on landuse/land cover of Bikaner district (Raj.).
+     CAZRI, Jodhpur.
+Gupta, J.P. and Sharma, A.K. 1997. Agroforestry for Desertification Control in
+      Arid Ecosystem. Desertification Control (Eds. Surendra Singh & Amal
+      Kar).
+Harsh, L.N. ang Tewari, J.C. 1997. Stabilisation of sand dunes and their
+      management in Indian arid zone. Desertification Control (Eds.
+      Surendra Singh & Amal Kar).
+Joshi, D.C. and Dhir, R.P. 1997. Waterlogging and salinisation in Indian arid
+       region. Desertification Control (Eds. Surendra Singh & Amal Kar).
+NRSA, 1997. Manual of procedure for preparation of wastelands digital data
+     base using remote sensing and GIS techniques.
+NRSA, 1998. Wasteland manual, 75 steps for preparation of digital database.
+Saxena, SS.K., Sharma, K.D. and Sharma, B.K. 1997. Rehabilitation of
+     mined wastelands in Indian arid ecosystem. Desertification Control
+     (Eds. Surendra Singh & Amal Kar).
+Singh, K.C. and Sharma, S.K. 1997. Management of degraded grassland in
+      the Indian arid ecosystem. Desertification Control (Eds. Surendra
+      Singh & Amal Kar).
+
+
+
+
+                                                                            16
+Table 1. Distribution of wastelands in Bikarter district
+
+Wasteland catkgories
+            ,                      Total area     Per cent to     Per cent to total
+                                         (ha)    total district     wasteland
+                                                     area
+
+1. Gullied and/or ravinous              7319         0.27              1.25
+   land
+-'
+2. Upland with or without            224059          8.23            38.33
+          , I
+
+   scrub
+3. Waterlogged and                      3588         0.13              0.61
+   marshy land
+4. Lana affec\ea by saY,n·,\yl            4\)5       '0.'0'"           ru:0(
+   alkalinity (inland)
+5. Under utilised/degraded              7884         0.29              1.35
+   notified forest land
+6. Degraded pastures/                  67238         2.47             11.50
+   grazing land
+7. Sand desertic                     272704         10.01             46.65
+8. Mining/industrial                    1377         0.05              0.24
+   wastelands
+
+            Total                    584574         21.46           100.00
+     Table 2 Toposheet-wise distrlbu.lion of wastelands in Bikaner district, Rajasthan
+                                                                                                                                                                                                                                          (Area in hectares)
+L~posheet                                                     Gullied                       Upland                Water-              Land affe-               Under-                     Degraded                  Sands -               Mlning/         Total
+
+f   ~o                                                        and!or
+                                                              ravlnous
+                                                                                            with or
+                                                                                            )'>'Ithout
+                                                                                                                  togged
+                                                                                                                  and
+                                                                                                                                      cted by
+                                                                                                                                      salinlty/
+                                                                                                                                                               utllised/
+                                                                                                                                                               degraded
+                                                                                                                                                                                          pasturesl
+                                                                                                                                                                                          graZing
+                                                                                                                                                                                                                    deserticl
+                                                                                                                                                                                                                    coastal
+                                                                                                                                                                                                                                          Industrial
+                                                                                                                                                                                                                                          waste-
+                                                              land                          scrub                 marshy              alkallnlty-              notified                   land                                            lands
+                                                                                                                  land                coastall                 forest land
+                                                                                                                                      Inland
+I
+                  45 AJ1+2                                                                                                                                                                      682                     6765                               7447
+                  45 AJ5                                                                                                                                                                        726                     3975                               4701
+
+tI:'
+    2.
+    3             45 AJ6+7                                                                       245                                                                                           2283                       822                              3350
+                  45 AJ9                                           248                           609                                                                                           3282                     3913                               8052
+                  45 A/10                                                                       5214                                                                                           2443                       244                              7901
+                  45 AJ13                                     4799                              5661                                                                                           4908                       588                            15956
+l6.                                                                                             1588                                                                                           1334
+ 7.               45 A114                                                                                                                                                                                                979                               3901
+    8.            45 A/15                                                                                                                                                                       447                      690                               1137
+    9.            440/3                                                                       4012                                                                                              108                     7493                             11613
+    10.           440/4                                                                         84                                                                                             1104                   30197                              31385
+ 11.              44D/6+5+2                                                                  14322                                                                                                                     4979                              19301
+ 12               440/7                                                                      11367                                                                                             1879                   14303                              27549
+ 13.              440/8                                                                       2216                                                                                              428                    9203                              11847
+ 14.              440/9                                                                       1607                                                                                                                       406                              2013
+115.              440/10                                                                      6039                                                                                              22                    22438                              28499
+ 16               440/11                                                                       765                                                                                             414                    20159                              21338
+1
+ 17..             440/12                                                                      4070                  375                                                                        549                    12050                              17044
+ 18.              440/14+13                                                                   1510                                                                                            1242                    23967                              26719
+ 19.              44 D/15                                                                     1540                1726                                                                         612                    19611                              23489
+ 20.              440116                                                                      5144                 572                                                                        2591                     8828                              17135
+ 21.              45 E/1                                      1790                            5105                                                                                            3007                     1023                              10925
+    22.           45 E/2                                                                                                                                                                      3431                     1739                               5170
+    23.           45 E/3                                                                                                                                          713                                                  3587                               4300
+    24.          45 El5                                           401                                                                                            7171                         5363                       123                             13058
+: 25.            45 El6                                                                                                                                                                       2636                     1135                               3771
+.26.             45 E/7+8                                                                            54                                                                                       1691                     4758                               6503
+    27.           45 E/9                                                                                                                                                                      1698                       447                              2145
+28.               45 E/10                                                                                                                                                                     1052                     2778                               3830
+29.               45 E/11                                                                                                                                                                                                156                                156
+30.               45 E/13                                                                                                                                                                      510                       246                                756
+ 31.              45 E/14                                                                                                                                                                      338                     1706                               2064
+:32.              44 H/1                                                                                            543                                                                         68                     2393                               3004
+ 33.              44 H/2                                                                                                                                                                       544                    11188                             11732
+ 34.              44 H/3                                                                      8629                                                                                            1705                    13990                             24324
+ 35.              44 H/4                                                                      8036                                                                                            2991                     5369               131           16527
+ 36.              44H/5+44G/8                                                                13627                  372                                                                        799                     3290                             18088
+    37.           44 H/6                                                                     29530                                                                                            1343                     3025                             33898
+ 38.              44 H/7                                                                        24                                                                                            2768                     3981                90             6863
+ 39.              44 H/8                                                81                     730                                                                                            3113-                    2501               348             6773
+ 40.              44H/9+44G/12                                                               66006                                                                                              53                       103                            66162
+ 41.              44 H/10                                                                    22665                                        139                                                 1235                      412                             24451
+ 42.              44 H/11                                                                                                                 137                                                 1950                      241               808             3142 .
+,43.              44 H/12                                                                                                                                                                     1063                      937                               2000
+r 4
+ 45..
+ 46.
+                  44H/13+44G/16
+                  44 H/14
+                                                                                                3660
+                                                                                                                                          122
+                                                                                                                                            7
+                                                                                                                                                                                              1018
+                                                                                                                                                                                              1008
+                                                                                                                                                                                              1893
+                                                                                                                                                                                                                         573
+                                                                                                                                                                                                                       1029
+                                                                                                                                                                                                                       1073
+                                                                                                                                                                                                                                                          5251
+                                                                                                                                                                                                                                                          2159
+                                                                                                                                                                                                                                                          2973
+                  44 H/15+44U3
+    ~7            44 Ll1                                                                                                                                                                       436                                                         436
+    48            44 Ll2                                                                                                                                                                       445                                                         445
+    49.         _39P/16+40M/13                                                                                                                                                                                       13291                              13291
+    1'····'··
+                  ................ ....... ............-......... -.
+                                   ,                                                                ........... ......                      ........................................................... ..... _........
+                                                                                                                                                                                                         ~              , ......... , .
+                                                                                                                                                                                                                                    "
+
+
+    !fotal2724400                                                                                                                        405                    7884                       67238 272704 1377                                           584574
+                                                              7319                          224059 3588
+ Pe .. _ ...... . .....                                                                                                                      ....................... .............
+                                                                                                                                                                      ,                   .................. _
+IPe..rcent"to total  area
+              ..................                               0.27
+                                                     •• u • • • • • • • . . . . . . • • •
+                                                                                                8.22 0.13                               0.02                     0.29
+                                                                                              ............•.. .., .. ....... ... _... ..................... .....................
+                                                                                                                                      ,
+                                                                                                                                                                                                2.47 ............
+                                                                                                                                                                                                               10.01
+                                                                                                                                                                                                                  -.......
+                                                                                                                                                                                                                           0.05                         21.46
+~wasleland                                                     1.25                           38.33 0.61                                0.07                     1.35                         11.50            46.65 0.24                              100.00
+    Table 3. Watershed-wise distribution of wasteland
+
+    S.No.               Watershed No.                                      Watershed                                   Wasteland                                Percent to total
+                                                                             area                                        area                                     wasteland
+     1.                  68 (ED)                                                     329515                                           29364                                5.02
+     2.                   6'C (ED)                                                2189814                                          481288                              82.33
+     3.                  602 A1                                                  ' 127934                                              52714                               9.02
+    4.                    602A3                                                          27535                                            3432                             0.59
+     5.                   6 C 00001                                                         5965                                          1566                             0.27
+    6.                    6 C 00002                                                         2058                                              149                          0.03
+     7.                  6 C 00003                                                          5681                                             648                          0.11
+    8.                . 6 C 00004                                                           7574                                             770                          0.13
+    9.                   6 C 00005                                                          4057                                          1583                            0.27
+    10.                  6 C 00006                                                          2353                                             547                          0.09
+    11.                  6 C 00007                                                          3197                                             740                          0.13
+    12.                  6 C 00008a                                                            602                                           536                          0.09
+    13.                  6 C 00008b                                                            779                                           194                          0.03
+    14.                  6 C 00008e                                                            682                                           134                          0.02
+    15.                  6 C 00008d                                                            678                                           376                          0.06
+    16.                  6 C 00008e                                                            493                                           247                          0.04
+    17.                  6 C 00008t                                                            932                                           812                          0.14
+    18.                  6 C 00008g                                                         1416                                          1369                            0.23
+    19.                  6 C 00009a                                                         1511                                             395                          0.07
+   20.                   6 C 00009b                                                         1123                                          1055                            0.18
+   21.                   6 C 0000ge                                                            910                                           825                          0.14
+   22.                   6 C 00009d                                                            748                                           557                          0.10
+   23.                   6 C 0000ge                                                        3420                                          2975                             0.51
+   24.                   6 C 00009t                                                        2860                                              656                          0.11
+   25.                  6 C 00009g                                                            722                                                   7                     0.00
+   26.                  6     C     00009h                                                  1841                                          1635 _............................................................
+..........................................................................................................._.............................................                 0.29
+                       Total                                                 2724400                                        584574                                   100.00
+Table 4. List of toposheets covered in Bikaner district, Rajasthan
+
+S.No.     Toposheet No.                           S.No.    Toposheet No.
+ 1.       39 P/16                                 31.      44 H/11
+ 2.       40 M/13.,                               32.      44 H/12
+ 3.       44012 .                                 33.      44 H/13
+4.        440/3                                   34.      44 H/14
+ 5.       440/4·                                  35.      44 H/15
+6.        440/5                                   36.      44 L/1
+7.        440/6                                   37.      44' L/2
+8.        440/7                                   38.      44 L/3
+9.        440/8                                   39       45 Al1
+10.       440i9                                   40       45 Al2
+11.       440/10                                  41.      45 Al5
+12.       440/11                                  42.      45 Al6
+13.       440/12                                  43.      45 Al7
+14.       440/13                                  44.      45 Al9
+15.       440/14                                  45.      45 Al10
+16.       440/15                                  46.      45 Al13
+17.       440/16                                  47.      45 Al14
+18.       44G/8                                   48.      45 Al15
+19.       44 G/12                                 49.      45 E/1
+20.       44 G/16                                 50.      45 E/2
+21.       44 H/1                                  51.      45 E/3
+22.       44 H/2                                  52.      45 E/5
+23.       44 H/3                                  53.      45 E/6
+24.       44 H/4                                  54.      45 E/7
+25.       44 H/5                                  55.      45 E/8
+26.       44 H/6                                  56.      45 E/9
+27.       44 HI?                                  57.      45 E/10
+28.       44 H/8                                  58.      45 E/11
+29.       44 H/9                                  59.      45 E/13
+30.       44 H/10                                 60.      45 E/14
+Plate 1. Part of IRS-LISS III FCC of December - Gullied land.
+
+
+
+
+     Plate 2. Gullied land - South- t;ast ofGura village.
+Plate 3. Part ofIRS-LISS III FCC of February - Land \vith or without scrub.
+
+
+
+
+     PHue 4. Land with or ""ithoul scnJb - NE of Bcriyan\vala village.
+Plate 5. Part o'fIRS-LISS III FCC of January - Waterlogged area.
+
+
+
+
+PLate 6 . Waterlogged area at RD 750 - WC ~ ll r I.(j . In:iin calli.d .
+Plate 1. Part ofIRS-LISS-III FCC of January - Land affected by salinity.
+
+
+
+
+   Plate 8. Land affected by salinity - North ·of Lunkaransar village .
+Plate 9. Part of IRS-LISS III Fe   of December - Degraded notified forest.
+Plate ] 1. Part of IRS-LISS III December - Degraded pasture.
+Plate 13. Part of TRS-LISS III of January - Desert ie sand.
+
+
+
+
+      Plate 14 . 1) 'sc..:llic: salld - NlHlh ,)(.lndhasilr.
+Plate 15. Part of IRS-LISS ill of Fcbnlary - Mining wasteland.
+
+
+
+
+ Plate 16. Mining \\fastcland - South ofDhircra Rly. Stalion.
+
