@@ -79,3 +79,4 @@
 | Jatland: Lunkaransar, Mahajan, Converted Villages पन्ने | सामान्य browser से खोलें (यहां से 403) | खुला |
 | लोकसभा प्रश्न 4519 और 5 अगस्त 1986 की बहस | eparlib.sansad.in (यहां से connection reset) | खुला |
 | Facebook/Instagram के अंदर की खोज, groups, comments | web search से 11 ही लिंक मिले; team को login करके खोजना होगा (docs/data-collection-playbook.md भाग 3) | खुला |
+| भूमि-अवार्ड सूची, नामांतरण, पुनर्वास आवंटन (1981-90) | RTI draft तैयार: docs/rti/RTI_MFFR_bhoomi_award.docx (कलेक्टर बीकानेर, तहसीलदार लूणकरणसर, रक्षा संपदा कार्यालय); भरकर हस्ताक्षर, शुल्क, जमा | खुला |
