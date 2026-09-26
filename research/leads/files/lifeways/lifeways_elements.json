@@ -1,0 +1,523 @@
+[
+ {
+  "id": "bajra",
+  "group": "भोजन",
+  "name_hi": "बाजरी (सोगरा रोटी)",
+  "then_and_now_hi": "तब: बाजरी ही रोज़ का अनाज था, मोटी रोटी 'सोगरा' ग्वार की फली के साथ खाई जाती थी (ज़िला गजेटियर 1972, पृ.114)। अब: राजस्थान देश का लगभग 45% बाजरा उगाता है (2023-24 में 95 में से 43 लाख टन) और 2025-26 का MSP ₹2,775 प्रति क्विंटल है, पर गांव में किसान को अक्सर इससे कम दाम मिलता है।",
+  "kid_fact_hi": "बाजरा कम बारिश में भी लगभग तीन महीने में पक जाता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133, 146",
+   "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc202588602801.pdf",
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2131983",
+   "https://www.isignal.in/agriculture/indias-millets-boom-is-not-helping-farmers-incomes-923348"
+  ],
+  "verification_flags": "45% IndiaSpend के 4.3/9.5 Mt से निकाला; हमारी किसी तस्वीर में बाजरी का खाना नहीं है।"
+ },
+ {
+  "id": "raab_khichdo",
+  "group": "भोजन",
+  "name_hi": "राबड़ी / राब और खीचड़ो",
+  "then_and_now_hi": "तब: छाछ में बाजरी या ज्वार का आटा पकाकर राबड़ी बनती थी; 1984 में लूणकरणसर तहसील की 'खेड़ रपट' ने लिखा कि दूध डेयरी को बिकने लगा तो 'छाछ, दही और राबड़ी पुराने सपने' हो गए। आखा तीज पर खीचड़ा खास पकवान था (गजेटियर)। अब: 'श्री अन्न' अभियान बाजरे को फिर थाली में ला रहा है, पर 34 गांव की राबड़ी-खीचड़े की विधि अभी कहीं रिकॉर्ड नहीं है।",
+  "kid_fact_hi": "राबड़ी छाछ और बाजरे के आटे से बनती है, और ये दोनों चीज़ें हर ढाणी में होती थीं।",
+  "sources": [
+   "research/leads/files/history/khed_rapat_1984_ia_ocr_pages.txt leaf 74 (p.42)",
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133"
+  ],
+  "verification_flags": "शहरों में राबड़ी की बिक्री का कोई भरोसेमंद आंकड़ा नहीं मिला।"
+ },
+ {
+  "id": "moth",
+  "group": "भोजन",
+  "name_hi": "मोठ (भुजिया, पापड़)",
+  "then_and_now_hi": "तब: मोठ यहां की मुख्य दाल थी, और मूंग-मोठ के आटे को सज्जी के पानी में गूंधकर बीकानेरी पापड़ बनता था (गजेटियर पृ.114, 170)। अब: बीकानेरी भुजिया को 2008-2010 में GI मिला; CAZRI सितंबर 2026 में मोठ को 'जलवायु-सहनशील' फसल बता रहा है, जो 150-250 mm बारिश में पक जाती है।",
+  "kid_fact_hi": "मोठ केवल 50-60 दिन में पक जाता है, और बीकानेरी भुजिया इसी के आटे से बनता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133, 190-191",
+   "https://en.wikipedia.org/wiki/Bikaneri_bhujia",
+   "https://www.etvbharat.com/en/bharat/moth-bean-emerges-as-climate-resilient-crop-for-arid-farms-icar-cazri-director-hs-jat-enn26091005876"
+  ],
+  "verification_flags": "'राजस्थान में 95% मोठ' वाला आंकड़ा एक ResearchGate पेपर के search snippet से है और जांचा नहीं गया।"
+ },
+ {
+  "id": "guar",
+  "group": "भोजन",
+  "name_hi": "ग्वार (गवार की फली)",
+  "then_and_now_hi": "तब: गवार की पूरी फली सब्ज़ी थी और सोगरा के साथ खाई जाती थी (गजेटियर)। अब: ग्वार का गोंद उद्योग और निर्यात की फसल बन गया है। राज्य के ग्वार रकबे में बीकानेर ज़िले का हिस्सा सबसे बड़ा (27%) है, और 2022-23 में ₹8,329 करोड़ का ग्वार-गम निर्यात हुआ।",
+  "kid_fact_hi": "ग्वार के बीज का गोंद आइसक्रीम और बिस्कुट जैसी चीज़ों को गाढ़ा करने में काम आता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133",
+   "https://www.tourism.rajasthan.gov.in/content/dam/agriculture/Rajasthan%20Agricultural%20Competitiveness%20Project/valuechainreport/RACP_VC_Guar.pdf",
+   "https://apeda.gov.in/GuarGum"
+  ],
+  "verification_flags": "बीकानेर का 27% हिस्सा पुरानी (2020 से पहले की) रिपोर्ट से है; निर्यात के आंकड़े search summary से हैं।"
+ },
+ {
+  "id": "ker_sangri",
+  "group": "भोजन",
+  "name_hi": "केर-सांगरी / पंचकूटा",
+  "then_and_now_hi": "तब: 1874 के गजेटियर के अनुसार खेजड़ी की फली सांगरी, उसके पत्ते और छाल तक अकाल में खाए जाते थे, और केर व फोग की फलियां मसाले का काम करती थीं। अब: सूखी सांगरी ₹800 से ₹1,500 किलो तक बिकती है। बीकानेर की एक खेजड़ी सहकारी समिति ने SKRAU की मदद से दिसंबर 2024 में सांगरी के GI का आवेदन किया है।",
+  "kid_fact_hi": "सांगरी खेजड़ी की फली है; इसे धूप में सुखा लें तो साल भर चलती है।",
+  "sources": [
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt PDF p.106",
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133",
+   "https://www.downtoearth.org.in/food/rajasthans-pride-sangri-of-khejri-awaits-gi-tag",
+   "https://www.indiamart.com/proddetail/ker-sangri-14778457062.html"
+  ],
+  "verification_flags": "GI की स्थिति पर स्रोतों में टकराव है: मई 2025 में दो साइटों ने 'GI मिल गया' लिखा, जबकि DTE (जुलाई 2025) के अनुसार आवेदन लंबित है। GI Registry से जांचना ज़रूरी है।"
+ },
+ {
+  "id": "kachri",
+  "group": "भोजन",
+  "name_hi": "काचरी",
+  "then_and_now_hi": "तब: काचरी जंगली फल थी, जो कच्ची या सुखाकर खाई जाती थी (1874 और 1972 के गजेटियर)। अब: सीज़न में ताज़ी काचरी ₹20-30 किलो और सूखी ₹100-140 किलो बिकती है; बीकानेर-जोधपुर के व्यापारी रोज़ 500-1,000 किलो सूखी काचरी बेचते हैं (DTE 2019)।",
+  "kid_fact_hi": "काचरी छोटी जंगली ककड़ी है, और इसका पाउडर मांस को नरम करने में भी काम आता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 133",
+   "https://www.downtoearth.org.in/food/thar-s-friend-meet-tiny-melon-kachri-68388"
+  ],
+  "verification_flags": "दाम 2019 के हैं, 2020 के बाद के नहीं मिले।"
+ },
+ {
+  "id": "kumatiya",
+  "group": "भोजन",
+  "name_hi": "कुमटिया",
+  "then_and_now_hi": "तब: कुमट (Acacia senegal) के बीज उबालकर और सुखाकर रखे जाते थे, जो अकाल में भोजन का सहारा थे। अब: यह पंचकूटा का हिस्सा है, जिसका 500 ग्राम का पैकेट ₹450 में बिकता है (DTE 2018)।",
+  "kid_fact_hi": "कुमटिया के बीजों में लगभग 39% प्रोटीन होता है।",
+  "sources": [
+   "https://www.downtoearth.org.in/food/kumatiya-part-of-a-regular-rajasthani-diet-has-health-and-environmental-benefits-59858"
+  ],
+  "verification_flags": "34 गांव से कुमटिया का कोई सीधा प्रमाण नहीं मिला; बुज़ुर्गों से पूछना है।"
+ },
+ {
+  "id": "phog",
+  "group": "भोजन/पेड़-पौधे",
+  "name_hi": "फोग (फोगला)",
+  "then_and_now_hi": "तब: फोग की टहनियां कच्चे कुओं की दीवार और झूंपे बनाने में लगती थीं, ऊंट इसे चरते थे, और फरवरी-मार्च में इसकी कलियां छाछ के साथ खाई जाती थीं (पॉवलेट 1874, पृ.84)। अब: बीकानेर में हुए 2021 के एक शोध में फोग को एंटीऑक्सीडेंट का स्रोत बताया गया है।",
+  "kid_fact_hi": "फोग की जड़ें रेत के टीलों को बांधकर रखती हैं।",
+  "sources": [
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt PDF p.107",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8229425/",
+   "media: kanolai/tp0mVligrls 0152s"
+  ],
+  "verification_flags": "'फोगला रायता' का प्रमाण केवल search snippet में है।"
+ },
+ {
+  "id": "khejri",
+  "group": "पेड़-पौधे",
+  "name_hi": "खेजड़ी",
+  "then_and_now_hi": "तब: खेजड़ी से सांगरी, चारा ('लूंग') और लकड़ी मिलती थी, और अकाल में लोग इसकी छाल तक खाते थे। हमारी लगभग हर तस्वीर में उजड़े घरों के बीच खेजड़ी आज भी खड़ी है। अब: बीकानेर ज़िले में 14 साल में लगभग 5 लाख पेड़ कटे (ज़्यादातर खेजड़ी, सोलर प्लांटों के लिए)। 2 फरवरी 2026 को बीकानेर में करीब 1 लाख लोगों ने 'खेजड़ी बचाओ' आंदोलन किया। पेड़ काटने पर अभी ₹100 का जुर्माना है।",
+  "kid_fact_hi": "खेजड़ी की जड़ें बहुत गहरी जाती हैं, इसलिए सूखे में भी यह हरी रहती है।",
+  "sources": [
+   "https://www.downtoearth.org.in/renewable-energy/a-battle-between-greenery-and-green-energy-is-ensuing-in-the-thar-and-it-centres-around-the-khejri-tree",
+   "https://www.newsgram.com/rajasthan/2026/02/11/khejri-bachao-andolan-bikaner-one-lakh-protest",
+   "media: thoiya/fb851985674182311, motasar/fb1152422783491564, berawala/fb2884290418425839"
+  ],
+  "verification_flags": "सरकार ने फरवरी 2026 में खेजड़ी क़ानून का वादा किया था; सितंबर 2026 तक यह क़ानून बना या नहीं, जांचा नहीं गया।"
+ },
+ {
+  "id": "matira",
+  "group": "भोजन",
+  "name_hi": "मतीरा और तूंबा",
+  "then_and_now_hi": "तब: बारिश के बाद रेत में मतीरे उगते थे (खेड़ रपट, पृ.106), और गरीब लोग तूंबे के बीज पीसकर आटा बनाते थे (पॉवलेट 1874)। अब: 2020-26 का कोई बाज़ार आंकड़ा नहीं मिला।",
+  "kid_fact_hi": "मतीरा रेत में उगने वाला तरबूज़ है, जो सफ़र में पानी का काम करता था।",
+  "sources": [
+   "research/leads/files/history/khed_rapat_1984_ia_ocr_pages.txt leaf 138",
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt PDF p.107"
+  ],
+  "verification_flags": "अब की हालत का कोई आंकड़ा नहीं मिला।"
+ },
+ {
+  "id": "famine_foods",
+  "group": "भोजन",
+  "name_hi": "अकाल का भोजन (भुरट/बरू घास के दाने)",
+  "then_and_now_hi": "तब: 1874 के गजेटियर के अनुसार भुरट (bharut) घास के दाने 'बहुत गरीब लोग किसी भी और अनाज से ज़्यादा' खाते थे; अकाल में खेजड़ी के पत्ते और छाल भी खाए जाते थे। 1963-64 के अकाल में पानी रेल-टैंकों और ऊंटों से पहुंचाया गया। अब: राशन (PDS) और टैंकर हैं, और राशन में बाजरा बहुत कम घरों तक पहुंचता है।",
+  "kid_fact_hi": "भुरट घास के कांटेदार बीज वही 'भुरट' हैं जो कपड़ों में चिपक जाते हैं।",
+  "sources": [
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt PDF p.107-108",
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt (famine 1963-64)"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "dairy_rathi",
+  "group": "पशु/भोजन",
+  "name_hi": "घी-छाछ और राठी गाय",
+  "then_and_now_hi": "तब: पूगल की गायें दूध-घी के लिए मशहूर थीं (1874)। 1958-59 में महाजन का पशु मेला राठी गायों का मेला था: 1,300 पशु आए और 563 बिके (गजेटियर, पृ.154-155)। अब: FAO/NDDB के अनुसार राठी 'ख़ासकर लूणकरणसर तहसील में' मिलती है और एक ब्यांत (309 दिन) में लगभग 1,530 किलो दूध देती है, जिसमें 5.3% वसा होती है।",
+  "kid_fact_hi": "राठी गाय सबसे ज़्यादा हमारी ही लूणकरणसर तहसील में पाई जाती है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 158, 174-175",
+   "https://en.wikipedia.org/wiki/Rathi_cattle",
+   "https://www.dairyknowledge.in/dkp/article/rathi",
+   "media: berawala/fb745079231440066, likhmisar/fb1459335058470001"
+  ],
+  "verification_flags": "तस्वीरों में गायों की नस्ल पहचानी नहीं जा सकती।"
+ },
+ {
+  "id": "camel_milk",
+  "group": "पशु/भोजन",
+  "name_hi": "ऊंटनी का दूध",
+  "then_and_now_hi": "तब: ऊंट हल और गाड़ी खींचते थे, और अकाल में पानी ढोते थे; ऊंटनी का दूध बेचा नहीं जाता था (यह रैका समाज की परंपरा है, जो पक्की नहीं की गई)। अब: FSSAI ने 2016 में ऊंटनी के दूध का मानक बनाया; Amul ने 2019 में 500 ml ₹50 में उतारा; Aadvik कंपनी 2019 में बीकानेर में ₹50-70 लीटर में दूध ख़रीदती थी; दिसंबर 2024 में NRCC बीकानेर में FAO की कार्यशाला हुई।",
+  "kid_fact_hi": "ऊंटनी के दूध में गाय के दूध से कम वसा होती है।",
+  "sources": [
+   "https://rajras.in/rajasthan-camel-population-declining-rapidly/",
+   "https://krishijagran.com/news/500-ml-of-delicious-healthy-amul-camel-milk-for-just-rs-50/",
+   "https://www.theweekendleader.com/Success/2844/modern-milkman.html",
+   "https://www.fao.org/india/news/detail/International-Year-of-Camelids-to-Strengthen-the-Camel-Milk-Value-Chain-in-India-celebrated-with-Camel-Herders-in-Bikaner-Rajasthan/en"
+  ],
+  "verification_flags": "बीकानेर में 2024-26 के ख़रीद-दाम नहीं मिले; NRCC की वेबसाइट (DNS) और NewsClick (403) नहीं खुले।"
+ },
+ {
+  "id": "preservation",
+  "group": "भोजन",
+  "name_hi": "सूखे के लिए भंडारण",
+  "then_and_now_hi": "तब: घरों में अनाज रखने की अलग 'कोठी/कोठला' होती थी (गजेटियर पृ.111); सांगरी, केर और काचरी धूप में सुखाई जाती थीं; घी-तेल ऊंट की खाल की कुप्पियों में रखा जाता था (पृ.138); पीने का पानी कुंड-टांके में जमा होता था। अब: सुखाई हुई सांगरी-काचरी ₹100-1,500 किलो तक बिकती है, पर सुखाने के तरीके का कोई मानक नहीं है (SKRAU का GI दस्तावेज़ यह तय करेगा)।",
+  "kid_fact_hi": "बिना फ्रिज के रेगिस्तान में धूप ही सबसे बड़ा 'फ्रिज' थी: सुखाई हुई चीज़ें महीनों चलती हैं।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 130, 158",
+   "https://www.downtoearth.org.in/food/rajasthans-pride-sangri-of-khejri-awaits-gi-tag"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "fair_food",
+  "group": "भोजन",
+  "name_hi": "मेले का खाना",
+  "then_and_now_hi": "तब: 1972 का गजेटियर कहता है कि मेले ही गांव का बाज़ार थे। अब: नाथू दादा मेले में फालूदा (हनुमानगढ़ का विक्रेता) और मिठाई-नमकीन की दुकानें दिखती हैं; घर का पारंपरिक खाना इन तस्वीरों में नहीं है।",
+  "kid_fact_hi": "मेला पहले गांव वालों के लिए सबसे बड़ा बाज़ार होता था।",
+  "sources": [
+   "media: khiyana/YGDc75dU39g 0332s, 0482s",
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 134"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "kund_tanka",
+  "group": "पानी",
+  "name_hi": "कुंड / टांका",
+  "then_and_now_hi": "तब: 1874 में पॉवलेट ने लिखा कि गांव गड्ढों में इसलिए बसते हैं ताकि बरसात का पानी ढके हुए 'कुंडों' में जमा हो; 1984 की खेड़ रपट के अनुसार घर बनाने वाला हर आदमी एक कुंड भी बनाता था। अब: CAZRI का सुधरा टांका 5,000 लीटर (परिवार) से 6 लाख लीटर (गांव) तक का होता है; 2008 के दाम पर 5,000 लीटर का टांका लगभग ₹15,000 का था। बेरावाला के घर के आगे का टांका आज भी दिखता है।",
+  "kid_fact_hi": "कुंड के आंगन को 'आगोर' कहते हैं, और उस पर जूते पहनकर नहीं जाते थे।",
+  "sources": [
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt PDF p.106",
+   "research/leads/files/history/khed_rapat_1984_ia_ocr_pages.txt leaf 498",
+   "research/leads/files/lifeways/anupam_mishra_radiant_raindrops_of_rajasthan_en.pdf p.20-22",
+   "research/leads/files/lifeways/cazri_rainwater_harvesting_tanka.pdf",
+   "media: berawala/berawala 0288s, 0312s"
+  ],
+  "verification_flags": "2026 के टांके की लागत नहीं मिली (CAZRI के दाम 2008 के हैं)।"
+ },
+ {
+  "id": "beri_kuin",
+  "group": "पानी",
+  "name_hi": "बेरी / कुईं",
+  "then_and_now_hi": "तब: अनुपम मिश्र (1995) लिखते हैं कि चूरू, बीकानेर, जैसलमेर और बाड़मेर में जिप्सम की परत है, 'इसलिए इन ज़िलों के हर गांव में कुइयां' हैं। कुईं खारे भूजल तक नहीं जाती, बल्कि रेत में रुकी मीठी 'रेजाणी' नमी जमा करती है। अब: 34 गांव की किसी तस्वीर या स्रोत में कुईं/बेरी की पक्की पहचान नहीं है।",
+  "kid_fact_hi": "कुईं का मुंह इतना संकरा रखा जाता था कि उसमें केवल एक छोटी चड़स ही जाती थी।",
+  "sources": [
+   "research/leads/files/lifeways/anupam_mishra_radiant_raindrops_of_rajasthan_en.pdf p.16-20"
+  ],
+  "verification_flags": "यह पक्का नहीं कि 34 गांव में बेरी/कुईं थीं; बुज़ुर्गों से पूछना है।"
+ },
+ {
+  "id": "johad",
+  "group": "पानी",
+  "name_hi": "जोहड़ / नाडी / तालाब",
+  "then_and_now_hi": "तब: हर गांव का कच्चा जोहड़ था, मिट्टी की पाळ पर जाल और खेजड़ी के पेड़ होते थे, और पशु यहीं पानी पीते थे। अब: बारिश के बाद ठोइया, कुम्भाणा, लिखमीसर, कानोलाई और बेरावाला के जोहड़ आज भी भरते हैं (हमारी तस्वीरें)। जून 2026 में युवाओं ने मच्छरावली जोहड़ी में टैंकरों से पानी डलवाया। राज्य का MJSA 2.0 अभियान 20,000 गांवों में 5 लाख ढांचों का लक्ष्य रखता है।",
+  "kid_fact_hi": "जोहड़ की मिट्टी की ऊंची मेड़ को 'पाळ' कहते हैं।",
+  "sources": [
+   "media: thoiya/fb851985674182311, kumbhana/fb1795870261114842, fb2262161430872727, likhmisar/fb1459335058470001, kanolai/fb1034283355871713, berawala/*",
+   "https://www.bhaskar.com/local/rajasthan/bikaner/mahajan/news/mahanjan-firing-range-animals-water-heatwave-138105553.html",
+   "research/leads/files/lifeways/anupam_mishra_radiant_raindrops_of_rajasthan_en.pdf"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "kuan_chadas_khel",
+  "group": "पानी",
+  "name_hi": "कुआं, चड़स और खेळी",
+  "then_and_now_hi": "तब: पानी सैकड़ों फुट गहरा था (1972 के गजेटियर में 300-600 फुट), और नागौरी बैल 'गहरे कुओं से पानी खींचते' थे। चमड़े की चड़स से पानी निकालकर पशुओं के लिए खेळी भरी जाती थी। अब: चूने से पुते कुएं और खेळियां रेंज में खंडहर हैं; गांवों को नहर, नलकूप और टैंकर से पानी मिलता है।",
+  "kid_fact_hi": "चड़स चमड़े का बड़ा थैला था, जिसे बैल या ऊंट रस्सी से खींचते थे।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt (water level, Nagauri bullocks)",
+   "research/leads/files/lifeways/anupam_mishra_radiant_raindrops_of_rajasthan_en.pdf",
+   "https://thewaterchannel.tv/videos/chadas-ancient-water-lifting-device/",
+   "media: 34-gaon/fb_dharamveer_godara_photos 01, 05; berawala/berawala 0348s; likhmisar 0005s, 0014s; khiyana/YGDc75dU39g 0632s",
+   "https://www.youtube.com/watch?v=rkdJx5IZ3As"
+  ],
+  "verification_flags": "कुओं की गहराई और चड़स/बैल/ऊंट का इस्तेमाल हर गांव के लिए बुज़ुर्गों से पूछना है।"
+ },
+ {
+  "id": "canal",
+  "group": "पानी",
+  "name_hi": "नहर (नया पानी)",
+  "then_and_now_hi": "तब: 1972 में लोग 'राजस्थान नहर' का इंतज़ार कर रहे थे, जो लूणकरणसर तहसील के खारबारा से ज़िले में आनी थी। अब: पुनर्वास के चक नहर-क्षेत्र में हैं, और रास्ते में सरसों के खेत दिखते हैं (बेरावाला वीडियो)।",
+  "kid_fact_hi": "नहर का पानी हिमालय की बर्फ़ से पिघलकर सैकड़ों किलोमीटर दूर रेगिस्तान तक आता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt (Rajasthan Canal Project)",
+   "media: berawala/berawala 0036s, 0044s"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "jhumpa",
+  "group": "घर-बसावट",
+  "name_hi": "झूंपा (गोल झोंपड़ी)",
+  "then_and_now_hi": "तब: गांव के घर गोल झूंपे होते थे, जिनकी दीवारें मिट्टी की और छत फूस की थी। हर परिवार के 3-4 झूंपे, अनाज की कोठी और रसोई अलग होते थे, और रेत व लू से बचाव के लिए चारों ओर कांटों की बाड़ होती थी (गजेटियर 1972, पृ.111)। अब: बेरावाला में ज़मीन पर गोल निशान और मिट्टी की दीवारें दिखती हैं। 2022 की ग्रामीण पर्यटन योजना और 2026 की होमस्टे योजना खेत पर ऐसे ठहरने की इजाज़त देती हैं।",
+  "kid_fact_hi": "फूस की मोटी छत झूंपे के अंदर को बाहर से ठंडा रखती है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 130",
+   "research/leads/files/history/powlett_1874_gazetteer_bikaner_state_tesseract_ocr.txt",
+   "media: berawala/fb2884290418425839 0026s; berawala/berawala 0222s",
+   "https://theprint.in/india/rajasthan-govt-implements-rural-tourism-scheme/1250260/",
+   "https://www.gktoday.in/rajasthan-launches-homestay-scheme-2026/"
+  ],
+  "verification_flags": "बेरावाला के गोल निशान झूंपे के हैं, यह केवल अनुमान है; गजेटियर के OCR में शब्द 'jitopcia' छपा है (= झूंपा, संभावित)।"
+ },
+ {
+  "id": "dhani_bas",
+  "group": "घर-बसावट",
+  "name_hi": "ढाणी / बास",
+  "then_and_now_hi": "तब: बड़े गांव के साथ उसकी 'बास' होती थी (जनगणना 1981: 'Kummana with Bas-Dhannasar', 'Kanolai with Bas-Rampura'), और खेतों में परिवारों की ढाणियां। अब: पुनर्वास में 'कुम्भाणा बास' जैसे नाम बचे हैं; ठोइया में 'पंच भाइयों के घर' का हिस्सा आज भी पहचाना जाता है।",
+  "kid_fact_hi": "'ढाणी' खेत में बसे कुछ घरों का छोटा झुंड होता है, अक्सर एक ही परिवार का।",
+  "sources": [
+   "docs/census-village-list-findings.md",
+   "media: thoiya/fb1325760895182496 0047s"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "chuna_ghirt",
+  "group": "घर-बसावट/शिल्प",
+  "name_hi": "चूना, घिरट और पक्की चिनाई",
+  "then_and_now_hi": "तब: बेरावाला में पत्थर का गोल 'घिरट' है, जिसमें पीसा हुआ पाउडर 'सीमेंट की जगह' लगता था। कुएं, कुंड, मंदिर और कुम्भाणा गढ़ चूने और ईंट से बने थे। अब: ये ढांचे खुले में ढह रहे हैं; इन्हें बनाने वाले चेजारों/मिस्त्रियों के परिवार कहां हैं, यह रिकॉर्ड नहीं है।",
+  "kid_fact_hi": "घिरट एक गोल पत्थर का चक्का था, जो चूना पीसकर उस ज़माने का 'सीमेंट' बनाता था।",
+  "sources": [
+   "media: berawala/berawala 0318s, 0336s; kanolai/tp0mVligrls 1022s; kumbhana/fb1953976362088874"
+  ],
+  "verification_flags": "'घिरट' शब्द और चूना पीसने का तरीका केवल वीडियो के subtitle से है; स्रोत से पक्का करना है।"
+ },
+ {
+  "id": "pathshala",
+  "group": "घर-बसावट",
+  "name_hi": "गांव की पाठशाला",
+  "then_and_now_hi": "तब: ठोइया की पत्थर की पाठशाला की दीवार पर ब्लैकबोर्ड और विद्यार्थियों के खुरचे अक्षर आज भी हैं। अब: वही पुराने विद्यार्थी, जो अब बुज़ुर्ग हैं, वीडियो में बताते हैं कि कक्षा कहां थी।",
+  "kid_fact_hi": "ठोइया के स्कूल का काला बोर्ड 40 साल बाद भी दीवार पर है।",
+  "sources": [
+   "media: thoiya/fb2095882537884310"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "camel",
+  "group": "पशु",
+  "name_hi": "बीकानेरी ऊंट",
+  "then_and_now_hi": "तब: बीकानेरी ऊंट भारी बोझ के लिए जाना जाता था (लगभग 1,500 पाउंड वज़न, 8.5 फुट ऊंचाई)। ऊंट के बाल से रस्सी और खाल से घी की कुप्पियां बनती थीं। 1959 में जोड़बीड़ में ऊंट प्रजनन फ़ार्म शुरू हुआ (गजेटियर पृ.138)। अब: राजस्थान में ऊंट 1992 के 7.46 लाख से घटकर 2019 में 2.13 लाख रह गए (71% कमी); 2015 के क़ानून और ₹10,000 प्रति बच्चा वाली उष्ट्र योजना के बाद भी यह गिरावट नहीं रुकी।",
+  "kid_fact_hi": "ऊंट एक बार में बहुत सारा पानी पीकर कई दिन बिना पानी चल सकता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 158",
+   "https://rajras.in/rajasthan-camel-population-declining-rapidly/",
+   "media: 34-gaon/fb_dharamveer_godara_photos 01; khiyana/YGDc75dU39g 0062s"
+  ],
+  "verification_flags": "2024 की पशुगणना (21वीं) के ऊंट आंकड़े नहीं खोजे जा सके।"
+ },
+ {
+  "id": "sheep_goat",
+  "group": "पशु",
+  "name_hi": "भेड़-बकरी (मगरा, चोकला, नाली; मारवाड़ी बकरी)",
+  "then_and_now_hi": "तब: मगरा भेड़ से साल में 3-5 पाउंड ऊन मिलती थी; 1972 में महाजन और लूणकरणसर में ऊन विस्तार केंद्र थे; मारवाड़ी बकरी के बालों से ऊंट-गधों के बोरे बनते थे (गजेटियर पृ.138-139)। अब: मगरा चमकदार कालीन-ऊन वाली अकेली नस्ल है, पर संकर प्रजनन से शुद्ध नस्ल घट रही है।",
+  "kid_fact_hi": "मगरा भेड़ की ऊन इतनी चमकदार होती है कि उससे कालीन बनते हैं।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 158-159",
+   "https://en.wikipedia.org/wiki/Magra_sheep",
+   "media: kumbhana/fb2262161430872727"
+  ],
+  "verification_flags": "NBAGR की 'vulnerable' सूची वाला दावा पक्का नहीं हुआ; ऊन के दाम नहीं मिले।"
+ },
+ {
+  "id": "tharparkar",
+  "group": "पशु",
+  "name_hi": "थारपारकर गाय",
+  "then_and_now_hi": "तब: यह थार की सूखा सहने वाली, दूध और खेती दोनों में काम आने वाली नस्ल है। अब: इसका 34 गांव से कोई सीधा प्रमाण नहीं मिला; 1972 का गजेटियर बीकानेर में राठी, साहीवाल और नागौरी नस्लें गिनाता है।",
+  "kid_fact_hi": "थारपारकर गाय का नाम थार रेगिस्तान पर पड़ा है।",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tharparkar_cattle",
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 158"
+  ],
+  "verification_flags": "कमज़ोर: स्थानीय प्रमाण नहीं है; वेबसाइट पर 'राठी' को मुख्य रखें।"
+ },
+ {
+  "id": "bullock_tractor",
+  "group": "पशु",
+  "name_hi": "नागौरी बैल से ट्रैक्टर तक",
+  "then_and_now_hi": "तब: नागौरी बैल गाड़ी, हल और गहरे कुओं से पानी खींचने के लिए मशहूर थे। 1972 के गजेटियर (पृ.137) के समय एक अच्छा बैल लगभग ₹1,300 का था। अब: पुराने गांव की ज़मीन पर ट्रैक्टर से जाना पड़ता है (कानोलाई वीडियो), और मेले में ट्रैक्टर-ट्रॉलियां आती हैं।",
+  "kid_fact_hi": "लगभग 1970 में एक अच्छे नागौरी बैल की कीमत ₹1,300 थी।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 157-158",
+   "media: kanolai/z3ILa3-NyU0; khiyana/YGDc75dU39g 0392s"
+  ],
+  "verification_flags": ""
+ },
+ {
+  "id": "usta",
+  "group": "शिल्प",
+  "name_hi": "उस्ता कला (सुनहरी नक्काशी)",
+  "then_and_now_hi": "तब: ऊंट की खाल की कुप्पियों पर सुनहरी लाख का काम होता था, जिसे कुछ ही कारीगर करते थे (गजेटियर पृ.170)। अब: अगस्त 2023 में 'बीकानेर उस्ता कला' को GI मिला, पर 70 से कम कारीगर बचे हैं; एक सामान ₹7,000 से ₹50,000 से ऊपर तक बिकता है।",
+  "kid_fact_hi": "उस्ता कारीगर ऊंट की खाल पर सोने के रंग से नक्काशी करते हैं।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 190",
+   "https://101reporters.com/article/art/GI_tag_is_no_quick_fix_for_Bikaner_Usta_Kalas_return_to_glory"
+  ],
+  "verification_flags": "उस्ता बीकानेर शहर की कला है; 34 गांव से इसका सीधा संबंध नहीं मिला।"
+ },
+ {
+  "id": "wool_weaving",
+  "group": "शिल्प",
+  "name_hi": "ऊन, लोई और कंबल",
+  "then_and_now_hi": "तब: ज़िले के लगभग 25,000 परिवार कताई-बुनाई से जुड़े थे; नापासर की लोई मशहूर थी; 1963-64 के अकाल में राहत के रूप में चरखे बांटे गए (गजेटियर)। अब: 2020-26 का बीकानेर ऊन उद्योग का कोई आंकड़ा नहीं मिला।",
+  "kid_fact_hi": "एक भेड़ की साल भर की ऊन से एक छोटी लोई बन सकती है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 189"
+  ],
+  "verification_flags": "बच्चों वाला तथ्य केवल अनुमान है; पक्का करने के बाद ही इस्तेमाल करें। 'अब' का कोई आंकड़ा नहीं मिला।"
+ },
+ {
+  "id": "leather",
+  "group": "शिल्प",
+  "name_hi": "चमड़ा: चड़स, जीन, जूती",
+  "then_and_now_hi": "तब: ज़िले के लगभग 15,000 परिवार चमड़े के काम से कमाते थे; चमड़े की चड़स, पानी की मशकें और ऊंट की जीन यहीं बनती थीं। अब: कुओं पर मोटर लगने से चड़स का काम ख़त्म हो गया; 2020-26 का कोई आंकड़ा नहीं मिला।",
+  "kid_fact_hi": "चमड़े की चड़स में एक बार में कई बाल्टी पानी आ जाता था।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 176, 189",
+   "research/leads/files/lifeways/anupam_mishra_radiant_raindrops_of_rajasthan_en.pdf"
+  ],
+  "verification_flags": "'कई बाल्टी' अनुमान है; बदलें या पक्का करें।"
+ },
+ {
+  "id": "woodwork_suthar",
+  "group": "शिल्प",
+  "name_hi": "सुथार/खाती का लकड़ी का काम",
+  "then_and_now_hi": "तब: चारपाई, दरवाज़े, हल, गाड़ी और गणगौर के लकड़ी के खिलौने बनते थे; 1972 में बीकानेर में गणगौर के खिलौने 'केवल एक-दो परिवार' बनाते थे। हमारी तस्वीर में बुज़ुर्ग चारपाई पर हुक्के के साथ बैठे हैं। अब: कोई आंकड़ा नहीं मिला।",
+  "kid_fact_hi": "गणगौर की लकड़ी की मूर्तियां हाथ से तराशी और रंगी जाती हैं।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 190",
+   "media: 34-gaon/fb1485439029343121"
+  ],
+  "verification_flags": "34 गांव के सुथार परिवारों के काम पर कोई लिखित स्रोत नहीं मिला।"
+ },
+ {
+  "id": "pottery",
+  "group": "शिल्प",
+  "name_hi": "कुम्हारी (लाल मिट्टी के बर्तन)",
+  "then_and_now_hi": "तब: घर के बर्तन लाल मिट्टी या मार्ल से बनते थे (अर्स्किन, गजेटियर पृ.156 में उद्धृत)। अब: कोई स्थानीय आंकड़ा नहीं मिला।",
+  "kid_fact_hi": "मटके की मिट्टी में छोटे-छोटे छेद होते हैं, जिनसे रिसता पानी भाप बनकर मटके को ठंडा रखता है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 175"
+  ],
+  "verification_flags": "'अब' का कोई आंकड़ा नहीं है।"
+ },
+ {
+  "id": "kashidakari",
+  "group": "शिल्प",
+  "name_hi": "कशीदाकारी (कढ़ाई)",
+  "then_and_now_hi": "तब: शादी के सामान पर शीशे और बारीक टांकों वाली कढ़ाई मेघवाल परिवारों की परंपरा थी। अब: 2023 में 'बीकानेर कशीदाकारी' को GI मिला।",
+  "kid_fact_hi": "कढ़ाई के छोटे शीशे 'नज़र से बचाने' के लिए लगाए जाते थे।",
+  "sources": [
+   "https://www.nabard.org/gi/GIProductDetails.aspx?Id=31"
+  ],
+  "verification_flags": "34 गांव से इसका सीधा प्रमाण नहीं मिला।"
+ },
+ {
+  "id": "games",
+  "group": "खेल-खिलौने",
+  "name_hi": "खेल",
+  "then_and_now_hi": "तब: 1972 के गजेटियर में गांव के खेल कबड्डी, गुल्ली-डंडा, लाठी, आंख-मिचौनी और 'खो' गिनाए गए हैं; घर के अंदर चौपड़ और ताश; बरसात में झूले; कठपुतली के खेल। अब: नाथू दादा मेले में कुश्ती का दंगल होता है (2023 में विदेशी पहलवान भी आए) और टीले पर बाइक-स्टंट की प्रतियोगिता होती है।",
+  "kid_fact_hi": "नाथू दादा मेले में आज भी रेत के टीले पर कुश्ती होती है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 140-141",
+   "https://www.youtube.com/watch?v=boF5O2Lz1js",
+   "media: khiyana/YGDc75dU39g 1382s"
+  ],
+  "verification_flags": "34 गांव के अपने खेलों के नाम बुज़ुर्गों से इकट्ठे करने हैं ('Mar pari', 'Charbhar' OCR में अस्पष्ट हैं)।"
+ },
+ {
+  "id": "toys",
+  "group": "खेल-खिलौने",
+  "name_hi": "खिलौने",
+  "then_and_now_hi": "तब: गणगौर की लकड़ी की मूर्तियां और लाख के खिलौने बनते थे (गजेटियर)। गांव में मिट्टी के खिलौनों का कोई लिखित प्रमाण नहीं मिला। अब: कोई आंकड़ा नहीं।",
+  "kid_fact_hi": "पुराने खिलौने घर पर मिट्टी, लकड़ी और कपड़े से बनते थे।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 176, 190"
+  ],
+  "verification_flags": "कमज़ोर: स्थानीय स्रोत नहीं है।"
+ },
+ {
+  "id": "nathu_dada_fair",
+  "group": "मेले-गीत",
+  "name_hi": "नाथू दादा मेला (आसोज कृष्ण नवमी)",
+  "then_and_now_hi": "तब: 1972 की गजेटियर की मेलों वाली सूची में नाथू दादा मेला नहीं है (लूणकरणसर से केवल केन्यारा का रामदेव मेला है)। अब: रेंज के अंदर खिंयाणा धोरे पर यह बड़ा मेला लगता है: ट्रैक्टर-ट्रॉलियां, रात का जागरण, कुश्ती, और YouTube/JioSaavn पर सैकड़ों भजन।",
+  "kid_fact_hi": "नाथू दादा मेले में लोग रात को रेत के टीले पर ही सो जाते हैं।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 136-139",
+   "media: khiyana/YGDc75dU39g",
+   "research/leads/social2.jsonl",
+   "https://www.bhaskar.com/local/rajasthan/bikaner/news/a-large-number-of-devotees-reached-nathu-dada-fair-in-khiana-and-prayed-for-blessings-133712480.html"
+  ],
+  "verification_flags": "1972 से पहले मेले का कोई लिखित प्रमाण नहीं मिला।"
+ },
+ {
+  "id": "pir_baba_kanolai",
+  "group": "मेले-गीत",
+  "name_hi": "पीर बाबा कानोलाई धाम",
+  "then_and_now_hi": "तब: कानोलाई में पीर जी महाराज का स्थान और हीर जी की मढ़ी थी। अब: 2018 में स्थान का जीर्णोद्धार हुआ (बोर्ड पर लिखा है); लोग जाल के पेड़ पर मन्नत के धागे बांधते हैं, और पानी की टंकी टैंकर से भरी जाती है।",
+  "kid_fact_hi": "पीर बाबा के जाल के पेड़ पर लोग मन्नत के धागे बांधते हैं।",
+  "sources": [
+   "media: kanolai/fb1034283355871713 0017s; tp0mVligrls 0542s, 0602s, 0752s, 1652s; z3ILa3-NyU0"
+  ],
+  "verification_flags": "पीर बाबा का इतिहास और मेले की तिथि किसी लिखित स्रोत में नहीं मिली।"
+ },
+ {
+  "id": "pammaji",
+  "group": "मेले-गीत",
+  "name_hi": "डाडा पम्मा राम साहिबजी (पुराना कुम्भाणा)",
+  "then_and_now_hi": "तब: पट्ट पर 'संवत् 18?0' लिखा है और 'ੴ' व गुरु नानक की तस्वीर है, यानी नानकपंथी/सिख परंपरा से जुड़ाव। अब: मंदिर संभाला हुआ है और संगत का स्वागत-पट्ट लगा है।",
+  "kid_fact_hi": "पम्माजी के मंदिर के पट्ट पर हिन्दी और गुरमुखी दोनों लिपियां हैं।",
+  "sources": [
+   "media: kumbhana/fb649534878213015 0008s, 0038s, 0062s"
+  ],
+  "verification_flags": "संवत का तीसरा अंक पढ़ा नहीं जा सकता; कोई लिखित इतिहास नहीं मिला।"
+ },
+ {
+  "id": "cattle_fairs",
+  "group": "मेले-गीत",
+  "name_hi": "महाजन पशु मेला",
+  "then_and_now_hi": "तब: 1958-59 में महाजन में साल में दो पशु मेले लगते थे (27.9-2.10.1958 और 19-25.2.1959), और दोनों राठी नस्ल के थे (गजेटियर परिशिष्ट V)। अब: 2020-26 में यह मेला लगता है या नहीं, यह पता नहीं चला।",
+  "kid_fact_hi": "1958 के महाजन मेले में 1,300 राठी पशु आए थे।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 174-175"
+  ],
+  "verification_flags": "आज की स्थिति नहीं मिली।"
+ },
+ {
+  "id": "songs_chang",
+  "group": "मेले-गीत",
+  "name_hi": "गीत, चंग और जागरण",
+  "then_and_now_hi": "तब: गांव के गीत भेड़ की खाल से बने 'चंग' पर गाए जाते थे। होली पर हफ़्ते भर 'रम्मत' होती थी, औरतें हर मौसम और रस्म के गीत गाती थीं, और भजन-कीर्तन होता था (गजेटियर पृ.120)। अब: नाथू दादा के भजन गायक (जैसे महावीर सांखला, सुनीता स्वामी, अजय थोरी) YouTube और JioSaavn पर हैं।",
+  "kid_fact_hi": "चंग एक बड़ी गोल डफ़ है, जिस पर भेड़ की खाल मढ़ी होती है।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 140",
+   "research/leads/social2.jsonl"
+  ],
+  "verification_flags": "34 गांव के अपने लोकगीत (विस्थापन के गीत) अभी रिकॉर्ड नहीं हुए।"
+ },
+ {
+  "id": "bagri_language",
+  "group": "भाषा",
+  "name_hi": "बागड़ी / थळी बोली",
+  "then_and_now_hi": "तब: 1961 की जनगणना में बीकानेर ज़िले में मारवाड़ी बोलने वाले 3,72,833, 'राठी' 2,156 और 'थळी' 475 दर्ज थे (गजेटियर पृ.89)। अब: 2011 की जनगणना में राजस्थान में 2,34,227 लोगों ने बागड़ी लिखवाई (विकिपीडिया के हवाले से), और लूणकरणसर इसकी तहसीलों में गिना जाता है। राजस्थानी अब भी संविधान की आठवीं अनुसूची में नहीं है। हमारे वीडियो के overlay में 'पुराणा', 'जोहड़ा', 'रोळी' जैसे शब्द दिखते हैं।",
+  "kid_fact_hi": "बागड़ी में 'ळ' और 'ण' की आवाज़ बहुत आती है, जैसे 'रोळी' और 'पुराणा'।",
+  "sources": [
+   "research/leads/files/history/rajasthan_district_gazetteer_bikaner_1972_ia_ocr_pages.txt leaf 108",
+   "https://en.wikipedia.org/wiki/Bagri_language",
+   "media: 34-gaon/fb1485439029343121, kumbhana/fb1795870261114842, motasar/fb1152422783491564"
+  ],
+  "verification_flags": "2011 के आंकड़े Census C-16 से मिलाकर नहीं देखे गए; SIL का सर्वे (403) नहीं खुला।"
+ }
+]
