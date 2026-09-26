@@ -273,7 +273,7 @@ def test_site_builds_all_pages(tmp_path):
     assert (out / "index.html").exists() and (out / "gaon.html").exists()
     n_units = len(registry.load_villages())
     assert len(list((out / "gaon").glob("*.html"))) == n_units
-    assert res["pages"] == n_units + 10
+    assert res["pages"] == n_units + 11
     home = (out / "index.html").read_text(encoding="utf-8")
     assert site_mod.TAGLINE in home and 'lang="hi"' in home
     # village page links resolve relative to its folder and carry evidence badges

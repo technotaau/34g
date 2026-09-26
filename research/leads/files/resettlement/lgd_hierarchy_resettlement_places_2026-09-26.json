@@ -1,0 +1,674 @@
+{
+ "69794": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 294060,
+    "localbodyNameEnglish": "Ram Nagar"
+   }
+  ]
+ },
+ "69788": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262280,
+    "localbodyNameEnglish": "Krishan Nagar"
+   }
+  ]
+ },
+ "69762": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36042,
+    "localbodyNameEnglish": "Nosera Samrda"
+   }
+  ]
+ },
+ "69729": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36001,
+    "localbodyNameEnglish": "34 Kyd"
+   }
+  ]
+ },
+ "925986": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 475,
+   "subdistrictNameEnglish": "Lunkaransar"
+  },
+  "blockMini": {
+   "blockCode": 633,
+   "blockNameEnglish": "Lunkaransar"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36099,
+    "localbodyNameEnglish": "Chakjohad"
+   }
+  ]
+ },
+ "69807": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36125,
+    "localbodyNameEnglish": "Sansardesar"
+   }
+  ]
+ },
+ "69804": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36114,
+    "localbodyNameEnglish": "Mahadevwali"
+   }
+  ]
+ },
+ "69784": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36130,
+    "localbodyNameEnglish": "Takhatpura 4tm"
+   }
+  ]
+ },
+ "69789": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36109,
+    "localbodyNameEnglish": "Kharbara 3 DL"
+   }
+  ]
+ },
+ "69793": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262280,
+    "localbodyNameEnglish": "Krishan Nagar"
+   }
+  ]
+ },
+ "69147": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36032,
+    "localbodyNameEnglish": "Kundal"
+   }
+  ]
+ },
+ "69761": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36053,
+    "localbodyNameEnglish": "Siyasar Chougan"
+   }
+  ]
+ },
+ "69755": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36000,
+    "localbodyNameEnglish": "3 Pwm"
+   }
+  ]
+ },
+ "69835": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36049,
+    "localbodyNameEnglish": "Sattasar"
+   }
+  ]
+ },
+ "946142": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 474,
+   "subdistrictNameEnglish": "Poogal"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36003,
+    "localbodyNameEnglish": "Aduri"
+   }
+  ]
+ },
+ "931790": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 474,
+   "subdistrictNameEnglish": "Poogal"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262172,
+    "localbodyNameEnglish": "Siyasar Panchkosa"
+   }
+  ]
+ },
+ "960176": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 474,
+   "subdistrictNameEnglish": "Poogal"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 294182,
+    "localbodyNameEnglish": "2 Pb"
+   }
+  ]
+ },
+ "69378": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 6913,
+   "subdistrictNameEnglish": "Bajju"
+  },
+  "blockMini": {
+   "blockCode": 7424,
+   "blockNameEnglish": "Bajju Khalsa"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36092,
+    "localbodyNameEnglish": "Ranjeetpura"
+   }
+  ]
+ },
+ "69379": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 6913,
+   "subdistrictNameEnglish": "Bajju"
+  },
+  "blockMini": {
+   "blockCode": 7424,
+   "blockNameEnglish": "Bajju Khalsa"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262191,
+    "localbodyNameEnglish": "Gajjewala"
+   }
+  ]
+ },
+ "69377": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 6913,
+   "subdistrictNameEnglish": "Bajju"
+  },
+  "blockMini": {
+   "blockCode": 7424,
+   "blockNameEnglish": "Bajju Khalsa"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262175,
+    "localbodyNameEnglish": "Raowala"
+   }
+  ]
+ },
+ "69355": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 6913,
+   "subdistrictNameEnglish": "Bajju"
+  },
+  "blockMini": {
+   "blockCode": 7424,
+   "blockNameEnglish": "Bajju Khalsa"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36061,
+    "localbodyNameEnglish": "Barsalpur"
+   }
+  ]
+ },
+ "69446": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 6913,
+   "subdistrictNameEnglish": "Bajju"
+  },
+  "blockMini": {
+   "blockCode": 7424,
+   "blockNameEnglish": "Bajju Khalsa"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36059,
+    "localbodyNameEnglish": "Bajju"
+   }
+  ]
+ },
+ "69142": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 473,
+   "subdistrictNameEnglish": "Bikaner"
+  },
+  "blockMini": {
+   "blockCode": 631,
+   "blockNameEnglish": "Bikaner"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36019,
+    "localbodyNameEnglish": "Jaimalsar"
+   }
+  ]
+ },
+ "69304": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 475,
+   "subdistrictNameEnglish": "Lunkaransar"
+  },
+  "blockMini": {
+   "blockCode": 633,
+   "blockNameEnglish": "Lunkaransar"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36107,
+    "localbodyNameEnglish": "Kapurisar"
+   }
+  ]
+ },
+ "69228": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 475,
+   "subdistrictNameEnglish": "Lunkaransar"
+  },
+  "blockMini": {
+   "blockCode": 633,
+   "blockNameEnglish": "Lunkaransar"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36115,
+    "localbodyNameEnglish": "Mahajan"
+   }
+  ]
+ },
+ "69758": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 478,
+   "subdistrictNameEnglish": "Khajuwala"
+  },
+  "blockMini": {
+   "blockCode": 6715,
+   "blockNameEnglish": "Khajuwala"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36014,
+    "localbodyNameEnglish": "Dantor"
+   }
+  ]
+ },
+ "69172": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 474,
+   "subdistrictNameEnglish": "Poogal"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 36045,
+    "localbodyNameEnglish": "Pugal"
+   }
+  ]
+ },
+ "69791": {
+  "stateMini": {
+   "stateCode": 8,
+   "stateNameEnglish": "Rajasthan"
+  },
+  "districtMini": {
+   "districtCode": 93,
+   "districtNameEnglish": "Bikaner"
+  },
+  "subdistrictMini": {
+   "subdistrictCode": 479,
+   "subdistrictNameEnglish": "Chhatargarh"
+  },
+  "blockMini": {
+   "blockCode": 7435,
+   "blockNameEnglish": "Poogal"
+  },
+  "localbodyMiniList": [
+   {
+    "localbodyCode": 262265,
+    "localbodyNameEnglish": "1dlsm"
+   }
+  ]
+ }
+}

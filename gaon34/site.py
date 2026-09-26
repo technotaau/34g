@@ -60,11 +60,48 @@ SOURCE_TYPE_HI = {
 TL_STATUS = {"pakka": ("पक्का", "ok"), "samachar": ("समाचार", "one"), "samuday": ("समुदाय", "one"), "sandigdh": ("विवादित", "conf")}
 TL_PHASE = {"kanoon": "कानूनी अधिग्रहण", "visthapan": "विस्थापन", "punarvas": "पुनर्वास और मुकदमे", "aaj": "आज"}
 
-NAV = [
-    ("index", "घर"), ("gaon", "गांव"), ("naksha", "नक्शा"), ("samay", "समय-रेखा"),
-    ("yaadein", "यादें"), ("asar", "रेंज का असर"), ("basera", "नया बसेरा"),
-    ("chaupal", "चौपाल"), ("yogdan", "योगदान"), ("srot", "स्रोत"),
+# Five thumb-reachable tabs on phones; everything else lives under "और".
+PRIMARY = [("index", "घर", "home"), ("gaon", "गांव", "pin"), ("naksha", "नक्शा", "map"), ("yaadein", "यादें", "photo"), ("aur", "और", "more")]
+SECONDARY = [
+    ("samay", "समय-रेखा", "1938 से आज तक, साल-दर-साल क्या हुआ"),
+    ("basera", "नया बसेरा", "परिवार कहां जाकर बसे, और आज वहां क्या है"),
+    ("asar", "रेंज का असर", "गोले, हादसे, चराई और आज की ज़िंदगी"),
+    ("chaupal", "चौपाल", "बातचीत, सवाल और बुज़ुर्गों की आवाज़"),
+    ("yogdan", "जुड़िए", "अपनी याद, तस्वीर या पुराना कागज़ भेजिए"),
+    ("srot", "स्रोत और तरीका", "हर तथ्य कहां से आया, कैसे जांचा"),
 ]
+NAV = [(r, l) for r, l, _ in PRIMARY if r != "aur"] + [(r, l) for r, l, _ in SECONDARY]
+ICONS = {
+    "home": '<path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1z"/>',
+    "pin": '<path d="M12 21s-7-6.1-7-11.2A7 7 0 0 1 19 9.8C19 14.9 12 21 12 21z"/><circle cx="12" cy="9.8" r="2.4"/>',
+    "map": '<path d="M9 4 3 6.2V20l6-2.2 6 2.2 6-2.2V4l-6 2.2z"/><path d="M9 4v13.8M15 6.2V20"/>',
+    "photo": '<rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m21 15.5-4.5-4.5L8 19"/>',
+    "more": '<circle cx="5.5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="18.5" cy="12" r="1.6"/>',
+    "search": '<circle cx="11" cy="11" r="6.5"/><path d="m20 20-4.2-4.2"/>',
+    "back": '<path d="M15 5 8 12l7 7"/>',
+    "next": '<path d="m9 5 7 7-7 7"/>',
+}
+
+
+def icon(name: str, size: int = 24) -> str:
+    return f'<svg class="ic" width="{size}" height="{size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>'
+
+
+def fmt_int(x) -> str:
+    try:
+        n = int(str(x).replace(",", ""))
+    except ValueError:
+        return str(x)
+    s = str(n)
+    if len(s) <= 3:
+        return s
+    head, tail = s[:-3], s[-3:]
+    parts = []
+    while len(head) > 2:
+        parts.insert(0, head[-2:]); head = head[:-2]
+    if head:
+        parts.insert(0, head)
+    return ",".join(parts + [tail])
 
 MAX_STILLS_PER_VIDEO = 6
 STILL_WIDTH = 720
@@ -421,7 +458,128 @@ footer .wrap{display:grid;gap:.5rem}
 footer .tag-line{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--ink)}
 @media (prefers-reduced-motion:no-preference){ .gallery figure,.strip img{transition:transform .25s} .gallery figure:hover,.strip figure:hover img{transform:translateY(-3px)} }
 @media (max-width:480px){ body{font-size:16px} .hero{min-height:78vh} .big b{font-size:2.2rem} }
+
+/* ---- 2026-09 mobile-first layer: bottom tabs, bigger targets, calmer pages ---- */
+body{font-size:17.5px;line-height:1.7;padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
+.top .wrap{min-height:56px}
+.brand{font-size:1.45rem}
+.brand small{display:none}
+nav.main{display:none}
+.top .find{margin-left:auto;display:inline-flex;align-items:center;gap:.4rem;min-height:44px;padding:0 .9rem;border-radius:999px;border:1px solid var(--line);color:var(--ink2);text-decoration:none;font-size:.95rem}
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:20;display:grid;grid-template-columns:repeat(5,1fr);background:rgba(14,16,23,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+.tabbar a{display:grid;justify-items:center;align-content:center;gap:2px;min-height:62px;color:var(--muted);text-decoration:none;font-size:.8rem;font-weight:500;letter-spacing:.01em}
+.tabbar a[aria-current="page"]{color:var(--sand)}
+.tabbar a[aria-current="page"] .ic{stroke-width:2.3}
+@media (min-width:900px){
+  body{padding-bottom:0}
+  .tabbar{display:none}
+  nav.main{display:flex;margin-left:auto;overflow:visible}
+  .top .find{margin-left:.6rem}
+}
+.hero{min-height:min(74svh,760px)}
+.hero .bg{object-position:30% 55%}
+.hero h1{font-size:clamp(2.7rem,11vw,6.6rem)}
+.hero .lede{font-size:1.12rem;max-width:40ch}
+.cta-row{display:flex;flex-wrap:wrap;gap:.7rem 1rem;align-items:center;margin-top:1.4rem}
+.btn{min-height:52px;display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:0 1.4rem;font-size:1.05rem}
+.btn.block{width:100%}
+.textlink{color:var(--ink2);min-height:44px;display:inline-flex;align-items:center}
+.sec{padding-block:clamp(2rem,6vw,3.6rem)}
+.sec h2{margin-bottom:.4rem}
+.sec .sub{color:var(--muted);font-size:.95rem;margin-bottom:1.1rem;max-width:52ch}
+/* village finder */
+.finder{position:relative;margin-bottom:1rem}
+.finder input{width:100%;min-height:54px;padding:0 1rem 0 3rem;font:inherit;font-size:1.05rem;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.finder input::placeholder{color:var(--muted)}
+.finder input:focus{outline:2px solid var(--sand);outline-offset:1px}
+.finder .ic{position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:var(--muted)}
+.chips{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:.6rem}
+.chip{display:grid;gap:.1rem;min-height:64px;padding:.7rem .9rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.chip b{font-family:"Rozha One",serif;font-weight:400;font-size:1.35rem;line-height:1.15}
+.chip span{font-size:.82rem;color:var(--muted)}
+.chip:active,.chip:hover{border-color:var(--sand2)}
+.chips.more .chip{background:transparent;border-style:dashed;min-height:56px}
+.chips.more .chip b{font-size:1.15rem;color:var(--ink2)}
+.none{display:none;color:var(--muted);padding:.6rem 0}
+/* story steps */
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:0}
+.steps li{display:grid;grid-template-columns:4.6rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--line)}
+.steps li:last-child{border-bottom:1px solid var(--line)}
+.steps .y{font-family:"Rozha One",serif;font-size:1.5rem;line-height:1.1;color:var(--sand)}
+.steps p{font-size:1.02rem}
+.steps small{display:block;color:var(--muted);font-size:.8rem;margin-top:.2rem}
+.onequote{margin:0;padding:1.6rem 0 0;border-top:3px solid var(--sand)}
+.onequote p{font-family:"Tiro Devanagari Hindi",serif;font-size:clamp(1.45rem,5.2vw,2.2rem);line-height:1.45}
+.onequote cite{display:block;margin-top:.8rem;font-style:normal;color:var(--muted);font-size:.88rem}
+.trio{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem}
+.trio div{padding:.9rem .6rem;border-radius:12px;background:var(--panel);text-align:center}
+.trio b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(1.5rem,6vw,2.6rem);line-height:1.05;color:var(--sand)}
+.trio span{display:block;font-size:.8rem;color:var(--ink2);margin-top:.3rem;line-height:1.35}
+.trio i{display:block;font-style:normal;font-size:.7rem;color:var(--muted);margin-top:.2rem}
+.strip figure{flex-basis:min(78vw,420px)}
+/* village list */
+.vlist{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
+.vlist a{display:grid;grid-template-columns:64px 1fr auto;gap:.9rem;align-items:center;min-height:76px;padding:.5rem .7rem .5rem .5rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.vlist .th{width:64px;height:64px;border-radius:9px;object-fit:cover;background:var(--bg2)}
+.vlist .th.ph0{display:grid;place-items:center;font-family:"Rozha One",serif;font-size:1.6rem;color:var(--sand2);background:linear-gradient(160deg,#2A2416,var(--bg2))}
+.vlist b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:1.3rem;line-height:1.2}
+.vlist span{display:block;font-size:.84rem;color:var(--muted);line-height:1.4}
+.vlist .ic{color:var(--muted)}
+.pill{display:inline-block;font-size:.72rem;padding:.05rem .5rem;border-radius:999px;border:1px dashed var(--muted);color:var(--ink2);margin-left:.3rem;vertical-align:middle}
+/* village page */
+.vhead{min-height:min(50svh,520px)}
+.vhead .back{display:inline-flex;align-items:center;gap:.2rem;min-height:44px;color:#E9E3D6;text-decoration:none;font-size:.95rem}
+.vhead h1{font-size:clamp(2.8rem,12vw,5.6rem)}
+.vhead .en{font-size:1.05rem}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;margin:1.2rem 0 .6rem}
+.facts div{padding:.8rem .5rem;border-radius:12px;background:var(--panel);text-align:center}
+.facts b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(1.4rem,6vw,2.2rem);line-height:1.05;color:var(--sand)}
+.facts span{display:block;font-size:.78rem;color:var(--ink2);margin-top:.25rem}
+.factline{font-size:.95rem;color:var(--ink2);margin:.3rem 0}
+.factline b{color:var(--ink)}
+.hscroll{display:flex;gap:.6rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.2rem .8rem;margin-inline:calc(-1 * clamp(16px,4vw,40px));padding-inline:clamp(16px,4vw,40px);scrollbar-width:none}
+.hscroll::-webkit-scrollbar{display:none}
+.hscroll figure{flex:0 0 min(80vw,380px);margin:0;scroll-snap-align:start}
+.hscroll img{aspect-ratio:4/3;width:100%;object-fit:cover;border-radius:12px}
+.hscroll figcaption{font-size:.86rem;color:var(--ink2);padding:.4rem .1rem 0;line-height:1.45}
+details.acc{border-top:1px solid var(--line)}
+details.acc:last-of-type{border-bottom:1px solid var(--line)}
+details.acc>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:60px;cursor:pointer;font-size:1.12rem;font-weight:500}
+details.acc>summary::-webkit-details-marker{display:none}
+details.acc>summary::after{content:"";width:.6rem;height:.6rem;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);margin-right:.3rem;transition:transform .2s}
+details.acc[open]>summary::after{transform:rotate(-135deg)}
+details.acc>summary small{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.4rem}
+details.acc>.in{padding:0 0 1.2rem}
+.askcard{margin-top:1.6rem;padding:1.3rem;border-radius:14px;background:linear-gradient(160deg,#2A2416,var(--panel));display:grid;gap:.8rem}
+.askcard h3{font-family:"Tiro Devanagari Hindi",serif;font-size:1.3rem}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin-top:1.4rem}
+.pn a{display:grid;gap:.1rem;min-height:64px;padding:.7rem .9rem;border-radius:12px;border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.pn a.n{text-align:right}
+.pn span{font-size:.78rem;color:var(--muted)}
+.pn b{font-family:"Rozha One",serif;font-weight:400;font-size:1.2rem}
+/* "और" page */
+.morelist{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
+.morelist a{display:grid;grid-template-columns:1fr auto;align-items:center;gap:.8rem;min-height:72px;padding:.8rem 1rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.morelist b{display:block;font-size:1.12rem;font-weight:500}
+.morelist span{display:block;font-size:.88rem;color:var(--muted)}
+footer{padding-block:1.6rem 1.8rem;font-size:.86rem}
+footer .tag-line{font-size:1.35rem}
+@media (max-width:480px){ .hero{min-height:70svh} h2{font-size:1.75rem} .chip b{font-size:1.25rem} }
 """
+
+FINDER_JS = r"""<script>
+(function(){
+  document.querySelectorAll('[data-finder]').forEach(function(box){
+    var inp=box.querySelector('input'); if(!inp) return;
+    var items=box.querySelectorAll('[data-k]'); var none=box.querySelector('.none');
+    inp.addEventListener('input',function(){
+      var q=inp.value.trim().toLowerCase(); var n=0;
+      items.forEach(function(a){var hit=!q||a.getAttribute('data-k').indexOf(q)>=0; (a.closest('li')||a).hidden=!hit; if(hit)n++;});
+      if(none) none.style.display=(q&&!n)?'block':'none';
+    });
+  });
+})();
+</script>"""
 
 FONT_LINK = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;700&display=swap">'
 
@@ -481,6 +639,7 @@ class Site:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0E1017">
 <title>{esc(page_title)}</title>
 <meta name="description" content="{esc(desc or TAGLINE)}">
 {FONT_LINK}
@@ -490,6 +649,8 @@ class Site:
 {self.topbar(route, depth)}
 <main>{body}</main>
 {self.footer(depth)}
+{self.tabbar(route, depth)}
+{FINDER_JS}
 </body>
 </html>"""
 
@@ -499,14 +660,24 @@ class Site:
         for r, label in NAV:
             current = ' aria-current="page"' if r == cur else ""
             nav += f'<a href="{self.href(r, depth)}"{current}>{esc(label)}</a>'
-        return f'<header class="top"><div class="wrap"><a class="brand" href="{self.href("index", depth)}">{SITE_NAME}<small>{DOMAIN}</small></a><nav class="main" aria-label="मुख्य">{nav}</nav></div></header>'
+        find = f'<a class="find" href="{self.href("gaon", depth)}">{icon("search", 18)}<span>गांव खोजें</span></a>'
+        return f'<header class="top"><div class="wrap"><a class="brand" href="{self.href("index", depth)}">{SITE_NAME}<small>{DOMAIN}</small></a><nav class="main" aria-label="मुख्य">{nav}</nav>{find}</div></header>'
+
+    def tabbar(self, route: str, depth: int = 0) -> str:
+        cur = route.split("/")[0]
+        if cur in {r for r, _, _ in SECONDARY}:
+            cur = "aur"
+        items = ""
+        for r, label, ic in PRIMARY:
+            current = ' aria-current="page"' if r == cur else ""
+            items += f'<a href="{self.href(r, depth)}"{current}>{icon(ic)}<span>{esc(label)}</span></a>'
+        return f'<nav class="tabbar" aria-label="मुख्य (मोबाइल)">{items}</nav>'
 
     def footer(self, depth: int = 0) -> str:
         return f"""<footer><div class="wrap">
 <div class="tag-line">{esc(TAGLINE)}</div>
-<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
-<div>हर तथ्य के साथ उसकी जांच का स्तर: {badge("verified")} {badge("corroborated")} {badge("single-source")} {badge("unverified")} {badge("conflicting")} · <a href="{self.href("srot", depth)}">तरीका और स्रोत</a></div>
-<div class="small">Phase 1 preview · डेटा {esc(self.built)} तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय है।</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–87 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div class="small">हर तथ्य के साथ उसका स्रोत है · <a href="{self.href("srot", depth)}">तरीका और स्रोत</a> · तस्वीरें उनके रचनाकारों की, हर तस्वीर के साथ श्रेय · डेटा {esc(self.built)} तक</div>
 </div></footer>"""
 
     def best_still(self, slug: str, prefer_people: bool = False) -> dict | None:
@@ -533,81 +704,90 @@ class Site:
     def page_index(self, depth=0) -> str:
         h = lambda r: self.href(r, depth)
         hero = self.hero_image(depth)
-        st = self.stats
-        q_html = ""
-        for q in self.quotes:
-            link = f' · <a href="{h("gaon/" + q["unit"])}">{esc(unit_name(self.by_slug[q["unit"]])[0])}</a>' if q.get("unit") in self.by_slug else ""
-            q_html += f'<blockquote><p>{esc(q["text"])}</p><cite>{esc(q["who"])}{link}</cite></blockquote>'
-        prio = {"people": 0, "oral-history": 0, "temple": 1, "shrine": 1, "fort": 1, "ruins": 1, "water": 2, "landscape": 3}
-        ranked = sorted(self.all_stills(), key=lambda x: min([prio.get(t, 4) for t in x[2].get("tags", [])] or [4]))
+        # places first (ruins, temples, wells); faces only where the rights allow and a Hindi caption exists
+        prio = {"temple": 0, "shrine": 0, "fort": 0, "ruins": 1, "water": 1, "well": 1, "landscape": 2, "people": 3, "oral-history": 3}
+        ranked = sorted((x for x in self.all_stills() if x[2].get("description_hi")),
+                        key=lambda x: min([prio.get(t, 4) for t in x[2].get("tags", [])] or [4]))
         picked, seen = [], set()
         for slug, vid, f in ranked:
-            if vid["video_id"] in seen:
+            if vid["video_id"] in seen or slug in {p[0] for p in picked}:
                 continue
             seen.add(vid["video_id"]); picked.append((slug, vid, f))
         strip_html = ""
-        for slug, vid, f in picked[:12]:
+        for slug, vid, f in picked[:8]:
             src = self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)
             cap = f.get("description_hi") or f["description"]
-            strip_html += f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" src="{src}" alt="{esc(cap)}"></a><figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b>{esc(cap)}<span class="cr">{esc(vid["credit"])}</span></figcaption></figure>'
-        band = self.best_still("berawala") or self.best_still("kanolai")
+            strip_html += f'<figure><a href="{h("gaon/" + slug)}"><img loading="lazy" decoding="async" width="720" height="480" src="{src}" alt="{esc(cap)}"></a><figcaption><b>{esc(unit_name(self.by_slug[slug])[0])}</b>{esc(cap)}<span class="cr">{esc(vid["credit"])}</span></figcaption></figure>'
+        q = next((x for x in self.quotes if x.get("unit") == "thoiya"), self.quotes[0] if self.quotes else None)
+        quote = ""
+        if q:
+            link = f' · <a href="{h("gaon/" + q["unit"])}">{esc(unit_name(self.by_slug[q["unit"]])[0])}</a>' if q.get("unit") in self.by_slug else ""
+            quote = f'<section class="sec"><blockquote class="onequote"><p>{esc(q["text"])}</p><cite>{esc(q["who"])}{link}</cite></blockquote></section>'
+        band = self.best_still("kanolai") or self.best_still("berawala")
         band_img = f'<img loading="lazy" src="{self.images.src(band["vid"]["dir"] / band["frame"]["file"], band["vid"]["slug"], band["vid"]["video_id"], 1280, depth)}" alt="">' if band else ""
         return f"""
 <section class="hero">
   <img class="bg" src="{hero['src']}" alt="{esc(hero['alt'])}" fetchpriority="high">
   <div class="text"><div class="wrap">
-    <p class="eyebrow">महाजन फील्ड फायरिंग रेंज · लूणकरणसर, बीकानेर · 1982–86</p>
+    <p class="eyebrow">लूणकरणसर, बीकानेर · 1982–87</p>
     <h1>{esc(TAGLINE)}</h1>
-    <p class="lede serif">चौंतीस गांव खाली कराए गए। घर, कुएं, मंदिर और तालाब आज भी रेंज के अंदर खड़े हैं, और जो लोग वहां से निकले, वे आज भी होली पर लौटते हैं। यह जगह उन गांवों की याद, उनके परिवारों और उनकी आवाज़ के लिए है।</p>
+    <p class="lede serif">तैंतीस गांव खाली हुए। सोलह हज़ार लोग अपना घर, कुआं और खेत छोड़कर गए। यह उनकी याद का घर है।</p>
+    <div class="cta-row"><a class="btn" href="{h('gaon')}">{icon("search", 20)} अपना गांव खोजें</a><a class="textlink" href="#kahani">कहानी, एक मिनट में ↓</a></div>
     <p class="credit">तस्वीर: {esc(hero['credit'])}</p>
   </div></div>
-  <div class="cue">↓ नीचे</div>
 </section>
 
 <div class="wrap">
-<section class="section">
-  <p class="eyebrow">एक-एक पंक्ति में</p>
-  <div class="quotes" style="margin-top:.8rem">{q_html}</div>
+<section class="sec">
+  <h2>आपका गांव कौनसा था?</h2>
+  <p class="sub">नाम पर दबाइए: उस गांव की तस्वीरें, 1981 की गिनती और जो कुछ अब तक पता है।</p>
+  {self.village_finder(depth)}
 </section>
 
-<section class="section">
-  <div class="section-head"><h2>जो लौटकर गए, उन्होंने यह देखा</h2><a class="small" href="{h('yaadein')}">सारे वीडियो और तस्वीरें →</a></div>
-  <div class="strip">{strip_html}</div>
+<section class="sec" id="kahani">
+  <h2>कहानी, एक मिनट में</h2>
+  <p class="sub">सरकारी कागज़ों से, जैसा लिखा है।</p>
+  <ol class="steps">
+    <li><span class="y">1982</span><p>2 नवंबर को भारत सरकार ने महाजन फील्ड फायरिंग रेंज की परियोजना मंज़ूर की।<small>लोकसभा रक्षा समिति, 2006</small></p></li>
+    <li><span class="y">1985</span><p>23 नवंबर को विस्थापितों के पुनर्वास की योजना छपी: बदले में नहर वाले इलाक़े में ज़मीन।<small>लोकसभा, 7 मई 1986</small></p></li>
+    <li><span class="y">1986</span><p>दिसंबर तक 29 गांव पूरी तरह ख़ाली; 4 गांवों को ख़रीफ़ की फ़सल काटने तक की मोहलत।<small>लोकसभा, 3 दिसंबर 1986</small></p></li>
+    <li><span class="y">1987</span><p>ज़मीन सेना को सौंपी गई। 33 गांव, 3,256 परिवार।<small>लोकसभा रक्षा समिति, 2006</small></p></li>
+    <li><span class="y">आज</span><p>घर, कुएं, मंदिर और जोहड़ रेंज के अंदर खड़े हैं। बदले की ज़मीन के 148 प्रकरण 2025 में भी लंबित थे।<small>पत्रिका, 14 फरवरी 2025</small></p></li>
+  </ol>
+  <p style="margin-top:1rem"><a href="{h('samay')}">पूरी समय-रेखा देखें →</a></p>
 </section>
 
-<section class="section">
-  <div class="section-head"><h2>नामों की दीवार</h2><span class="small muted">{st['units_with_sources']} गांवों की कहानी मिलनी शुरू हुई · {st['units'] - st['units_with_sources']} का अभी सिर्फ़ नाम बचा है</span></div>
-  {self.village_grid(depth)}
-  <div class="wall-note"><span>उजले नाम: स्रोत मिले</span><span>धुंधले नाम: सिर्फ़ नाम, कहानी आपसे चाहिए</span><span><span style="display:inline-block;width:.45rem;height:.45rem;border-radius:50%;background:var(--green);vertical-align:middle"></span> वीडियो/तस्वीरें हैं</span><a href="{h('gaon')}">सूची का आधार और 33/34 का सवाल →</a></div>
-</section>
-
-<section class="section">
-  <p class="eyebrow" style="margin-bottom:1rem">जो अब तक पक्का पता है</p>
-  <div class="big">
-    <div><b>33 / 34</b><span>गांव। सरकार 33 कहती है, लोग 34; जनगणना में 32 राजस्व गांव ग़ायब होते हैं।</span><i>लोकसभा 1987 · जनगणना 1981/2001</i></div>
-    <div><b>1,364 km²</b><span>रेंज का क्षेत्रफल, दिल्ली से थोड़ा छोटा।</span><i>जनगणना 2011 · OSM</i></div>
-    <div><b>₹300</b><span>प्रति बीघा, बदले की बारानी ज़मीन की दर।</span><i>अधिसूचना 23 नवंबर 1985</i></div>
-    <div><b>₹64.11 करोड़</b><span>कुल मुआवजा, 3,12,649 बीघा निजी ज़मीन के लिए।</span><i>लोकसभा, 21 अगस्त 1987</i></div>
-    <div><b>148</b><span>बदले की ज़मीन के प्रकरण 2025 में भी लंबित।</span><i>पत्रिका, 14 फरवरी 2025</i></div>
-    <div><b>16,018</b><span>लोग, 2,198 परिवार: इन गांवों की आख़िरी गिनती।</span><i>जनगणना 1981</i></div>
+<section class="sec">
+  <div class="trio">
+    <div><b>33</b><span>गांव, सरकारी सूची में</span><i>विधानसभा, 1992</i></div>
+    <div><b>16,018</b><span>लोग, आख़िरी गिनती</span><i>जनगणना, 1981</i></div>
+    <div><b>1,364</b><span>वर्ग किमी, रेंज का रकबा</span><i>जनगणना, 2011</i></div>
   </div>
-  <p class="small muted" style="margin-top:.8rem"><a href="{h('samay')}">पूरी समय-रेखा 1938 से आज तक →</a></p>
+  <p class="small muted" style="margin-top:.7rem">लोग 34 कहते हैं, और वह भी सही है: शुरू में 34 गांव लेने थे, फूलेजी बाद में छोड़ा गया। <a href="{h('gaon')}">पूरी बात</a></p>
 </section>
 
-<section class="section">
+{quote}
+
+<section class="sec">
+  <h2>जो लौटकर गए, उन्होंने यह देखा</h2>
+  <p class="sub">परिवारों के अपने वीडियो और तस्वीरों से। हर तस्वीर के साथ उसके रचनाकार का नाम।</p>
+  <div class="strip">{strip_html}</div>
+  <p><a href="{h('yaadein')}">सारी तस्वीरें और वीडियो →</a></p>
+</section>
+
+<section class="sec">
   <div class="band">{band_img}<div class="text">
-    <p class="eyebrow">आपके घर में जो है, वही इतिहास है</p>
-    <h2>अपने गांव की बात यहां रखिए</h2>
-    <p class="lede" style="max-width:52ch;margin-top:.6rem;color:#E9E3D6">बुज़ुर्गों की 15 मिनट की बात, ट्रंक में रखा पट्टा, एक पुरानी तस्वीर, या सिर्फ़ यह कि आपका परिवार किस गांव से किस गांव गया।</p>
-    <p style="margin-top:1.2rem"><a class="btn" href="{h('yogdan')}">योगदान दें</a> &nbsp; <a class="btn ghost" href="{h('gaon')}">अपना गांव खोजें</a></p>
+    <h2>आपके घर में जो है, वही इतिहास है</h2>
+    <p class="lede" style="max-width:40ch;margin-top:.6rem;color:#E9E3D6">दादा-दादी की दस मिनट की बात, संदूक में रखा पट्टा, एक पुरानी तस्वीर।</p>
+    <p style="margin-top:1.1rem"><a class="btn" href="{h('yogdan')}">अपनी याद भेजिए</a></p>
   </div></div>
 </section>
 </div>"""
 
     def hero_image(self, depth: int) -> dict:
         for slug, vid_id, fname, alt in (
-            ("berawala", "fb655816430875515", "0078s.jpg", "बेरावाला: छगनलाल जाखड़ अपने उजड़े गांव के मैदान को देखते हुए, जुलाई 2025"),
-            ("berawala", "fb2884290418425839", "0002s.jpg", "बेरावाला: छगनलाल जाखड़ अपने उजड़े घर की मिट्टी की दीवार पर खड़े हैं, जुलाई 2025"),
+            ("berawala", "fb655816430875515", "0050s.jpg", "बेरावाला: हरे मैदान में अकेला खड़ा ठाकुरजी का मंदिर, जहां कभी गांव था (जुलाई 2025)"),
+            ("berawala", "fb655816430875515", "0078s.jpg", "बेरावाला: उजड़े गांव का मैदान, जुलाई 2025"),
         ):
             for vid in self.media.get(slug, []):
                 if vid["video_id"] == vid_id and (vid["dir"] / "frames" / fname).exists():
@@ -619,43 +799,69 @@ class Site:
                     return {"src": self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], 1600, depth), "alt": f["description"], "credit": vid["credit"]}
         return {"src": "", "alt": "", "credit": ""}
 
+    def _units(self) -> tuple[list[dict], list[dict]]:
+        """(the 33 on the official 1992 list, other community names), each sorted by Hindi name."""
+        units = [v for v in self.villages if v.get("unit_type") != "umbrella" and v["slug"] != "34-gaon"]
+        official = sorted([v for v in units if v.get("official_list_1992")], key=lambda v: v["names"]["hi"])
+        other = sorted([v for v in units if not v.get("official_list_1992")], key=lambda v: v["names"]["hi"])
+        return official, other
+
+    def _search_key(self, v: dict) -> str:
+        return " ".join([v["names"]["hi"], v["names"]["en"]] + v["names"].get("variants", [])).lower()
+
+    def village_finder(self, depth: int) -> str:
+        official, other = self._units()
+        def chip(v):
+            c81 = v.get("census_1981") or {}
+            meta = f'1981: {fmt_int(c81["persons"])} लोग' if c81.get("persons") else ("रेख (बिना आबादी)" if c81 else UNIT_STATUS_HI.get(v.get("status"), ""))
+            return f'<a class="chip" data-k="{esc(self._search_key(v))}" href="{self.href("gaon/" + v["slug"], depth)}"><b>{esc(v["names"]["hi"])}</b><span>{esc(meta)}</span></a>'
+        return f"""<div data-finder>
+<label class="finder">{icon("search", 20)}<span class="sr" hidden>गांव का नाम</span><input id="find-home" type="search" placeholder="गांव का नाम लिखें, जैसे कुम्भाणा" autocomplete="off"></label>
+<div class="chips">{"".join(chip(v) for v in official)}</div>
+<p class="none">इस नाम का गांव सूची में नहीं मिला। <a href="{self.href("yogdan", depth)}">हमें बताइए</a>।</p>
+<p class="small muted" style="margin:1.2rem 0 .6rem">समाज की सूची के और नाम (बास, ढाणी, या अभी अनसुलझे):</p>
+<div class="chips more">{"".join(chip(v) for v in other)}</div>
+</div>"""
+
     def village_grid(self, depth: int, show_all: bool = True) -> str:
-        cells = []
-        for v in self.villages:
-            if v.get("unit_type") == "umbrella":
-                continue
-            hi, en = unit_name(v)
-            r = self.records.get(v["slug"])
-            acc = r["counts"]["accepted"] if r else 0
-            cls = []
-            if not acc:
-                cls.append("thin")
-            if self.media.get(v["slug"]):
-                cls.append("media")
-            cls_attr = f' class="{" ".join(cls)}"' if cls else ""
-            sup = f"<small>{acc}</small>" if acc else ""
-            cells.append(f'<a href="{self.href("gaon/" + v["slug"], depth)}"{cls_attr} title="{esc(en)}: {acc} स्रोत">{esc(hi)}{sup}</a>')
-        wall = "".join(cells)
-        return f'<div class="wall">{wall}</div>'
+        return self.village_finder(depth)
 
     def page_gaon(self, depth=0) -> str:
+        official, other = self._units()
+        def row(v):
+            best = self.best_still(v["slug"])
+            if best:
+                src = self.images.src(best["vid"]["dir"] / best["frame"]["file"], v["slug"], best["vid"]["video_id"], 240, depth)
+                th = f'<img class="th" loading="lazy" src="{src}" alt="">'
+            else:
+                th = f'<span class="th ph0">{esc(v["names"]["hi"][:1])}</span>'
+            c81 = v.get("census_1981") or {}
+            bits = []
+            if c81.get("persons"):
+                bits.append(f'1981: {fmt_int(c81["persons"])} लोग, {fmt_int(c81.get("households", ""))} परिवार')
+            elif c81:
+                bits.append("रेख: बिना आबादी का राजस्व गांव")
+            n = len(self.media.get(v["slug"], []))
+            if n:
+                bits.append(f"{n} वीडियो/तस्वीर-सेट")
+            pill = "" if v.get("official_list_1992") else f'<em class="pill">{esc(UNIT_STATUS_HI.get(v.get("status"), v.get("status", "")))}</em>'
+            return f'<li><a data-k="{esc(self._search_key(v))}" href="{self.href("gaon/" + v["slug"], depth)}">{th}<div><b>{esc(v["names"]["hi"])}{pill}</b><span>{esc(v["names"]["en"])} · {esc(" · ".join(bits) or "अभी सिर्फ़ नाम")}</span></div>{icon("next", 20)}</a></li>'
         return f"""<div class="wrap">
-<section class="section">
-  <p class="eyebrow">गांव</p>
-  <h1>34 गांव, एक-एक करके</h1>
-  <p class="lede serif prose" style="margin-top:.8rem">हर गांव का अपना पन्ना है। जहां स्रोत मिले, वहां कहानी शुरू हो चुकी है; जहां सिर्फ़ नाम है, वहां आपकी याद चाहिए।</p>
-  <p class="prose small muted" style="margin-top:.6rem">नाम समुदाय की सूची से हैं, इसलिए वर्तनी और पहचान अभी पक्की नहीं। सूची में 32 नाम थे, 2 खाली; अजीतवाणा, भानाबस्ती और नाथौर सूची में नहीं थे पर दूसरे स्रोतों में मिले।</p>
-</section>
-<section class="section">
-  {self.village_grid(depth)}
-</section>
-<section class="section">
-  <h2>33 या 34?</h2>
-  <div class="cols" style="margin-top:1rem">
-    <div class="callout"><b>सरकारी कागज़: 33 गांव</b><p class="small">लोकसभा उत्तर, 21 अगस्त 1987; राजस्थान उच्च न्यायालय, 8 फरवरी 2024 (अधिग्रहण 1983-84)।</p></div>
-    <div class="callout"><b>लोग और अखबार: 34 गांव</b><p class="small">पत्रिका (2018, 2022), परिवारों के वीडियो, समुदाय की सूची (अधिग्रहण 1984-85)।</p></div>
+<section class="sec">
+  <h1>गांव</h1>
+  <p class="sub" style="margin-top:.5rem">सरकारी सूची के 33 गांव, और समाज की सूची के बाकी नाम। अपने गांव पर दबाइए।</p>
+  <div data-finder>
+  <label class="finder">{icon("search", 20)}<input id="find-gaon" type="search" placeholder="गांव का नाम लिखें" autocomplete="off"></label>
+  <ul class="vlist">{"".join(row(v) for v in official)}</ul>
+  <p class="none">इस नाम का गांव सूची में नहीं मिला। <a href="{self.href("yogdan", depth)}">हमें बताइए</a>।</p>
+  <p class="small muted" style="margin:1.4rem 0 .6rem">समाज की सूची के और नाम:</p>
+  <ul class="vlist">{"".join(row(v) for v in other)}</ul>
   </div>
-  <p class="small muted" style="margin-top:.8rem">हम दोनों को साथ रखते हैं। संभव है कि कानूनी अधिग्रहण 33 राजस्व गांवों का हुआ और एक ढाणी या आंशिक गांव (जैसे बिरमाणा या अजीतवाणा) लोगों की गिनती में 34वां है। 1981 की जिला जनगणना पुस्तिका मिलते ही यह सवाल सुलझेगा।</p>
+</section>
+<section class="sec">
+  <h2>33 या 34?</h2>
+  <p class="prose" style="margin-top:.6rem">दोनों सही हैं। सरकार ने 1981 में 34 गांव लेने का प्रस्ताव रखा, फिर फूलेजी को छोड़ दिया (लोकसभा, 7 मई 1986)। 5 मार्च 1992 को राजस्थान विधानसभा में 33 गांवों की पूरी सूची दी गई। समाज आज भी 34 कहता है, और कुछ नाम बड़े गांवों की बास या ढाणी थे, जैसे धन्नासर (कुम्भाणा) और माच्छरांवाली (भोजरासर)।</p>
+  <p class="small muted" style="margin-top:.6rem">नाथौर, कोलाणा, चकड़ो, कचराणा और टिडासर अभी अनसुलझे हैं। आप जानते हैं तो <a href="{self.href("yogdan", depth)}">बताइए</a>।</p>
 </section>
 </div>"""
 
@@ -665,9 +871,9 @@ class Site:
         hi, en = unit_name(v)
         h = lambda route: self.href(route, depth)
         status = UNIT_STATUS_HI.get(v.get("status"), v.get("status", ""))
-        variants = [x for x in v["names"].get("variants", []) if x not in (hi, en)][:8]
+        variants = [x for x in v["names"].get("variants", []) if x not in (hi, en)]
         notes = v.get("notes", "")
-        best = self.best_still(slug, prefer_people=True)
+        best = self.best_still(slug)  # the place, not a face, heads the page
         if best:
             src = self.images.src(best["vid"]["dir"] / best["frame"]["file"], slug, best["vid"]["video_id"], 1600, depth)
             bg = f'<img class="bg" src="{src}" alt="{esc(best["frame"].get("description_hi") or best["frame"]["description"])}" fetchpriority="high">'
@@ -675,103 +881,98 @@ class Site:
             cls = "vhead"
         else:
             bg, credit, cls = "", "", "vhead nophoto"
-        var_txt = (" · " + esc(", ".join(variants[:5]))) if variants else ""
+        c51, c81, co = v.get("census_1951") or {}, v.get("census_1981") or {}, v.get("coordinates") or {}
+        sub = en + (f" · {status}" if status and v.get("status") != "acquired" else "")
         parts = [f"""<section class="{cls}">{bg}<div class="text"><div class="wrap">
-<p class="eyebrow"><a href="{h('gaon')}" style="color:inherit">गांव</a> · {esc(status)}</p>
+<a class="back" href="{h('gaon')}">{icon("back", 20)} सभी गांव</a>
 <h1>{esc(hi)}</h1>
-<div class="en">{esc(en)}{var_txt}</div>
+<div class="en">{esc(sub)}</div>
 {credit}
 </div></div></section><div class="wrap">"""]
-        if not r:
-            c51 = v.get("census_1951") or {}
-            co = v.get("coordinates") or {}
-            extra = ""
-            if c51.get("persons"):
-                extra += f'<p class="small">1951 की जनगणना: <b>{esc(c51["persons"])}</b> लोग, {esc(c51.get("households"))} परिवार, {esc(c51.get("area_acres"))} एकड़ (कोड {esc(c51.get("code"))}).</p>'
-            if co.get("lat"):
-                extra += f'<p class="small">जगह: {co["lat"]}, {co["lon"]} ({"रेंज-सीमा के अंदर" if co.get("inside_range_polygon") else "रेंज-सीमा के बाहर"}).</p>'
-            parts.append(f'<section class="section">{"<div class=callout>" + extra + "</div>" if extra else ""}<p style="margin-top:1rem">इस गांव के लिए अभी कोई वीडियो या लेख दर्ज नहीं है। {esc(notes)}</p><p style="margin-top:.8rem"><a class="btn" href="{h("yogdan")}">इस गांव के बारे में बताइए</a></p></section></div>')
-            return "".join(parts)
 
-        c = r["counts"]
-        ws, nv = r["claims"]["well_supported"], r["claims"]["needs_verification"]
-        # summary row
-        parts.append(f"""<div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.4rem 0 1rem">
-<span class="tag">{c['accepted']} स्वीकृत स्रोत</span><span class="tag">{c['claims']} दावे</span><span class="tag">{len(ws)} पक्के/मिलान</span>{f'<span class="tag">{sum(len(m["frames"]) for m in self.media.get(slug, []))} तस्वीरें</span>' if self.media.get(slug) else ''}
-</div>""")
-        c51 = v.get("census_1951")
-        c81 = v.get("census_1981")
-        co = v.get("coordinates")
-        facts = []
+        # at a glance
+        tiles = []
+        if c81.get("persons"):
+            tiles = [(fmt_int(c81["persons"]), "लोग, 1981"), (fmt_int(c81.get("households", "")), "परिवार, 1981"), (fmt_int(c81.get("area_hectares", "")), "हेक्टेयर")]
+        elif c51.get("persons"):
+            tiles = [(fmt_int(c51["persons"]), "लोग, 1951"), (fmt_int(c51.get("households", "")), "परिवार, 1951"), (fmt_int(c51.get("houses", "")), "घर, 1951")]
+        if tiles:
+            parts.append('<div class="facts">' + "".join(f"<div><b>{esc(a)}</b><span>{esc(b)}</span></div>" for a, b in tiles) + "</div>")
+        lines = []
         if v.get("official_list_1992"):
-            facts.append(f'1992 की सरकारी सूची ("महाजन रेंज के कुल 33 गांव", राजस्थान विधानसभा, 5 मार्च 1992): क्रमांक <b>{esc(v["official_list_1992"])}</b>')
-        if c81 and c81.get("persons"):
-            facts.append(f'1981 की जनगणना (आख़िरी): <b>{esc(c81["persons"])}</b> लोग, {esc(c81.get("households"))} परिवार, {esc(c81.get("area_hectares"))} हेक्टेयर (कोड {esc(c81.get("code"))}, "{esc(c81.get("name"))}"). {"2001 से जनगणना में नहीं; रेंज में शामिल।" if "absent" in c81.get("after_1981", "") else ""}')
-        elif c81:
-            facts.append(f'1981 की जनगणना: गैर-आबाद राजस्व गांव "{esc(c81.get("name"))}" ({esc(c81.get("area_hectares"))} हेक्टेयर, कोड {esc(c81.get("code"))}). {"2001 से रेंज में शामिल।" if "absent" in c81.get("after_1981", "") else ""}')
-        if c51 and c51.get("list") == "populated":
-            facts.append(f'1951 की जनगणना: <b>{esc(c51.get("persons"))}</b> लोग, {esc(c51.get("households"))} परिवार, {esc(c51.get("houses"))} घर, {esc(c51.get("area_acres"))} एकड़ (कोड {esc(c51.get("code"))}, "{esc(c51.get("name"))}"{", मिलान संभावित" if c51.get("match") == "probable" else ""})')
-        elif c51:
-            facts.append(f'1951 की जनगणना में गैर-आबाद राजस्व गांव "{esc(c51.get("name"))}" (कोड {esc(c51.get("code"))}){", मिलान संभावित" if c51.get("match") == "probable" else ""}')
-        if co and co.get("lat"):
-            facts.append(f'जगह: {co["lat"]}, {co["lon"]} ({"रेंज-सीमा के अंदर" if co.get("inside_range_polygon") else "रेंज-सीमा के बाहर"}; {esc(co.get("source", "")[:80])})')
-        if facts:
-            parts.append('<div class="callout" style="margin-bottom:1rem">' + "".join(f'<p class="small">{x}</p>' for x in facts) + '</div>')
-        if notes:
-            parts.append(f'<p class="prose small muted">{esc(notes)}</p>')
+            lines.append(f'सरकारी सूची (विधानसभा, 1992) में क्रमांक <b>{esc(v["official_list_1992"])}</b>')
+        if c81.get("persons") and c51.get("persons"):
+            lines.append(f'1951 में {fmt_int(c51["persons"])} लोग, {fmt_int(c51.get("households", ""))} परिवार')
+        elif c81 and not c81.get("persons"):
+            lines.append(f'1981 में बिना आबादी का राजस्व गांव "{esc(c81.get("name"))}", {fmt_int(c81.get("area_hectares", ""))} हेक्टेयर')
+        if co.get("lat"):
+            lines.append("जगह: आज की रेंज-सीमा के " + ("अंदर" if co.get("inside_range_polygon") else "बाहर") + f' · <a href="{h("naksha")}">नक्शे पर देखें</a>')
+        parts.append("".join(f'<p class="factline">{x}</p>' for x in lines))
 
-        # media
+        # photos first, as a swipe row
         vids = self.media.get(slug, [])
-        if vids:
-            parts.append('<section class="section"><div class="section-head"><h2>तस्वीरें और वीडियो</h2></div>')
-            for vid in vids:
-                parts.append(self.video_block(slug, vid, depth))
-            parts.append("</section>")
+        frames = [(vid, f) for vid in vids for f in vid["frames"]]
+        if frames:
+            figs = "".join(
+                f'<figure><img loading="lazy" src="{self.images.src(vid["dir"] / f["file"], slug, vid["video_id"], depth=depth)}" alt="{esc(f.get("description_hi") or f["description"])}"><figcaption>{esc(f.get("description_hi") or f["description"])}</figcaption></figure>'
+                for vid, f in frames[:10])
+            parts.append(f'<section class="sec" style="padding-bottom:.4rem"><h2>तस्वीरें</h2><p class="sub">बाएं खिसकाइए। {len(frames)} तस्वीरें, {len(vids)} वीडियो/पोस्ट से।</p><div class="hscroll">{figs}</div></section>')
 
-        # claims
-        if ws or nv:
-            parts.append('<section class="section"><div class="section-head"><h2>क्या पता है</h2><span class="small muted">हर पंक्ति के साथ उसकी जांच का स्तर</span></div>')
-            if ws:
-                parts.append("<h3 class='muted' style='margin-bottom:.5rem'>पक्का या दो स्रोतों से मिलान</h3>" + self.claims_list(ws))
-            if nv:
-                parts.append("<h3 class='muted' style='margin:1rem 0 .5rem'>अभी एक ही स्रोत, या जांच बाकी</h3>" + self.claims_list(nv))
-            parts.append("</section>")
-
-        # entities
-        ent = r.get("entities", {})
-        if any(ent.get(k) for k in ("people", "places", "events")):
-            parts.append('<section class="section"><h2>कौन, कहां, कब</h2><dl class="kv" style="margin-top:.8rem">')
-            for k, label in (("people", "लोग"), ("places", "जगहें"), ("events", "घटनाएं"), ("organizations", "संस्थाएं")):
-                if ent.get(k):
-                    parts.append(f"<dt>{label}</dt><dd>{esc('; '.join(ent[k][:14]))}</dd>")
-            parts.append("</dl><p class='small muted' style='margin-top:.6rem'>नाम स्रोतों से जैसे के तैसे लिए गए हैं; सार्वजनिक पोस्ट और वीडियो में जो नाम खुद लोगों ने लिखे, वही यहां हैं।</p></section>")
-
-        # sources
-        srcs = r.get("sources", {})
-        acc = [(sid, s) for sid, s in srcs.items() if s.get("resolution", {}).get("decision") == "accept"]
-        if acc:
-            acc.sort(key=lambda x: -x[1].get("relevance", {}).get("score", 0))
-            parts.append('<section class="section"><div class="section-head"><h2>स्रोत</h2><span class="small muted">जो इस गांव के बारे में सीधे बोलते हैं</span></div><ul class="srcs">')
-            for sid, s in acc:
-                st = SOURCE_TYPE_HI.get(s.get("source_type"), s.get("source_type", ""))
-                url = s.get("url", "")
-                link = f'<a href="{esc(url)}" rel="noopener">{esc(s.get("title") or url)}</a>' if url.startswith("http") else esc(s.get("title") or url)
-                parts.append(f'<li>{link}<div class="meta">{esc(st)} · {esc(s.get("platform",""))} · {esc(s.get("published_date") or "तारीख नहीं")}</div></li>')
-            parts.append("</ul></section>")
-        shared = r.get("shared_umbrella_sources", [])
-        if shared:
-            parts.append(f'<p class="small muted">साझा स्रोत (पूरे 34 गांव के बारे में, इस गांव का नाम लेते हुए): {len(shared)} · <a href="{h("gaon/34-gaon")}">साझा इकाई</a></p>')
-
-        # followups
+        acc = []
+        if r:
+            ws, nv = r["claims"]["well_supported"], r["claims"]["needs_verification"]
+            if ws or nv:
+                inner = ""
+                if ws:
+                    inner += "<p class='small muted' style='margin-bottom:.5rem'>पक्का, या दो स्रोतों से मिलान</p>" + self.claims_list(ws)
+                if nv:
+                    inner += "<p class='small muted' style='margin:1rem 0 .5rem'>अभी एक ही स्रोत, या जांच बाकी</p>" + self.claims_list(nv)
+                acc.append(("क्या पता है", f"{len(ws) + len(nv)}", inner, True))
+            if vids:
+                acc.append(("वीडियो और पोस्ट, पूरे", f"{len(vids)}", "".join(self.video_block(slug, vid, depth) for vid in vids), False))
+            ent = r.get("entities", {})
+            if any(ent.get(k) for k in ("people", "places", "events")):
+                inner = '<dl class="kv">' + "".join(f"<dt>{label}</dt><dd>{esc('; '.join(ent[k][:14]))}</dd>" for k, label in (("people", "लोग"), ("places", "जगहें"), ("events", "घटनाएं"), ("organizations", "संस्थाएं")) if ent.get(k)) + "</dl><p class='small muted' style='margin-top:.6rem'>नाम स्रोतों से जैसे के तैसे; सार्वजनिक पोस्ट में जो नाम लोगों ने खुद लिखे, वही।</p>"
+                acc.append(("कौन, कहां, कब", "", inner, False))
+            srcs = r.get("sources", {})
+            ok = [(sid, x) for sid, x in srcs.items() if x.get("resolution", {}).get("decision") == "accept"]
+            if ok:
+                ok.sort(key=lambda x: -x[1].get("relevance", {}).get("score", 0))
+                items = ""
+                for sid, x in ok:
+                    stp = SOURCE_TYPE_HI.get(x.get("source_type"), x.get("source_type", ""))
+                    url = x.get("url", "")
+                    link = f'<a href="{esc(url)}" rel="noopener">{esc(x.get("title") or url)}</a>' if url.startswith("http") else esc(x.get("title") or url)
+                    items += f'<li>{link}<div class="meta">{esc(stp)} · {esc(x.get("platform",""))} · {esc(x.get("published_date") or "तारीख नहीं")}</div></li>'
+                acc.append(("स्रोत", f"{len(ok)}", f'<ul class="srcs">{items}</ul>', False))
+        names_inner = ""
+        if variants:
+            names_inner += f'<p><b>दूसरे नाम और वर्तनी:</b> {esc(", ".join(variants[:12]))}</p>'
+        if notes:
+            names_inner += f'<p class="small muted" style="margin-top:.6rem">{esc(notes)}</p>'
+        if names_inner:
+            acc.append(("नाम और पहचान", "", names_inner, False))
         fu = self.followups.get(slug, [])
         if fu:
-            parts.append('<section class="section"><h2>क्या छूटा है, किसमें मदद चाहिए</h2><ul class="list" style="margin-top:.6rem">')
-            for row in fu:
-                how = f' <span class="muted small">({esc(row["how"])})</span>' if row["how"] else ""
-                parts.append(f'<li>{esc(row["text"])}{how}</li>')
-            parts.append(f'</ul><p style="margin-top:.8rem"><a class="btn" href="{h("yogdan")}">इस गांव के बारे में कुछ भेजें</a></p></section>')
-        else:
-            parts.append(f'<section class="section"><p>क्या आपका परिवार {esc(hi)} से है? <a href="{h("yogdan")}">यहां बताइए</a>।</p></section>')
+            inner = '<ul class="list">' + "".join(f'<li>{esc(row["text"])}' + (f' <span class="muted small">({esc(row["how"])})</span>' if row["how"] else "") + "</li>" for row in fu) + "</ul>"
+            acc.append(("क्या छूटा है", f"{len(fu)}", inner, False))
+        if acc:
+            parts.append('<section class="sec" style="padding-top:1rem">')
+            for title, count, inner, is_open in acc:
+                cnt = f"<small>{esc(count)}</small>" if count else ""
+                parts.append(f'<details class="acc"{" open" if is_open and not frames else ""}><summary><span>{esc(title)}{cnt}</span></summary><div class="in">{inner}</div></details>')
+            parts.append("</section>")
+        if not r and not frames:
+            parts.append('<p class="prose" style="margin-top:1rem">इस गांव का अभी कोई वीडियो या लेख हमारे पास नहीं है। पहली याद आपकी हो सकती है।</p>')
+
+        parts.append(f'<div class="askcard"><h3>क्या आपका परिवार {esc(hi)} से है?</h3><p class="small" style="color:var(--ink2)">घर किस जगह था, कुआं किसका था, मेला कब लगता था। एक छोटी बात भी काम की है।</p><a class="btn block" href="{h("yogdan")}">अपनी याद भेजिए</a></div>')
+
+        official, other = self._units()
+        order = official + other
+        i = next((k for k, x in enumerate(order) if x["slug"] == slug), None)
+        if i is not None:
+            prv, nxt = order[i - 1], order[(i + 1) % len(order)]
+            parts.append(f'<nav class="pn" aria-label="दूसरे गांव"><a href="{h("gaon/" + prv["slug"])}"><span>← पिछला</span><b>{esc(prv["names"]["hi"])}</b></a><a class="n" href="{h("gaon/" + nxt["slug"])}"><span>अगला →</span><b>{esc(nxt["names"]["hi"])}</b></a></nav>')
         parts.append("</div>")
         return "".join(parts)
 
@@ -993,6 +1194,15 @@ class Site:
 </section>
 </div>"""
 
+    def page_aur(self, depth=0) -> str:
+        items = "".join(f'<li><a href="{self.href(r, depth)}"><div><b>{esc(label)}</b><span>{esc(desc)}</span></div>{icon("next", 20)}</a></li>' for r, label, desc in SECONDARY)
+        return f"""<div class="wrap"><section class="sec">
+<h1>और</h1>
+<p class="sub" style="margin-top:.5rem">बाकी सब कुछ, एक जगह।</p>
+<ul class="morelist">{items}</ul>
+<p class="small muted" style="margin-top:1.4rem">34gaon.com · TechnoTaau Team, संयोजक जाखड़ सिंह · {esc(TAGLINE)}</p>
+</section></div>"""
+
     def page_srot(self, depth=0) -> str:
         st = self.stats
         # bibliography: accepted sources across all units, grouped by type
@@ -1048,6 +1258,7 @@ class Site:
             ("chaupal", "चौपाल", self.page_chaupal(depth_top), depth_top),
             ("yogdan", "योगदान", self.page_yogdan(depth_top), depth_top),
             ("srot", "स्रोत", self.page_srot(depth_top), depth_top),
+            ("aur", "और", self.page_aur(depth_top), depth_top),
         ]
         vd = depth_top + 1 if self.mode == "multi" else depth_top
         for v in self.villages:
@@ -1080,13 +1291,16 @@ class Site:
 <script>
 (function(){
   var secs=document.querySelectorAll('section.route');
-  var links=document.querySelectorAll('nav.main a');
+  var links=document.querySelectorAll('nav.main a, nav.tabbar a');
+  var SECONDARY={{SECONDARY_JSON}};
   function show(){
+    if(location.hash && location.hash.indexOf('#/')!==0){var t=document.getElementById(location.hash.slice(1)); if(t){t.scrollIntoView(); return;}}
     var r=(location.hash||'#/index').replace(/^#\//,'')||'index';
     var found=false;
     secs.forEach(function(s){var on=s.dataset.route===r; s.hidden=!on; if(on)found=true;});
     if(!found){secs.forEach(function(s){s.hidden=s.dataset.route!=='index';}); r='index';}
-    links.forEach(function(a){var t=a.getAttribute('href').replace(/^#\//,''); if(t===r.split('/')[0])a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current');});
+    var top=r.split('/')[0]; var tab=SECONDARY.indexOf(top)>=0?'aur':top;
+    links.forEach(function(a){var t=a.getAttribute('href').replace(/^#\//,''); var want=a.closest('.tabbar')?tab:top; if(t===want)a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current');});
     window.scrollTo(0,0);
     var el=document.querySelector('section.route:not([hidden]) h1'); document.title=(el?el.textContent+' · ':'')+'34 गांव';
   }
@@ -1102,7 +1316,9 @@ section.route[hidden]{{display:none}}
 {self.topbar("index", 0)}
 <main>{"".join(sections)}</main>
 {self.footer(0)}
-{nav_js}"""
+{self.tabbar("index", 0)}
+{FINDER_JS}
+{nav_js.replace("{{SECONDARY_JSON}}", json.dumps([r for r, _, _ in SECONDARY]))}"""
         path = self.out / name
         path.write_text(doc, encoding="utf-8")
         shutil.rmtree(self.out / "_preview_cache", ignore_errors=True)

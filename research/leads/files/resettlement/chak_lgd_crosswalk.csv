@@ -1,0 +1,15 @@
+chak_in_source,source_url,source_date,lgd_code,lgd_name,parent_census_village_2011,census2011_code,subdistrict_lgd_2026,gram_panchayat_lgd,confidence,note
+"Chak 1 RSM, Tehsil Chhatargarh",https://indiankanoon.org/doc/150464229/,2025-02-19,952204,Lakhnasar - 1 RSM / लाखनसर - 1 आरएसएम,Lakhansar,069793,Chhatargarh,Krishan Nagar (262280),medium,"Two other '1 RSM' sub-villages exist in Poogal (Pugal-1 RSM 953162, Gogliwala-1 RSM 953155); the court says Tehsil Chhatargarh, so Lakhansar fits"
+"Chak 5 SJM, Khajuwala",https://indiankanoon.org/doc/150464229/,2025-02-19,952177,6 Sjm A - 5 Sjm,6 Sjm(A),069147,Khajuwala,Kundal (36032),medium,Census 2011 lists 6 Sjm(A) under Poogal sub-district; LGD now Khajuwala
+"Chak 15 KJD, Khajuwala",https://indiankanoon.org/doc/150464229/,2025-02-19,954823,Nosera- 15 Kjd,Nosera,069762,Khajuwala,Nosera Samrda (36042),medium,Also 'Nosera-15 KJD (Old)' 954430
+"Chak 18, 19 KJD Siyasar Chaugan",https://indiankanoon.org/doc/150464229/,2025-02-19,951990; 951994,4 Ssm -18 Kjd; 21 Kjd - 19 Kjd A,Siyasar Chaugan,069761,Khajuwala,Siyasar Chougan (36053),medium,
+Chak 5 STM,https://indiankanoon.org/doc/150464229/,2025-02-19,956096,Sattasar -5 Stm,Satasar,069835,Chhatargarh,Sattasar (36049),medium,
+Chak 5 SDWMU (allotted 19-01-1987),https://indiankanoon.org/doc/21996981/,2009-09-15,954857; 954861,Sattasar -5 Sdwmu A / B,Satasar,069835,Chhatargarh,,medium,Kankrala has 3 and 4 SDWM U; 5 SDWMU only under Sattasar
+"Chak 10-500 Dodd, Tehsil Pugal",https://indiankanoon.org/doc/150464229/,2025-02-19,946142,Chak 10-500 D.O.D.D. (R),"(LGD-only village, no census code)",,Poogal,Aduri (36003),medium-high,
+"Chak 3 Pavli, Tehsil Khajuwala (Bhojrasar oustee)",https://indiankanoon.org/doc/41210648/,2018-09-18,69755,3 Pwm,3 Pwm,069755,Khajuwala,3 Pwm (36000),medium,'Pavli' read as PWM
+Chak 3 KPM (allotted 05-09-1987),https://indiankanoon.org/doc/174785904/,2016-09-22,954754; 954763,Kharbara -3 Kpm; Kharbara - 3Kpm A,Kharbara,069789,Chhatargarh,,medium,
+"Chak 2 GWSM, Village Gajewala, Post Ranjeetpura, Tehsil Bajju",https://indiankanoon.org/doc/183389720/,2022-09-20,69379,"Gajjewala (parent); LGD lists 1 GWSM and 3 GWSM A/B, not 2 GWSM",Gajjewala,069379,Bajju,Gajjewala (262191),medium,
+"Chak 34 KYD (new abadi, panchayat HQ)",https://archive.org/details/rajasthanlegislature.assembly10.session4.24-03-1995,1995-03-24,69729,34 Kyd,34 Kyd,069729,Khajuwala,34 Kyd (36001),high,
+Chak 8 DL (land of 'sa. Kumbhana MFFR khatedar'),https://archive.org/details/in.gazette.rajasthan_extraordinary.2025-12-23.5116939,2025-12-23,,(DL chaks lie in GPs Takhatpura 4TM / Kharbara 3 DL),,,Chhatargarh,,low,Parent village of 8 DL not resolved
+Chak 7 KPD,https://indiankanoon.org/doc/150464229/,2025-02-19,66091,"7 Kpd (Sri Ganganagar district, LGD sub-district 6915)",,066091,,,low,No 7 KPD in Bikaner LGD; 13 and 14 KPD are in Chhatargarh (GP Lunkhan). Unresolved
+Chak 4 KLM,https://indiankanoon.org/doc/150464229/,2025-02-19,,,,,,,unresolved,"One petitioner in the same batch lives at 4 KLM, Tehsil Gharsana (Sri Ganganagar)"

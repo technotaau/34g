@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0E1017">
 <title>लाडेरा · 34 गांव</title>
 <meta name="description" content="गांव उजड़े, जड़ें नहीं।">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;700&display=swap">
@@ -171,23 +172,141 @@ footer .wrap{display:grid;gap:.5rem}
 footer .tag-line{font-family:"Rozha One",serif;font-size:1.6rem;color:var(--ink)}
 @media (prefers-reduced-motion:no-preference){ .gallery figure,.strip img{transition:transform .25s} .gallery figure:hover,.strip figure:hover img{transform:translateY(-3px)} }
 @media (max-width:480px){ body{font-size:16px} .hero{min-height:78vh} .big b{font-size:2.2rem} }
+
+/* ---- 2026-09 mobile-first layer: bottom tabs, bigger targets, calmer pages ---- */
+body{font-size:17.5px;line-height:1.7;padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
+.top .wrap{min-height:56px}
+.brand{font-size:1.45rem}
+.brand small{display:none}
+nav.main{display:none}
+.top .find{margin-left:auto;display:inline-flex;align-items:center;gap:.4rem;min-height:44px;padding:0 .9rem;border-radius:999px;border:1px solid var(--line);color:var(--ink2);text-decoration:none;font-size:.95rem}
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:20;display:grid;grid-template-columns:repeat(5,1fr);background:rgba(14,16,23,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+.tabbar a{display:grid;justify-items:center;align-content:center;gap:2px;min-height:62px;color:var(--muted);text-decoration:none;font-size:.8rem;font-weight:500;letter-spacing:.01em}
+.tabbar a[aria-current="page"]{color:var(--sand)}
+.tabbar a[aria-current="page"] .ic{stroke-width:2.3}
+@media (min-width:900px){
+  body{padding-bottom:0}
+  .tabbar{display:none}
+  nav.main{display:flex;margin-left:auto;overflow:visible}
+  .top .find{margin-left:.6rem}
+}
+.hero{min-height:min(74svh,760px)}
+.hero .bg{object-position:30% 55%}
+.hero h1{font-size:clamp(2.7rem,11vw,6.6rem)}
+.hero .lede{font-size:1.12rem;max-width:40ch}
+.cta-row{display:flex;flex-wrap:wrap;gap:.7rem 1rem;align-items:center;margin-top:1.4rem}
+.btn{min-height:52px;display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:0 1.4rem;font-size:1.05rem}
+.btn.block{width:100%}
+.textlink{color:var(--ink2);min-height:44px;display:inline-flex;align-items:center}
+.sec{padding-block:clamp(2rem,6vw,3.6rem)}
+.sec h2{margin-bottom:.4rem}
+.sec .sub{color:var(--muted);font-size:.95rem;margin-bottom:1.1rem;max-width:52ch}
+/* village finder */
+.finder{position:relative;margin-bottom:1rem}
+.finder input{width:100%;min-height:54px;padding:0 1rem 0 3rem;font:inherit;font-size:1.05rem;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.finder input::placeholder{color:var(--muted)}
+.finder input:focus{outline:2px solid var(--sand);outline-offset:1px}
+.finder .ic{position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:var(--muted)}
+.chips{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:.6rem}
+.chip{display:grid;gap:.1rem;min-height:64px;padding:.7rem .9rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.chip b{font-family:"Rozha One",serif;font-weight:400;font-size:1.35rem;line-height:1.15}
+.chip span{font-size:.82rem;color:var(--muted)}
+.chip:active,.chip:hover{border-color:var(--sand2)}
+.chips.more .chip{background:transparent;border-style:dashed;min-height:56px}
+.chips.more .chip b{font-size:1.15rem;color:var(--ink2)}
+.none{display:none;color:var(--muted);padding:.6rem 0}
+/* story steps */
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:0}
+.steps li{display:grid;grid-template-columns:4.6rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--line)}
+.steps li:last-child{border-bottom:1px solid var(--line)}
+.steps .y{font-family:"Rozha One",serif;font-size:1.5rem;line-height:1.1;color:var(--sand)}
+.steps p{font-size:1.02rem}
+.steps small{display:block;color:var(--muted);font-size:.8rem;margin-top:.2rem}
+.onequote{margin:0;padding:1.6rem 0 0;border-top:3px solid var(--sand)}
+.onequote p{font-family:"Tiro Devanagari Hindi",serif;font-size:clamp(1.45rem,5.2vw,2.2rem);line-height:1.45}
+.onequote cite{display:block;margin-top:.8rem;font-style:normal;color:var(--muted);font-size:.88rem}
+.trio{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem}
+.trio div{padding:.9rem .6rem;border-radius:12px;background:var(--panel);text-align:center}
+.trio b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(1.5rem,6vw,2.6rem);line-height:1.05;color:var(--sand)}
+.trio span{display:block;font-size:.8rem;color:var(--ink2);margin-top:.3rem;line-height:1.35}
+.trio i{display:block;font-style:normal;font-size:.7rem;color:var(--muted);margin-top:.2rem}
+.strip figure{flex-basis:min(78vw,420px)}
+/* village list */
+.vlist{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
+.vlist a{display:grid;grid-template-columns:64px 1fr auto;gap:.9rem;align-items:center;min-height:76px;padding:.5rem .7rem .5rem .5rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.vlist .th{width:64px;height:64px;border-radius:9px;object-fit:cover;background:var(--bg2)}
+.vlist .th.ph0{display:grid;place-items:center;font-family:"Rozha One",serif;font-size:1.6rem;color:var(--sand2);background:linear-gradient(160deg,#2A2416,var(--bg2))}
+.vlist b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:1.3rem;line-height:1.2}
+.vlist span{display:block;font-size:.84rem;color:var(--muted);line-height:1.4}
+.vlist .ic{color:var(--muted)}
+.pill{display:inline-block;font-size:.72rem;padding:.05rem .5rem;border-radius:999px;border:1px dashed var(--muted);color:var(--ink2);margin-left:.3rem;vertical-align:middle}
+/* village page */
+.vhead{min-height:min(50svh,520px)}
+.vhead .back{display:inline-flex;align-items:center;gap:.2rem;min-height:44px;color:#E9E3D6;text-decoration:none;font-size:.95rem}
+.vhead h1{font-size:clamp(2.8rem,12vw,5.6rem)}
+.vhead .en{font-size:1.05rem}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;margin:1.2rem 0 .6rem}
+.facts div{padding:.8rem .5rem;border-radius:12px;background:var(--panel);text-align:center}
+.facts b{display:block;font-family:"Rozha One",serif;font-weight:400;font-size:clamp(1.4rem,6vw,2.2rem);line-height:1.05;color:var(--sand)}
+.facts span{display:block;font-size:.78rem;color:var(--ink2);margin-top:.25rem}
+.factline{font-size:.95rem;color:var(--ink2);margin:.3rem 0}
+.factline b{color:var(--ink)}
+.hscroll{display:flex;gap:.6rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-block:.2rem .8rem;margin-inline:calc(-1 * clamp(16px,4vw,40px));padding-inline:clamp(16px,4vw,40px);scrollbar-width:none}
+.hscroll::-webkit-scrollbar{display:none}
+.hscroll figure{flex:0 0 min(80vw,380px);margin:0;scroll-snap-align:start}
+.hscroll img{aspect-ratio:4/3;width:100%;object-fit:cover;border-radius:12px}
+.hscroll figcaption{font-size:.86rem;color:var(--ink2);padding:.4rem .1rem 0;line-height:1.45}
+details.acc{border-top:1px solid var(--line)}
+details.acc:last-of-type{border-bottom:1px solid var(--line)}
+details.acc>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:60px;cursor:pointer;font-size:1.12rem;font-weight:500}
+details.acc>summary::-webkit-details-marker{display:none}
+details.acc>summary::after{content:"";width:.6rem;height:.6rem;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);margin-right:.3rem;transition:transform .2s}
+details.acc[open]>summary::after{transform:rotate(-135deg)}
+details.acc>summary small{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.4rem}
+details.acc>.in{padding:0 0 1.2rem}
+.askcard{margin-top:1.6rem;padding:1.3rem;border-radius:14px;background:linear-gradient(160deg,#2A2416,var(--panel));display:grid;gap:.8rem}
+.askcard h3{font-family:"Tiro Devanagari Hindi",serif;font-size:1.3rem}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin-top:1.4rem}
+.pn a{display:grid;gap:.1rem;min-height:64px;padding:.7rem .9rem;border-radius:12px;border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.pn a.n{text-align:right}
+.pn span{font-size:.78rem;color:var(--muted)}
+.pn b{font-family:"Rozha One",serif;font-weight:400;font-size:1.2rem}
+/* "और" page */
+.morelist{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
+.morelist a{display:grid;grid-template-columns:1fr auto;align-items:center;gap:.8rem;min-height:72px;padding:.8rem 1rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.morelist b{display:block;font-size:1.12rem;font-weight:500}
+.morelist span{display:block;font-size:.88rem;color:var(--muted)}
+footer{padding-block:1.6rem 1.8rem;font-size:.86rem}
+footer .tag-line{font-size:1.35rem}
+@media (max-width:480px){ .hero{min-height:70svh} h2{font-size:1.75rem} .chip b{font-size:1.25rem} }
 </style>
 </head>
 <body>
-<header class="top"><div class="wrap"><a class="brand" href="../index.html">34 गांव<small>34gaon.com</small></a><nav class="main" aria-label="मुख्य"><a href="../index.html">घर</a><a href="../gaon.html" aria-current="page">गांव</a><a href="../naksha.html">नक्शा</a><a href="../samay.html">समय-रेखा</a><a href="../yaadein.html">यादें</a><a href="../asar.html">रेंज का असर</a><a href="../basera.html">नया बसेरा</a><a href="../chaupal.html">चौपाल</a><a href="../yogdan.html">योगदान</a><a href="../srot.html">स्रोत</a></nav></div></header>
+<header class="top"><div class="wrap"><a class="brand" href="../index.html">34 गांव<small>34gaon.com</small></a><nav class="main" aria-label="मुख्य"><a href="../index.html">घर</a><a href="../gaon.html" aria-current="page">गांव</a><a href="../naksha.html">नक्शा</a><a href="../yaadein.html">यादें</a><a href="../samay.html">समय-रेखा</a><a href="../basera.html">नया बसेरा</a><a href="../asar.html">रेंज का असर</a><a href="../chaupal.html">चौपाल</a><a href="../yogdan.html">जुड़िए</a><a href="../srot.html">स्रोत और तरीका</a></nav><a class="find" href="../gaon.html"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m20 20-4.2-4.2"/></svg><span>गांव खोजें</span></a></div></header>
 <main><section class="vhead nophoto"><div class="text"><div class="wrap">
-<p class="eyebrow"><a href="../gaon.html" style="color:inherit">गांव</a> · अधिग्रहित</p>
+<a class="back" href="../gaon.html"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5 8 12l7 7"/></svg> सभी गांव</a>
 <h1>लाडेरा</h1>
-<div class="en">Ladera · Ladera Mahajan, Ladera Bikaner, Ladera Lunkaransar, लाडेरा महाजन, लाडेरा बीकानेर</div>
+<div class="en">Ladera</div>
 
-</div></div></section><div class="wrap"><div class="row" style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.4rem 0 1rem">
-<span class="tag">0 स्वीकृत स्रोत</span><span class="tag">9 दावे</span><span class="tag">0 पक्के/मिलान</span>
-</div><div class="callout" style="margin-bottom:1rem"><p class="small">1992 की सरकारी सूची ("महाजन रेंज के कुल 33 गांव", राजस्थान विधानसभा, 5 मार्च 1992): क्रमांक <b>21 लाडेरा</b></p><p class="small">1981 की जनगणना (आख़िरी): <b>323</b> लोग, 46 परिवार, 2521 हेक्टेयर (कोड 2/2/21, "Ladera"). 2001 से जनगणना में नहीं; रेंज में शामिल।</p><p class="small">1951 की जनगणना: <b>103</b> लोग, 18 परिवार, 18 घर, 6230 एकड़ (कोड 54, "Ladera / लाडेरा")</p><p class="small">जगह: 28.6763, 73.5873 (रेंज-सीमा के अंदर; US Army Map Service 1:250,000 NH 43-14 (1955, compiled from Survey of India 1913)</p></div><p class="prose small muted">Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified. Listed as &#x27;लाडेरा&#x27; in the community list of 34 (Bharat Speaks comments, Aug 2025).</p><section class="section"><div class="section-head"><h2>क्या पता है</h2><span class="small muted">हर पंक्ति के साथ उसकी जांच का स्तर</span></div><h3 class='muted' style='margin:1rem 0 .5rem'>अभी एक ही स्रोत, या जांच बाकी</h3><ul class="claims"><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>गांव 1981 से 1986 के बीच खाली कराए गए</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>धतरवाल गांवों के संस्थापक नाथू धतरवाल</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>इस स्रोत के अनुसार लाडेरा बीकानेर तहसील में है, न कि लूणकरणसर में — शोध ब्रीफ से विरोधाभास।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>2011 की जनगणना के अनुसार इस लाडेरा की जनसंख्या 475 थी।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>2011 की जनगणना अनुसार साक्षरता दर 69.38% थी।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>अनुसूचित जाति जनसंख्या 18.74% थी।</span></li><li class="one"><span class="badge b-one">एक स्रोत</span><span>लाडेरा में एक उप स्वास्थ्य केंद्र है।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>संभव है कि &#x27;लालेरा पट्टा महाजन&#x27; ही शोध इकाई &#x27;लाडेरा&#x27; का सही/वर्तमान नाम हो, क्योंकि भौगोलिक स्थिति (लूणकरणसर तहसील, महाजन क्षेत्र) मेल खाती है।</span></li></ul></section><section class="section"><h2>कौन, कहां, कब</h2><dl class="kv" style="margin-top:.8rem"><dt>लोग</dt><dd>Kana Ram; Shakantula Devi</dd><dt>जगहें</dt><dd>Baladesar; Bikaner; Jamsar; Mahajan; Malasar; Suratgarh</dd><dt>संस्थाएं</dt><dd>Rajasthan High Court</dd></dl><p class='small muted' style='margin-top:.6rem'>नाम स्रोतों से जैसे के तैसे लिए गए हैं; सार्वजनिक पोस्ट और वीडियो में जो नाम खुद लोगों ने लिखे, वही यहां हैं।</p></section><p class="small muted">साझा स्रोत (पूरे 34 गांव के बारे में, इस गांव का नाम लेते हुए): 2 · <a href="../gaon/34-gaon.html">साझा इकाई</a></p><section class="section"><h2>क्या छूटा है, किसमें मदद चाहिए</h2><ul class="list" style="margin-top:.6rem"><li>असली लाडेरा (रेंज) बनाम मालासर वाला लाडेरा; &#x27;लालेरा पट्टा महाजन&#x27; का संबंध? <span class="muted small">(पुष्टि)</span></li></ul><p style="margin-top:.8rem"><a class="btn" href="../yogdan.html">इस गांव के बारे में कुछ भेजें</a></p></section></div></main>
+</div></div></section><div class="wrap"><div class="facts"><div><b>323</b><span>लोग, 1981</span></div><div><b>46</b><span>परिवार, 1981</span></div><div><b>2,521</b><span>हेक्टेयर</span></div></div><p class="factline">सरकारी सूची (विधानसभा, 1992) में क्रमांक <b>21 लाडेरा</b></p><p class="factline">1951 में 103 लोग, 18 परिवार</p><p class="factline">जगह: आज की रेंज-सीमा के अंदर · <a href="../naksha.html">नक्शे पर देखें</a></p><section class="sec" style="padding-top:1rem"><details class="acc" open><summary><span>क्या पता है<small>9</small></span></summary><div class="in"><p class='small muted' style='margin:1rem 0 .5rem'>अभी एक ही स्रोत, या जांच बाकी</p><ul class="claims"><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>गांव 1981 से 1986 के बीच खाली कराए गए</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>धतरवाल गांवों के संस्थापक नाथू धतरवाल</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>समुदाय द्वारा साझा सूची में 34 में से 32 गांवों के नाम (असत्यापित, एकल स्रोत)</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>इस स्रोत के अनुसार लाडेरा बीकानेर तहसील में है, न कि लूणकरणसर में — शोध ब्रीफ से विरोधाभास।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>2011 की जनगणना के अनुसार इस लाडेरा की जनसंख्या 475 थी।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>2011 की जनगणना अनुसार साक्षरता दर 69.38% थी।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>अनुसूचित जाति जनसंख्या 18.74% थी।</span></li><li class="one"><span class="badge b-one">एक स्रोत</span><span>लाडेरा में एक उप स्वास्थ्य केंद्र है।</span></li><li class="todo"><span class="badge b-todo">जांच बाकी</span><span>संभव है कि &#x27;लालेरा पट्टा महाजन&#x27; ही शोध इकाई &#x27;लाडेरा&#x27; का सही/वर्तमान नाम हो, क्योंकि भौगोलिक स्थिति (लूणकरणसर तहसील, महाजन क्षेत्र) मेल खाती है।</span></li></ul></div></details><details class="acc"><summary><span>कौन, कहां, कब</span></summary><div class="in"><dl class="kv"><dt>लोग</dt><dd>Kana Ram; Shakantula Devi</dd><dt>जगहें</dt><dd>Baladesar; Bikaner; Jamsar; Mahajan; Malasar; Suratgarh</dd><dt>संस्थाएं</dt><dd>Rajasthan High Court</dd></dl><p class='small muted' style='margin-top:.6rem'>नाम स्रोतों से जैसे के तैसे; सार्वजनिक पोस्ट में जो नाम लोगों ने खुद लिखे, वही।</p></div></details><details class="acc"><summary><span>नाम और पहचान</span></summary><div class="in"><p><b>दूसरे नाम और वर्तनी:</b> Ladera Mahajan, Ladera Bikaner, Ladera Lunkaransar, लाडेरा महाजन, लाडेरा बीकानेर, Lalera, लालेरा, Lalera Patta Mahajan, लालेरा पट्टा महाजन</p><p class="small muted" style="margin-top:.6rem">Dhatarwal community history. A different Ladera exists near Malasar/Jamsar (Bikaner tehsil). Possible transliteration drift: census village Lalera Patta Mahajan (069226) in Lunkaransar tehsil; unverified. Listed as &#x27;लाडेरा&#x27; in the community list of 34 (Bharat Speaks comments, Aug 2025).</p></div></details><details class="acc"><summary><span>क्या छूटा है<small>1</small></span></summary><div class="in"><ul class="list"><li>असली लाडेरा (रेंज) बनाम मालासर वाला लाडेरा; &#x27;लालेरा पट्टा महाजन&#x27; का संबंध? <span class="muted small">(पुष्टि)</span></li></ul></div></details></section><div class="askcard"><h3>क्या आपका परिवार लाडेरा से है?</h3><p class="small" style="color:var(--ink2)">घर किस जगह था, कुआं किसका था, मेला कब लगता था। एक छोटी बात भी काम की है।</p><a class="btn block" href="../yogdan.html">अपनी याद भेजिए</a></div><nav class="pn" aria-label="दूसरे गांव"><a href="../gaon/lakhor-moti.html"><span>← पिछला</span><b>लखोर मोटी</b></a><a class="n" href="../gaon/likhmisar.html"><span>अगला →</span><b>लिखमीसर</b></a></nav></div></main>
 <footer><div class="wrap">
 <div class="tag-line">गांव उजड़े, जड़ें नहीं।</div>
-<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–86 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
-<div>हर तथ्य के साथ उसकी जांच का स्तर: <span class="badge b-ok">पक्का</span> <span class="badge b-ok">मिलान</span> <span class="badge b-one">एक स्रोत</span> <span class="badge b-todo">जांच बाकी</span> <span class="badge b-conf">विरोधी स्रोत</span> · <a href="../srot.html">तरीका और स्रोत</a></div>
-<div class="small">Phase 1 preview · डेटा 2026-09-25 तक · तस्वीरें उनके रचनाकारों की हैं, हर तस्वीर के साथ श्रेय है।</div>
+<div>महाजन फील्ड फायरिंग रेंज (बीकानेर) के लिए 1982–87 में उजड़े गांवों की सामुदायिक स्मृति। TechnoTaau Team, संयोजक जाखड़ सिंह।</div>
+<div class="small">हर तथ्य के साथ उसका स्रोत है · <a href="../srot.html">तरीका और स्रोत</a> · तस्वीरें उनके रचनाकारों की, हर तस्वीर के साथ श्रेय · डेटा 2026-09-26 तक</div>
 </div></footer>
+<nav class="tabbar" aria-label="मुख्य (मोबाइल)"><a href="../index.html"><svg class="ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1z"/></svg><span>घर</span></a><a href="../gaon.html" aria-current="page"><svg class="ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.1-7-11.2A7 7 0 0 1 19 9.8C19 14.9 12 21 12 21z"/><circle cx="12" cy="9.8" r="2.4"/></svg><span>गांव</span></a><a href="../naksha.html"><svg class="ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3 6.2V20l6-2.2 6 2.2 6-2.2V4l-6 2.2z"/><path d="M9 4v13.8M15 6.2V20"/></svg><span>नक्शा</span></a><a href="../yaadein.html"><svg class="ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m21 15.5-4.5-4.5L8 19"/></svg><span>यादें</span></a><a href="../aur.html"><svg class="ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5.5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="18.5" cy="12" r="1.6"/></svg><span>और</span></a></nav>
+<script>
+(function(){
+  document.querySelectorAll('[data-finder]').forEach(function(box){
+    var inp=box.querySelector('input'); if(!inp) return;
+    var items=box.querySelectorAll('[data-k]'); var none=box.querySelector('.none');
+    inp.addEventListener('input',function(){
+      var q=inp.value.trim().toLowerCase(); var n=0;
+      items.forEach(function(a){var hit=!q||a.getAttribute('data-k').indexOf(q)>=0; (a.closest('li')||a).hidden=!hit; if(hit)n++;});
+      if(none) none.style.display=(q&&!n)?'block':'none';
+    });
+  });
+})();
+</script>
 </body>
 </html>
