@@ -297,7 +297,10 @@
 | Gemini live मॉडल (`gemini-3.8-live`, `gemini-3.1-flash-live-preview`): audio in $0.005/min, out $0.018/min; free tier "Free of charge" | सही (ai.google.dev/gemini-api/docs/pricing) |
 | Free tier का डेटा "to provide, improve, and develop Google products", "human reviewers may read" | सही (ai.google.dev/gemini-api/terms) |
 | Gemini API किसी ऐसी सेवा में नहीं जो "likely to be accessed by individuals under the age of 18" | सही (terms)। इसलिए Gemini केवल स्वयंसेवकों (18+) के interview-tool में, सार्वजनिक या बच्चों वाले हिस्से में नहीं। |
-| Paid tier का 55 दिन रखना | terms पन्ने पर यह शब्द नहीं मिला; agent के बताए दूसरे पन्ने (usage-policies) पर हो सकता है, जांच बाकी |
+| Paid tier का 55 दिन रखना | सही: usage-policies पर "Google retains the following data for fifty-five (55) days for the purposes of detecting and preventing violations" |
+| Live session की सीमा: audio 15 मिनट, connection लगभग 10 मिनट | सही (ai.google.dev/gemini-api/docs/live-session); session resumption और compression से आगे बढ़ती है |
+| Sarvam: training "Default Policy: Opt-In"; retention तय न करने पर "retained indefinitely"; STT ₹30/घंटा | सही (sarvam.ai/privacy-policy, docs.sarvam.ai/api/platform/data-retention, sarvam.ai/api-pricing) |
+| ElevenLabs: "By default, ElevenLabs retains conversation data for 2 years" | सही (elevenlabs.io/docs/eleven-agents/customization/privacy/retention) |
 | Sarvam: "Every new user receives ₹100 in credits" | सही (docs.sarvam.ai/api/getting-started/pricing) |
 | ElevenLabs Agents: Free में 15 min, फिर $0.080/min; Impact Program: nonprofit को "12 months of free Pro access" | सही (elevenlabs.io/pricing/agents, elevenlabs.io/impact-program)। उसी पन्ने पर startups के लिए "ElevenLabs Grant" (12 महीने, 33M characters) भी है। |
 

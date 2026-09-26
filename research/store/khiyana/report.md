@@ -68,7 +68,7 @@
 
 ### सांस्कृतिक जानकारी
 - [नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन](https://www.youtube.com/watch?v=YkQuyPfAoJ0) (video · video · 2024-10-01 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन' (10:14) by MKB Music . Mkb music - 7424835816 नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावी
+  - YouTube video 'नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन' (10:14) by MKB Music . Mkb music - [phone removed] नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावी
 - [Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan](https://www.youtube.com/watch?v=YGDc75dU39g) (video · video · 2024-09-27 · स्कोर 86) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Gajab ho gaya 😳 रेगिस्तान में अनोखा मेला Nathu DaDa 34 Ganv Lunkaransar, mahajan Rajasthan' (26:15) by Shubh Journey. Shubh Journey 1475 राजस्थान की रेगिस्तानी धरती पर स्थित एक अद्भुत मंदिर है, जो अपनी अनोखी भव्यता और संस्कृति के लिए जाना जाता है। यह मंदिर, जो रेत के धोरों के बीच स्थि
 - [सदस्य:धतरवाल जाट (Dhatarwal Jat community-history user essay)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · तिथि अज्ञात · स्कोर 74)
@@ -104,7 +104,7 @@
 
 ### त्योहार व परंपराएं
 - [नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन](https://www.youtube.com/watch?v=YkQuyPfAoJ0) (video · video · 2024-10-01 · स्कोर 90) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन' (10:14) by MKB Music . Mkb music - 7424835816 नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावी
+  - YouTube video 'नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन' (10:14) by MKB Music . Mkb music - [phone removed] नाथू दादा खिंयाणा धाम जागरण महावीर सांखला । Mahaveer Sankhla Nathu Dada Bhajan । नाथू दादा भजन म्हारा हंसला रे उड़जा उड़जा हंसले वाली चाल महावी
 - [Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.](https://www.youtube.com/watch?v=vVP-LlMw4p4) (video · video · 2024-08-30 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
   - YouTube video 'Nathu Dada Dhora Khiyana come and take a stroll in the fair and watch the wrestling match.' (5:50) by Rssuthar Jaisalmer. Mahajan Field Firing Range Nathu Dada Temple Village Khiyana Loonkaransar 20 Darasingh Dewasi 20190924_072226
 - [Beautiful wrestling. Mahajan Field Firing Range Nathu Dada Dhora Khiyana. 27 20190924_091926](https://www.youtube.com/watch?v=S3RMmydQupE) (video · video · 2024-09-08 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted

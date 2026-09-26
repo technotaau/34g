@@ -1082,7 +1082,7 @@ class Site:
             items.append(f'<li class="{e["phase"]}"><div><span class="when">{esc(e["when"])}</span><span class="phase">{esc(TL_PHASE.get(e["phase"], ""))}</span> <span class="badge b-{cls}">{esc(label)}</span></div><b>{esc(e["title"])}</b><p class="small">{esc(e["text"])}{link}</p></li>')
         return f"""<div class="wrap">
 <section class="section"><p class="eyebrow">समय-रेखा</p><h1>1938 से आज तक</h1>
-<p class="prose" style="margin-top:.6rem">अधिग्रहण की तारीख पर सरकारी कागज़ (1982, 1983-84) और लोगों की याद (1984-85) अलग हैं। दोनों सही हैं: पहले कागज़ पर ज़मीन गई, फिर दो-तीन साल में घर छूटे। इसलिए समय-रेखा चार हिस्सों में है।</p>
+<p class="prose" style="margin-top:.6rem">सरकारी कागज़ों में क्रम साफ़ है: 1982 में परियोजना मंज़ूर, 1985 में पुनर्वास योजना, दिसंबर 1986 तक 29 गांव ख़ाली, 1987 में ज़मीन सेना को। लोगों की याद में 1984-85 का साल है, जब घर छूटने शुरू हुए। दोनों साथ रखे गए हैं। इसलिए समय-रेखा चार हिस्सों में है।</p>
 <div class="phases" style="margin-top:1.2rem">
 <div><b>कानूनी अधिग्रहण</b><span class="small muted">1981–1987: फाइल, अवार्ड, लोकसभा</span></div>
 <div><b>विस्थापन</b><span class="small muted">1984–1986: परिवार निकले</span></div>
