@@ -1,0 +1,1264 @@
+Published by:
+
+       Director
+       Central Arid Zone research Institute
+       Jodhpur – 342 003 (Raj.) INDIA
+       Phone: +91 291 2786584
+       Fax: +91 291 2788706
+       Web site: www.cazri.res.in
+
+
+Correct citation:
+
+       Goyal, R.K. and Issac, V.C. 2009. Rainwater Harvesting Through
+       Tanka in Hot Arid Zone of India. Central Arid Zone Research Institute,
+       Jodhpur. pp 33
+
+
+
+
+       November, 2009
+
+
+
+
+Back page photographs:
+
+       Rooftop rainwater harvesting- CAZRI main building
+
+
+
+
+Printed at:
+
+       Evergreen Printers
+       14-C H.I.A. Jodhpur
+       Tel: 0291-2747767
+                                   FOREWORD
+
+
+        Availability and redistribution of available water assume prime
+importance in the sustainable development of arid regions which if available
+adequately can support intensive biotic population. The main difficulty
+associated with water resource planning and management is due to inherent
+degree of variability associated with rainfall, therefore rainwater harvesting
+during rainy season and subsequent use in lean period can substantially reduce
+the risk associated with activities requiring water.
+
+        Rainwater Harvesting which is “Conscious collection and storage of
+rainwater to cater to the demands of water, for drinking, domestic & irrigation
+purposes” meet about 35% demand of drinking water and also of orchards in
+hot arid zone through rainwater harvesting using tanka.
+
+        The improved tanka designs developed and demonstrated by Central
+Arid Zone Research Institute (CAZRI) have got wide acceptability in the
+region. The designs have been replicated in large numbers by different
+developmental agencies. An attempt has been made in this bulletin to cover all
+aspects of rainwater harvesting through tankas. The bulletin provides details
+of designs and estimates for various sizes of tanka. Although written
+primarily for Indian hot arid zone the bulletin can also be useful for other parts
+of the globe having similar climatic conditions.
+
+
+
+
+                                                                   (N.V.PATIL)
+                                                                       Director
+Place : Jodhpur
+Date : 19 November, 2009
+                                CONTENTS
+
+
+
+1. Introduction                                      -   1
+
+2. Rainwater harvesting                              -   2
+
+       2.1 Rainfall                                  -   2
+
+       2.2 Catchment                                 -   4
+
+       2.3 Runoff Coefficient                        -   5
+
+3. Techniques for enhancement of runoff              -   6
+
+4. Collection/storage of harvested rainwater         -   6
+
+5. Improved tanka                                    -   7
+
+       5.1 Capacity of tanka                         -   7
+
+       5.2 Design of tanka                           -   8
+
+       5.3 Construction of tanka                     -   9
+
+6. Materials and methods for construction of tanka   -   9
+
+       6.1 Tools and laborers                        -   9
+
+       6.2 Sand                                      -   10
+
+       6.3 Water                                     -   10
+
+       6.4 Cement                                    -   10
+
+       6.5 Mixing of mortar                          -   10
+
+       6.6 Curing                                    -   10
+
+7. Repair and maintenance of tanka                   -   11
+
+8. Quality of collected Rainwater                    -   11
+9. Summary of Steps for Design and Construction of Tanka   -   12
+
+10. Design Estimates of Tanka
+
+   •   5000 Liters capacity Cement Concrete Tanka          -   14
+
+   •   5000 Liters capacity Masonry Tanka                  -   16
+
+   •   21000 Liters capacity Masonry Tanka                 -   18
+
+   •   25000 Liters capacity Cement Concrete Tanka         -   20
+
+   •   50000 Liters capacity Masonry Tanka                 -   23
+
+   •   50000 Liters capacity Cement Concrete Tanka         -   26
+
+   •   100000 Liters capacity Masonry Tanka                -   28
+
+   •   300000 Liters capacity Masonry Tanka                -   31
+1. INTRODUCTION
+
+         “Water is life”. Good quality potable water is a global issue, particularly in the
+developing world. With rapid growth in population and improving living standards, the
+pressure on available water resources is increasing and per capita availability of water
+resources is decreasing day by day. The per capita availability of water in India has
+dropped from 5300 m3 in the year 1955 to 2200 m3 in the 2000 compared to 7420 m3
+world and 3250 m3 Asian average for the same. The overall national availability of
+water may not pose a serious problem in near future, but there would be a severe
+shortage of water in many regions of India particularly in a state like Rajasthan.
+Rajasthan is the largest state in Indian union (10% of country’s total geographical area)
+but it is the driest state in term of availability of water resources (1% of country’s total
+surface water resources). The annual per capita availability of water in the state is 857
+m3 which is much below the threshold value of 1700 m3 considered for water stress
+conditions. The rainfall in the state is low and varies significantly. There is a very rapid
+and marked decrease in rainfall in the west of the Aravalli range making western
+Rajasthan the most arid part of India. The average annual rainfall of the western arid
+region is 317 mm and that of the rest of eastern Rajasthan is 680 mm with an overall
+average rainfall of 554 mm for the state. The rainfall is highly variable at different
+places and it is most erratic in the western half with frequent spells of drought. The
+coefficient of variation (CV) of rainfall varies between 40 to 60%.
+        Surface water resources in arid part of Rajasthan are very meager and majority
+of population depends on groundwater extraction to meet their essential water
+requirements. The source of drinking/municipal water supply in most parts of the arid
+Rajasthan is mostly groundwater or borehole based. With frequent droughts and
+chronic water shortages in many areas, most people pay an increasingly high price for
+water, the poorer; especially women and children usually pay the highest price for
+small quantity of water. They also expend more calories for fetching water from distant
+sources; suffer more in terms of impaired health from contaminated or insufficient
+water, and also lose more in diminished livelihoods.
+       In absence of adequate surface and groundwater resources, rainwater plays an
+important role in the survival and livelihood of arid zone dwellers. The rainwater, if
+harvested appropriately, can be a reliable source of water for domestic and other
+purposes. Rainwater harvesting is an ancient practice and has been prevalent for more
+than 4000 years in many parts of the world. Rainwater harvesting is the collection and
+storage of rainwater from areas such as roofs and other natural catchments. Rainwater
+harvesting is a necessity in areas lacking any kind of conventional, centralized
+government supply system, and also in areas where good quality fresh surface water or
+groundwater is not available. If rainwater harvesting and its subsequent storage are
+designed carefully, it is possible for a family to live for years in areas with rainfall as
+little as 100 mm per year. Over a period of 4 decades research ‘Central Arid Zone
+Research Institute, Jodhpur’ has perfected the technology of rainwater harvesting for
+different purposes.
+2. RAINWATER HARVESTING
+        Rain is the principal source of water, which augments soil moisture,
+groundwater and surface flows. Agriculture and several of other economic activities in
+arid areas depend on rain. Rainfall in arid areas is of convective nature and usually
+occurs for a shorter duration at very high intensity, generating high runoff in response
+of even very little rainfall. Runoff can be very high particularly in urban areas where
+buildings and roads forms good catchment for runoff generation. The runoff from a
+particular area depends on rainfall intensity and catchment characteristics like size,
+shape, surface roughness, water absorbing capacity and slope etc. Thus runoff from
+any rainfall event for a particular area can be estimated using Equation 1.
+                      R = P*C*A……………………………… (1)
+        Where R is runoff, P is rainfall, C is runoff coefficient. Runoff coefficient ‘C’ is
+ratio of runoff to rainfall and varies from minimum of 0 to maximum of 1 and A is the
+catchment area. By taking appropriate units of R, P and A and selecting suitable runoff
+coefficient ‘C’, runoff can be estimated.
+2.1 Rainfall
+      The mean annual rainfall over the Indian hot arid region varies from more than
+500 mm in the southeastern parts to less than 100 mm in the northwestern and western
+part of the arid region (Fig. 1). More than 85% of the total annual rainfall is received
+during the southwest monsoon season from July to September. The withdrawal phase
+of monsoon start by middle of September in the extreme western part and retreats by
+the end of September.
+      The rainy season varies from maximum 50 days in the western part to 80 days in
+the eastern part of arid Rajasthan. A small quantum of about 7-10 percent of annual
+rainfall is received during the winter season under the influence of western disturbances.
+        Rainfall is low and erratic and the coefficient of variation varies from 42
+percent to little more than 64 percent. Long term statistical analysis of rainfall data
+indicates an asymmetric average storm intensity profile for the storms of short duration,
+with the highest intensities falling in the first part of the storm. The statistical
+characteristics of high intensity and short duration are essentially independent of
+location within the region.
+
+
+
+
+                                               2
+       A detailed statistical analysis of long term rainfall data of all districts of western
+Rajasthan has been done to arrive at probable rainfall for three levels of probability i.e.
+
+
+
+
+                                           Fig. 1
+50, 60 and 70% and presented in Table 1. As the probability of occurrence of rainfall
+increases (or level of surety/certainty), the magnitude of minimum assured rainfall
+decreases. Therefore, a balance between risk (cost of structure) and the probability/
+certainty of rainfall is must for planning any rainwater harvesting system (RWHS).
+
+
+
+
+                                               3
+Rainfall at 60% probability is generally considered safe for designing any RWHS for
+this region.
+
+Table 1. Minimum assured rainfall at different probability for arid districts of
+Rajasthan
+ District      Probable rainfall equation        Correlation Rainfall (mm) at
+                                                 coefficient probability of
+                                                               50%     60%    70%
+ Barmer        R = -172.73 ln (P) + 892.57       0.9779        216.8   185.3  158.7
+ Bikaner       R = -139.88 ln (P) + 790.98       0.9552        243.7   218.2  196.7
+ Churu         R = -142.53 ln (P) + 878.18       0.9570        320.6   294.6  272.6
+ Ganganagar R = -140.43 ln (P) + 754.77          0.9825        205.4   179.8  158.1
+ Jaisalmer     R = -124.54 ln (P) + 639.76       0.9765        206.5   183.8  164.6
+ Jalore        R = -205.26 ln (P) + 1128.7       0.9518        325.7   288.3  256.6
+ Jodhpur       R = -196.29 ln (P) + 1078.2       0.9682        310.3   274.5  244.3
+ Jhunhjunu     R = -148.61 ln (P) + 937.36       0.8954        356.0   328.9  306.0
+ Nagaur        R = -196.88 ln (P) + 1063.8       0.9649        293.6   257.7  227.3
+ Pali          R = -214.62 ln (P) + 1201.6       0.9586        362.0   322.9  289.8
+ Sikar         R = -207.82 ln (P) + 1207.2       0.9602        394.2   356.3  324.3
+R= rainfall (mm) for probability (P) and ln is natural logarithm
+
+2.2 Catchment
+
+        Catchment is the place where raindrop first strikes. After striking the catchment,
+subsequent process is entirely dependent on the inherent physical and chemical
+characteristics of the catchment. Physical characteristics like surface roughness and
+slope determine the flow of runoff while its textural constituents i.e. proportion of sand,
+silt and clay determine the water absorbing capacity of the catchment. Certain chemical
+characteristics of catchment like presence of fertilizers, pesticides on natural surface
+determine the quality of runoff. The ratio of runoff to rainfall is denoted by the runoff
+coefficient (C) and is dependent on rainfall characteristics like intensity & duration and
+physical and chemical characteristics of catchment as mentioned earlier. The shape of
+given catchment also has a considerable influence on runoff. Roof surfaces of buildings
+make the best catchment to generate runoff. Studies conducted by CAZRI revealed that
+roofs made of different lining materials such as corrugated GI sheet, stone slab, lime
+concretion etc. can generate as high as 50 to 80% runoff. Of the most common roof
+types the single pitch roof is the most appropriate for rainwater harvesting, since the
+entire roof area can be drained into a single gutter on the lower side and one or two
+down pipes can be provided depending on the area. Based on three levels of probable
+rainfall and three catchment characteristics represented by runoff coefficient (C),
+catchment area (A) required for generation of 1000 liters (1 m3) of runoff (R) has been
+calculated for all districts of western Rajasthan (Table 2). For desired quantum of
+
+
+
+
+                                              4
+runoff and existing catchment characteristics, the necessary catchment area can be
+calculated or with known catchment area, expected runoff can be determined.
+Table 2. Catchment area required for 1 m3 of runoff (m2) at different rainfall probability
+         for three catchment conditions.
+                                   Catchment area required for 1 m3 of runoff (m2)
+   District         Rainfall at 50% P            Rainfall at 60% P             Rainfall at 70% P
+                C- 0.2   C-0.3      C- 0.4   C- 0.2   C-0.3      C- 0.4    C- 0.2   C-0.3      C- 0.4
+ Barmer              23.10     15.40  11.50     27.00   18.00     13.50     31.50     21.00    15.80
+ Bikaner             20.50     13.70  10.30     22.90   15.30     11.50     25.40     16.90    12.70
+ Churu               15.60     10.40   7.80     17.00   11.30       8.50    18.30     12.20     9.20
+ Ganganagar          24.30     16.20  12.20     27.80   18.50     13.90     31.60     21.10    15.80
+ Jaisalmer           24.20     16.10  12.10     27.20   18.10     13.60     30.40     20.30    15.20
+ Jalore              15.40     10.20   7.70     17.30   11.60       8.70    19.50     13.00     9.70
+ Jodhpur             16.10     10.70   8.10     18.20   12.10       9.10    20.50     13.60    10.20
+ Jhunjhunu           14.00      9.40   7.00     15.20   10.10       7.60    16.30     10.90     8.20
+ Nagaur              17.00     11.40   8.50     19.40   12.90       9.70    22.00     14.70    11.00
+ Pali                13.80      9.20   6.90     15.50   10.30       7.70    17.30     11.50     8.60
+ Sikar               12.70      8.50   6.30     14.00     9.40      7.00    15.40     10.30     7.70
+C= 0.2 for untreated natural catchment; C= 0.3 for compacted natural catchment, C=0.4 for compacted
+artificially treated catchment
+2.3 Runoff Coefficient
+        The runoff coefficient (C) as mentioned above is ratio of runoff to rainfall for
+a given catchment and depends on rainfall and the catchment characteristics. Various
+studies have been conducted by CAZRI and others to estimate the runoff percentage.
+These studies suggest that the average run-off generation from arid Rajasthan is
+between 1 and 15 per cent of rainfall because most of the terrain is sandy. However,
+due to the spatial variations in rainfall and terrain type, deviations from this range are
+expected. In less than 200 mm rainfall zone, the dominantly interdunal area under
+undisturbed conditions with adequate vegetation cover can generate 10 to 15 percent
+runoff. The rocky/gravelly surfaces, on the other hand, can generate between 20 and 25
+percent. In the 200 to 400 mm rainfall zone the micro-catchments in the plains with
+sandy loam to loamy sand can generate as much as 30 to 40 per cent runoff, although
+the larger catchments can generate between 15 and 20 percent. The rocky/gravel1y
+surfaces in this zone can generate between 20 and 30 percent of rainfall as runoff. In
+the more than 400 mm rainfall zone, the hills and rocky uplands are able to generate 40
+to 60 percent as runoff, while the al1uvial and other sandy plains can generate between
+20 and 30 percent runoff. Runoff from a catchment can be enhanced by improving the
+catchment conditions.
+
+
+
+
+                                                   5
+3. TECHNIQUES FOR ENHANCEMENT OF RUNOFF
+       Catchment characteristics can be modified to a certain extent for higher runoff
+generation. The extent of modification depends on the investment available and the
+expected use of runoff water. In the area where there is no source of water neither any
+accessibility to alternative water sources, higher initial investment is justified on long
+term.
+   Simple earth smoothing and compaction helps increasing runoff from catchment
+    areas. Success is generally greater on loam or clay loam soils. Care must be taken to
+    smooth the slope and/or the length of slope to lessen runoff velocity and thereby
+    collecting more runoff.
+   Small amounts of sodium salts - particularly NaCl, NaHCO3 applied to desert soils
+    where vegetation has been removed- causes dispersion of the surface soil, reducing
+    infiltration and increases runoff. However, this type of treatment requires a
+    minimum amount of expanding clays in the soil.
+   Removal of stones and boulder and unproductive vegetation from catchment helps
+    in uninterrupted flow, enhances runoff to collection site.
+   Land shaping into roads and collection of water in channels.
+   Sandy soils have low water holding capacity. Spreading of clay blanket to the soil
+    surface reduces the infiltration and consequently accelerates runoff.
+   Chemical treatments like wax, asphalt, bitumen and bentonite prevent downward
+    movement of water, which augments runoff.
+
+4. COLLECTION/STORAGE OF HARVESTED RAINWATER
+
+        Rainwater harvesting/storage in an underground cistern locally known as Tanka
+is an age old common practice of this region. The people in the region by and large
+reside in scattered settlements, so tanka is an important component of integrated rural
+water supply system in western Rajasthan. The first known tanka in this region was
+constructed in year 1607 AD by Raja Sursinghji in village Vadi-ka Melan. Tanka was
+so important that till year 1895 its construction was considered as a very religious
+service by the Kings and their people. Water from tanka was used for worship in the
+temples. Almost all the forts and palaces were having tanka at strategic and secret
+places for the army and others. Various types of tanka from rectangular to circular in
+shape and capacity ranging from as small as 1000 liters to 500,000 liters are prevalent
+in this region. Every house generally had at least one tanka for storage of rooftop
+rainwater and water from other sources. Traditionally the number and size of tanka in
+house used to be status symbol of a particular family.
+
+
+
+
+                                              6
+       The availability of water in these tankas was usually round the year for drinking
+purposes for the whole family. The traditional construction of tanka varies from simple
+mud plaster to lime mortar, however wide variations have been observed.
+
+5. IMPROVED TANKA
+
+         Central Arid Zone Research Institute – Jodhpur over a 4 decades research has
+perfected the technology of tanka construction for various types of users. CAZRI has
+developed improved design of tanka for capacity ranging from 5000 liters for
+individual family to 600,000 liters for community use. The most common construction
+material for improved tanka is stone masonry with cement plaster and cement concrete.
+However Ferro-cement and prefabricated PVC tanks are also used in some modern
+buildings in urban areas. In improved design of tanka provision has been made for silt
+trap at inlet to control inflow of silt in flowing runoff. Construction procedure has been
+improved for cost efficiency and longer life span. The improved tanka design
+developed and demonstrated by CAZRI has got wide acceptance in the region. The
+designs have been replicated in large numbers by different developmental agencies.
+The number of improved tanka in different capacity ranges constructed in the region
+are 11,469 with a total storage capacity of 4,75,200 cubic meters and are sufficient to
+meet the drinking and cooking water requirements for a population of 1,32,000
+throughout the year. Detailed design, drawing and estimates for different capacities of
+tanka have been presented at the end of bulletin for direct use and reference.
+
+5.1 Capacity of Tanka
+
+       Capacity of tanka is dependent on the need of individual family or community,
+purpose of harvested water and the capital available for the investment. The designed
+capacity must match with the available runoff as estimated above by the equation 1.
+For individual family water requirement can be worked out considering the family size,
+daily water requirement and time period using Equation 2.
+
+                 V = N x Q x T ……………………………………(2)
+        Where V is volume or Capacity of tanka, N is number of persons dependent
+on tanka, Q is daily water requirement and T is number of days for which
+water is required. Daily minimum water requirement of a person varies from 7 liters to
+10 liters depending upon the season and work stress. Additional requirement of water
+for other purposes like animals (about 40 liters per day) and raising small nursery etc.
+can be worked out using Equation 2 separately and total capacity can be estimated by
+adding all individual water requirements. The total capacity should be multiplied by a
+factor of 1.1 taking in to consideration of evaporation and seepage losses if any to
+arrive at final capacity of tanka.
+
+
+
+
+                                              7
+A tanka of 21 m3 capacity is sufficient to meet the drinking water requirement of a
+family of 6 persons for whole the year. CAZRI has constructed many such tankas in
+different villages of arid Rajasthan for meeting drinking water         requirements of
+                                               3
+individual families. A bigger tanka of 50 m can be constructed for domestic and
+livestock requirement of 6-7 animals or a small nursery of 200 plants for round the year.
+A community Tanka of 100 m3 or 200 m3 capacity can be constructed to cater the
+demand of a group of 5-6 families.
+
+5.2 Design of Tanka
+
+        Once the capacity of tanka is decided, its shape and other dimensions can be
+worked out. Evaporation losses are higher in tankas with wider opening and shallow
+depth but are more stable and easy to construct. However cost to cover the opening of
+such tanka is more. On the other hand narrow opening tanka with deeper depth causes
+less evaporation but needs extra strengths in bottom for stability in terms of material
+and cost of excavation is high at deeper depth. Therefore, opening and depth of tanka
+should be optimized for minimum evaporation loss and construction cost. For
+circular tanka, depth and diameter should ideally be equal and can be calculated by
+using Equation 3.
+
+                         D = (1.27 x V) 0.33     …………….……..(3)
+
+          Where D is the diameter as well as depth in meters and V is capacity in cubic
+meters.
+
+Table 3. Diameter (= depth) for circular tanka for different capacities
+  Capacity
+               1     5     10    15     20     25         30     35     40     45     50     100    200    300
+     (m3)
+ Diameter
+ (m)          1.08   1.85 2.33 2.67    2.94    3.17       3.37   3.54   3.71   3.85   3.99   5.03   6.34   7.25
+
+
+
+For designing rectangular tanka, two dimensions of either length, width or depth are
+first decided on the basis of local site conditions and third dimension is calculated using
+Equation 4.
+
+                         V = L X B X H………………………… (4)
+
+        Where L, B, H and V are length (m), Width (m), depth (m) and Volume (m3)
+respectively. For known volume (V) and two pre-decided dimensions of length, width
+or depth, third unknown dimension can be worked out using Equation 4.
+
+
+
+
+                                                      8
+5.3 Construction of Tanka
+
+        Tanka should be constructed at appropriate site. If rainwater is to be collected
+from rooftop, its location should be near to the place of intended use. If rainwater is to
+be collected from natural catchment then tanka should be constructed at one side of the
+depression area for maximum runoff and safe disposal of excess water. In the arid area
+of western Rajasthan, a murrum layer is observed in sub surface strata at many places.
+Special care is needed when tanka is to be constructed at such sites. Murrum has a
+tendency of swelling after getting some moisture and causes cracks especially in
+sidewalls. To avoid these cracks, the surrounding of whole tanka should have 5 cm
+thick envelope of sand around sidewalls. In case of some leakage from sidewall,
+the sand envelope of 5 cm thickness will absorb the pressure exerted by the swelling of
+murrum around sidewalls and will prevent the cracks in sidewalls. Circular tanka is
+more economical in comparison to rectangular tanka for the same capacity in term of
+cost of materials. Moreover a rectangular tanka has the tendency to develop cracks in
+the four corners due to uneven distribution of pressure whereas in circular tanka
+pressure distribution is even thus there are less chances of cracks in sidewalls. Cement
+concrete is preferred over masonry construction due to cost and life span especially for
+tankas of larger capacity i.e. 100000 liters or more. However, masonry construction is
+equally good for small capacity tanka and does not require trained workers for
+construction as in case of cement concrete.
+
+6. MATERIALS AND METHODS FOR CONSTRUCTION OF TANKA
+
+        It is imperative to first create favorable site conditions for good quality work.
+This means that the place where the mortar is to be mixed should be clean, flat, smooth
+and large enough. If possible, some flat metal sheets should be laid on the ground. If
+the working ground is only a soil surface, it must be swept. If the soil surface is not
+hard, it is possible to prepare an area with stamped clay. The working area must be
+clean before the mixing of the sand and cement can start. Likewise, it is necessary for
+all material to be on site before the preparation of plaster is started. All material not
+only means the sand, cement and water for the entire job, but also all curing agents and
+tools.
+
+6.1 Tools and laborers
+
+        Tools must be clean and free of old mortar; this also applies for all buckets to be
+used. If some sort of scaffold is needed, it must be tried out before the work starts. It
+must always be remembered that once the plastering of a structure has started, there
+must be no break until the first coat is finished. Organizing the job is also important to
+achieve smooth hand-in-hand working.
+
+
+
+
+                                              9
+6.2 Sand
+
+        The sand to be used should be clean and well graded. This means having grains
+of many sizes, but 90% should still pass through a mosquito wire sieve. Sand must be
+clean, because like water it may have some impurities that weaken the cement bond,
+such as clay, silt and organic matter. Dirty sand can be washed by repeatedly rinsing
+with water. Rub a moist handful of sand between your palms. Suitable sand will leave
+hands only slightly dirty.
+
+6.3 Water
+
+       Clay, silt, salt, mica or organic matter as will as certain invisible chemicals in
+the water, weaken concrete and ferro-cement. Water that is fit for drinking is usually fit
+for mixing cement mortar. The quality of unknown water can be tested by comparing it
+with water known to be good.
+
+6.4 Cement
+
+        Cement bonds and harden in the presence of water. Therefore careful storage is
+imperative to avoid moisture reaching cement before use. The bags of cement should be
+stored in a closely packed pile, no more than ten bags high. The pile should be on a
+raised platform in a room with little air circulation. In rooms with open windows and
+doors, the pile should be covered with plastic sheeting.
+
+6.5 Mixing of mortar
+
+       The correct method of measuring the different aggregates of concrete or cement
+mortar is to weigh them, but this is not possible at most sites. The commoner way is to
+measure the volume. Although this is not a precise method, it is efficient enough if
+performed carefully. Measuring by the shovelful is not acceptable since this is too
+inaccurate. Measuring must be done with buckets or wooden boxes, all of equal size. A
+1:3 mixture means three measurements of sifted sand to one measurement of cement.
+These two dry components have to be mixed by shoveling a pile of sand with the
+required amount of cement added from one side of the mixing platform to the other and
+then back. This procedure has to be repeated 4-6 times until the dry mixture is of equal
+color.
+
+6.6 Curing
+
+       It must be realized that as little water as possible should be used for mixing, but
+the use of water should be generous for curing. Cement plaster, ferro-cement and
+concrete should be kept wet for at least 28 days, never being allowed to dry since the
+process of hardening will stop as soon as the mortar/ concrete dries. If waterproof
+
+
+
+
+                                              10
+plaster has to be achieved, the material must be kept wet for one year. But even after a
+year cement plaster should not be allowed to dry off. Remember curing is as important
+as material and mixing the right composition of mortar or concrete.
+
+7. REPAIR AND MAINTENANCE OF TANKA
+
+         Repairing a tanka is easy but should not encourage casual work. If the structure
+is finished and cured as described, then no leaks are likely to occur. Small leaks which
+create only a wet stain need not be attended to, since they will close after some time.
+Only leaks where water flows out have to be repaired. The major problem is not the
+repair work as such, but the fact that leaks usually cannot be identified until the tanka is
+filled. As mentioned, curing after the structure is finished as well as while it is still
+under construction is just as important as the quality of craftsmanship and material.
+This will not only preserve the structure, making curing unnecessary, but also furnish
+immediate evidence of any leaks. If there is no rainfall some days after the structure is
+finished, and the necessary amount of water is not available, a minimum filling of 100
+mm is a must irrespective of whether it is of masonry or a cement concrete structure.
+This water serves as a long-term curing agent and will keep the plaster moist. In
+addition, especially in hot arid climates, the structure must be covered on all sides such
+a way that the moisture of the mortar cannot evaporate.
+
+          Experience shows that negligence is often found if contractors are employed.
+The reason lies in the time factor where profit is expected. It is therefore better to stop
+the work entirely and employ another contractor than to allow an ill-prepared job to
+start. It should also be realized that leaking or cracking tanks give the whole technology
+a bad reputation. This is especially important in all those places with no prior
+experience. Leaking storage tank can discredit the Rain water harvesting system.
+
+        A properly constructed tanka serves for around 30 years if maintained. Its
+maintenance includes; keeping catchments clean and clear of moss, lichen, debris and
+leaves; cutting back trees and branches that overhang roofs; cleaning of tanka inlets
+and screens every 3–4 months; disinfecting the tanka if contamination is apparent,
+inspecting tanka annually and cleaning them out if necessary and; testing the water
+periodically.
+
+8. QUALITY OF COLLECTED RAINWATER
+
+        The cleanest water is always that which falls freely from the sky. The natural
+water cycle is very efficient in screening out contaminants that are normally found in
+ground water and other sources. Rainwater does not come in contact with the soil, and
+so it does not contain contaminants such as harmful bacteria, dissolved salts, minerals
+or heavy metals. Rainwater is healthy and is soft water so, among other things, you will
+
+
+
+
+                                               11
+use less soap. Roof-collected rainwater can be made safe and potable by adopting some
+simple measures such as cleaning of rainwater storage structure and catchment,
+diversion of first flush and coarse rainwater filters. The quality of rainwater further
+improves with time after the rain, mainly due to sedimentation and bacteria die-off. It
+takes an average of 3.5 to 4 days to achieve a 90% reduction in E.Coli numbers. It has
+been proved that people drinking tank rainwater are at lower risk of many diseases than
+those drinking public mains water.
+
+9. SUMMARY OF STEPS FOR DESIGN AND CONSTRUCTION OF TANKA
+
+   1. Estimate domestic water requirement of a family based on 7-10 liters of water
+      per day per person.
+
+   2. Estimate water requirement for livestock (40 liters per day per animal).
+
+   3. Estimate other water requirements like nursery raising or life saving irrigation
+      to nearby plants based on the number of plants and average daily water
+      requirement of individual plant /tree species.
+
+   4. Determine total daily water requirement by adding water requirement as
+      estimated above for domestic, livestock and other needs.
+
+   5. Determine annual water requirement by multiplying the total daily water
+      requirement as estimated above by 365 or no. of days for which water is
+      required.
+
+   6. Estimate Tanka Capacity by multiplying annual water requirement as estimated
+      above by a factor of 1.1 to take into account the possible seepage and
+      evaporation losses.
+
+   7. If tanka capacity as estimated above is in liters, determine tanka capacity in
+      cubic meter by dividing tanka capacity by 1000.
+
+   8. Determine annual rainfall at 60% probability for district particular using Table 1.
+
+   9. Select suitable area preferably at lower side of field if it is to be constructed in
+      field or near to the intended use.
+
+   10. Determine catchment area needed for 1 m3             runoff based on catchment
+       conditions using Table 2.
+
+   11. Determine total catchment area by multiplying the capacity of the tanka to the
+       catchment area as determined above for 1 m3 runoff.
+
+
+
+
+                                             12
+12. Ascertain whether required catchment area as estimated above is available or
+    not. If not, reduce the tanka capacity or improve the catchment conditions.
+
+13. For circular tanka, depth (or diameter) can by determined by D = (1.27 x V) 0.33
+    where D is diameter as well as depth in meters and V is capacity in cubic meters
+    or use Table 3.
+
+14. For rectangular tanka, decide any two dimensions from length, width and depth
+    and determine the remaining third dimension by using the equation V = L x B x
+    H where L, B, H and V are length (m), Width (m), depth (m) and Volume (m3)
+    respectively.
+
+15. Above calculated dimensions are inner dimensions of tanka. Add appropriate
+    quantities keeping in view the construction type i.e. masonry or cement concrete.
+    Add extra allowance of 5-10 cm for filling sand envelope around tanka.
+
+16. First step for construction of tanka is excavation as per dimensions determined
+    above. Excavated sand should not be dumped far away as same can be used for
+    preparation of catchment.
+
+17. Construction details for 5 to 300 m3 capacity tankas are given at the end of this
+    bulletin; same can be used as guidelines for construction. Local minor variation
+    within limit is acceptable as per site specific needs.
+
+18. Good quality construction material should be used in exact proportion and
+    construction should be thoroughly supervised by a responsible person.
+
+19. After construction, curing is very important for the strength and lifespan of the
+    structure.
+
+20. For proper maintenance of tanka, some quantity of water should always remain
+    in the tanka.
+
+21. Tanka catchment should be properly cleaned atleast once in year before
+    monsoon.
+
+22. Tanka should be desilted atleast once in a year before monsoon.
+
+23. Tanka should be covered from top for the safety and economy of water.
+
+24. Whenever there is any doubt on quality of water, it should be checked by
+    nearest water quality testing centre and acted on as per advice.
+
+25. A good tanka is a wealth for generations; its water should be used economically.
+
+
+
+
+                                         13
+14
+                       Estimate for 5000 Liters capacity Tanka (Cement Concrete)
+
+                                                                                                Cost
+S.N.              Description                 Quantity Estimation         Quantity     Rate
+                                                                                                (Rs.)
+1.     Earth work for excavation in hard
+       soil for harvesting tank
+            (a) GL to 1.5 m                     1 x 3.14 x (1.0)2 x 1.5     4.71 m3     99.00    466.29
+            (b) 1.5 m to 2.15 m                1 x 3.14 x (1.0)2 x 0.65     2.04 m3    109.00    222.36
+2.     Cement concrete (1:4:8) with 40
+       mm nominal size aggregates for
+       bottom                                   1 x 3.14 x (1.0)2x 0.15     0.471m3   1455.00    685.30
+3.     Cement concrete(1:3:6) with 20
+       mm nominal size aggregates (100
+       mm)
+            (a) Sidewalls                     3.14 x 1.90 x 2.00 x0.10      1.19 m3
+            (b) Around for masonry            3.14 x 2.20 x 0.20 x0.10      0.14 m3
+                                                       0.6 x 0.9 x 0.10     0.05 m3
+            (c) Silt trap                                         Total     1.38 m3   3552.00   4901.76
+4.     Course Rubble stone masonary in
+       cement mortar (1:6) at GL
+          (a) Sidewalls                        3.14x2.10 x 0.30 x0.65       1.29 m3
+          (b) Silt trap                            1.50 x 0.30 x 0.30       0.14 m3
+                                                                Total       1.43 m3   1324.00   1893.32
+5.     Roofing with stone slabs including
+       jointing with cement mortar (1:3)
+                                                     1 x 3.14 x (1.20)2     4.52 m2    808.00   3652.16
+6.     Cement plaster (1:4) - 25 mm thick
+
+           (a) Side and parapet wall         3.14 x 1.80 x (2.35+0.45)     15.83 m2
+           (b) Tanka bottom                              3.14 x (0.90)2     2.54 m2
+           (c) Rooftop                                   3.14 x (1.20)2     4.52 m2
+           (d) Silt trap Sidewall                           1.80 x 0.50     0.90 m2
+           (e) Bottom                                        0.60 x0.30     0.18 m2
+                                                                  Total    23.97 m2     98.00   2349.06
+7.     Providing inlet and outlet (30 x 45
+       cm) with frame made of angle iron
+       (30 x 30 x 4 mm) and weld mesh
+       (25 mm cross)                                            2 Nos.       2 Nos.    200.00     400.0
+8.     Openable door/lid (45 x 45 cm) for
+       drawl of water made of angle iron
+       frame and MS sheet                                        1 No.        1 No.400.00      400.0
+                                                                                Total Rs.   14970.25
+                                                                               or Say Rs.   15000.00
+                                                                        Cost per liter Rs.       3.0
+ Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                        15
+16
+                       Estimate for 5000 Liters capacity Tanka (Masonry)
+
+                                                                                                    Rate       Cost
+ S.N.                  Description                    Quantity Estimation            Quantity
+                                                                                                    (Rs.)      (Rs.)
+ 1.     Earthwork excavation in hard soil for Tanka
+             (a) G.L. to 1.5 m
+             (b) 1.5 m to 2.15 m                                3.14 x (1.2)2 x1.5      6.78 m3     101.00      684.78
+                                                              3.14 x (1.2)2 x 0.65      2.94 m3     111.00      326.34
+ 2.     Cement concrete foundation (1:4:8) with
+        40 mm size nominal size aggregate
+            (a) Tanka                                      3.14 x (1.20)2 x 0.15        0.68 m3
+            (b) Silt trap                                     1.20 x 0.90 x 0.15        0.16 m3
+                                                                           Total        0.84 m3    1455.00     1222.20
+ 3.     Coarse rubble masonry for side walls in
+        cement mortar (1:6)
+            (a) Side walls                             3.14 x 2.10 x 0.30 x 2.35        4.65 m3
+            (b) Silt trap                             (0.60 + 0.90) x 0.30 x0.30       0.135 m3
+                                                                           Total        4.78 m3    1324.00     6328.72
+ 4.     Providing & fixing ashlar lintels and bed
+        plates, 15 cm thick for inlet and outlet          2 x 0.90 x 0.30 x 0.15       0.080 m3    1784.00      142.72
+ 5.     Course rubble facing
+             (a) I Sort                                        3.14 x 1.80 x 2.35      13.28 m2     135.00     1792.80
+             (b) II Sort                                       3.14 x 2.40 x 2.35      17.71 m2      96.00     1700.16
+ 6.     Stone slab roofing 100 mm thick                            3.14 x (1.20)2       4.52 m2     808.00     3652.16
+ 7.     Cement plaster (1:4) 25 mm thick
+             (a) Side walls (Inside)                           3.14 x 1.80 x 2.35      13.28 m2
+             (b) On parapet (outside)                          3.14 x 2.40 x 0.50      3.768 m2
+             (c) Silt trap- sides                                      1.8 x 0.50       0.90 m2
+             (d) Silt trap- bottom                                    0.60 x 0.30       0.18 m2
+                                                                            Total      18.13 m2      98.00     1776.74
+ 8.     25 mm thick Cement concrete flooring
+        (1:2:4) with 12.5 mm aggregate
+             (a) Tanka bottom                                      3.14 x (0.90)2       2.54 m2
+             (b) Top of tanka roofing                              3.14 x (1.20)2       4.52 m2
+                                                                            Total       7.06 m2     106.00      748.36
+ 9.     Providing inlet/outlet (45 x 20 cm) made of
+        angle iron frame 25 x 25 x 4 mm and weld
+        mesh jali 25 x 25 mm cross                                         2 Nos.     2 Nos.        200.00      400.00
+ 10.    Providing and fixing openable door/lid on
+        roofing for drawl of water (45 cm x 45 cm)
+        made of angle iron frame 35 x 35 x 3 mm
+        and iron sheet 11 gauge                                             1 No.     1 No.         400.00      400.00
+                                                                                         GRAND TOTAL          19174.98
+                                                                                               or Say Rs.     19500.00
+                                                                                         Cost per liter Rs.       3.90
+
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                         17
+18
+                              Estimate for 21,000 Liters capacity Tanka (Masonry)
+S.N.                  Description                       Quantity Estimation            Quantity            Rate      Cost (Rs.)
+1.     Earthwork excavation in hard soil for
+       Tanka
+            (a) G.L. to 1.5 m                                 3.14 x (1.8)2 x1.50            15.26 m3     101.00       1541.26
+            (b) 1.5 m to 3.0 m                                3.14 x (1.8)2 x1.50            15.26 m3     111.00       1693.86
+            (c) 3.0 m to 3.2 m                                3.14 x (1.8)2 x0.20            02.03 m3     121.00        245.63
+            (d) Foundation                              3.14 x 3.30 x 0.60 x 0.30            01.87 m3     121.00        226.27
+2.     Cement concrete foundation (1:4:8) with
+       40 mm size nominal size aggregate
+            (a) Tanka                                     3.14 x 3.3 x 0.60 x 0.30            1.87 m3
+            (b) Silt trap                                   2 x 1.20 x 0.90 x 0.15            0.32 m3
+                                                                             Total            2.19 m3    1455.00       3186.45
+3.     Coarse rubble masonry for side walls in
+       cement mortar (1:6)
+           (a) Side walls                               3.14 x 3.30 x 0.30 x 3.80            11.81 m3
+           (b) Silt trap                                    2 x 3.0 x 0.30 x 0.30             0.54 m3
+                                                                            Total            12.35 m3    1324.00      16351.40
+4.     Providing & fixing ashlar lintels and bed
+       plates, 15 cm thick for inlet and outlet            3 x 0.75 x 0.30 x 0.15            0.101 m3    1784.00         180.18
+5.     Course rubble facing
+            (a) I Sort                                   3.14 x 3.00 x (3.8+0.60)            41.45 m2     135.00       5595.75
+            (b) II Sort                                        3.14 x 3.00 x 3.20            30.14 m2      96.00       2893.44
+6.     Stone slab roofing 100 mm thick                             3.14 x (1.80)2            10.17 m2     808.00       8217.36
+7.     Cement concrete bed (1:3:6) with 20 mm
+       size aggregate at bottom                              3.14 x (1.50)2 x 0.15            1.06 m3    3552.00       3765.12
+8.     50 mm thick Cement concrete flooring
+       (1:2:4)finished with 20 mm size aggregate                     3.14 x (1.50)2          07.06 m2     149.00       1051.94
+9.     Cement plaster (1:4) 25 mm thick
+            (a) Side walls (Inside)                            3.14 x 3.00 x 3.60            33.92 m2
+            (b) Silt trap- sides                                    2 x 0.8 x 0.3             0.48 m2
+            (c) Silt trap- bottom                                   2 x 0.6 x 0.3             0.36 m2
+                                                                            Total            34.76 m2       98.00      3406.48
+10.    Cement pointing (1:3) on parapet                         3.14 x 3.6 x 0.60             6.78 m2       80.00       542.40
+11.    100 mm thick Cement concrete
+       protection floor (1:5:10) with 40 mm
+       normal size aggregate                            3.14 x 4.20 x 0.60 x 0.10            0.791 m3    1303.00       1030.67
+12.    25 mm thick Cement concrete flooring
+       (1:2:4) with 12.5 mm aggregate
+            (a) Tanka protection floor                         3.14 x 4.20 x 0.60             7.91 m2
+            (b) Top of tanka roofing                               3.14 x (1.90)2            11.33 m2
+                                                                            Total            19.24 m2     106.00       2039.44
+13.    Providing inlet/outlet (45 x 45 cm) made
+       of angle iron frame 25 x 25 x 4 mm and
+       weld mesh jali 25 x 25 mm cross                                      3 Nos.              3 Nos.    300.00         900.00
+14.    Providing and fixing openable door/lid
+       on roofing for drawl of water (60 cm x
+       45 cm) made of angle iron frame 35 x 35
+       x 3 mm and iron sheet 11 gauge                                         One                 One     600.00         600.00
+                                                                                             GRAND TOTAL Rs.           53467.65
+                                                                                                      or say Rs.       54000.00
+                                                                                                Cost per liter Rs.         2.57
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                                19
+20
+Estimate for 25000 Liters capacity Tanka (Cement Concrete-
+Capsule shaped)
+                                                                                                Cost
+S.N.               Description               Quantity Estimation         Quantity     Rate
+                                                                                                (Rs.)
+1.     Earth work for excavation in hard
+       soil for harvesting tank
+            G.L to 1.5 m
+            (a) Both ends                    1 x 3.14 x (1.275)2 x 1.5     7.65 m3
+            (b) Middle 1.5 m to 3.0 m            1 x 2.40 x 1.80 x 1.5     6.48 m3
+                                                                 Total    14.13 m3     99.00    1398.87
+                                                 1 x 2.40 x 1.80 x 1.5     6.48 m3
+           (a) Both ends                     1 x 3.14 x (1.275)2 x 1.5     7.65 m3
+           (b) Middle                                            Total    14.13 m3    109.00    1540.17
+2.     Cement concrete (1:4:8) with 40
+       mm nominal size aggregates for
+       bottom-100 mm thick
+           (a) Both ends                        1 x 3.14 x (1.3)2x 0.1    0.530 m3
+           (b) Middle                            1 x 2.70 x 1.80x 0.1     0.486 m3
+                                                                 Total     1.02 m3   1455.00    1481.10
+3.     Cement concrete(1:2:4) with 20
+       mm nominal size aggregates for
+       bottom and side walls (75 mm)
+           Floor
+           (a) Both ends                                 3.14 x (1.2)2     4.52 m2
+           (b) Middle Side Walls                          1.80 x 2.40      4.32 m2
+                                                   3.14 x 2.40 x 2.85     21.48 m2
+           (a) Both ends                              2 x 1.80 x 2.85     10.26 m2
+           (b) Middle                                           Total     40.58 m2
+                                                     or 40.58 x 0.075    3.0435 m3   2066.00    6287.87
+4.     Course Rubble stone masonary in
+       cement mortar (1:6)     at GL
+       for periphery wall
+            (a) Both ends                     3.14x2.70x 0.30 x0.90        2.29 m3
+            (b) Middle                        2 x 1.80 x 0.30 x 0.90       0.97 m3
+                                                               Total       3.26 m3   1324.00    4316.24
+5.     Roofing with stone slabs including
+       jointing with cement mortar (1:3)
+            (a) Both ends                            1 x 3.14 x (1.5)2    7.065 m2
+            (b) Middle                                 1 x 1.80 x 3.0       5.4 m2
+                                                                Total     12.46 m2    808.00   10067.68
+6.     Cement plaster (1:4)- 25 mm
+       thick
+       Side and parapet wall
+            (a) Middle                                2 x 1.80 x 4.10     14.76 m2
+            (b) Both ends                       1x 3.14 x 2.40 x 4.10     30.89 m2
+                                                                Total     45.65 m2     98.00    4473.70
+7.     Providing inlet and outlet (60 x 45
+       cm) with frame made of angle iron
+       (30 x 30 x 4 mm) and weld mesh
+       (25 mm cross)                                           2 Nos.       2 Nos.      300       600.0
+
+
+
+
+                                                  21
+ 8.    Providing apron around tanka
+       Cement concrete apron 100 mm
+       thick under layer (1:5:10) with 40
+       mm nominal size aggregate
+            (a) Both ends                   1 x 3.14 x 3.60 x 0.60 x 0.10   0.678 m3
+            (b) Middle                             2 x 1.80 x 0.60 x 0.10   0.216 m3
+                                                                    Total   0.894 m3   1303.00    1164.88
+ 9.    Cement concrete flooring (1:2:4)
+       40 mm thick with 20 mm nominal
+       size aggregates
+           Top floor roof
+            (a) Both ends                               1 x 3.14 x (1.5)2   7.065 m2
+            (b) Middle Apron                              1 x 1.80 x 3.0      5.4 m2
+
+           (a) Both ends                          1 x 3.14 x 3.60 x 0.60     6.78 m2
+           (b) Middle                                    2 x 1.80 x 0.60     2.16 m2
+                                                                   Total    21.41 m2    140.00    2997.40
+ 10.   Openable door/lid (60 x 60 cm) for
+       drawl of water made of angle iron
+       frame and MS sheet                                          1 No.       1 No.    600.00      600.0
+ 11.   Catchment
+       Making catchment of 400 m2
+       putting murrum layer of 15 cm
+       thick, spreaded over whole
+       catchment – water and compacting
+       with rammer- including necessary
+       soil work for making 4% uniform
+       slope                                                     400 m2      400 m2   15.00       6000.00
+                                                                                     Total       40927.91
+                                                                                    or Say       41000.00
+                                                                         Cost per liter Rs.          1.64
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                      22
+23
+                    Estimate for 50000 Liters capacity Tanka (Masonry)
+
+                                                                                                      Cost
+S.N.                 Description                  Quantity Estimation          Quantity    Rate
+                                                                                                      (Rs.)
+1.     Earthwork excavation in hard soil for
+       Tanka
+            (a) G.L. to 1.5 m                            3.14 x (2.15)2 x1.5    21.77 m3    101.00    2198.77
+            (b) 1.5 m to 3.0 m                           3.14 x (2.15)2 x1.5    21.77 m3    111.00    2416.47
+            (c) 3.0 m to 4.5 m                           3.14 x (2.15)2 x1.5    21.77 m3    121.00    2634.17
+            (d) 4.5 m to 4.95                           3.14 x (2.15)2 x0.45     6.53 m3    131.00     855.43
+            (e) Foundation                         3.14 x 4.00 x 0.60 x 0.30     2.26 m3    131.00     296.06
+                                                                       Total                          8400.90
+2.     Cement concrete foundation (1:4:8) with
+       40 mm size nominal size aggregate
+           (a) Tanka
+           (b) Silt trap                           3.14 x 4.00 x 0.60 x 0.30     2.26 m3
+                                                   3.14 x 5.80 x 0.90 x 0.10     1.64 m3
+                                                                       Total     3.90 m3   1455.00    5674.50
+3.     Coarse rubble masonry for side walls in
+       cement mortar (1:6)
+           (a) Side walls                          3.14 x 4.00 x 0.30 x 5.55    20.91 m3
+           (b) Silt trap                          2x 3.14x 5.80 x 0.30x0.30     03.28 m3
+                                                                       Total    24.19 m3   1324.00   32027.56
+4.     Providing & fixing ashlar stone
+           (a) Lintel and bedplate                    4x 0.90 x 0.30 x 0.15      0.16 m3
+           (b) Pats                                   1 x 3.00 x 0.30 x 0.30     0.27 m3
+                                                                       Total     0.43 m3   1784.00     767.12
+5.     Course rubble facing
+           (c) I Sort                                     3.14 x 3.70 x 5.55    64.48 m2    135.00    8704.80
+           (d) II Sort                                    3.14 x 4.30 x 4.95    66.83 m2     96.00    6415.68
+6.     Stone slab roofing 100 mm thick                        3.14 x (2.15)2    14.51 m2    808.00   11724.08
+
+7.     Cement concrete bed (1:3:6) with 20 mm
+       size aggregate at bottom                        3.14 x (1.85)2 x 0.15     1.61 m3   3552.00    5718.72
+8.     50 mm thick Cement concrete flooring
+       (1:2:4) finished with 20 mm size
+       aggregate                                              3.14 x (1.85)2    10.75 m2    149.00    1601.75
+9.     Cement plaster (1:4) 25 mm thick
+            (a) Side walls (Inside)                       3.14 x 3.70 x 5.25    60.99 m2
+            (b) Silt trap- sides & bottom                 3.14 x 6.10 x 1.20    22.98 m2
+                                                                       Total    83.97 m2     98.00    8229.06
+10.    Cement pointing (1:3) on parapet                   3.14 x 4.30 x 0.60     8.10 m2     80.00     648.00
+11.    100 mm thick Cement concrete
+       protection floor (1:5:10) with 40 mm
+       normal size aggregate                       3.14 x 4.90 x 0.60 x 0.10    0.92 m3    1303.00    1198.76
+12.    25 mm thick Cement concrete flooring
+       (1:2:4) with 12.5 mm aggregate
+            (c) Tanka protection floor                    3.14 x 4.90 x 0.60    09.23 m2                      .
+            (d) Top of tanka roofing                          3.14 x (2.20)2    15.19 m2
+                                                                       Total    24.42 m2    106.00    2588.52
+13.    Providing inlet/outlet (60 x 45 cm) made
+       of angle iron frame 25 x 25 x 4 mm and
+       weld mesh jali 25 x 25 mm cross                               2 Nos.       2 Nos.    300.00     600.00
+14.    Providing and fixing openable door/lid
+       on roofing for drawl of water (60 cm x
+       60 cm) made of angle iron frame 35 x 35
+
+
+
+
+                                                       24
+        x 3 mm and iron sheet 11 gauge                               1 No.         1 No.      600.00      600.00
+
+
+
+                                                                                   GRAND TOTAL          94899.45
+
+                                                                                             Say Rs.      95000
+
+                                                                                   Cost per liter Rs.       1.90
+
+
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                        25
+26
+                Estimate for 50000 Liters capacity Tanka (Cement Concrete)
+
+                                                                                               Rate
+ S.N.              Description                  Quantity Estimation             Quantity                  Cost (Rs.)
+                                                                                               (Rs.)
+ 1.     Earth work for excavation in hard
+        soil for harvesting tank
+              (a) G.L to 1.5 m
+              (b) 1.5 m to 3.0 m                   1 x 3.14 x (2.15)2 x 1.50      21.77 m3          99      2155.23
+              (c) 3.0 m to 4.25 m                  1 x 3.14 x (2.15)2 x 1.50      21.77 m3         109      2372.93
+                                                   1 x 3.14 x (2.15)2 x 1.25      18.14 m3         119      2158.66
+ 2.     Cement concrete (1:5:10) with 40
+        mm nominal size aggregates for
+        bottom
+                                                   1 x 3.14 x (2.15)2x 0.15        2.18 m3        1303      2840.54
+ 3.     Cement concrete(1:3:6) with 20 mm
+        nominal size aggregates (100 mm)           3.14 x 4.15 x 0.15 x4.00       07.82 m3
+              (a) Sidewalls                           3.14 x (2.15)2 x 0.10       0.145 m3
+              (b) Bottom                              3.14x4.50x0.20x0.10         0.282 m3
+              (c) Around Tanka                        2x 1.20 x 0.90 x 0.10       0.216 m3
+              (d) Silt trap                                           Total        8.46 m3        3552     30049.92
+ 4.     Course Rubble stone masonary in
+        cement mortar (1:6) at GL                   3.14x4.30 x 0.30 x0.90         3.65 m3
+              (a) Sidewalls                            2x3.00x 0.30 x 0.30         0.54 m3
+              (b) Silt trap                                          Total         4.19 m3        1324      5547.56
+ 5.     Roofing with stone slabs including
+        jointing with cement mortar (1:3)
+                                                          1 x 3.14 x (2.30)2      16.61 m2         808     13420.88
+ 6.     Cement plaster (1:4) – 25 mm thick
+           (a) Side and parapet                 3.14 x (2.0)2 x (4.60+1.00)       70.34 m2
+           (b) Silt trap Sidewall                              2x1.50x0.30         0.90 m2
+           (c) Silt trap bottom                               2x 0.60 x0.30        0.36 m2
+           (d) Silt trap top                                    2x 3.0x0.30        1.80 m2
+                                                                      Total       73.40 m2          98       7193.2
+ 7.     Cement concrete flooring (1:2:4) 25
+        mm thick with 12.5 mm aggregates                      3.14 x (2.00)2      12.56 m2
+             (a) Tanka bottom                                 3.14 x (2.30) 2     16.61 m2
+             (b) Tanka Top                                             Total      29.17 m2         106      3092.02
+ 8.     Providing inlet and outlet (60 x 45
+        cm) with frame made of angle iron
+        (30 x 30 x 4 mm) and weld mesh
+        (25 mm cross)                                                 3 Nos.        3 Nos.         200       600.00
+ 9.     Openable door/lid (60 x 60 cm) for
+        drawl of water made of angle iron
+        frame and MS sheet                                             1 No.         1 No.         800       800.00
+                                                                                                  Total    70230.94
+                                                                                           or Say Rs.      70500.00
+                                                                                     Cost per liter Rs.        1.41
+
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                         27
+28
+            Estimate for 100000 Liters capacity Tanka (Masonry)
+
+                                                                                               Cost
+S.N.            Description               Quantity Estimation          Quantity      Rate
+                                                                                               (Rs.)
+1.     Earthwork excavation in hard
+       soil for Tanka
+            (a) G.L. to 1.5 m                    3.14 x (3.0)2 x1.5      42.39 m3    101.00    4281.39
+            (b) 1.5 m to 3.0 m                   3.14 x (3.0)2 x1.5      42.39 m3    111.00    4705.29
+            (c) 3.0 m to 4.5 m                   3.14 x (3.0)2 x1.5      42.39 m3    121.00    5129.19
+            (d) Foundation               3.14 x 5.60 x 0.75 x 0.30       03.95 m3    131.00    0517.45
+2.     Cement concrete foundation
+       (1:4:8) with 40 mm size
+       nominal size aggregate
+            (a) Tanka                    3.14 x 5.60 x 0.75 x 0.30        3.95 m3
+            (b) Silt trap                3.00 x 1.50 x 0.90 x 0.15        0.61 m3
+                                                             Total        4.56 m3   1455.00    6634.80
+3.     Coarse rubble masonry for side
+       walls in cement mortar (1:6)
+           (a) Side walls                3.14 x 5.60 x 0.40 x 4.95       34.81 m3
+           (b) Silt trap                 2.00 x 3.90 x 0.30 x 0.30       00.70 m3
+                                                             Total       35.51 m3   1324.00   47015.24
+4.     Providing & fixing ashlar
+       lintels and bed plates, 15 cm
+       thick for inlet and outlet         6.0 x 0.90 x 0.30 x 0.15      0.243 m3    1784.00     433.51
+
+5.     Course rubble facing
+            (a) I Sort                          3.14 x 3.00 x 6.15      57.93 m2     135.00    7820.55
+            (b) II Sort                         3.14 x 3.60 x 4.35      49.17 m2      96.00    4720.32
+6.     RSJ 150 x 200 mm 16.5                                 6 Rm       53.62 Kg      33.00   10616.76
+       Kg/Rft                                                               /Rm         /Kg
+7.     Stone slab roofing 100 mm
+       thick                                          3.14 x (3.0)2      28.26 m2    808.00   22834.08
+
+8.     Cement concrete bed (1:3:6)
+       with 20 mm size aggregate at
+       bottom                                3.14 x (2.60)2 x 0.15       3.183 m3   3552.00   11306.02
+9.     50 mm thick Cement concrete
+       flooring (1:2:4) finished with
+       20 mm size aggregate                         3.14 x (2.60)2      21.22 m2     149.00    3161.78
+10.    Cement plaster (1:4) 25 mm
+       thick                                    3.14 x 5.20 x 5.35      87.35 m2
+            (a) Side walls (Inside)             3.14 x 6.00 x 0.75      14.13 m2
+            (b) On parapet (outside)               3 x 2.70 x 0.30      02.43 m2
+            (c) Silt trap- sides                   3 x 0.90 x 0.45      01.21 m2
+            (d) Silt trap- bottom                            Total     105.12 m2      98.00   10301.76
+11.    100 mm thick Cement concrete
+       protection floor (1:5:10) with
+       40 mm normal size aggregate       3.14 x 7.00 x 1.00 x 0.10    02.20 m3      1303.00    2866.60
+12.    25 mm thick Cement concrete
+       flooring (1:2:4) with 12.5 mm
+       aggregate                                3.14 x 7.00 x 1.00    21.98 m2
+            (e) Tanka protection floor               3.14 x (3.0)2    28.26 m2
+
+
+
+
+                                                      29
+          (f) Top of tanka roofing                     Total   50.24 m2       106.00      5325.44
+
+
+13.   Providing inlet/outlet (60 x 45
+      cm) made of angle iron frame
+      25 x 25 x 4 mm and weld mesh
+      jali 25 x 25 mm cross                           4 Nos.   4 Nos.         300.00      1200.00
+14.   Providing and fixing openable
+      door/lid on roofing for drawl
+      of water (60 cm x 60 cm) made
+      of angle iron frame 35 x 35 x 3                  1 No.   1 No.          600.00       600.00
+      mm and iron sheet 11 gauge
+                                                                   GRAND TOTAL          149470.18
+                                                                             Say Rs.    150000.00
+                                                                   Cost per liter Rs.        1.50
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                 30
+31
+                      Estimate for 300000 Liters capacity Tanka (Masonry)
+
+                                                                                                         Cost
+S.N.              Description                  Quantity Estimation              Quantity      Rate
+                                                                                                         (Rs.)
+1.     A. Earthwork excavation in hard
+              soil for Tanka
+             (a) G.L. to 1.5 m                             3.14 x (4.9)2 x1.5    113.08 m3     101.00    11421.08
+             (b) 1.5 m to 3.0 m                            3.14 x (4.9)2 x1.5    113.08 m3     111.00    12551.88
+             (c) 3.0 m to 4.5 m                            3.14 x (4.9)2 x1.5    113.08 m3     121.00    13682.68
+             (d) 4.5 m to 6.2 m                            3.14 x (4.9)2 x1.7    128.16 m3     131.00    16788.96
+             (e) Foundation wall                   3.14 x 10.80 x 1.0 x 0.30      10.17 m3     141.00     1433.97
+       B. Earthwork excavation in hard
+           soil for
+           (a) Silt trap                                 1 x 0.9 x 2.0 x 0.45      0.81 m3     101.00       81.81
+           (b) Chap pitching around                2 x 3.14 x 4.9 x 1.0 x 0.1      3.07 m3     101.00      310.07
+                tanka
+2.     Cement concrete foundation (1:4:8)
+       with 40 mm size nominal size
+       aggregate in foundation wall                3.14 x 10.80 x 1.0 x 0.30      10.17 m3    1455.00    14797.35
+3      Cement concrete (1:2:4) with 40
+       mm size nominal size aggregate for
+       tanka floor                                       3.14 x (4.0)2 x 0.20     10.04 m3    2066.00    20742.64
+4.     Course rubble masonry for super
+       structure in cement mortar
+       (1:6)
+             (a) 6.2 to 5.0 m                     2 x 3.14 x 4.45 x 0.9 x 1.2     30.18 m3
+             (b) 5 to 3.5 m                    2 x 3.14 x 4.375 x 0.75 x 1.5      30.90 m3
+             (c) 3.5 to 2 m                      2 x 3.14 x 4.30 x 0.60 x 1.5     24.30 m3
+             (d) 2 to 1.5 m                    2 x 3.14 x 4. 225 x 0.45 x 0.5      5.97 m3
+                                                                        Total     91.35 m3    1324.00   120947.40
+
+5.     Course rubble stone masonry for
+       side walls in cement mortar (1:6)
+            (a) Depth 0 to 1.5 m               2 x 3.14 x 4.225 x 0.45 x 1.5      17.90 m3
+            (b) Periphery wall                   2 x 3.14 x 4.15 x 0.3 x 0.5       3.90 m3
+            (c) Silt Trap                                1 x 0.90 x 2 x 0.45       0.81 m3
+
+       Deduction                                2 x 1 x 0.3 x 0.5 = 0.30 m3     (-) 0.30 m3
+       Inlet and outlet                        1 x 0.3 x 1.4 x 0.3 = 0.12 m3    (-) 0.12 m3
+                                                                        Total     22.19 m3    1324.00    29379.56
+
+6.     Providing & fixing ashlar lintels              2x 1.30 x 0.30 x 0.15        0.12 m3    1784.00      499.52
+       and bed plates, 15 cm thick for inlet        4.0 x 0.90 x 0.30 x 0.15       0.16 m3
+       and outlet and slabs                                            Total       0.28 m3
+7.     Course rubble facing
+           (a) I Sort                                 2 x 3.14 x 4.00 x 7.20     180.86 m2     135.00    24416.10
+           (b) II Sort                                2 x 3.14 x 4.30 x 6.20     167.42 m2      96.00    16072.32
+8.     RSJ 150 x 200 mm 16.5 Kg/Rft                                2 x 8.0 m      53.62 Kg      33.00    28311.36
+                                                                                       /Rm        /Kg
+9.     Stone slab roofing 100 mm thick                          3.14 x (4.3)2     58.05 m2     808.00    46904.40
+10.    Cement concrete bed (1:3:6) with
+       20 mm size aggregate at bottom                    3.14 x (4.0)2 x 0.20     10.05 m3    3552.00    35697.60
+11.    50 mm thick Cement concrete
+       flooring (1:2:4) finished with 20
+       mm size aggregate
+                                                                3.14 x (4.0)2    50.24 m2      149.00     7485.76
+
+
+
+
+                                                           32
+12.   Cement plaster (1:4) 25 mm thick
+         (a) Side walls (Inside)                 2x 3.14 x 4.0 x 6.7   168.30 m2
+         (b) Side walls (outside)               2x 3.14 x 4.30 x 0.5    13.50 m2
+         (c) Silt trap- sides                    1 x 2x 0.90 x 0.30      0.54 m2
+         (d) Silt trap-                               5 x 0.30 x 1.4      2.1 m2
+                                                               Total   184.44 m2      98.00     18075.12
+13.   Supply and fixing of Stone chap
+      flooring 30- 50 mm thick with
+      cement pointing 1:3 including in
+      lime mortar 1:2 complete                   2 x 3.14 x 4.90 x 1    30.77 m2     808.00     24862.16
+14.   25 mm thick Cement concrete
+      flooring (1:2:4) with 12.5 mm
+      aggregate at Top of tanka roofing                3.14 x (4.3)2    58.06 m2     106.00      6154.36
+
+15.   Providing inlet/outlet (100 x 45 cm)
+      made of angle iron frame 25 x 25 x
+      4 mm and weld mesh jali 25 x 25
+      mm cross                                               2 Nos.       2 Nos.     600.00      1200.00
+16.   Providing and fixing openable
+      door/lid on roofing for drawl of
+      water (60 cm x 60 cm) made of
+      angle iron frame 35 x 35 x 3 mm
+      and iron sheet 11 gauge                                 1 No.       1 No.  600.00           600.00
+                                                                          GRAND TOTAL          452416.10
+
+                                                                                    Say Rs.    453000.00
+
+                                                                          Cost per liter Rs.        1.51
+
+Note: The rates are based on PWD BSR w.e.f. 16 January 2008 applicable to Jodhpur district
+
+
+
+
+                                                  33
+
