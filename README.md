@@ -26,6 +26,7 @@ Prepared by the TechnoTaau Team (lead: Jakhar Singh).
 | `python -m gaon34 video <slug> <url>` | One-command YouTube ingest: metadata, captions, comments, and (with a supplied media file) frames plus subtitle OCR. |
 | `scripts/video_extract.py` | OCR burned-in subtitles and transcribe speech from a locally supplied video into timestamped notes. |
 | `python -m gaon34 site` | Builds the Phase 1 website preview into `site/` (multi-page, Hindi) and `site/preview.html` (single shareable file) from the store, with evidence labels on every claim. |
+| `python -m gaon34 bot-pack` / `bot-page` / `ask` | The conversation bot: `data/bot_pack.json` (facts it may use), `site/baat.html` (team pilot page for claude.ai), and a Claude API command for the future 34gaon.com backend (`gaon34/bot.py`; needs `pip install anthropic`). Plan: `docs/voice-bot-plan.md`. |
 | `docs/oral-history-guide.md` | One-page Hindi field guide for recording elders (three questions, consent line, file naming). |
 | `data/timeline.json` | The dated timeline (1938 to 2026) in Hindi with a status tag per event, rendered on the site's समय-रेखा page. |
 | `data/census_1951_lunkaransar.csv` | Census 1951 village directory of Lunkaransar tehsil (146 populated + 25 unpopulated), transcribed, each row matched against Census 2011 and to our village units. |

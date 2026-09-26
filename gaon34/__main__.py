@@ -35,6 +35,9 @@ def main(argv=None):
     sub.add_parser("status")
     hv = sub.add_parser("harvest-youtube", help="search YouTube for 34-gaon videos and snowball through their channels into research/leads/"); hv.add_argument("--slugs", nargs="*"); hv.add_argument("--per-query", type=int, default=20); hv.add_argument("--no-snowball", action="store_true"); hv.add_argument("--max-channels", type=int, default=40)
     si = sub.add_parser("site", help="build the static website into site/ (multi-page) and site/preview.html (single file)"); si.add_argument("--out", default=None); si.add_argument("--no-preview", action="store_true")
+    sub.add_parser("bot-pack", help="write data/bot_pack.json (facts the conversation bot may use)")
+    sub.add_parser("bot-page", help="build site/baat.html, the team pilot page for the claude.ai artifact runtime")
+    ak = sub.add_parser("ask", help="ask the bot through the Claude API (needs credentials)"); ak.add_argument("question")
     args = ap.parse_args(argv)
 
     if args.cmd == "villages":
@@ -93,6 +96,18 @@ def main(argv=None):
         from .site import build, SITE_DIR
         res = build(Path(args.out) if args.out else SITE_DIR, single=not args.no_preview)
         print(json.dumps(res, ensure_ascii=False, indent=1))
+    elif args.cmd == "bot-pack":
+        from .bot import write_pack, PACK_PATH
+        pack = write_pack()
+        print(f"{PACK_PATH}: {len(pack['villages'])} units, {PACK_PATH.stat().st_size} bytes")
+    elif args.cmd == "bot-page":
+        from .bot import build_page, load_pack
+        path = build_page(load_pack())
+        print(f"{path}: {path.stat().st_size} bytes")
+    elif args.cmd == "ask":
+        from .bot import answer
+        res = answer(args.question)
+        print(res["text"]); print(f"\n[तथ्य: {', '.join(res['villages']) or 'सामान्य'}]")
     elif args.cmd == "status":
         for v in load_villages():
             runs = load_runs(v["slug"])

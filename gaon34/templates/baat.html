@@ -1,0 +1,344 @@
+<title>34 गांव से बात</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Tiro+Devanagari+Hindi&family=Mukta:wght@400;500;700&display=swap">
+<style>
+/* One deliberate look, the site's "desert at night"; every colour is set explicitly. */
+:root{--bg:#0E1017;--bg2:#151824;--panel:#1B1F2C;--line:#2A2F3E;--ink:#F1ECE2;--ink2:#D8D1C4;--muted:#9A937F;--sand:#E2B45A;--sand2:#B98A3A;--green:#8DBB74;--rust:#E0774A;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Mukta","Noto Sans Devanagari",system-ui,sans-serif;font-size:17.5px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:0 3rem}
+h1,h2{font-family:"Rozha One","Noto Serif Devanagari",serif;font-weight:400;line-height:1.15;margin:0;text-wrap:balance}
+h1{font-size:clamp(2rem,8vw,2.8rem)}
+h2{font-size:1.45rem}
+p{margin:.4rem 0}
+a{color:var(--sand)}
+.muted{color:var(--muted)} .small{font-size:.9rem}
+header.top{padding-block:1.2rem .6rem}
+header.top p{color:var(--ink2)}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;display:grid;grid-template-columns:repeat(var(--n,2),1fr);gap:4px;padding:6px;margin-block:.6rem 1rem;background:rgba(14,16,23,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:14px}
+.tabs button{min-height:48px;border:0;border-radius:10px;background:transparent;color:var(--ink2);font:inherit;font-weight:500;cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--sand);color:#1A1406}
+.panel[hidden]{display:none}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:.6rem 0 1rem}
+.chips button{min-height:44px;padding:.3rem .9rem;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:inherit;font-size:.95rem;cursor:pointer;text-align:left}
+label.f{display:grid;gap:.3rem;margin-bottom:.9rem;font-weight:500}
+label.f span.h{font-weight:400;font-size:.85rem;color:var(--muted)}
+textarea,select,input[type=text]{width:100%;font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.75rem .9rem}
+textarea{min-height:130px;resize:vertical;line-height:1.6}
+select,input[type=text]{min-height:52px}
+textarea:focus,select:focus,input:focus{outline:2px solid var(--sand);outline-offset:1px}
+.mic{display:flex;align-items:center;gap:.5rem;font-size:.9rem;color:var(--ink2);margin:-.3rem 0 .8rem}
+.mic svg{flex:none;color:var(--sand)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;min-height:52px;padding:0 1.4rem;border-radius:999px;border:0;background:var(--sand);color:#1A1406;font:inherit;font-weight:500;font-size:1.05rem;cursor:pointer}
+.btn.block{width:100%}
+.btn.ghost{background:transparent;color:var(--sand);border:1px solid var(--sand2)}
+.btn[disabled]{opacity:.55;cursor:default}
+.btn:focus-visible,.tabs button:focus-visible,.chips button:focus-visible{outline:2px solid var(--sand);outline-offset:3px}
+.thread{display:grid;gap:.8rem;margin-top:1.2rem}
+.q{justify-self:end;max-width:88%;padding:.6rem .9rem;border-radius:14px 14px 4px 14px;background:var(--sand);color:#1A1406}
+.a{max-width:96%;padding:.9rem 1rem;border-radius:14px 14px 14px 4px;background:var(--panel);border:1px solid var(--line)}
+.a .txt{white-space:pre-wrap}
+.a .meta{display:flex;flex-wrap:wrap;gap:.4rem .8rem;align-items:center;margin-top:.6rem;font-size:.82rem;color:var(--muted)}
+.a .meta button{min-height:36px;padding:0 .8rem;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink2);font:inherit;font-size:.85rem;cursor:pointer}
+.notice{padding:.9rem 1rem;border-radius:12px;border-left:3px solid var(--sand);background:var(--panel);font-size:.95rem;color:var(--ink2)}
+.notice.warn{border-left-color:var(--rust)}
+.checks{display:grid;gap:.6rem;margin:.4rem 0 1.1rem}
+.checks label{display:grid;grid-template-columns:28px 1fr;gap:.4rem;align-items:start;font-size:.95rem;color:var(--ink2);cursor:pointer}
+.checks input{width:22px;height:22px;margin-top:.2rem;accent-color:var(--sand)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:.7rem}
+.card{margin-top:1rem;padding:1rem;border-radius:14px;background:var(--bg2);border:1px solid var(--line);display:grid;gap:.5rem}
+.card h3{margin:0;font-size:1.05rem;color:var(--sand);font-weight:500}
+.tags{display:flex;flex-wrap:wrap;gap:.35rem}
+.tag{font-size:.78rem;padding:.1rem .55rem;border-radius:999px;border:1px solid var(--sand2);color:var(--sand)}
+.list{display:grid;gap:.6rem;margin-top:.8rem}
+.item{padding:.8rem .9rem;border-radius:12px;background:var(--panel);border:1px solid var(--line);display:grid;gap:.3rem}
+.item .top{display:flex;justify-content:space-between;gap:.6rem;font-size:.85rem;color:var(--muted)}
+.item b{font-family:"Rozha One",serif;font-weight:400;font-size:1.2rem;color:var(--ink)}
+.pill{font-size:.75rem;padding:.05rem .5rem;border-radius:999px;border:1px dashed var(--muted);color:var(--ink2)}
+.pill.ok{border-style:solid;border-color:var(--green);color:var(--green)}
+details.how{margin-top:2rem;border-top:1px solid var(--line)}
+details.how summary{min-height:56px;display:flex;align-items:center;cursor:pointer;font-weight:500}
+details.how ol{padding-left:1.2rem;color:var(--ink2);font-size:.95rem;display:grid;gap:.3rem}
+@media (max-width:420px){.row2{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:no-preference){.a{animation:in .25s ease-out both}@keyframes in{from{opacity:.4;transform:translateY(4px)}to{opacity:1;transform:none}}}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <p class="small muted">34gaon.com · TechnoTaau Team · पायलट</p>
+  <h1>34 गांव से बात</h1>
+  <p>अपने गांव के बारे में पूछिए, या किसी बुज़ुर्ग की याद यहां दर्ज कीजिए।</p>
+</header>
+
+<nav class="tabs" role="tablist" id="tabs">
+  <button role="tab" aria-selected="true" data-tab="poochhiye" id="t-p">पूछिए</button>
+  <button role="tab" aria-selected="false" data-tab="bataiye" id="t-b">बताइए</button>
+  <button role="tab" aria-selected="false" data-tab="jama" id="t-j" hidden>जमा यादें</button>
+</nav>
+
+<section class="panel" id="poochhiye" role="tabpanel">
+  <div class="chips" id="quick">
+    <button type="button">कुम्भाणा में 1981 में कितने लोग रहते थे?</button>
+    <button type="button">33 गांव या 34 गांव, सही क्या है?</button>
+    <button type="button">विस्थापित परिवार कहां बसाए गए?</button>
+    <button type="button">ठोईयां के बारे में क्या पता है?</button>
+    <button type="button">नाथू दादा का मेला कब लगता है?</button>
+  </div>
+  <form id="askForm">
+    <label class="f" for="q">आपका सवाल
+      <textarea id="q" rows="3" placeholder="जैसे: कानोलाई में कौनसा मंदिर था?" style="min-height:96px"></textarea>
+    </label>
+    <p class="mic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>बोलकर पूछना हो तो फ़ोन के कीबोर्ड पर माइक दबाइए और हिंदी में बोलिए।</p>
+    <button class="btn block" id="askBtn" type="submit">पूछिए</button>
+  </form>
+  <div class="thread" id="thread" aria-live="polite"></div>
+  <p class="notice" id="askOff" hidden></p>
+</section>
+
+<section class="panel" id="bataiye" role="tabpanel" hidden>
+  <p class="notice">बुज़ुर्गों से बात करते समय यहां लिखिए, या उनकी बात बोलकर लिखवाइए। जैसी भाषा में बोलें, वैसी ही रहने दीजिए; बागड़ी भी चलेगी।</p>
+  <form id="tellForm" style="margin-top:1rem">
+    <label class="f" for="village">गांव
+      <select id="village" required><option value="">चुनिए</option></select>
+    </label>
+    <div class="row2">
+      <label class="f" for="relation">बोलने वाले
+        <select id="relation">
+          <option value="self">ख़ुद उसी गांव के</option>
+          <option value="child">गांव वालों की संतान</option>
+          <option value="grandchild">पोता/पोती, नाती/नातिन</option>
+          <option value="other">कोई और</option>
+        </select>
+      </label>
+      <label class="f" for="age">उम्र
+        <select id="age">
+          <option value="70+">70 से ऊपर</option>
+          <option value="50-70">50 से 70</option>
+          <option value="18-50">18 से 50</option>
+          <option value="under18">18 से कम</option>
+        </select>
+      </label>
+    </div>
+    <div class="row2">
+      <label class="f" for="speaker">नाम <span class="h">चाहें तो</span>
+        <input type="text" id="speaker" autocomplete="off">
+      </label>
+      <label class="f" for="now">आज कहां रहते हैं <span class="h">गांव या चक</span>
+        <input type="text" id="now" autocomplete="off">
+      </label>
+    </div>
+    <label class="f" for="memory">याद
+      <span class="h">घर कहां था, कुआं-जोहड़, मेला, खेती, गांव छोड़ने का दिन। जो भी याद है।</span>
+      <textarea id="memory" required></textarea>
+    </label>
+    <p class="mic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>कीबोर्ड का माइक दबाकर बोलिए; लिखा हुआ बाद में ठीक कर सकते हैं।</p>
+    <div class="checks">
+      <label><input type="checkbox" id="c1"><span>बोलने वाले ने यह बात 34gaon.com की team के पास सहेजने की अनुमति दी है।</span></label>
+      <label><input type="checkbox" id="c3"><span>बोलने वाले 18 साल से बड़े हैं, या माता-पिता ने अनुमति दी है।</span></label>
+      <label><input type="checkbox" id="c2"><span>साइट पर दिखाते समय नाम के साथ दिखा सकते हैं। <span class="muted">(न चुनें तो बिना नाम)</span></span></label>
+    </div>
+    <button class="btn block" id="tellBtn" type="submit">समझिए और दिखाइए</button>
+  </form>
+  <div id="tellOut"></div>
+</section>
+
+<section class="panel" id="jama" role="tabpanel" hidden>
+  <h2>जमा यादें</h2>
+  <p class="small muted">केवल team (Editor) को दिखती हैं। हर याद की जांच के बाद ही साइट पर जाए।</p>
+  <div class="list" id="list"><p class="muted">लोड हो रहा है…</p></div>
+</section>
+
+<details class="how">
+  <summary>यह कैसे काम करता है</summary>
+  <ol>
+    <li>सवाल में गांव का नाम पहचानकर उसी गांव के जांचे हुए तथ्य Claude को भेजे जाते हैं। जवाब केवल उन्हीं तथ्यों से, स्रोत के साथ।</li>
+    <li>जो तथ्यों में नहीं, उस पर जवाब आता है: "यह हमें अभी पता नहीं।"</li>
+    <li>दर्ज याद का मूल पाठ जैसा का तैसा सहेजा जाता है; Claude केवल सार, विषय और अगले सवाल निकालता है।</li>
+    <li>किसी का फ़ोन या पता नहीं लिया जाता। नाम केवल अनुमति से।</li>
+  </ol>
+  <p class="small muted" id="built"></p>
+</details>
+</div>
+
+<script>
+(function(){
+  var PACK = /*__PACK__*/null;
+  var SLUGS = Object.keys(PACK.villages).filter(function(s){return s !== "34-gaon";});
+  var enc = new TextEncoder();
+  var cap = {sample:null, db:null, user:null, admin:false};
+  var history = [];
+  var $ = function(id){return document.getElementById(id);};
+  $("built").textContent = "तथ्य " + PACK.built + " तक के।";
+
+  // ---- tabs
+  var tabs = document.querySelectorAll("#tabs button");
+  function show(name){
+    tabs.forEach(function(b){ b.setAttribute("aria-selected", String(b.dataset.tab === name)); });
+    ["poochhiye","bataiye","jama"].forEach(function(p){ $(p).hidden = p !== name; });
+  }
+  tabs.forEach(function(b){ b.addEventListener("click", function(){ show(b.dataset.tab); }); });
+
+  // ---- village select
+  var sel = $("village");
+  SLUGS.slice().sort(function(a,b){return PACK.villages[a].hi.localeCompare(PACK.villages[b].hi,"hi");}).forEach(function(s){
+    var o = document.createElement("option"); o.value = s; o.textContent = PACK.villages[s].hi + " (" + PACK.villages[s].en + ")"; sel.append(o);
+  });
+  var ou = document.createElement("option"); ou.value = "unknown"; ou.textContent = "पता नहीं / कोई और"; sel.append(ou);
+
+  // ---- routing, same as gaon34/bot.py find_villages
+  function findVillages(q, limit){
+    q = q.toLowerCase(); var hits = [];
+    SLUGS.forEach(function(s){
+      var best = 0; PACK.villages[s].keys.forEach(function(k){ if (q.indexOf(k) >= 0 && k.length > best) best = k.length; });
+      if (best) hits.push([best, s]);
+    });
+    hits.sort(function(a,b){return b[0]-a[0];});
+    return hits.slice(0, limit || 2).map(function(h){return h[1];});
+  }
+  function systemText(){
+    return PACK.rules + "\n\nपूरे प्रकल्प के जांचे हुए तथ्य:\n" + PACK.global.map(function(f){return "- " + f;}).join("\n") + "\n\nसभी गांवों के नाम:\n" + PACK.index;
+  }
+  function villageFacts(slugs, budgetBytes){
+    var out = [];
+    slugs.forEach(function(s){
+      var t = PACK.villages[s].text;
+      while (enc.encode(t).length > budgetBytes && t.length > 400) t = t.slice(0, Math.floor(t.length * 0.85)) + "…";
+      out.push(t);
+    });
+    return out.join("\n\n");
+  }
+  function buildInput(question){
+    var slugs = findVillages(question, 2);
+    var facts = slugs.length ? villageFacts(slugs, 14000) : "(सवाल में किसी गांव का नाम नहीं पहचाना गया; ऊपर के सामान्य तथ्यों से जवाब दो, और गांव का नाम पूछो।)";
+    var turns = [{role:"user", content: systemText()}];
+    history.slice(-4).forEach(function(t){ turns.push(t); });
+    turns.push({role:"user", content: "गांव के तथ्य:\n" + facts + "\n\nसवाल: " + question});
+    return {turns: turns, slugs: slugs};
+  }
+
+  // ---- speech out (optional)
+  var hiVoice = null;
+  function pickVoice(){ try { var vs = window.speechSynthesis ? speechSynthesis.getVoices() : []; hiVoice = vs.find(function(v){return /^hi/i.test(v.lang);}) || null; } catch(e){ hiVoice = null; } }
+  if (window.speechSynthesis){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  function speak(text){ try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(text); u.lang = "hi-IN"; if (hiVoice) u.voice = hiVoice; u.rate = 0.95; speechSynthesis.speak(u); } catch(e){} }
+
+  // ---- ask
+  var thread = $("thread");
+  function bubble(cls, text){ var d = document.createElement("div"); d.className = cls; var t = document.createElement("div"); t.className = "txt"; t.textContent = text; d.append(t); thread.append(d); return d; }
+  var ERR = {not_granted:"Claude से पूछने की अनुमति नहीं मिली। पन्ने को फिर खोलकर अनुमति दीजिए।", rate_limited:"अभी बहुत सवाल आ गए। थोड़ी देर बाद पूछिए।", prompt_too_large:"सवाल बहुत लंबा है; छोटा कीजिए।"};
+  async function ask(question){
+    question = question.trim(); if (!question) return;
+    if (!cap.sample){ $("askOff").hidden = false; $("askOff").textContent = "यह पायलट claude.ai पर खुलने पर ही जवाब देता है।"; return; }
+    var btn = $("askBtn"); btn.disabled = true;
+    bubble("q", question);
+    var a = bubble("a", "सोच रहे हैं…"); var txt = a.querySelector(".txt");
+    var built = buildInput(question);
+    try {
+      var res = await cap.sample(built.turns, {cache:false, onText:function(u){ txt.textContent = u.text; }});
+      txt.textContent = res.text;
+      history.push({role:"user", content: question}, {role:"assistant", content: res.text});
+      var meta = document.createElement("div"); meta.className = "meta";
+      var src = document.createElement("span");
+      src.textContent = built.slugs.length ? "तथ्य: " + built.slugs.map(function(s){return PACK.villages[s].hi;}).join(", ") + " के पन्ने से" : "तथ्य: पूरे प्रकल्प के सामान्य तथ्य";
+      meta.append(src);
+      if (window.speechSynthesis){ var sb = document.createElement("button"); sb.type = "button"; sb.textContent = "सुनिए"; sb.addEventListener("click", function(){ speak(res.text); }); meta.append(sb); }
+      a.append(meta);
+    } catch(e){
+      txt.textContent = (e && ERR[e.code]) || "जवाब नहीं आ पाया। थोड़ी देर बाद फिर पूछिए।";
+      if (e && e.text) txt.textContent = e.text;
+    } finally { btn.disabled = false; a.scrollIntoView({block:"nearest"}); }
+  }
+  $("askForm").addEventListener("submit", function(ev){ ev.preventDefault(); var q = $("q").value; $("q").value = ""; ask(q); });
+  document.querySelectorAll("#quick button").forEach(function(b){ b.addEventListener("click", function(){ ask(b.textContent); }); });
+
+  // ---- tell
+  var lastEntry = null;
+  function tagRow(list){ var d = document.createElement("div"); d.className = "tags"; (list || []).forEach(function(x){ var s = document.createElement("span"); s.className = "tag"; s.textContent = x; d.append(s); }); return d; }
+  var TOPIC_HI = {ghar:"घर",kuan_johad:"कुआं-जोहड़",mela_tyohar:"मेला-त्योहार",khet_pashu:"खेत-पशु",school:"स्कूल",mandir:"मंदिर",khana:"खाना",log_parivar:"लोग-परिवार",visthapan:"विस्थापन",punarvas:"पुनर्वास",zameen_muavza:"ज़मीन-मुआवज़ा",other:"अन्य"};
+  function extractPrompt(entry){
+    var names = SLUGS.map(function(s){return s + ": " + PACK.villages[s].hi + " (" + PACK.villages[s].en + ")";}).join("\n");
+    return PACK.extract_rules + "\n\nगांवों की सूची (slug: नाम):\n" + names +
+      "\n\nकेवल एक JSON object लौटाओ, इन keys के साथ: village_slug (सूची का slug या \"unknown\"), village_as_said, language (hindi|bagri|mixed|other), summary_hi, topics (इनमें से: " + PACK.topics.join(", ") + "), places, years, people_named (true/false), sensitive (health|legal_dispute|caste|political|minor|none की सूची), followup_questions, bagri_terms ([{term, meaning_hi}])।" +
+      "\n\nगांव (जो फ़ॉर्म में चुना): " + (entry.village_form === "unknown" ? "नहीं चुना" : PACK.villages[entry.village_form].hi) + "\n\nयाद:\n" + entry.text;
+  }
+  $("tellForm").addEventListener("submit", async function(ev){
+    ev.preventDefault();
+    var out = $("tellOut"); out.textContent = "";
+    var note = document.createElement("p"); note.className = "notice warn";
+    if (!$("c1").checked || !$("c3").checked){ note.textContent = "पहले दोनों ज़रूरी अनुमतियों पर निशान लगाइए।"; out.append(note); return; }
+    if (!sel.value || !$("memory").value.trim()){ note.textContent = "गांव चुनिए और याद लिखिए।"; out.append(note); return; }
+    var entry = {village_form: sel.value, relation: $("relation").value, age_group: $("age").value,
+      speaker_name: $("c2").checked ? $("speaker").value.trim() : "", lives_now: $("now").value.trim(),
+      text: $("memory").value.trim(), consent: {save: true, adult_or_parent: true, show_name: $("c2").checked}};
+    var btn = $("tellBtn"); btn.disabled = true; btn.textContent = "समझ रहे हैं…";
+    var ex = null;
+    try { if (cap.sample) ex = await cap.sample.json(extractPrompt(entry), {cache:false}); } catch(e){ ex = null; }
+    btn.disabled = false; btn.textContent = "समझिए और दिखाइए";
+    lastEntry = {entry: entry, extraction: ex};
+    var card = document.createElement("div"); card.className = "card";
+    var h = document.createElement("h3"); h.textContent = "हमने ऐसा समझा"; card.append(h);
+    var p = document.createElement("p"); p.textContent = ex && ex.summary_hi ? ex.summary_hi : "(सार नहीं बन पाया; मूल बात जैसी की तैसी सहेजी जाएगी।)"; card.append(p);
+    if (ex && ex.topics) card.append(tagRow(ex.topics.map(function(t){return TOPIC_HI[t] || t;})));
+    if (ex && ex.followup_questions && ex.followup_questions.length){ var fq = document.createElement("p"); fq.className = "small muted"; fq.textContent = "अगली बार पूछिए: " + ex.followup_questions.join(" · "); card.append(fq); }
+    if (ex && ex.bagri_terms && ex.bagri_terms.length){ var bt = document.createElement("p"); bt.className = "small muted"; bt.textContent = "बागड़ी शब्द: " + ex.bagri_terms.map(function(b){return b.term + " = " + b.meaning_hi;}).join(", "); card.append(bt); }
+    if (cap.db && cap.admin){
+      var save = document.createElement("button"); save.className = "btn block"; save.type = "button"; save.textContent = "सहेजिए";
+      save.addEventListener("click", async function(){
+        save.disabled = true; save.textContent = "सहेज रहे हैं…";
+        try {
+          var uid = cap.user && cap.user.id ? await cap.user.id() : null;
+          await cap.db.collection("yaadein").add(Object.assign({}, lastEntry.entry, {extraction: lastEntry.extraction, recorded_by: uid, created_at: new Date().toISOString(), status: "review"}));
+          save.textContent = "सहेज ली गई"; $("tellForm").reset();
+        } catch(e){ save.disabled = false; save.textContent = e && e.code === "quota_exceeded" ? "जगह भर गई; team को बताइए" : "नहीं सहेजी; फिर दबाइए"; }
+      });
+      card.append(save);
+    } else {
+      var n2 = document.createElement("p"); n2.className = "notice";
+      n2.textContent = "सहेजना अभी केवल team के Editors के लिए चालू है। यह बात कॉपी करके team को WhatsApp पर भेज दीजिए।";
+      var cp = document.createElement("button"); cp.className = "btn ghost block"; cp.type = "button"; cp.textContent = "कॉपी कीजिए";
+      cp.addEventListener("click", function(){
+        var t = "गांव: " + (PACK.villages[entry.village_form] ? PACK.villages[entry.village_form].hi : "पता नहीं") + "\n" + entry.text;
+        (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function(){ cp.textContent = "कॉपी हो गई"; }, function(){ $("memory").select(); cp.textContent = "ऊपर का पाठ चुन लिया; कॉपी कीजिए"; });
+      });
+      card.append(n2, cp);
+    }
+    out.append(card);
+  });
+
+  // ---- team list
+  function renderList(snap){
+    var list = $("list"); list.textContent = "";
+    if (snap.empty){ var e = document.createElement("p"); e.className = "muted"; e.textContent = "अभी कोई याद जमा नहीं।"; list.append(e); return; }
+    snap.docs.forEach(function(d){
+      var x = d.data() || {}; var v = PACK.villages[x.village_form];
+      var it = document.createElement("div"); it.className = "item";
+      var top = document.createElement("div"); top.className = "top";
+      var when = document.createElement("span"); when.textContent = (x.created_at || "").slice(0, 10) + " · " + (x.relation || "");
+      var st = document.createElement("span"); st.className = "pill" + (x.status === "checked" ? " ok" : ""); st.textContent = x.status === "checked" ? "जांच हो गई" : "जांच बाकी";
+      top.append(when, st);
+      var b = document.createElement("b"); b.textContent = v ? v.hi : "गांव पता नहीं";
+      var s = document.createElement("p"); s.textContent = (x.extraction && x.extraction.summary_hi) || (x.text || "").slice(0, 220);
+      it.append(top, b, s);
+      if (x.status !== "checked"){
+        var ok = document.createElement("button"); ok.className = "btn ghost"; ok.type = "button"; ok.textContent = "जांच हो गई";
+        ok.addEventListener("click", async function(){ ok.disabled = true; try { await cap.db.doc("yaadein/" + d.id).update({status: "checked"}); } catch(e){ ok.disabled = false; } });
+        it.append(ok);
+      }
+      list.append(it);
+    });
+  }
+
+  // ---- capabilities light up after load
+  (async function(){
+    var c = window.claude && window.claude.use ? window.claude : null;
+    if (!c){ $("askOff").hidden = false; $("askOff").textContent = "यह पायलट claude.ai पर खुलने पर ही जवाब देता है।"; return; }
+    var r = await Promise.all([c.use("sample"), c.use("db"), c.use("user")]);
+    cap.sample = r[0]; cap.db = r[1]; cap.user = r[2];
+    try { cap.admin = cap.user ? await cap.user.canEdit() : false; } catch(e){ cap.admin = false; }
+    if (!cap.sample){ $("askOff").hidden = false; $("askOff").textContent = "Claude से पूछना इस view में उपलब्ध नहीं है।"; }
+    if (cap.db && cap.admin){
+      $("t-j").hidden = false; $("tabs").style.setProperty("--n", "3");
+      cap.db.collection("yaadein").orderBy("created_at", "desc").limit(50).onSnapshot(renderList, function(){ $("list").textContent = "सूची नहीं खुल पाई।"; });
+    }
+  })();
+})();
+</script>
