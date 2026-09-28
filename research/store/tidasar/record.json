@@ -3,8 +3,8 @@
     "slug": "tidasar",
     "name_en": "Tidasar",
     "name_hi": "टिडासर",
-    "status": "acquired",
-    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.",
+    "status": "unresolved",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders. 26 Sep 2026: Not on the official 1992 list, any census, map, GNS/GeoNames/OSM or LGD. No lead found. Ask elders.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
     "sources_total": 4,
     "accepted": 0,

@@ -1,10 +1,10 @@
 # मोटासर (Motasar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 7, स्वीकृत 3, पृष्ठभूमि (context) 1, समीक्षा हेतु 2, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 6
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A different Motasar exists in Kolayat tehsil (census 069475, GP Gadiyala); not ours. 26 Sep 2026: Lok Sabha USQ 4540 (3 Dec 1986): 33 villages being acquired; 29 fully taken over and evacuated, 4 partially; villagers of Motalai and Raimalwali (Reena) allowed to stay till the Kharif 1986 harvest, and those of Motasar and Virmana too, because they held land/assets in those two villages and vice versa (research/leads/files/legal/LS_1986-12-03_USQ4540_Evacuation_Mahajan_Villages.pdf). The answer does not name the 4 partial villages explicitly.
 
 ## मुख्य प्रश्न
 

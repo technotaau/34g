@@ -1,6 +1,6 @@
 # महाजन के 34 गांव (34 Gaon of Mahajan) — शोध रिकॉर्ड
 
-**स्थिति:** umbrella · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** umbrella · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 23, स्वीकृत 17, पृष्ठभूमि (context) 2, समीक्षा हेतु 4, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 23
 
@@ -39,10 +39,10 @@
 ### कौन सी ऐतिहासिक जानकारी उपलब्ध है?
 - [34 village story](https://m.facebook.com/watch/?v=3265653753626828&_rdr) (social · video · 2026-06-21 · स्कोर 99) · लाइसेंस: Facebook post; poster's copyright; TechnoTaau Team holds permission for supplied material
   - रामेश्वर गोदारा की 43 सेकंड की reel (21 जून 2026), 'Part 1'। हिंदी narration: 1984-85 में लूणकरणसर तहसील के 34 गांव, जिनका मुख्य व्यवसाय खेती और पशुपालन था, को रक्षा मंत्रालय से गांव खाली करने का आदेश आया; गांव वालों को विश्वास नहीं हुआ, पर देश के लिए गांव छोड़ना पड़ा; चौपालें और खेत वीरान हो गए, गल
-- [महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌](https://www.youtube.com/watch?v=cr-kuEiznZA) (video · video · 2025-11-03 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
-  - YouTube video 'महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌' (14:30) by Dinesh Beniwal . महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द (2018)](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 88)
   - रक्षा मंत्रालय ने 1984-85 में 34 गांवों की भूमि अधिग्रहित की; घर, पेड़, कृषि भूमि का मुआवजा; खाजूवाला, दंतौर, पूगल, मोहनगढ़, नाचना में कृषि भूमि आवंटन।
+- [महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌](https://www.youtube.com/watch?v=cr-kuEiznZA) (video · video · 2025-11-03 · स्कोर 88) · लाइसेंस: Standard YouTube licence (uploader's copyright); embed via YouTube player permitted
+  - YouTube video 'महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌' (14:30) by Dinesh Beniwal . महाजन रेंज से उठे हुए पुराणे 34 गांवो के नाम और पुराणा इतिहास इनमे आपका कौनसा गाँव था 😱👌 #oldvillagelife #34gaav #mahajan #nathudada #dham #khiyana #thoiya #puranegaav
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 83)
   - भोजरासर, कुम्भाणा, मोटलाई, खानीसर, ठोईयां, मणेरां, दुदेर सहित 34 गांव उजड़े; थेह बनते पुराने मकान; लोक देवताओं के मंदिरों पर विशेष तिथियों पर मेले; होली पर कुम्भाणा में होलिका दहन; राजूराम शर्मा (भोजरासर) और बजरंगलाल लखोटिया (कुम्भाणा) के कथन।
 - [Umacharan Sharma v. State of Rajasthan, Rajasthan High Court, 8 Feb 2024](https://indiankanoon.org/doc/26436710/) (legal · document · 2024-02-08 · स्कोर 83)

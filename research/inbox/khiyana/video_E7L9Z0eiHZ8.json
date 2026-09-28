@@ -1,0 +1,61 @@
+{
+ "village": "khiyana",
+ "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=E7L9Z0eiHZ8 on 2026-09-28",
+ "searches_used": 0,
+ "sources": [
+  {
+   "village": "khiyana",
+   "url": "https://www.youtube.com/watch?v=E7L9Z0eiHZ8",
+   "title": "Gadi fans gayi ? 😲 Ret me - nathu dada 34 ganv desert",
+   "platform": "youtube",
+   "source_type": "video",
+   "media_type": "video",
+   "author": "Shubh Journey (@ShubhJourney)",
+   "published_date": "2024-09-28",
+   "language": "hi",
+   "found_by_query": "video supplied by TechnoTaau Team",
+   "summary": "YouTube video 'Gadi fans gayi ? 😲 Ret me - nathu dada 34 ganv desert' (9:05) by Shubh Journey. Shubh Journey 1476 राजस्थान की रेगिस्तानी धरती पर स्थित एक अद्भुत मंदिर है, जो अपनी अनोखी भव्यता और संस्कृति के लिए जाना जाता है। यह मंदिर, जो रेत के धोरों के बीच स्थित है, अपने नजारे और शांति के लिए प्रसिद्ध है। शाम का समय यहां एक विशेष अनुभव होता है। जब सूर्य क्षितिज के पीछे ढलता है, तो आसमान …",
+   "topics": [
+    "media_visual"
+   ],
+   "period": "2016_present",
+   "geo_mentions": [
+    "RAJASTHAN"
+   ],
+   "direct_mention": false,
+   "name_form_matched": "",
+   "evidence_snippets": [
+    "Title: Gadi fans gayi ? 😲 Ret me - nathu dada 34 ganv desert",
+    "Description: Shubh Journey 1476 राजस्थान की रेगिस्तानी धरती पर स्थित एक अद्भुत मंदिर है, जो अपनी अनोखी भव्यता और संस्कृति के लिए जाना जाता है। यह मंदिर, जो रेत के धोरों के बीच स्थित है, अपने नजारे और शांति के लिए …",
+    "Location field: RAJASTHAN",
+    "Viewer comment: बहुत ही अच्छा लगा आपका वीडियो देखकर और हमारे भी मन में बहुत सी उत्साह होती है कि कभी लोग ऐसे मुझे भी पहचानेंगे",
+    "Viewer comment: राम राम संजय भाई हम इतनी दूर जा तो नहीं सकते लेकिन आपकी वीडियो के माध्यम से हम सभी जगह को देखते हैं नाथू दादा को और भी मंदिरों को",
+    "Viewer comment: 2तारीख को मुकाम नौका अमावस्या को मेला लगेगा आप अवश्य जाएं",
+    "Viewer comment: संजय भाई को कोन कोन पसंद करते है लाइक करे 🙏🙏",
+    "Viewer comment: Ram Ram sabhi ko",
+    "Viewer comment: Sarda bhabhi ji ka gav kon sa hai gav ka nam kya hai"
+   ],
+   "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "organizations": [
+     "Shubh Journey"
+    ]
+   },
+   "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+   "attribution": "Shubh Journey, YouTube, 2024, https://www.youtube.com/watch?v=E7L9Z0eiHZ8",
+   "is_primary": true,
+   "related_villages": [],
+   "claims": [],
+   "consent": "granted by TechnoTaau Team for supplied material (17 Sep 2026); third-party creators credited",
+   "media": {
+    "channel": "Shubh Journey",
+    "uploader": "@ShubhJourney",
+    "transcript_available": "no caption tracks (manual or auto)",
+    "timestamps": "80 public comments; 47859 views; hashtags: CulturalVlog DailyRoutine DesiLife DesiVibes ExploreRajasthan FarmLife FarmVlogs FarmingLife HeritageOfIndia HomeTour IndianCulture IndianTradition IndianVillages RajasthanCulture RajasthanDiaries Raj"
+   },
+   "notes": "Auto-built from public metadata by gaon34.video; claims to be added by a researcher or the discovery/verification agents after viewing."
+  }
+ ]
+}

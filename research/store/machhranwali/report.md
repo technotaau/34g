@@ -1,10 +1,10 @@
 # माच्छरांवाली (Machhranwali) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** hamlet · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 5, स्वीकृत 0, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 5
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders. 26 Sep 2026: Khed Rapat (1984) lists 'माछरावाली (भोजरासर में)' among old settlements that merged into a larger village, i.e. it was a hamlet of Bhojrasar. The 1974 Assembly proposal list names 'Machhwali Johdi' separately, and a 2026 Bhaskar report names a pond 'मच्छरावली जोहड़ी' inside the range.
 
 ## मुख्य प्रश्न
 

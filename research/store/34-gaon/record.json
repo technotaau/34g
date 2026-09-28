@@ -7,7 +7,7 @@
     "notes": "Umbrella research unit for the whole displacement; sources here are shared by all villages.",
     "location": {}
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
     "sources_total": 23,
     "accepted": 17,
@@ -44,8 +44,8 @@
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
         "src_25c0bae37a23",
-        "src_2f2f7544c2f1",
         "src_c37d5179aabc",
+        "src_2f2f7544c2f1",
         "src_a5150b8b1d53",
         "src_d159880ed58d",
         "src_4fb2da84d5a4",

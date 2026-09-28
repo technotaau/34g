@@ -4,7 +4,7 @@
     "name_en": "Birmana",
     "name_hi": "बिरमाणा",
     "status": "acquired_partial",
-    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking.",
+    "notes": "From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking. 26 Sep 2026: On the official 1992 list of 33 (#29 'बीरमाना'). Census area fell from 1,639 ha (1971/1981) to 1,542 ha (2001/2011), about 97 ha, so only a strip was acquired; the village survives (2011 code 069240). The geo overlay estimate of ~42% inside is within its ±2 km georeferencing error and is not preferred over the census arithmetic. 26 Sep 2026: Lok Sabha USQ 4540 (3 Dec 1986): 33 villages being acquired; 29 fully taken over and evacuated, 4 partially; villagers of Motalai and Raimalwali (Reena) allowed to stay till the Kharif 1986 harvest, and those of Motasar and Virmana too, because they held land/assets in those two villages and vice versa (research/leads/files/legal/LS_1986-12-03_USQ4540_Evacuation_Mahajan_Villages.pdf). The answer does not name the 4 partial villages explicitly.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
     "sources_total": 5,
     "accepted": 3,
@@ -26,8 +26,8 @@
     "what": {
       "label": "यह गांव क्या है?",
       "source_ids": [
-        "src_5f0f5989363d",
         "src_422b38b8c4ee",
+        "src_5f0f5989363d",
         "src_9865c663cb12",
         "src_5861b990efb6",
         "src_a5150b8b1d53"
@@ -36,8 +36,8 @@
     "where": {
       "label": "यह कहां स्थित है?",
       "source_ids": [
-        "src_5f0f5989363d",
         "src_422b38b8c4ee",
+        "src_5f0f5989363d",
         "src_9865c663cb12",
         "src_5861b990efb6"
       ]

@@ -12,11 +12,11 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
-    "sources_total": 37,
-    "accepted": 28,
-    "context": 5,
+    "sources_total": 40,
+    "accepted": 30,
+    "context": 6,
     "review": 3,
     "rejected": 0,
     "duplicates": 1,
@@ -44,24 +44,24 @@
     "history": {
       "label": "कौन सी ऐतिहासिक जानकारी उपलब्ध है?",
       "source_ids": [
-        "src_d816c2b00dd1",
-        "src_d07ff2349186",
         "src_f8ed99a1785c",
         "src_82479a65d206",
         "src_8e8a851a7dec",
-        "src_6b995fba34c3",
-        "src_da33d836896a",
+        "src_d816c2b00dd1",
+        "src_d07ff2349186",
         "src_a77099c58059",
-        "src_12fb097b02c4",
+        "src_da33d836896a",
+        "src_6b995fba34c3",
         "src_7437c1e48e8a",
+        "src_12fb097b02c4",
         "src_a30396979513",
         "src_5ef31983c7f1",
         "src_f525760f12bd",
         "src_7da0e757971f",
         "src_4fb2da84d5a4",
         "src_a5150b8b1d53",
-        "src_a6f66da51d72",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a6f66da51d72"
       ]
     },
     "people": {
@@ -80,23 +80,27 @@
         "src_25d08e25bab2",
         "src_bf43bd9c771a",
         "src_f525760f12bd",
-        "src_7da0e757971f"
+        "src_7da0e757971f",
+        "src_04137d4d9ba1"
       ]
     },
     "temples": {
       "label": "मंदिर, लोक देवता, स्थल",
       "source_ids": [
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_82479a65d206",
+        "src_d816c2b00dd1",
         "src_654585ebcb8b",
+        "src_a77099c58059",
         "src_da33d836896a",
         "src_58181afd64a7",
-        "src_a77099c58059",
-        "src_bf43bd9c771a",
         "src_45380ab38c87",
+        "src_bf43bd9c771a",
+        "src_076bf6de2e9e",
+        "src_63ec85bf3c84",
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_04137d4d9ba1",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -105,17 +109,20 @@
       "label": "त्योहार व परंपराएं",
       "source_ids": [
         "src_25d08e25bab2",
-        "src_d816c2b00dd1",
         "src_f8ed99a1785c",
         "src_82479a65d206",
+        "src_d816c2b00dd1",
         "src_654585ebcb8b",
+        "src_a77099c58059",
         "src_da33d836896a",
         "src_58181afd64a7",
-        "src_a77099c58059",
-        "src_bf43bd9c771a",
         "src_45380ab38c87",
+        "src_bf43bd9c771a",
+        "src_076bf6de2e9e",
+        "src_63ec85bf3c84",
         "src_f525760f12bd",
         "src_7da0e757971f",
+        "src_04137d4d9ba1",
         "src_a6f66da51d72",
         "src_e725e5c87313"
       ]
@@ -163,10 +170,13 @@
         "src_0b9038366502",
         "src_b33cc76acf6c",
         "src_0540bb487421",
+        "src_63ec85bf3c84",
+        "src_076bf6de2e9e",
         "src_aa8fe461f718",
         "src_5b7e4422e311",
         "src_b42020961323",
-        "src_222055310e88"
+        "src_222055310e88",
+        "src_04137d4d9ba1"
       ]
     },
     "audio": {
@@ -273,6 +283,7 @@
       "MKB Music ",
       "Ministry of Defence",
       "Ministry of Defence / रक्षा मंत्रालय",
+      "NATHU DADA TEMPLE (MFFR)",
       "Nathu Dada Studio",
       "Rssuthar Jaisalmer",
       "Sansad e-Library / Parliament of India",
@@ -1941,6 +1952,106 @@
       "attribution": "villageinfo.in, Census 2011 data mirror",
       "is_primary": false
     },
+    "src_63ec85bf3c84": {
+      "url": "https://www.youtube.com/watch?v=EFs70EPddhA",
+      "title": "नाथु दादा मन्दिर खियाणा (MFFR) में जागरण .....(1)",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-09-21",
+      "language": "hi",
+      "relevance": {
+        "score": 81,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['MFFR', 'Nathu Dada']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "MFFR",
+          "Nathu Dada"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "NATHU DADA TEMPLE (MFFR), YouTube, 2022, https://www.youtube.com/watch?v=EFs70EPddhA",
+      "is_primary": true
+    },
+    "src_076bf6de2e9e": {
+      "url": "https://www.youtube.com/watch?v=9s8vL7Xzq5k",
+      "title": "सुनीता स्वामी at नाथु दादा मन्दिर ,खियाणा धाम (mffr)",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2022-09-25",
+      "language": "hi",
+      "relevance": {
+        "score": 81,
+        "band": "high",
+        "factors": {
+          "name_match": 30,
+          "geo_match": 20,
+          "resolution_conf": 9,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 2,
+          "claims": 0,
+          "recency": 1,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "accept",
+        "confidence": 0.6,
+        "reasons": [
+          "variant match: खियाणा",
+          "strong geo context: ['MFFR', 'Nathu Dada']"
+        ],
+        "matched_names": [
+          "खियाणा"
+        ],
+        "geo_hits": [
+          "MFFR",
+          "Nathu Dada"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "NATHU DADA TEMPLE (MFFR), YouTube, 2022, https://www.youtube.com/watch?v=9s8vL7Xzq5k",
+      "is_primary": true
+    },
     "src_5ef31983c7f1": {
       "url": "https://www.facebook.com/uday.palchoudharyrlp/posts/pfbid02Ydh9pqezQ6wkUnNiM8wU2iDYDgvaKuKQkP34zLW39ipjTQ9fc9bZsrF7LrzNnMWAl",
       "title": "महाजन फील्ड फायरिंग रेंज खिंयाना (Facebook post)",
@@ -2431,6 +2542,58 @@
       ],
       "license": "",
       "attribution": "Sansad e-Library (Parliament of India)",
+      "is_primary": true
+    },
+    "src_04137d4d9ba1": {
+      "url": "https://www.youtube.com/watch?v=E7L9Z0eiHZ8",
+      "title": "Gadi fans gayi ? 😲 Ret me - nathu dada 34 ganv desert",
+      "platform": "youtube",
+      "source_type": "video",
+      "media_type": "video",
+      "published_date": "2024-09-28",
+      "language": "hi",
+      "relevance": {
+        "score": 56,
+        "band": "medium",
+        "factors": {
+          "name_match": 0,
+          "geo_match": 20,
+          "resolution_conf": 8,
+          "credibility": 6,
+          "primary": 8,
+          "corroboration": 0,
+          "queries": 2,
+          "evidence": 6,
+          "claims": 0,
+          "recency": 3,
+          "media": 3,
+          "negative": 0
+        }
+      },
+      "resolution": {
+        "decision": "context",
+        "confidence": 0.5,
+        "reasons": [
+          "village name not found in captured text",
+          "strong geo context: ['Nathu Dada', 'नाथू दादा']",
+          "agent: village not directly named"
+        ],
+        "matched_names": [],
+        "geo_hits": [
+          "Nathu Dada",
+          "नाथू दादा",
+          "Rajasthan",
+          "राजस्थान"
+        ],
+        "negative_hits": []
+      },
+      "topics": [
+        "culture",
+        "media_visual",
+        "religion_temple"
+      ],
+      "license": "Standard YouTube licence (uploader's copyright); embed via YouTube player permitted",
+      "attribution": "Shubh Journey, YouTube, 2024, https://www.youtube.com/watch?v=E7L9Z0eiHZ8",
       "is_primary": true
     },
     "src_a5150b8b1d53": {
@@ -3174,6 +3337,48 @@
       "flag": "budget_starved: rerun recommended",
       "total_after": 37,
       "at": "2026-09-25T11:03:28.458446+00:00"
+    },
+    {
+      "run_id": "run_20260928T045039Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_E7L9Z0eiHZ8.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=E7L9Z0eiHZ8 on 2026-09-28",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 38,
+      "at": "2026-09-28T04:50:40.297689+00:00"
+    },
+    {
+      "run_id": "run_20260928T045043Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_EFs70EPddhA.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=EFs70EPddhA on 2026-09-28",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 39,
+      "at": "2026-09-28T04:50:43.917000+00:00"
+    },
+    {
+      "run_id": "run_20260928T045046Z",
+      "file": "/home/user/34g/research/inbox/khiyana/video_9s8vL7Xzq5k.json",
+      "input": 1,
+      "invalid": 0,
+      "new": 1,
+      "updated": 0,
+      "errors": [],
+      "searches_used": 0,
+      "agent_notes": "gaon34.video ingest of https://www.youtube.com/watch?v=9s8vL7Xzq5k on 2026-09-28",
+      "flag": "budget_starved: rerun recommended",
+      "total_after": 40,
+      "at": "2026-09-28T04:50:46.946551+00:00"
     }
   ]
 }

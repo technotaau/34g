@@ -1,10 +1,10 @@
 # कोलाणा (Kolana) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 7, स्वीकृत 4, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 10
 
-> Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved). 25 Sep 2026: probable match 'Rekh Chudana' (1981 2/2/19, uninhabited, 392 ha; 1951 'Rekh Cholana' code 23); absent after 1981. Name match not certain.
+> Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved). 25 Sep 2026: probable match 'Rekh Chudana' (1981 2/2/19, uninhabited, 392 ha; 1951 'Rekh Cholana' code 23); absent after 1981. Name match not certain. 26 Sep 2026: The official 1992 list has 'रेख चूडान' (#8), so the census unit Rekh Chudana is acquired. Whether the community name Kolana means the same parcel is unresolved: Jatland (Dhatarwal page) names Kolana (founded by Kola) and Chudana (founded by Chuda) as two villages, and Khed Rapat (1984, list of merged settlements after the tehsil village roll) says 'चूडाना (मलकीसर में)' had merged into Malkisar. Ask elders.
 
 ## मुख्य प्रश्न
 
@@ -29,10 +29,10 @@
   - यह जनगणना 2011 आधारित सूची लूणकरणसर तहसील (बीकानेर) के 125 गांवों को सूचीबद्ध करती है, लेकिन इसमें 'कोलाणा' नाम का कोई गांव सूचीबद्ध नहीं है — यह इस बात से मेल खाता है कि गांव 1981-1986 में खाली करवा दिया गया था और अब एक बसा हुआ राजस्व गांव नहीं है।
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 48 · पृष्ठभूमि स्रोत)
   - यह रिपोर्ट बताती है कि लगभग चार दशक पहले महाजन फील्ड फायरिंग रेंज बनाने हेतु 34 गांवों को विस्थापित किया गया था; उनके मकान, तालाब और मंदिर आज भी खंडहर के रूप में मौजूद हैं। कोलाणा का नाम सीधे नहीं लिया गया।
-- [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
-  - राजस्थान पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए विस्थापित गांवों के निवासियों के दर्द पर केंद्रित है। इसमें भोजरासर, कुम्हाना, मोतलाई, खानीसर, ठोईया, मनेरा और डूडर गांवों का नाम लिया गया है, जो धतरवाल-वंश सूची में कोलाणा के पड़ोसी/सहोदर गांवों (ठोईया, मनेरा) से मेल खाते हैं, लेकिन कोल
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द | Mahajan firing range](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 46 · पृष्ठभूमि स्रोत)
   - 2018 की यह पत्रिका रिपोर्ट बताती है कि महाजन फील्ड फायरिंग रेंज की स्थापना के लिए अधिग्रहित किए गए 34 गांवों के किसानों को केंद्र सरकार ने मुआवजा और सिंचित भूमि आवंटित की थी। कोलाणा का नाम विशेष रूप से नहीं लिया गया।
+- [आंखों में उतर आता है आशियाना उजड़ने का दर्द | Mahajan Field Firing Range](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 46 · पृष्ठभूमि स्रोत)
+  - राजस्थान पत्रिका की यह रिपोर्ट महाजन फील्ड फायरिंग रेंज के लिए विस्थापित गांवों के निवासियों के दर्द पर केंद्रित है। इसमें भोजरासर, कुम्हाना, मोतलाई, खानीसर, ठोईया, मनेरा और डूडर गांवों का नाम लिया गया है, जो धतरवाल-वंश सूची में कोलाणा के पड़ोसी/सहोदर गांवों (ठोईया, मनेरा) से मेल खाते हैं, लेकिन कोल
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [सदस्य:धतरवाल जाट (User page: Who are the Dhatarwal?)](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:%E0%A4%A7%E0%A4%A4%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B2_%E0%A4%9C%E0%A4%BE%E0%A4%9F) (community_wiki · text · 2024-01-03 · स्कोर 84)

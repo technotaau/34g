@@ -1,10 +1,10 @@
 # नाथौर (Nathor) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** unresolved · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 6, स्वीकृत 2, पृष्ठभूमि (context) 2, समीक्षा हेतु 2, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 9
 
-> Principal Dhatarwal village named after Nathu Dhatarwal. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
+> Principal Dhatarwal village named after Nathu Dhatarwal. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders. 26 Sep 2026: Jatland (Dhatarwal page, screenshots from the team) counts Nathor (Nathuwas) among the 9 villages vacated 1981-86 and calls it the most prominent Dhatarwal village. It is in no census list, map, LGD entry or the official 1992 list of 33, so it was most likely a bas or dhani inside another revenue village (Khiyana or Kumbhana are candidates). An OSM hamlet 'Nathuwas' lies 9.9 km outside the range; not shown to be the same place.
 
 ## मुख्य प्रश्न
 

@@ -1,18 +1,18 @@
 # बिरमाणा (Birmana) — शोध रिकॉर्ड
 
-**स्थिति:** acquired_partial · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** acquired_partial · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 5, स्वीकृत 3, पृष्ठभूमि (context) 1, समीक्षा हेतु 1, अस्वीकृत 0, डुप्लिकेट 0 · दावे: 15
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. A living census village Birmana (069240) exists in Lunkaransar tehsil today, so the acquisition may have been partial or the village re-founded outside the range (like Ajeetmana). A school named 'Kankralia Birmana' links it to the list's Kankraliyo: possibly a hamlet pair. A different Birmana in Suratgarh tehsil is excluded. 25 Sep 2026: Beermana (1981 2/2/80, 618 persons) survives in 2001 and 2011; the 2001 handbook gives it no 1991 code, which needs checking. 26 Sep 2026: On the official 1992 list of 33 (#29 'बीरमाना'). Census area fell from 1,639 ha (1971/1981) to 1,542 ha (2001/2011), about 97 ha, so only a strip was acquired; the village survives (2011 code 069240). The geo overlay estimate of ~42% inside is within its ±2 km georeferencing error and is not preferred over the census arithmetic. 26 Sep 2026: Lok Sabha USQ 4540 (3 Dec 1986): 33 villages being acquired; 29 fully taken over and evacuated, 4 partially; villagers of Motalai and Raimalwali (Reena) allowed to stay till the Kharif 1986 harvest, and those of Motasar and Virmana too, because they held land/assets in those two villages and vice versa (research/leads/files/legal/LS_1986-12-03_USQ4540_Evacuation_Mahajan_Villages.pdf). The answer does not name the 4 partial villages explicitly.
 
 ## मुख्य प्रश्न
 
 ### यह गांव क्या है?
-- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
-  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Birmana Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana/) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
   - Village directory entry using the exact spelling 'Birmana', giving Gram Panchayat as Khokhrana, pincode 334603, village area 1542 hectares, population 429 (230M/199F), literacy 46.15%, ~40 km from Lunkaransar and ~90 km from Bikaner. WebFetch of the live page was blocked (HTTP 403); data below is dr
+- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
+  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Beermana Village - Bikaner](http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
   - Village directory page listing administrative and demographic details for Beermana village: pincode 334021, post office Chhatararh, STD code 01529, ~21 km from Lunkaransar and ~79 km north of Bikaner. Lists two schools operating in the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana, which us
 - [GeoNames search results for 'birmana', India](https://www.geonames.org/search.html?q=birmana&country=IN) (government · dataset · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)
@@ -21,10 +21,10 @@
   - Rajasthan Patrika feature on families displaced in 1984-85 when the Mahajan Field Firing Range was created from 34 villages; describes the emotional pain of losing ancestral land despite compensation and resettlement to Khajuwala, Dantur, Pugal, Mohangadh and Nachna. Names Bhojrasar, Kumhana, Motlai
 
 ### यह कहां स्थित है?
-- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
-  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Birmana Village in Lunkaransar, Bikaner, Rajasthan | VillageInfo.in](https://villageinfo.in/rajasthan/bikaner/lunkaransar/birmana/) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
   - Village directory entry using the exact spelling 'Birmana', giving Gram Panchayat as Khokhrana, pincode 334603, village area 1542 hectares, population 429 (230M/199F), literacy 46.15%, ~40 km from Lunkaransar and ~90 km from Bikaner. WebFetch of the live page was blocked (HTTP 403); data below is dr
+- [Beermana Village Population - Lunkaransar - Bikaner, Rajasthan](https://www.census2011.co.in/data/village/69240-beermana-rajasthan.html) (census_mirror · dataset · तिथि अज्ञात · स्कोर 84)
+  - Census-mirror page giving 2011 Census demographic data for 'Beermana' village, Lunkaransar tehsil, Bikaner district: population 429 (230 male/199 female), 77 households, SC population 86.48%, literacy 57.73%. Matches the population figure for 'Birmana' found on other mirrors, confirming the two spel
 - [Beermana Village - Bikaner](http://www.onefivenine.com/india/villages/Bikaner/Lunkaransar/Beermana) (census_mirror · dataset · तिथि अज्ञात · स्कोर 83)
   - Village directory page listing administrative and demographic details for Beermana village: pincode 334021, post office Chhatararh, STD code 01529, ~21 km from Lunkaransar and ~79 km north of Bikaner. Lists two schools operating in the village: G.P.S. Kankralia Birmana and G.S.P.S. Birmana, which us
 - [GeoNames search results for 'birmana', India](https://www.geonames.org/search.html?q=birmana&country=IN) (government · dataset · तिथि अज्ञात · स्कोर 63 · समीक्षा हेतु)

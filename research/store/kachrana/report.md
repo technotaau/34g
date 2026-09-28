@@ -1,10 +1,10 @@
 # कचराणा (Kachrana) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** unresolved · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 6, स्वीकृत 0, पृष्ठभूमि (context) 5, समीक्षा हेतु 0, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 1
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders. 26 Sep 2026: Not on the official 1992 list or any census/map. Weak leads: Khed Rapat (1984) 'करनाणा (दुलचासर में)', a settlement merged into Dulchasar; Khokhrana, 6.5 km outside the range. Ask elders.
 
 ## मुख्य प्रश्न
 
@@ -25,12 +25,12 @@
   - यह 1987 की लोकसभा में पूछे गए एक अतारांकित प्रश्न (संख्या 4236) का दस्तावेज़ है, जिसका शीर्षक 'Mahajan Field Firing Range in Rajasthan' है। कैटलॉग पेज से केवल मेटाडेटा (शीर्षक, तिथि, मंत्रालय) पढ़ा जा सका; संलग्न PDF में अधिगृहीत गांवों की सूची हो सकती है, जिसे WebFetch से पूरा नहीं पढ़ा जा सका।
 - [Rajasthan District Gazetteers: Bikaner](https://archive.org/details/in.ernet.dli.2015.120386) (archive · book · 1962 · स्कोर 56 · पृष्ठभूमि स्रोत) · लाइसेंस: Internet Archive / Digital Library of India - public domain government publication
   - बीकानेर जिले का 1962 का राजस्थान जिला गजेटियर है (K.K. Sehgal, 491 पृष्ठ), Internet Archive/Digital Library of India पर उपलब्ध। पूरे टेक्स्ट में 'Kachrana' या मिलती-जुलती वर्तनी नहीं मिली; लूणकरणसर तहसील में 111 आबाद गांवों का उल्लेख है पर पूरी सूची अंश में नहीं मिली।
+- [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)
+  - 2018 का यह पत्रिका लेख 1984-85 में रक्षा मंत्रालय द्वारा महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहण और विस्थापित परिवारों के भावनात्मक दर्द पर है। इसमें खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना का उल्लेख है; कचराणा नाम नहीं आता।
 - [आंखों में उतर आता है आशियाना उजड़ने का दर्द](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7893463) (news · text · 2022-11-29 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - राजस्थान पत्रिका की यह रिपोर्ट 1984-85 में महाजन फील्ड फायरिंग रेंज के लिए अधिगृहीत 34 गांवों के विस्थापन और मुआवजे पर केंद्रित है। इसमें भोजरासर, कुम्भाणा, मोटलाई, खानीसर, थोईया, मानेरन, दूदेड़, खाजूवाला, दांतूर, पूगल, मोहनगढ़ और नाचना गांवों के नाम दिए गए हैं, लेकिन कचराणा का उल्लेख नहीं है।
 - [महाजन के धोरों में उतर चुकी है अमेरिका, ब्रिटेन, रूस और फ्रांस की सेना](https://www.patrika.com/bikaner-news/mahajan-field-firing-range-7687974) (news · text · 2022-08-02 · स्कोर 44 · पृष्ठभूमि स्रोत)
   - यह लेख महाजन फील्ड फायरिंग रेंज (3.37 लाख एकड़) के लिए लगभग चार दशक पहले विस्थापित किए गए 34 गांवों के परित्यक्त घरों, तालाबों और मंदिरों का वर्णन करता है, जिनका उपयोग अब सैन्य अभ्यासों के लिए नकली बस्तियों के रूप में होता है। इसमें अलग-अलग गांवों के नाम नहीं दिए गए हैं, इसलिए कचराणा का उल्लेख नहीं 
-- [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)
-  - 2018 का यह पत्रिका लेख 1984-85 में रक्षा मंत्रालय द्वारा महाजन क्षेत्र के 34 गांवों की भूमि अधिग्रहण और विस्थापित परिवारों के भावनात्मक दर्द पर है। इसमें खाजूवाला, दांतौर, पूगल, मोहनगढ़ और नाचना का उल्लेख है; कचराणा नाम नहीं आता।
 
 ### कौन से लोग/परिवार/गोत्र इससे जुड़े हैं?
 - [आंखों में उतर आता है आशियाना उजडऩे का दर्द](https://www.patrika.com/bikaner-news/mahajan-firing-range-3673091) (news · text · 2018-11-05 · स्कोर 44 · पृष्ठभूमि स्रोत)

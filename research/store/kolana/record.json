@@ -4,7 +4,7 @@
     "name_en": "Kolana",
     "name_hi": "कोलाणा",
     "status": "acquired",
-    "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved). 25 Sep 2026: probable match 'Rekh Chudana' (1981 2/2/19, uninhabited, 392 ha; 1951 'Rekh Cholana' code 23); absent after 1981. Name match not certain.",
+    "notes": "Dhatarwal community history. The community list of 34 has no कोलाणा but has कनलाई; Kolana and Kanolai may be the same village (unresolved). 25 Sep 2026: probable match 'Rekh Chudana' (1981 2/2/19, uninhabited, 392 ha; 1951 'Rekh Cholana' code 23); absent after 1981. Name match not certain. 26 Sep 2026: The official 1992 list has 'रेख चूडान' (#8), so the census unit Rekh Chudana is acquired. Whether the community name Kolana means the same parcel is unresolved: Jatland (Dhatarwal page) names Kolana (founded by Kola) and Chudana (founded by Chuda) as two villages, and Khed Rapat (1984, list of merged settlements after the tehsil village roll) says 'चूडाना (मलकीसर में)' had merged into Malkisar. Ask elders.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
     "sources_total": 7,
     "accepted": 4,
@@ -44,8 +44,8 @@
         "src_f525760f12bd",
         "src_b27fa43b7bd0",
         "src_a6f66da51d72",
-        "src_a5150b8b1d53",
-        "src_c37d5179aabc"
+        "src_c37d5179aabc",
+        "src_a5150b8b1d53"
       ]
     },
     "people": {

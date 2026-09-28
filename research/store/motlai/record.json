@@ -4,7 +4,7 @@
     "name_en": "Motlai",
     "name_hi": "मोटलाई",
     "status": "acquired",
-    "notes": "Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025).",
+    "notes": "Named in Patrika 2022. Listed as 'मुटलाई' in the community list of 34 (Bharat Speaks comments, Aug 2025). 26 Sep 2026: Lok Sabha USQ 4540 (3 Dec 1986): 33 villages being acquired; 29 fully taken over and evacuated, 4 partially; villagers of Motalai and Raimalwali (Reena) allowed to stay till the Kharif 1986 harvest, and those of Motasar and Virmana too, because they held land/assets in those two villages and vice versa (research/leads/files/legal/LS_1986-12-03_USQ4540_Evacuation_Mahajan_Villages.pdf). The answer does not name the 4 partial villages explicitly.",
     "location": {
       "state": "Rajasthan",
       "district": "Bikaner",
@@ -12,7 +12,7 @@
       "sub_tehsil": "Mahajan"
     }
   },
-  "built": "2026-09-25",
+  "built": "2026-09-28",
   "counts": {
     "sources_total": 8,
     "accepted": 2,
@@ -45,8 +45,8 @@
         "src_a5150b8b1d53",
         "src_2651a62df53d",
         "src_4fb2da84d5a4",
-        "src_a6f66da51d72",
         "src_c37d5179aabc",
+        "src_a6f66da51d72",
         "src_b27fa43b7bd0"
       ]
     },

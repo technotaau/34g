@@ -1,10 +1,10 @@
 # टिडासर (Tidasar) — शोध रिकॉर्ड
 
-**स्थिति:** acquired · **निर्मित:** 2026-09-25 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
+**स्थिति:** unresolved · **निर्मित:** 2026-09-28 · **तैयारकर्ता:** TechnoTaau Team (Jakhar Singh)
 
 स्रोत: कुल 4, स्वीकृत 0, पृष्ठभूमि (context) 3, समीक्षा हेतु 0, अस्वीकृत 1, डुप्लिकेट 0 · दावे: 2
 
-> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders.
+> From the Community list '34 गाँवों के नाम' shared in comments on Bharat Speaks (Facebook, 31 Aug 2025); positions 33-34 blank in the image. Not yet found in any other source; needs verification. 25 Sep 2026: not in the Census 1951, 1961, 1971 or 1981 village lists of Lunkaransar under this or a similar name. Possibly a dhani or a later name; ask elders. 26 Sep 2026: Not on the official 1992 list, any census, map, GNS/GeoNames/OSM or LGD. No lead found. Ask elders.
 
 ## मुख्य प्रश्न
 
